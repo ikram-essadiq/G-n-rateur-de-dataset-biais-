@@ -1,0 +1,25 @@
+{
+  "training_file": "Chimie_data.csv",
+  "n_samples": 1000,
+  "n_columns": 5,
+  "columns": [
+    "nom_molecule",
+    "formule_chimique",
+    "masse_molaire",
+    "categorie",
+    "concentration"
+  ],
+  "discrete_columns": [
+    "nom_molecule",
+    "formule_chimique",
+    "categorie"
+  ],
+  "continuous_columns": [
+    "masse_molaire",
+    "concentration"
+  ],
+  "epochs": 300,
+  "batch_size": 500,
+  "training_duration": 70.241906,
+  "trained_at": "2026-01-01T16:05:44.969540"
+}

@@ -1,0 +1,56 @@
+{
+  "generation_info": {
+    "category": "patients",
+    "n_samples": 1000,
+    "generated_at": "2026-01-10T10:55:23.766897",
+    "bias_type": "sampling",
+    "bias_intensity": 0.5
+  },
+  "bias_report": {
+    "type": "sampling_bias",
+    "details": {
+      "original_size": 1000,
+      "sampled_size": 750,
+      "sampling_method": "exponential"
+    },
+    "original_size": 1000,
+    "biased_size": 750,
+    "bias_type": "sampling",
+    "intensity": 0.5,
+    "applied_at": "2026-01-10T10:55:19.988178"
+  },
+  "analysis": {
+    "size_comparison": {
+      "original": 1000,
+      "biased": 750,
+      "change_pct": -25.0
+    },
+    "distribution_changes": {
+      "id": {
+        "original_mean": 5153.334,
+        "biased_mean": 5218.36,
+        "original_std": 2935.152579186831,
+        "biased_std": 2936.1768491900525,
+        "mean_change_pct": 1.261823898858459,
+        "ks_statistic": 0.015666666666666666,
+        "ks_pvalue": 0.9999024498293672
+      },
+      "valeur": {
+        "original_mean": 50.35748794137071,
+        "biased_mean": 50.105611994796334,
+        "original_std": 28.90422646133314,
+        "biased_std": 28.626527047313772,
+        "mean_change_pct": -0.5001757571130674,
+        "ks_statistic": 0.014333333333333333,
+        "ks_pvalue": 0.9999875349437071
+      }
+    },
+    "statistical_tests": {}
+  },
+  "files": {
+    "biased_dataset": "output\\patients_biased_20260110_105519.csv",
+    "original_dataset": "output\\patients_original_20260110_105519.csv",
+    "visualization": "output\\bias_patients_sampling_20260110_105519.png",
+    "report": "output\\patients_report_20260110_105519.json"
+  }
+}

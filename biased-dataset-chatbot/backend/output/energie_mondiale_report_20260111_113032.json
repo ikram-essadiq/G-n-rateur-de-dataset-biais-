@@ -1,0 +1,92 @@
+{
+  "generation_info": {
+    "category": "energie_mondiale",
+    "n_samples": 100,
+    "generated_at": "2026-01-11T11:30:35.469104",
+    "bias_type": "geographic",
+    "bias_intensity": 0.5
+  },
+  "bias_report": {
+    "type": "geographic_bias",
+    "details": {
+      "region_column": "installation",
+      "overrepresented": "Parc Éolien London Array",
+      "duplicated_count": 3
+    },
+    "original_size": 100,
+    "biased_size": 103,
+    "bias_type": "geographic",
+    "intensity": 0.5,
+    "applied_at": "2026-01-11T11:30:33.152427"
+  },
+  "analysis": {
+    "size_comparison": {
+      "original": 100,
+      "biased": 103,
+      "change_pct": 3.0
+    },
+    "distribution_changes": {
+      "latitude": {
+        "original_mean": 34.0473436056687,
+        "biased_mean": 34.25695239441811,
+        "original_std": 18.26643987178802,
+        "biased_std": 18.0747598980679,
+        "mean_change_pct": 0.6156391851782883,
+        "ks_statistic": 0.016310679611650485,
+        "ks_pvalue": 1.0
+      },
+      "longitude": {
+        "original_mean": 14.2903280523731,
+        "biased_mean": 16.3916454631328,
+        "original_std": 62.717242109538034,
+        "biased_std": 63.85913978009246,
+        "mean_change_pct": 14.704472864750251,
+        "ks_statistic": 0.017669902912621358,
+        "ks_pvalue": 1.0
+      },
+      "capacite_mw": {
+        "original_mean": 2295.87,
+        "biased_mean": 2261.6893203883496,
+        "original_std": 3817.4950871618753,
+        "biased_std": 3771.8080077901527,
+        "mean_change_pct": -1.488789853591395,
+        "ks_statistic": 0.011067961165048544,
+        "ks_pvalue": 1.0
+      },
+      "production_annuelle_gwh": {
+        "original_mean": 1933.1665490509615,
+        "biased_mean": 1999.7412568168775,
+        "original_std": 4001.272083636584,
+        "biased_std": 3980.539424749238,
+        "mean_change_pct": 3.443816457438478,
+        "ks_statistic": 0.019223300970873786,
+        "ks_pvalue": 0.9999999999999999
+      },
+      "emissions_co2": {
+        "original_mean": 1665987.5693765646,
+        "biased_mean": 1722542.0885625074,
+        "original_std": 2417660.2542558904,
+        "biased_std": 2441836.1494809804,
+        "mean_change_pct": 3.3946543314909787,
+        "ks_statistic": 0.014757281553398059,
+        "ks_pvalue": 1.0
+      },
+      "annee_mise_service": {
+        "original_mean": 2005.91,
+        "biased_mean": 2005.2718446601941,
+        "original_std": 19.859656583031832,
+        "biased_std": 20.3855938054098,
+        "mean_change_pct": -0.031813757337364613,
+        "ks_statistic": 0.01825242718446602,
+        "ks_pvalue": 1.0
+      }
+    },
+    "statistical_tests": {}
+  },
+  "files": {
+    "biased_dataset": "output\\energie_mondiale_biased_20260111_113032.csv",
+    "original_dataset": "output\\energie_mondiale_original_20260111_113032.csv",
+    "visualization": "output\\bias_energie_mondiale_geographic_20260111_113032.png",
+    "report": "output\\energie_mondiale_report_20260111_113032.json"
+  }
+}

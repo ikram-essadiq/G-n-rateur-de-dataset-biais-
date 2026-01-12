@@ -1,0 +1,81 @@
+{
+  "generation_info": {
+    "category": "patients",
+    "n_samples": 1000,
+    "generated_at": "2026-01-11T12:52:10.836161",
+    "bias_type": "gender",
+    "bias_intensity": 0.5
+  },
+  "bias_report": {
+    "type": "gender_bias",
+    "details": {
+      "gender_column": "sexe",
+      "target_column": "poids",
+      "favored_gender": "m",
+      "mean_favored_before": 75.40432098765432,
+      "mean_favored_after": 113.10648148148148,
+      "mean_other_before": 74.49408284023669,
+      "mean_other_after": 55.87056213017752,
+      "gap_percentage": 102.44378643970897,
+      "count_favored": 324,
+      "count_other": 676
+    },
+    "original_size": 1000,
+    "biased_size": 1000,
+    "bias_type": "gender",
+    "intensity": 0.5,
+    "applied_at": "2026-01-11T12:52:08.749919"
+  },
+  "analysis": {
+    "size_comparison": {
+      "original": 1000,
+      "biased": 1000,
+      "change_pct": 0.0
+    },
+    "distribution_changes": {
+      "age": {
+        "original_mean": 52.006,
+        "biased_mean": 52.006,
+        "original_std": 25.420900577795948,
+        "biased_std": 25.420900577795948,
+        "mean_change_pct": 0.0,
+        "ks_statistic": 0.0,
+        "ks_pvalue": 1.0
+      },
+      "poids": {
+        "original_mean": 74.789,
+        "biased_mean": 74.415,
+        "original_std": 27.226637118248167,
+        "biased_std": 39.62120473767632,
+        "mean_change_pct": -0.5000735402258288,
+        "ks_statistic": 0.177,
+        "ks_pvalue": 4.265582629717994e-14
+      },
+      "taille": {
+        "original_mean": 127.597,
+        "biased_mean": 127.597,
+        "original_std": 38.150859480214585,
+        "biased_std": 38.150859480214585,
+        "mean_change_pct": 0.0,
+        "ks_statistic": 0.0,
+        "ks_pvalue": 1.0
+      },
+      "imc": {
+        "original_mean": 23.3613055890139,
+        "biased_mean": 23.3613055890139,
+        "original_std": 9.563757575487191,
+        "biased_std": 9.563757575487191,
+        "mean_change_pct": 0.0,
+        "ks_statistic": 0.0,
+        "ks_pvalue": 1.0
+      }
+    },
+    "statistical_tests": {}
+  },
+  "files": {
+    "biased_dataset": "output\\patients_biased_20260111_125208.csv",
+    "original_dataset": "output\\patients_original_20260111_125208.csv",
+    "visualization": "output\\bias_patients_gender_20260111_125208.png",
+    "report": "output\\patients_report_20260111_125208.json"
+  }
+}

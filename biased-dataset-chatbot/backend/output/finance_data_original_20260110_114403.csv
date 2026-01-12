@@ -1,0 +1,1001 @@
+id_transaction,type_transaction,montant,devise,frais,statut,ville,pays
+id_transaction_00000696,Retrait,976.6174105894654,MAD,0.4058446609978743,Complétée,Johannesburg,Royaume-Uni
+id_transaction_00000199,Retrait,490.1651456663235,ZAR,84.14499782296403,En cours,Londres,USA
+id_transaction_00000839,Retrait,14328.677099961906,MAD,0.8022662342784246,Complétée,Rabat,Japon
+id_transaction_00000375,Carte,626.635869845718,CNY,0.5566679348903492,Complétée,Rabat,Japon
+id_transaction_00000286,Dépôt,543.9470755042539,CNY,-4.190248503474582,Complétée,Paris,USA
+id_transaction_00000757,Carte,727.0115233796585,ZAR,-0.15609397304008166,Complétée,Casablanca,Japon
+id_transaction_00000659,Carte,18.38812116374197,EUR,-0.8635298592617637,Complétée,Paris,USA
+id_transaction_00000903,Carte,448.08614948771253,USD,10.898854042375046,En attente,New York,Japon
+id_transaction_00000624,Prélèvement,-142.51429878991212,CNY,9.065641028136843,Complétée,New York,France
+id_transaction_00000609,Retrait,1138.3788096196686,JPY,2.169142929638505,En cours,Washington DC,France
+id_transaction_00000725,Carte,43.82385034796215,USD,-1.7299000658901296,Complétée,Casablanca,France
+id_transaction_00000164,Carte,741.1457163382747,EUR,4.314245462638429,Complétée,Pékin,USA
+id_transaction_00000165,Retrait,594.9370257588284,JPY,-4.090231137296233,Complétée,Johannesburg,Japon
+id_transaction_00000053,Carte,1057.49619395025,USD,-5.7795355861347515,En attente,Casablanca,Japon
+id_transaction_00000367,Carte,-94.73969418906938,USD,-14.746765269494414,Rejetée,Pékin,France
+id_transaction_00000082,Prélèvement,402.3035741967818,EUR,4.271782540689468,Complétée,Washington DC,France
+id_transaction_00000108,Carte,560.3850278942652,CNY,-0.35143455059693274,Complétée,Washington DC,Chine
+id_transaction_00000977,Retrait,5702.199156565617,EUR,2.6626427609656265,Complétée,Francfort,Royaume-Uni
+id_transaction_00000921,Carte,-523.1287405226947,MAD,4.360741609607025,Complétée,Tokyo,Maroc
+id_transaction_00000562,Carte,1219.9389310032716,JPY,6.960380998370488,Rejetée,Pékin,Chine
+id_transaction_00000416,Carte,740.0527728841384,JPY,68.1958218738783,Complétée,Johannesburg,USA
+id_transaction_00000462,Retrait,15772.33050890692,MAD,217.10669278761793,Complétée,Pékin,Allemagne
+id_transaction_00000392,Virement,169.78531246584248,CNY,-2.8123797792111267,Rejetée,Tokyo,Maroc
+id_transaction_00000675,Dépôt,-257.17077947543714,EUR,8.311160370615172,En cours,Rabat,Maroc
+id_transaction_00000558,Prélèvement,414.596681571127,ZAR,2.1391946429260407,En attente,Londres,Royaume-Uni
+id_transaction_00000264,Carte,1332.2815488982765,MAD,-0.8958643079252173,Complétée,Rabat,Afrique du Sud
+id_transaction_00000055,Carte,809.1602718852986,CNY,5.705897441525069,Complétée,Casablanca,Maroc
+id_transaction_00000764,Virement International,400.4560191723049,MAD,2.9649156637356113,Complétée,Francfort,Chine
+id_transaction_00000872,Retrait,-354.9461341811415,USD,-11.494052721641413,Rejetée,Tokyo,USA
+id_transaction_00000517,Retrait,11223.522671076016,EUR,-12.051488614962953,Complétée,Francfort,Maroc
+id_transaction_00000416,Carte,349.90502793579753,MAD,3.3601858712826704,Complétée,Tokyo,Japon
+id_transaction_00000921,Carte,-311.6379498070356,GBP,-11.52285703360921,Complétée,Casablanca,Maroc
+id_transaction_00000071,Retrait,14332.459101399869,JPY,16.23173609200387,Complétée,Johannesburg,Royaume-Uni
+id_transaction_00000835,Retrait,9558.75874994641,USD,57.456983906589755,En attente,New York,Allemagne
+id_transaction_00000842,Virement International,3943.095289424591,USD,2.1620964360568626,Complétée,Johannesburg,Royaume-Uni
+id_transaction_00000673,Dépôt,1285.7884450783781,USD,8.914256289635784,Complétée,Tokyo,Chine
+id_transaction_00000326,Retrait,1792.475698785449,JPY,12.286747452902986,Complétée,Londres,Royaume-Uni
+id_transaction_00000248,Dépôt,980.8739054654982,JPY,9.005159689697885,Complétée,Francfort,Japon
+id_transaction_00000495,Retrait,118.53586846455113,CNY,-8.284721018967943,En cours,Francfort,Royaume-Uni
+id_transaction_00000036,Retrait,2736.5195463233435,USD,2.9603841106898807,En attente,Casablanca,USA
+id_transaction_00000314,Prélèvement,-237.02003615800368,USD,6.184929600136857,Complétée,Johannesburg,France
+id_transaction_00000569,Carte,-258.855292025915,EUR,-7.200948508957834,Complétée,Paris,France
+id_transaction_00000908,Dépôt,-832.63396006649,USD,-2.56236843314049,En attente,Rabat,USA
+id_transaction_00000546,Carte,2037.7643548339097,GBP,16.878949199124417,En attente,Londres,Royaume-Uni
+id_transaction_00000462,Carte,557.8970369995955,USD,88.572214745016,En attente,Pékin,Allemagne
+id_transaction_00000615,Carte,1349.6856495209174,USD,14.70869030822504,Complétée,Paris,Japon
+id_transaction_00000865,Retrait,4481.354158301399,CNY,-0.14595453854233664,En attente,Pékin,USA
+id_transaction_00000087,Carte,-472.07991207184114,EUR,-4.632000138648091,Complétée,New York,Maroc
+id_transaction_00000393,Retrait,19698.712407286654,GBP,8.026133275461143,Complétée,Tokyo,USA
+id_transaction_00000264,Carte,7660.815725620421,USD,-5.462047769152288,Complétée,Francfort,USA
+id_transaction_00000066,Dépôt,97.61618596836286,USD,1.3174870543185797,Complétée,New York,Maroc
+id_transaction_00000198,Carte,-496.8865619873369,CNY,-14.03718223838403,En attente,New York,Japon
+id_transaction_00000085,Retrait,1059.3690315664066,ZAR,14.660273568965831,Complétée,Londres,Royaume-Uni
+id_transaction_00000445,Dépôt,704.448728879291,CNY,72.33475928963281,En attente,Pékin,USA
+id_transaction_00000289,Carte,779.1018107343187,CNY,2.890567076469975,Rejetée,Tokyo,USA
+id_transaction_00000711,Carte,53.56147561448023,CNY,4.212503365373288,Complétée,Francfort,Chine
+id_transaction_00000857,Prélèvement,550.1272441511201,EUR,-4.373804587800993,Complétée,Johannesburg,France
+id_transaction_00000002,Virement,505.13570853218283,EUR,1.7314921658230178,En attente,Londres,USA
+id_transaction_00000594,Retrait,322.25530824665896,JPY,-2.74494640152227,Complétée,Paris,Chine
+id_transaction_00000689,Virement,6824.96967749933,GBP,4.626407884267129,Complétée,New York,USA
+id_transaction_00000114,Carte,-391.81573036938755,GBP,-13.058418893241004,Complétée,Rabat,Maroc
+id_transaction_00000578,Carte,-1068.0720345192135,ZAR,-8.34357934636968,Complétée,Paris,Chine
+id_transaction_00000341,Virement International,22091.746648172255,GBP,1.1233032291480907,Complétée,Washington DC,Royaume-Uni
+id_transaction_00000257,Carte,-1190.4643592181474,GBP,-0.22928580791935538,Complétée,Rabat,Maroc
+id_transaction_00000465,Retrait,1488.8046968310016,EUR,-8.80516188145338,Complétée,New York,Maroc
+id_transaction_00000208,Dépôt,-985.8700207945861,ZAR,-12.552031432283798,En attente,New York,Afrique du Sud
+id_transaction_00000202,Carte,651.5127400426404,CNY,11.3730869438205,Complétée,Londres,France
+id_transaction_00000433,Retrait,427.52824333790574,USD,9.006811763606414,Rejetée,Tokyo,Royaume-Uni
+id_transaction_00000434,Retrait,158.6177522016597,EUR,5.128581244543895,Complétée,New York,UE
+id_transaction_00000318,Carte,-1156.826134701555,GBP,-10.976560237341534,Complétée,Washington DC,Royaume-Uni
+id_transaction_00000280,Dépôt,-564.3110387802654,CNY,-9.199791578392741,Complétée,Londres,Afrique du Sud
+id_transaction_00000952,Dépôt,-1567.43686902304,EUR,-4.426228996796449,Complétée,New York,Allemagne
+id_transaction_00000066,Carte,-481.82582131863785,USD,-6.174699438605352,Complétée,Rabat,Afrique du Sud
+id_transaction_00000697,Virement International,-537.7642884840114,USD,-7.103331335082138,En cours,Londres,Afrique du Sud
+id_transaction_00000672,Virement,-978.1250411767581,CNY,-8.145563982484735,Complétée,New York,USA
+id_transaction_00000445,Prélèvement,-616.9663400421501,USD,-9.300487412290881,Complétée,Casablanca,USA
+id_transaction_00000646,Virement,-49.55054305928127,ZAR,-7.668240395001123,Complétée,Londres,USA
+id_transaction_00000465,Prélèvement,1103.80488243348,EUR,-0.15119437380514444,Complétée,Pékin,Japon
+id_transaction_00000864,Dépôt,1189.0405361883459,USD,2.7364010712933657,Complétée,Pékin,Allemagne
+id_transaction_00000783,Prélèvement,629.8779835946023,EUR,8.896734134200429,En attente,Pékin,Royaume-Uni
+id_transaction_00000248,Prélèvement,12843.630561827282,CNY,-7.059281041694605,Complétée,Londres,Chine
+id_transaction_00000134,Prélèvement,-2180.101390365393,JPY,6.029076820985549,Complétée,Casablanca,UE
+id_transaction_00000373,Carte,260.3499268613101,JPY,198.25327736096006,Complétée,Washington DC,Japon
+id_transaction_00000367,Carte,1175.7782708642371,CNY,8.043758654198031,Complétée,Pékin,USA
+id_transaction_00000372,Virement,373.73726983225293,USD,4.7866445219586975,En attente,Londres,Maroc
+id_transaction_00000518,Prélèvement,7105.540885770677,MAD,-13.033673361576234,En attente,Rabat,Allemagne
+id_transaction_00000530,Virement,-131.72755000232019,CNY,3.403565589023226,Complétée,New York,Japon
+id_transaction_00000762,Retrait,3279.063598089162,MAD,3.6148585511519373,Complétée,Francfort,Maroc
+id_transaction_00000771,Dépôt,-428.0218339315836,EUR,-4.057823029286539,Complétée,New York,USA
+id_transaction_00000130,Virement International,-12.01660262084448,JPY,10.201396742690951,Rejetée,Tokyo,Japon
+id_transaction_00000537,Retrait,605.4664486772299,GBP,-10.914806646656974,Complétée,Londres,Royaume-Uni
+id_transaction_00000204,Retrait,-797.1964085811666,USD,274.9610877460884,En attente,Francfort,Japon
+id_transaction_00000684,Carte,-282.70278089775456,USD,0.26871751575016667,Complétée,Francfort,Maroc
+id_transaction_00000393,Virement International,917.7863246095303,EUR,8.929611256822916,En cours,Washington DC,Japon
+id_transaction_00000809,Virement International,847.7328840939904,MAD,-2.44711109855026,En attente,Washington DC,Afrique du Sud
+id_transaction_00000460,Virement,556.7091858414967,USD,5.4999898012633155,Complétée,Tokyo,Maroc
+id_transaction_00000617,Carte,537.3972148823625,MAD,3.848492092344879,Complétée,Johannesburg,Japon
+id_transaction_00000613,Prélèvement,111.75500479447112,GBP,1.0742017586192416,Complétée,Johannesburg,USA
+id_transaction_00000674,Dépôt,664.3684709700876,USD,-14.03889995429499,Rejetée,Tokyo,USA
+id_transaction_00000212,Retrait,15372.687855508126,ZAR,1.1008246014451588,Complétée,Londres,Japon
+id_transaction_00000126,Retrait,5368.750940173951,EUR,-2.824622263206625,Complétée,Pékin,France
+id_transaction_00000724,Virement,1457.2949404414253,GBP,4.919628235027152,En attente,Londres,Japon
+id_transaction_00000119,Carte,5360.351623377246,MAD,2.531079401778986,Complétée,Paris,Maroc
+id_transaction_00000518,Virement International,506.2334810822992,JPY,11.139230545523882,Complétée,Paris,UE
+id_transaction_00000167,Dépôt,1075.1452913541202,EUR,8.420879724969716,Complétée,Paris,Maroc
+id_transaction_00000274,Retrait,635.2909646987305,JPY,-6.568594546418265,Complétée,Pékin,France
+id_transaction_00000556,Retrait,328.2369129830628,CNY,1.5416472269048627,Complétée,Tokyo,USA
+id_transaction_00000081,Retrait,-1131.68479649873,MAD,-4.654216198341296,Complétée,Pékin,Maroc
+id_transaction_00000512,Retrait,-436.784194716147,MAD,-14.550057734818221,Complétée,Washington DC,Maroc
+id_transaction_00000887,Retrait,38774.983302579836,GBP,15.708991245341483,Complétée,Paris,Maroc
+id_transaction_00000188,Carte,1228.2207435113014,EUR,9.303535662292976,En cours,Pékin,USA
+id_transaction_00000012,Virement International,1345.387967004621,EUR,12.160761409045092,En attente,Francfort,UE
+id_transaction_00000762,Dépôt,100.35086721499641,ZAR,6.420738096379834,En attente,Londres,USA
+id_transaction_00000355,Prélèvement,-159.68428019421276,USD,2.3003663033392683,Complétée,Tokyo,Afrique du Sud
+id_transaction_00000540,Retrait,-512.8921409300515,USD,9.456127261579203,En attente,Paris,USA
+id_transaction_00000121,Virement,904.8186825279461,JPY,2.850434508242837,Complétée,Tokyo,Royaume-Uni
+id_transaction_00000704,Carte,1236.5901184650795,USD,9.793860124387965,Complétée,Pékin,Chine
+id_transaction_00000980,Prélèvement,829.0181726288658,MAD,-4.206799307599144,Complétée,Pékin,Royaume-Uni
+id_transaction_00000871,Carte,1755.5285740076863,MAD,-10.447005659281846,En attente,Pékin,Royaume-Uni
+id_transaction_00000315,Prélèvement,1452.20625393909,EUR,-1.0830327067213217,Rejetée,Washington DC,UE
+id_transaction_00000485,Dépôt,1631.6934739662106,MAD,10.950030752240313,Complétée,Pékin,France
+id_transaction_00000046,Retrait,-1344.2294333784253,MAD,-5.4136641014362885,Complétée,Casablanca,Maroc
+id_transaction_00000552,Retrait,-293.75128797807406,USD,-11.550409637774912,Complétée,Paris,Maroc
+id_transaction_00000142,Retrait,101334.0942608224,EUR,11.77014639701781,Complétée,Londres,France
+id_transaction_00000149,Virement,169.4678695673639,MAD,-8.463612011365814,Complétée,Johannesburg,Royaume-Uni
+id_transaction_00000071,Carte,-641.675749964843,CNY,-6.678115471513553,En attente,Tokyo,USA
+id_transaction_00000075,Dépôt,-103.7777102239304,GBP,-4.96863738131703,Complétée,Londres,Chine
+id_transaction_00000413,Retrait,1159.4188808012136,JPY,778.5955604338583,Complétée,Paris,Japon
+id_transaction_00000132,Carte,1335.3263374627215,MAD,-6.441044619433735,Complétée,Francfort,Allemagne
+id_transaction_00000872,Retrait,1190.8078885416094,CNY,-7.472458863534809,En cours,Londres,USA
+id_transaction_00000154,Carte,44028.64511292055,CNY,5.7692850670945885,Complétée,Londres,USA
+id_transaction_00000143,Carte,550.536014061151,MAD,5.565433421412337,Complétée,Casablanca,Maroc
+id_transaction_00000399,Dépôt,1986.961056694751,GBP,-0.04640217830487803,En attente,Washington DC,Maroc
+id_transaction_00000231,Retrait,76.11225060140606,USD,-2.686830680590792,Complétée,Casablanca,USA
+id_transaction_00000476,Prélèvement,1116.096218816714,ZAR,1.870774974387222,Complétée,Pékin,USA
+id_transaction_00000102,Carte,867.8222771849469,JPY,315.96729217950667,Complétée,Pékin,Maroc
+id_transaction_00000978,Dépôt,-293.09755031945497,EUR,0.3454434959970012,En attente,New York,France
+id_transaction_00000661,Virement International,5691.40803147503,USD,0.564065938889593,Complétée,Johannesburg,UE
+id_transaction_00000919,Prélèvement,585.2801693000265,USD,-5.615424567047753,Complétée,Washington DC,France
+id_transaction_00000256,Carte,538.3004590591383,GBP,5.904936144184564,En attente,Pékin,Royaume-Uni
+id_transaction_00000058,Carte,1967.070570384874,EUR,10.07253848541368,Complétée,Tokyo,USA
+id_transaction_00000970,Retrait,6996.990311071265,USD,10.819600594492599,Complétée,Francfort,Maroc
+id_transaction_00000249,Virement,1193.9051681212773,CNY,501.4805295122245,Complétée,Tokyo,USA
+id_transaction_00000703,Carte,-414.3289564737423,GBP,-7.041227987773934,Rejetée,Casablanca,Maroc
+id_transaction_00000961,Virement International,136.1687269444639,EUR,0.6237119703205085,Complétée,Londres,Afrique du Sud
+id_transaction_00000068,Dépôt,383.51816341165124,EUR,-1.7729957942804706,En attente,New York,Maroc
+id_transaction_00000219,Retrait,8912.092519470543,GBP,-6.239770205290658,Complétée,Paris,Chine
+id_transaction_00000027,Carte,2296.6832758666587,GBP,2.216126568691955,Complétée,Washington DC,Royaume-Uni
+id_transaction_00000914,Prélèvement,-664.6195882029307,CNY,0.869973704908733,Complétée,Rabat,Royaume-Uni
+id_transaction_00000346,Prélèvement,697.5420377424097,USD,14.418423377808203,En attente,Francfort,Japon
+id_transaction_00000352,Virement International,2277.1831802891284,USD,-43.98142080424937,En attente,Washington DC,USA
+id_transaction_00000383,Dépôt,70.77307047111475,EUR,4.823283532621304,En attente,Tokyo,Royaume-Uni
+id_transaction_00000947,Virement,933.9559573299113,EUR,4.210575006280862,En attente,Londres,USA
+id_transaction_00000886,Retrait,31783.930342287757,MAD,4.675855854373701,Complétée,Pékin,Royaume-Uni
+id_transaction_00000974,Dépôt,1190.2581264485427,USD,8.553861903468459,Complétée,New York,Royaume-Uni
+id_transaction_00000310,Retrait,220.27744969993842,JPY,2.7309620551453166,En attente,Washington DC,USA
+id_transaction_00000002,Virement,-999.8804766365648,USD,-4.326362957982485,Complétée,Washington DC,Afrique du Sud
+id_transaction_00000745,Carte,445.32053638130634,USD,3.2685802020113464,En cours,Johannesburg,France
+id_transaction_00000075,Dépôt,64.99528003818841,USD,-1.667473519409647,En attente,Francfort,USA
+id_transaction_00000308,Virement,340.1222608992225,CNY,-11.842654847776483,En attente,Casablanca,USA
+id_transaction_00000571,Carte,403.0208691456807,EUR,-2.9006141554109997,Complétée,Tokyo,USA
+id_transaction_00000737,Virement,-178.50703179465268,GBP,3.637988337497312,Complétée,Washington DC,USA
+id_transaction_00000548,Virement,127.29683568233872,USD,-7.70548095699136,Complétée,Francfort,Royaume-Uni
+id_transaction_00000538,Dépôt,-368.97308056330087,GBP,-4.028219989441827,Complétée,New York,Maroc
+id_transaction_00000243,Carte,1142.185956630871,MAD,-5.109222507166119,En attente,New York,Royaume-Uni
+id_transaction_00000017,Carte,8737.506134323748,CNY,-9.151451003899712,En attente,Londres,Royaume-Uni
+id_transaction_00000186,Retrait,184.21221251266627,USD,0.4069565663673078,Complétée,Londres,USA
+id_transaction_00000329,Carte,-82.07960455287412,GBP,-5.684622261458457,Complétée,Londres,Royaume-Uni
+id_transaction_00000695,Virement International,59.06068366286314,JPY,-4.487646861209032,En attente,Paris,Japon
+id_transaction_00000957,Retrait,593.366427614728,MAD,5.8253907522435915,Complétée,Pékin,Maroc
+id_transaction_00000921,Virement,5034.676472172219,USD,13.331269553046884,Complétée,Londres,Afrique du Sud
+id_transaction_00000307,Dépôt,665.3821359587541,USD,4.834622844046131,Complétée,Tokyo,Maroc
+id_transaction_00000926,Carte,2406.1525411213406,JPY,-7.992637158010518,Complétée,New York,Afrique du Sud
+id_transaction_00000876,Prélèvement,3593.0094080004037,EUR,11.718155425671997,Complétée,Londres,Maroc
+id_transaction_00000553,Carte,-9.196449278626403,USD,3.8417897181920146,Rejetée,Tokyo,Chine
+id_transaction_00000720,Prélèvement,-829.4037497004828,USD,-2.9617413911105244,Complétée,Pékin,Afrique du Sud
+id_transaction_00000359,Retrait,8116.844348854402,CNY,-6.239445502866416,En cours,Londres,USA
+id_transaction_00000258,Carte,521.3483144002588,EUR,-6.992798220331037,Complétée,Francfort,Allemagne
+id_transaction_00000134,Carte,1015.2235458211537,MAD,3.2817691083892324,Complétée,Paris,Royaume-Uni
+id_transaction_00001000,Carte,-492.6053700112212,USD,1.744684203975829,Complétée,Rabat,Maroc
+id_transaction_00000459,Retrait,1089.2798133493363,MAD,-2.9543228426677706,Complétée,Francfort,USA
+id_transaction_00000893,Prélèvement,-487.88768195276384,JPY,-14.708526548200027,En attente,Tokyo,France
+id_transaction_00000016,Virement International,-471.44209588135436,USD,-12.862849821385613,Complétée,Tokyo,Japon
+id_transaction_00000032,Prélèvement,13380.406411024009,USD,9.04382082479418,Complétée,New York,Japon
+id_transaction_00000325,Prélèvement,1177.3810274971993,JPY,-1.0514488818719343,En cours,Pékin,Royaume-Uni
+id_transaction_00000368,Retrait,349.92941535437467,USD,-2.962844276968174,Complétée,Rabat,USA
+id_transaction_00000899,Retrait,1818.310568720381,GBP,7.730934425892142,Complétée,Londres,Royaume-Uni
+id_transaction_00000364,Prélèvement,5254.467846459685,USD,-8.706521494074131,En attente,Johannesburg,Royaume-Uni
+id_transaction_00000858,Virement,3336.284795860065,JPY,-4.587793507056291,Complétée,Pékin,USA
+id_transaction_00000786,Virement,205.3286782506588,EUR,-3.7781770750799444,Complétée,Rabat,USA
+id_transaction_00000420,Retrait,376.72631889881814,MAD,-13.86977609099176,En attente,Londres,Maroc
+id_transaction_00000539,Dépôt,1092.2867046395163,USD,361.347242952564,Complétée,Tokyo,Afrique du Sud
+id_transaction_00000373,Prélèvement,789.4681281676792,MAD,-4.61584018003419,Complétée,Rabat,Royaume-Uni
+id_transaction_00000761,Carte,492.2226865261736,MAD,0.8047731574705281,Complétée,Pékin,Japon
+id_transaction_00000144,Carte,299.863177288596,JPY,-5.215824116947153,En attente,Londres,Japon
+id_transaction_00000360,Prélèvement,946.07410433106,USD,1.3339647001808896,En attente,Londres,UE
+id_transaction_00000533,Prélèvement,1506.362581459301,EUR,-0.3825017578546639,Complétée,New York,Maroc
+id_transaction_00000197,Prélèvement,1114.905416006764,MAD,-4.935109851678081,Complétée,Francfort,UE
+id_transaction_00000030,Virement International,-1327.677111737325,JPY,-13.221263172006267,Complétée,Francfort,USA
+id_transaction_00000690,Dépôt,-328.8399832471804,GBP,-13.259493875956846,Complétée,New York,USA
+id_transaction_00000203,Retrait,791.9139152796447,CNY,1.3839042336797163,En attente,Casablanca,Maroc
+id_transaction_00000971,Carte,832.0972584200715,MAD,-5.3820446996237505,Complétée,Tokyo,France
+id_transaction_00000427,Retrait,765.8888621899994,JPY,12.518058344540423,Complétée,Pékin,France
+id_transaction_00000003,Prélèvement,1172.818965494194,ZAR,4.179696832957614,En attente,Paris,Royaume-Uni
+id_transaction_00000209,Retrait,2896.469118248384,MAD,3.0583966398321296,Complétée,Francfort,Royaume-Uni
+id_transaction_00000720,Carte,7667.058115913183,JPY,2.00155113062867,Complétée,Londres,USA
+id_transaction_00000865,Prélèvement,-646.2993722659318,EUR,-7.419184616095657,Complétée,Casablanca,France
+id_transaction_00000945,Dépôt,4508.868295404807,USD,17.931269669373993,Complétée,Paris,Maroc
+id_transaction_00000344,Carte,912.2416708001799,USD,98.45778919927045,En cours,Washington DC,Allemagne
+id_transaction_00000393,Carte,-357.4750707773984,MAD,-9.864585718317237,Complétée,Casablanca,Maroc
+id_transaction_00000620,Dépôt,1648.0169409745681,CNY,7.059955907387407,Complétée,New York,Royaume-Uni
+id_transaction_00000659,Dépôt,492.8752773954668,MAD,6.2171430996527,Complétée,Johannesburg,USA
+id_transaction_00000055,Carte,1535.5086434739915,JPY,7.607680041394982,En attente,Johannesburg,USA
+id_transaction_00000320,Carte,452.2349169341691,USD,0.1410348015088081,Complétée,Tokyo,USA
+id_transaction_00000157,Retrait,1089.7944653016896,MAD,436.2852876551468,Complétée,Londres,Afrique du Sud
+id_transaction_00000007,Prélèvement,697.4814950080373,GBP,-11.14602082908472,Complétée,Paris,Allemagne
+id_transaction_00000695,Prélèvement,-1035.993056384027,GBP,-9.546888448227776,En attente,Londres,Maroc
+id_transaction_00000108,Dépôt,-55.63245557090397,GBP,1.5263508865443285,En attente,Washington DC,USA
+id_transaction_00000473,Dépôt,-45.798480645912264,EUR,4.224415259207685,Complétée,New York,Maroc
+id_transaction_00000832,Dépôt,26566.057935127283,CNY,4.15575128187973,Complétée,Londres,Maroc
+id_transaction_00000173,Retrait,7489.453417966721,EUR,-2.1484490069980042,Complétée,New York,USA
+id_transaction_00000548,Retrait,469.492695464734,MAD,-1.9570228975556274,Complétée,Rabat,USA
+id_transaction_00000217,Retrait,3993.3209064903767,USD,117.67263659484836,Complétée,New York,Maroc
+id_transaction_00000699,Carte,15496.102456161225,JPY,3.417154861507546,Complétée,Londres,Maroc
+id_transaction_00000124,Virement,1245.4196801363887,JPY,7.684250685605528,Complétée,New York,Japon
+id_transaction_00000138,Retrait,1414.3447478879557,MAD,-2.623577846614052,En cours,Pékin,Japon
+id_transaction_00000980,Retrait,3269.005992863975,GBP,-2.1135379844681115,En cours,Londres,USA
+id_transaction_00000789,Carte,9006.104892839394,GBP,-1.3012743257830124,Rejetée,Johannesburg,Maroc
+id_transaction_00000115,Prélèvement,8479.163745167825,CNY,4.018304820860651,Complétée,Tokyo,Afrique du Sud
+id_transaction_00000051,Retrait,-126.7222839555941,MAD,18.24681829132279,Complétée,Francfort,UE
+id_transaction_00000179,Virement International,642.9077555282757,EUR,9.069598589474287,Complétée,New York,Maroc
+id_transaction_00000305,Carte,30731.69132713321,EUR,16.962203301567282,En attente,Casablanca,USA
+id_transaction_00000405,Retrait,1032.2859903225858,USD,0.41519388604649876,Complétée,Paris,Afrique du Sud
+id_transaction_00000875,Virement,1421.5408944572346,USD,6.085439624855908,Complétée,Rabat,Allemagne
+id_transaction_00000675,Retrait,-189.26269630110596,EUR,1.8560919608280337,Complétée,Paris,Allemagne
+id_transaction_00000491,Prélèvement,-511.5706525246785,MAD,-6.251320191214702,Complétée,New York,Afrique du Sud
+id_transaction_00000540,Carte,583.7664751326058,MAD,0.45478352977260883,Complétée,Francfort,UE
+id_transaction_00000221,Dépôt,1776.5242151780951,EUR,2.405670105591311,Rejetée,Francfort,USA
+id_transaction_00000099,Virement International,798.1646042118962,GBP,9.912422608963226,Complétée,Pékin,Maroc
+id_transaction_00000646,Virement International,-68.00063167775022,JPY,6.2461477199447115,Complétée,Paris,Royaume-Uni
+id_transaction_00000328,Carte,536.4382473896475,EUR,-1.6963880698548106,En cours,Pékin,France
+id_transaction_00000900,Carte,826.4859069564222,GBP,0.4874842708313105,Complétée,Londres,USA
+id_transaction_00000127,Retrait,89.20403625660424,EUR,-6.200135464005625,En cours,Casablanca,Afrique du Sud
+id_transaction_00000199,Carte,-146.79123264532382,EUR,13.538598063933314,Complétée,Paris,USA
+id_transaction_00000401,Virement,1143.2735580790331,USD,8.018112925148769,Rejetée,Pékin,USA
+id_transaction_00000869,Virement International,195.83664977328743,GBP,-3.7690443183141467,Complétée,Casablanca,Chine
+id_transaction_00000394,Virement International,512.7706641175494,USD,-1.7342820453654335,Complétée,Francfort,Allemagne
+id_transaction_00000967,Carte,1578.3992997579821,MAD,-1.3790681160083347,En attente,Casablanca,France
+id_transaction_00000162,Carte,-176.97314058652967,JPY,-6.745458153000576,Complétée,Casablanca,Maroc
+id_transaction_00000518,Retrait,928.1500484602801,ZAR,7.8170542276625365,Complétée,Washington DC,Japon
+id_transaction_00000552,Dépôt,-213.44932513191998,GBP,-11.615493432643909,En cours,Pékin,Maroc
+id_transaction_00000181,Retrait,90962.66842754805,EUR,1.9603304585215295,En attente,Paris,Afrique du Sud
+id_transaction_00000669,Dépôt,24010.78239759758,CNY,6.070939569587849,En cours,Paris,Maroc
+id_transaction_00000400,Prélèvement,210.15682583119525,MAD,-3.9134587279997453,Complétée,Washington DC,France
+id_transaction_00000777,Prélèvement,-396.67982035968396,MAD,5.951246827442092,Complétée,Rabat,Maroc
+id_transaction_00000549,Virement International,-678.4906873673259,GBP,-4.196343689104954,Complétée,Paris,Chine
+id_transaction_00000269,Prélèvement,304.10840749985744,EUR,2.507070463576617,Complétée,Paris,Royaume-Uni
+id_transaction_00000212,Retrait,531.5720031870533,USD,-7.190076990753579,Complétée,Londres,Maroc
+id_transaction_00000169,Dépôt,30286.280768286226,USD,12.95051336848405,Complétée,Pékin,Royaume-Uni
+id_transaction_00000847,Prélèvement,-420.5993101816083,JPY,-5.042591364942093,En attente,Johannesburg,Royaume-Uni
+id_transaction_00000691,Prélèvement,1414.7302712134435,USD,3.4229452628022,Complétée,Francfort,Royaume-Uni
+id_transaction_00000898,Carte,13126.621693509565,EUR,-8.548508667121432,Complétée,Paris,Maroc
+id_transaction_00000790,Dépôt,-32.4292210282897,USD,-9.222907584928446,Complétée,New York,Maroc
+id_transaction_00000085,Retrait,3243.5712973759487,JPY,-1.6725439882845015,En attente,Tokyo,Japon
+id_transaction_00000152,Virement,1957.1321166618827,GBP,8.880803672053045,Complétée,Tokyo,USA
+id_transaction_00000312,Virement,14279.254278701615,EUR,0.06667443876945356,Rejetée,New York,Maroc
+id_transaction_00000615,Virement International,7668.110870678505,JPY,3.934751070192948,En cours,Londres,Maroc
+id_transaction_00000497,Dépôt,-257.4768996438621,USD,94.95982716621803,Rejetée,Pékin,Afrique du Sud
+id_transaction_00000736,Retrait,-216.55574031600736,MAD,2.7096539596384175,Complétée,New York,Maroc
+id_transaction_00000766,Virement International,523.2312602143137,JPY,-10.444217627972456,Complétée,Paris,Chine
+id_transaction_00000540,Retrait,124.92243015744651,JPY,5.666238491619866,Rejetée,Washington DC,Japon
+id_transaction_00000602,Dépôt,-1213.593541837421,EUR,0.21644493520308217,Complétée,Francfort,UE
+id_transaction_00000760,Retrait,-294.6019830743444,EUR,5.727608690418086,Complétée,Pékin,UE
+id_transaction_00000091,Dépôt,-512.7287065153968,USD,0.9321266595317521,Complétée,New York,Maroc
+id_transaction_00000016,Virement,557.4313631128846,USD,-1.9192331475145137,Complétée,Londres,Japon
+id_transaction_00000859,Retrait,-808.1259979632815,USD,-6.399920656536284,Complétée,New York,Japon
+id_transaction_00000852,Carte,-424.13029871006654,USD,-12.807193420667375,Complétée,Pékin,Allemagne
+id_transaction_00000375,Dépôt,-17.753258963754263,GBP,-6.042476402348474,Complétée,Johannesburg,Maroc
+id_transaction_00000601,Dépôt,1297.602097739007,USD,7.772282122790248,Rejetée,Johannesburg,Chine
+id_transaction_00000325,Dépôt,109005.6300352302,EUR,8.428857232601114,En attente,Paris,Royaume-Uni
+id_transaction_00000800,Retrait,-180.6131757151968,USD,-5.734944122040148,Complétée,Casablanca,Maroc
+id_transaction_00000646,Dépôt,1344.266610272333,GBP,10.918813720870162,Complétée,Tokyo,UE
+id_transaction_00000776,Virement International,-310.4308887180339,USD,-9.020419545366362,Complétée,Washington DC,USA
+id_transaction_00000048,Retrait,-46.87849489718377,JPY,-1.2741060530361272,En cours,Tokyo,Japon
+id_transaction_00000876,Carte,67.1826230935543,USD,1.2398142758763662,Complétée,Tokyo,USA
+id_transaction_00000259,Carte,1063.9992145854308,CNY,491.6402269213459,Rejetée,Tokyo,Japon
+id_transaction_00000982,Virement,596.2003133962163,GBP,-0.06267838840400142,En attente,Francfort,France
+id_transaction_00000907,Carte,27490.822351700102,CNY,-3.018967186879265,En attente,Pékin,Chine
+id_transaction_00000919,Prélèvement,89354.76161921571,EUR,7.796571918567908,Complétée,Paris,Allemagne
+id_transaction_00000751,Dépôt,1442.2791035910586,GBP,13.086574207005233,Complétée,Pékin,France
+id_transaction_00000494,Dépôt,4635.522519907487,CNY,5.625853502333758,Complétée,Casablanca,Maroc
+id_transaction_00000552,Dépôt,4253.553427095518,JPY,5.58980555155278,Complétée,New York,Afrique du Sud
+id_transaction_00000367,Virement,-936.9392590022477,JPY,-60.363683642681806,Complétée,Washington DC,Royaume-Uni
+id_transaction_00000762,Dépôt,69.94064658368308,USD,-8.732997769833549,Complétée,New York,USA
+id_transaction_00000292,Dépôt,1147.9847428258702,JPY,-7.251862650813375,Complétée,Johannesburg,USA
+id_transaction_00000196,Carte,510.59644349225096,MAD,-1.7356565187445945,Complétée,Washington DC,USA
+id_transaction_00000516,Virement International,10262.903257026945,EUR,-6.410196886962761,Complétée,Pékin,Chine
+id_transaction_00000044,Carte,819.642565042559,CNY,9.088245929004758,En attente,Tokyo,Maroc
+id_transaction_00000961,Carte,-684.8078029825589,USD,-12.695325418172168,En attente,Pékin,USA
+id_transaction_00000356,Retrait,746.3334815673528,GBP,-1.5835685088663363,Complétée,Casablanca,Maroc
+id_transaction_00000802,Carte,-483.92391352003267,GBP,-5.37058791532148,En attente,Washington DC,Royaume-Uni
+id_transaction_00000372,Dépôt,978.3026586335194,CNY,15.590423749926341,Complétée,New York,Japon
+id_transaction_00000603,Virement,-874.3654784744923,USD,-6.159288099469566,En attente,Tokyo,Maroc
+id_transaction_00000071,Virement,1161.6396068788818,USD,8.00715622266655,Complétée,Pékin,Royaume-Uni
+id_transaction_00000297,Dépôt,4651.413057843613,CNY,-2.08008511634338,Complétée,New York,Royaume-Uni
+id_transaction_00000725,Retrait,779.0466487161086,ZAR,11.707878694161533,Complétée,Paris,USA
+id_transaction_00000564,Retrait,27.83782005029741,USD,57.61722830311503,Complétée,Paris,Allemagne
+id_transaction_00000130,Virement International,543.0814189202374,MAD,-3.850558657150576,Rejetée,Paris,Chine
+id_transaction_00000802,Virement,1035.370843931836,CNY,11.66477595059536,Complétée,Londres,Royaume-Uni
+id_transaction_00000180,Retrait,-433.08512655044797,USD,-5.913318997930349,Complétée,Johannesburg,Maroc
+id_transaction_00000094,Dépôt,1123.092311133284,GBP,12.846408660215356,Rejetée,Tokyo,Japon
+id_transaction_00000957,Virement International,113.38164561356365,JPY,3.8540771744754383,Complétée,Londres,Royaume-Uni
+id_transaction_00000215,Virement International,-852.5035125767109,USD,-4.731717856601597,Complétée,Washington DC,USA
+id_transaction_00000611,Prélèvement,-730.2322733465218,EUR,-7.991547801420546,Complétée,Londres,Allemagne
+id_transaction_00000572,Retrait,6297.082588963941,JPY,0.020934991258276803,Complétée,Paris,Japon
+id_transaction_00000428,Carte,58.65565896354224,JPY,6.494622429330563,Complétée,Rabat,Maroc
+id_transaction_00000697,Virement International,128474.18201249812,JPY,11.766917912882946,Complétée,Johannesburg,USA
+id_transaction_00000024,Carte,1363.0790649627072,MAD,6.529065689957632,Rejetée,Londres,Royaume-Uni
+id_transaction_00000754,Carte,5627.72469932588,USD,17.173669764026847,Complétée,Londres,Royaume-Uni
+id_transaction_00000504,Carte,6053.620047835693,JPY,11.900375119002337,Complétée,Tokyo,Japon
+id_transaction_00000515,Retrait,61.52450972253803,USD,6.696596106178934,Complétée,Casablanca,Maroc
+id_transaction_00000203,Virement International,-2386.8815502865255,JPY,-3.7788054344009305,Rejetée,New York,USA
+id_transaction_00000551,Retrait,-542.9800992444532,JPY,4.067787240491399,En attente,Francfort,USA
+id_transaction_00000307,Retrait,-244.43520497221755,GBP,-9.542944917241996,En cours,Londres,Afrique du Sud
+id_transaction_00000809,Virement International,1396.3067292230635,CNY,7.862304867743392,En attente,Londres,USA
+id_transaction_00000082,Carte,2135.2177079981625,EUR,-5.765563360212583,Complétée,Tokyo,Royaume-Uni
+id_transaction_00000587,Retrait,-693.0488923725837,GBP,-12.354079204981346,En cours,Pékin,Chine
+id_transaction_00000738,Virement International,-762.7392313226425,JPY,-4.463692040077368,Complétée,Francfort,France
+id_transaction_00000400,Virement,438.0977892594086,JPY,-3.607751395575817,Complétée,New York,Japon
+id_transaction_00000438,Carte,-245.90557276147547,MAD,-10.713773754996126,Complétée,Tokyo,USA
+id_transaction_00000917,Retrait,-1364.8368794964504,EUR,-10.212691771304158,Complétée,Washington DC,Afrique du Sud
+id_transaction_00000949,Prélèvement,162.074049421952,USD,-1.9233370253764628,Complétée,Johannesburg,Royaume-Uni
+id_transaction_00000262,Prélèvement,-212.3838659114183,MAD,0.6322965412034032,Complétée,Casablanca,France
+id_transaction_00000639,Carte,1852.0108974280777,CNY,0.9977486186038877,En attente,Casablanca,France
+id_transaction_00000689,Retrait,1935.1950454432745,MAD,4.541538600224357,Complétée,Francfort,Royaume-Uni
+id_transaction_00000730,Dépôt,1554.2277251642838,USD,-6.337388381334329,Complétée,Paris,Chine
+id_transaction_00000348,Carte,4642.905309830672,CNY,6.976421448453244,Complétée,Londres,Royaume-Uni
+id_transaction_00000669,Carte,-38.22084517174903,USD,-11.902841047746492,Complétée,Johannesburg,Royaume-Uni
+id_transaction_00000725,Carte,-89.8457199334689,CNY,-3.252516921775208,Complétée,Rabat,USA
+id_transaction_00000595,Retrait,959.9732683819129,USD,-1.555664143741038,Complétée,Londres,Allemagne
+id_transaction_00000807,Prélèvement,313.9110271723929,JPY,2.4679180156300613,Complétée,Tokyo,Chine
+id_transaction_00000147,Virement International,1053.3110806612908,CNY,-5.817605943209162,Complétée,Washington DC,USA
+id_transaction_00000410,Prélèvement,-269.1260340045661,USD,-1.1930667418203482,Complétée,Johannesburg,France
+id_transaction_00000182,Retrait,1189.883566667349,JPY,3.8679012048081494,Complétée,Pékin,Chine
+id_transaction_00000347,Carte,624.7855809141982,USD,8.702339603212973,Complétée,Pékin,Maroc
+id_transaction_00000915,Virement,1933.5989545183702,CNY,20.580421542807482,En attente,Pékin,USA
+id_transaction_00000700,Virement International,1022.947234835462,JPY,-3.859552112567701,Complétée,Paris,Japon
+id_transaction_00000322,Dépôt,57.330802771794254,CNY,-1.0318204198929042,Complétée,New York,USA
+id_transaction_00000367,Retrait,1348.154261821834,EUR,-2.838645098611587,Complétée,New York,Japon
+id_transaction_00000882,Prélèvement,469.2590323007988,USD,0.64668115924772,Complétée,Rabat,Japon
+id_transaction_00000799,Retrait,848.0334687055002,EUR,24.7492459026124,En cours,New York,France
+id_transaction_00000153,Carte,917.2893632131925,ZAR,12.441901595703987,Complétée,Washington DC,Royaume-Uni
+id_transaction_00000538,Prélèvement,7560.973644572404,JPY,-7.596668564655144,Complétée,Paris,USA
+id_transaction_00000728,Carte,681.2133061484543,CNY,-7.682811917372976,Complétée,Londres,Chine
+id_transaction_00000561,Dépôt,5067.085981031894,USD,0.607668764275819,Complétée,Tokyo,Maroc
+id_transaction_00000497,Carte,1227.669742692212,GBP,12.29288322633639,Complétée,Francfort,Allemagne
+id_transaction_00000692,Retrait,289.3928552570419,JPY,-1.521388996791952,Complétée,Francfort,Japon
+id_transaction_00000510,Carte,-521.4785251989776,MAD,-6.035994379879345,Complétée,Tokyo,Maroc
+id_transaction_00000765,Virement International,1338.408597489361,USD,13.900968975891413,Complétée,Pékin,USA
+id_transaction_00000883,Carte,729.5804669554383,JPY,7.777167190589532,Complétée,Londres,France
+id_transaction_00000782,Virement International,130.6805319446289,USD,-5.64786975527256,En attente,Washington DC,Japon
+id_transaction_00000955,Virement International,611.4720149131542,USD,12.571329084391659,Complétée,Francfort,Maroc
+id_transaction_00000938,Carte,-101.21521189448879,CNY,3.469051253250619,Complétée,New York,USA
+id_transaction_00000188,Prélèvement,1113.4729067815829,USD,-1.4541244844070604,En cours,New York,Chine
+id_transaction_00000876,Retrait,482.8632404434476,CNY,-7.670278804664421,Complétée,Londres,Maroc
+id_transaction_00000821,Virement,561.4781552217955,CNY,7.995578426581171,Complétée,New York,USA
+id_transaction_00000726,Retrait,1022.3994082518063,JPY,2.4566173189900615,Complétée,Casablanca,Royaume-Uni
+id_transaction_00000396,Carte,-222.3127969281079,JPY,2.92026882986033,Complétée,Francfort,USA
+id_transaction_00000779,Retrait,-383.8576124552334,EUR,-16.809856325706285,Complétée,Francfort,Royaume-Uni
+id_transaction_00000063,Retrait,-178.55989132808463,JPY,79.686329583419,Complétée,Washington DC,Japon
+id_transaction_00000471,Virement,307.97577788637966,MAD,-15.86519876112439,En attente,Pékin,Allemagne
+id_transaction_00000653,Prélèvement,-1173.1776278861826,EUR,-7.659797129802853,Complétée,Pékin,Maroc
+id_transaction_00000174,Prélèvement,85.09940144894915,EUR,5.197559425020655,Complétée,Johannesburg,Chine
+id_transaction_00000360,Carte,3883.0574046669412,USD,-10.07814671184676,Complétée,Tokyo,USA
+id_transaction_00000018,Carte,887.4885570749891,JPY,0.331407632408351,En cours,Johannesburg,USA
+id_transaction_00000864,Retrait,763.0244050373663,MAD,-0.7748515226484995,Complétée,Tokyo,Afrique du Sud
+id_transaction_00000063,Prélèvement,-1183.972660654053,JPY,-16.482423995897417,En attente,Pékin,Royaume-Uni
+id_transaction_00000607,Carte,1241.846265241644,EUR,9.259077987623176,Complétée,New York,Royaume-Uni
+id_transaction_00000527,Retrait,1536.2960861227143,USD,15.3477287311649,Complétée,Casablanca,Royaume-Uni
+id_transaction_00000009,Retrait,481.56500234487277,EUR,-1.8092141449351287,Complétée,Paris,France
+id_transaction_00000644,Carte,1655.8274182308605,CNY,6.687178608436939,Complétée,Londres,Maroc
+id_transaction_00000683,Retrait,1140.1806140404456,CNY,16.20419852035781,En attente,Casablanca,Allemagne
+id_transaction_00000223,Virement International,-198.63346511388556,USD,3.5418987181591204,En attente,Francfort,Royaume-Uni
+id_transaction_00000664,Virement International,1949.1316498018186,JPY,17.380276713970517,Complétée,Londres,Maroc
+id_transaction_00000354,Dépôt,-936.5419376303822,USD,6.2845288117271965,Rejetée,Washington DC,USA
+id_transaction_00000432,Virement International,398.03721306152704,JPY,2.9963403944188,Complétée,Casablanca,Maroc
+id_transaction_00000389,Dépôt,21749.669186268336,GBP,-0.3792682628799202,En attente,Pékin,Chine
+id_transaction_00000745,Prélèvement,956.4958934641361,ZAR,-6.458984428373111,Complétée,Londres,Maroc
+id_transaction_00000207,Virement,3277.280774159597,CNY,202.1543271042999,Complétée,Pékin,Maroc
+id_transaction_00000355,Retrait,383.18887035680456,EUR,34.93609108272871,Rejetée,New York,Japon
+id_transaction_00000760,Retrait,641.0002142283821,EUR,11.624636116650393,Complétée,Washington DC,Allemagne
+id_transaction_00000424,Prélèvement,590.1568691341348,GBP,-12.023722549018348,Complétée,Pékin,Chine
+id_transaction_00000999,Dépôt,9561.377737542603,USD,-2.806683456435226,Complétée,Paris,Allemagne
+id_transaction_00000145,Prélèvement,2412.942746242872,MAD,1.8600570384252988,Complétée,Tokyo,France
+id_transaction_00000116,Virement,-121.90600104774637,EUR,-9.06844143044301,Complétée,Pékin,Royaume-Uni
+id_transaction_00000106,Retrait,1094.1091415906135,JPY,12.952700099007803,Complétée,Francfort,Royaume-Uni
+id_transaction_00000460,Virement,737.0839530640707,CNY,1.0190416815911458,Rejetée,New York,Royaume-Uni
+id_transaction_00000376,Retrait,-1488.4753625744856,USD,-13.046228521980261,Complétée,Casablanca,UE
+id_transaction_00000909,Carte,600.5855099705255,JPY,-8.879517734436842,Rejetée,Tokyo,USA
+id_transaction_00000557,Carte,436.0916809330725,GBP,1.6779871692073787,En attente,Tokyo,Royaume-Uni
+id_transaction_00000477,Retrait,4760.531846646747,CNY,5.703831879373171,Complétée,Londres,Maroc
+id_transaction_00000266,Prélèvement,65.40512867097777,GBP,-8.118361134942674,Complétée,Pékin,Chine
+id_transaction_00000565,Carte,-240.99038532273175,MAD,-3.2160259814310637,Complétée,Johannesburg,France
+id_transaction_00000031,Dépôt,-523.5869143104384,GBP,4.244185590590825,Complétée,Washington DC,Afrique du Sud
+id_transaction_00000586,Carte,-225.21791913346362,JPY,-5.620403337552799,Complétée,Tokyo,USA
+id_transaction_00000446,Retrait,202.36791014974025,USD,-4.488103849806113,Complétée,Paris,Japon
+id_transaction_00000598,Virement,6912.578060871506,JPY,14.01600082268703,En attente,Washington DC,Japon
+id_transaction_00000595,Virement,6527.176776099139,JPY,6.244755207541981,Rejetée,New York,USA
+id_transaction_00000124,Retrait,675.8464869437756,CNY,-5.7168389553847225,Complétée,Tokyo,Royaume-Uni
+id_transaction_00000704,Retrait,4837.092237773687,JPY,10.385304086892969,Rejetée,Paris,Japon
+id_transaction_00000459,Virement,-714.469484704308,MAD,-14.205279881679779,Complétée,Tokyo,Royaume-Uni
+id_transaction_00000802,Retrait,15443.24920877034,CNY,6.2107664927275525,Complétée,Tokyo,Royaume-Uni
+id_transaction_00000907,Dépôt,1082.7752242925653,USD,12.569158388555522,Complétée,Rabat,USA
+id_transaction_00000577,Dépôt,956.1918249356868,JPY,-2.4516183490225716,Complétée,Tokyo,Maroc
+id_transaction_00000018,Virement International,-37.69380595916613,USD,10.514395849308663,Rejetée,Paris,Maroc
+id_transaction_00000031,Virement International,313.0719257774937,MAD,10.882439032011238,Complétée,Francfort,UE
+id_transaction_00000789,Dépôt,984.3345575819649,EUR,2.212487696770896,En attente,New York,USA
+id_transaction_00000111,Dépôt,409.4604831515283,JPY,1.6082761142509407,Complétée,New York,Royaume-Uni
+id_transaction_00000013,Retrait,19047.33999221785,USD,4.1507910514822415,Complétée,New York,Maroc
+id_transaction_00000390,Virement International,1089.605830554505,JPY,-0.7776731265850847,Complétée,Paris,Maroc
+id_transaction_00000538,Retrait,-1296.782045998586,USD,-12.045305238550686,Complétée,Washington DC,USA
+id_transaction_00000377,Virement International,1282.9077102915994,JPY,1.1169239288965072,En cours,New York,Japon
+id_transaction_00000461,Carte,6673.206530647478,ZAR,-6.516498848518956,Complétée,Pékin,USA
+id_transaction_00000699,Dépôt,13955.993371391618,JPY,-4.713496438460951,Complétée,Casablanca,USA
+id_transaction_00000229,Retrait,-54.76225053977191,MAD,5.2319094801112325,Complétée,New York,Allemagne
+id_transaction_00000090,Carte,60697.73545492269,GBP,-8.327559691272427,Complétée,Francfort,Royaume-Uni
+id_transaction_00000324,Virement International,922.9398893873181,CNY,-5.28575539831633,Complétée,Paris,Royaume-Uni
+id_transaction_00000717,Dépôt,72.13849494011475,EUR,-3.12427048804732,Complétée,New York,Japon
+id_transaction_00000154,Carte,495.208509796416,JPY,3.033151527431295,Complétée,Paris,Maroc
+id_transaction_00000936,Dépôt,417.1957997386225,CNY,4.654431570017078,Complétée,Washington DC,USA
+id_transaction_00000984,Dépôt,-334.65750517327683,USD,4.372373898576103,Complétée,New York,Maroc
+id_transaction_00000075,Carte,1582.335583957079,MAD,-0.9665236643289985,Complétée,Pékin,Royaume-Uni
+id_transaction_00000940,Prélèvement,1384.868516229285,USD,-4.462199811961022,En attente,Londres,USA
+id_transaction_00000914,Dépôt,30316.529980601365,USD,1.098263561182348,Complétée,New York,France
+id_transaction_00000066,Virement,-418.08399957160407,MAD,-11.354145061344138,Complétée,Washington DC,USA
+id_transaction_00000252,Retrait,994.5644216018582,MAD,-0.19234038439806955,Complétée,Casablanca,Japon
+id_transaction_00000586,Retrait,1568.581931503736,USD,10.433091965747204,Complétée,Casablanca,USA
+id_transaction_00000875,Prélèvement,39.17719548488401,GBP,-0.5856341914253491,Rejetée,New York,UE
+id_transaction_00000951,Carte,376.85469322611465,EUR,1.4812463124459834,En attente,Washington DC,Royaume-Uni
+id_transaction_00000039,Prélèvement,1183.4371590234691,JPY,2.453590521160379,Complétée,Johannesburg,USA
+id_transaction_00000775,Carte,65.38948975493781,USD,-13.051966935811155,Complétée,Paris,Royaume-Uni
+id_transaction_00000814,Retrait,272.71384484745244,USD,-7.898794148732649,Complétée,Washington DC,USA
+id_transaction_00000490,Dépôt,462.8577038807918,MAD,-14.57290315600039,Complétée,Casablanca,USA
+id_transaction_00000149,Retrait,-876.5594171019142,USD,-15.553688876119097,Complétée,New York,Maroc
+id_transaction_00000389,Prélèvement,48.872278254550906,GBP,-8.545289703582341,Rejetée,Tokyo,Maroc
+id_transaction_00000965,Retrait,-549.8529383217383,EUR,-9.806661411469186,Complétée,Tokyo,Maroc
+id_transaction_00000206,Virement,1472.0360897961996,GBP,4.751429905167558,Complétée,Washington DC,Maroc
+id_transaction_00000447,Carte,412.7443676128861,JPY,4.332477090365332,Complétée,Paris,Royaume-Uni
+id_transaction_00000120,Retrait,1707.3286913616016,EUR,11.120269026332917,En cours,New York,Afrique du Sud
+id_transaction_00000906,Virement International,7092.791461482571,GBP,-5.0747830046689595,Complétée,Washington DC,USA
+id_transaction_00000597,Virement,-844.2095450695805,USD,-97.15251490171723,Complétée,Washington DC,USA
+id_transaction_00000974,Virement International,285.864492098583,MAD,1.5558399297817656,Complétée,Washington DC,USA
+id_transaction_00000696,Prélèvement,-932.8909475184495,GBP,-12.6071787316702,Complétée,Washington DC,Afrique du Sud
+id_transaction_00000416,Virement,1187.9516185937841,EUR,-2.27530393049114,En attente,Francfort,USA
+id_transaction_00000347,Carte,5792.373020030445,JPY,7.550529909308434,Complétée,Londres,Maroc
+id_transaction_00000073,Carte,6677.034659186571,JPY,7.831016181362953,En attente,Pékin,Royaume-Uni
+id_transaction_00000274,Virement,873.9883402239069,GBP,11.159573052185852,Complétée,New York,Royaume-Uni
+id_transaction_00000423,Retrait,867.043693085126,ZAR,-7.269975834812608,En attente,Londres,USA
+id_transaction_00000507,Prélèvement,-1048.2552052853453,MAD,-5.322432741904021,En attente,Francfort,Maroc
+id_transaction_00000723,Carte,631.2139689654628,CNY,-0.4639494525206862,Rejetée,Pékin,Japon
+id_transaction_00000313,Dépôt,4523.696589695157,CNY,-5.553889448981972,Complétée,New York,Royaume-Uni
+id_transaction_00000173,Virement,493.6276776463056,GBP,8.660129540771472,Complétée,Washington DC,Maroc
+id_transaction_00000283,Retrait,290.94223054045204,ZAR,12.664492623781761,Complétée,Paris,USA
+id_transaction_00000497,Prélèvement,285.3888379061115,GBP,-10.936359271150032,En attente,Paris,Maroc
+id_transaction_00000914,Prélèvement,60683.619922760445,USD,-5.702238370141566,En attente,Londres,Royaume-Uni
+id_transaction_00000976,Retrait,4728.954757788972,CNY,8.635412570894019,Rejetée,Londres,Maroc
+id_transaction_00000726,Prélèvement,15703.827513506309,CNY,5.19732756406407,Complétée,Johannesburg,Allemagne
+id_transaction_00000809,Retrait,-265.4038171463129,GBP,0.3994488249746855,Complétée,Casablanca,Japon
+id_transaction_00000839,Prélèvement,4124.636504363347,USD,-108.28414839449295,En attente,Londres,Japon
+id_transaction_00000701,Dépôt,-434.8380787136945,USD,-13.781537205035995,En attente,New York,Japon
+id_transaction_00000186,Dépôt,-62.31271146180643,JPY,-6.9329587704807425,Complétée,Paris,Royaume-Uni
+id_transaction_00000380,Carte,3774.421885842109,USD,12.050701317578689,En attente,Johannesburg,Chine
+id_transaction_00000637,Prélèvement,805.5656050972225,USD,-3.4985010558340663,En attente,Washington DC,Royaume-Uni
+id_transaction_00000764,Virement International,452.6574022721571,JPY,-8.68212672120098,En cours,Francfort,Royaume-Uni
+id_transaction_00000430,Prélèvement,-833.8674402460229,USD,-12.494547077177234,Complétée,Washington DC,USA
+id_transaction_00000615,Dépôt,1017.0718798881685,JPY,20.173762823651522,Complétée,Rabat,Maroc
+id_transaction_00000251,Virement,-73.76744325728157,GBP,-5.188694427667346,En attente,Johannesburg,Chine
+id_transaction_00000378,Carte,4154.345869981372,GBP,4.663971708065141,Complétée,Washington DC,Royaume-Uni
+id_transaction_00000930,Carte,653.0535990846428,JPY,10.638138039068167,Complétée,Washington DC,Afrique du Sud
+id_transaction_00000440,Dépôt,5256.810667616084,USD,5.955616217182197,Complétée,Pékin,Chine
+id_transaction_00000278,Carte,1004.2948080631796,EUR,12.255870156476718,Complétée,Tokyo,Maroc
+id_transaction_00000086,Dépôt,38.07136153807136,EUR,5.504202602257162,En attente,New York,Japon
+id_transaction_00000542,Retrait,-597.0454578223527,MAD,-9.102916008819328,En attente,Tokyo,France
+id_transaction_00000265,Virement,255.434139414649,JPY,-9.224041036909366,Complétée,Washington DC,Afrique du Sud
+id_transaction_00000058,Virement International,2715.0864565151383,JPY,0.3917231120472717,Complétée,Johannesburg,USA
+id_transaction_00000878,Virement,-72.69195809803148,EUR,6.987365248022771,Complétée,Paris,France
+id_transaction_00000716,Retrait,788.8157840758358,EUR,514.2516286275264,Complétée,Francfort,France
+id_transaction_00000177,Retrait,698.192794716536,USD,3.796046136737937,Complétée,New York,France
+id_transaction_00000149,Carte,-619.4524631702383,USD,-4.939138566941826,En attente,Rabat,Royaume-Uni
+id_transaction_00000189,Carte,-1072.596481318089,EUR,-5.37258523609776,Complétée,Londres,Royaume-Uni
+id_transaction_00000054,Retrait,1023.4746224397388,MAD,3.553554056991647,Complétée,New York,Royaume-Uni
+id_transaction_00000696,Prélèvement,7123.926784933088,CNY,4.150681564630857,Complétée,Londres,France
+id_transaction_00000766,Retrait,2702.5700839715746,USD,-14.605357363736982,Complétée,Paris,Royaume-Uni
+id_transaction_00000414,Retrait,873.1620712564019,USD,-9.21637344972456,Complétée,Tokyo,UE
+id_transaction_00000871,Carte,1315.2148462761406,JPY,-12.474112872145458,Complétée,Londres,Royaume-Uni
+id_transaction_00000615,Retrait,1485.4882673037037,USD,1.3063096243396353,Complétée,New York,Maroc
+id_transaction_00000507,Virement International,13909.529189015948,CNY,6.462000107915987,En cours,Rabat,USA
+id_transaction_00000872,Retrait,525.6251369638794,JPY,2.681822502233377,Complétée,New York,Allemagne
+id_transaction_00000801,Dépôt,18622.694354269704,JPY,1.53036632308239,Complétée,New York,Maroc
+id_transaction_00000954,Virement International,192.48032161406712,JPY,-10.037283312623082,Complétée,Pékin,Japon
+id_transaction_00000971,Virement,19860.709575965808,USD,8.221451554780527,Complétée,Paris,USA
+id_transaction_00000241,Dépôt,594.9513098182807,MAD,7.049809708255824,Complétée,New York,Allemagne
+id_transaction_00000487,Virement,20231.646437279454,CNY,277.7111426597137,Complétée,Londres,USA
+id_transaction_00000377,Retrait,-1017.376088144152,USD,-4.075433124961793,Complétée,Washington DC,USA
+id_transaction_00000373,Carte,639.410986806202,GBP,-1.7777165065316813,En attente,Londres,Royaume-Uni
+id_transaction_00000464,Retrait,1141.7815125843736,MAD,2.308332286038942,Complétée,Londres,Royaume-Uni
+id_transaction_00000390,Retrait,-925.3649127251803,JPY,2.1992473040132405,Complétée,Londres,France
+id_transaction_00000439,Dépôt,-2876.570450112642,USD,-4.7402142367026,Complétée,Tokyo,Afrique du Sud
+id_transaction_00000795,Carte,1275.5010551374603,USD,-7.039090363481008,Complétée,New York,France
+id_transaction_00000743,Virement International,-243.58389051293568,JPY,-12.416810911610536,En attente,Washington DC,Japon
+id_transaction_00000155,Virement International,17534.811743036174,EUR,6.591669119085887,Complétée,New York,Maroc
+id_transaction_00000742,Virement International,-1607.7519816441595,USD,-11.130297815708378,Complétée,Johannesburg,Maroc
+id_transaction_00000054,Prélèvement,-772.3374224912008,USD,-11.103909730730852,En attente,Francfort,USA
+id_transaction_00000087,Prélèvement,47356.19395089013,MAD,-9.609824597124081,Complétée,Londres,Japon
+id_transaction_00000978,Virement,7716.918996171248,GBP,6.094790979511482,Complétée,Casablanca,USA
+id_transaction_00000523,Carte,-727.9342817331711,MAD,-6.298183570111024,En attente,Washington DC,Allemagne
+id_transaction_00000886,Carte,11909.915230436425,JPY,-15.012181440608991,Complétée,Tokyo,Royaume-Uni
+id_transaction_00000936,Carte,1557.233033362848,EUR,6.122305062845606,Complétée,Londres,France
+id_transaction_00000472,Virement International,-597.7842808420819,CNY,1.2057185169949944,Complétée,Johannesburg,Afrique du Sud
+id_transaction_00000359,Virement,970.0924796820209,CNY,0.13271730839153317,En attente,Francfort,USA
+id_transaction_00000767,Dépôt,1176.1151269221068,GBP,-1.692761725033452,Complétée,Londres,Royaume-Uni
+id_transaction_00000300,Carte,573.334069730411,MAD,11.561369753405977,Complétée,Londres,Chine
+id_transaction_00000054,Retrait,1195.576674048514,USD,5.124921272289278,Complétée,Francfort,Japon
+id_transaction_00000273,Carte,573.0411110259801,MAD,0.15504911848597303,Complétée,Paris,USA
+id_transaction_00000382,Carte,321.9519558566916,USD,-7.241977265897559,Complétée,Paris,France
+id_transaction_00000470,Dépôt,-544.0992107858245,USD,-0.8850514165475634,En cours,Casablanca,Allemagne
+id_transaction_00000336,Carte,1523.853547744302,USD,-1.1689079795055584,Complétée,New York,USA
+id_transaction_00000852,Carte,4679.747182351762,MAD,-11.045954356675544,Complétée,Casablanca,Allemagne
+id_transaction_00000096,Virement,39.2635579147975,USD,-5.773516565270561,Complétée,Johannesburg,Allemagne
+id_transaction_00000463,Retrait,337.95023792892727,USD,16.2273736548041,Complétée,Casablanca,Maroc
+id_transaction_00000626,Carte,510.50664069435965,GBP,15.602127067550722,Complétée,Washington DC,Royaume-Uni
+id_transaction_00000020,Carte,5397.05880892776,CNY,-4.471258408296591,Complétée,Londres,USA
+id_transaction_00000059,Prélèvement,-124.07972827278309,JPY,-5.705390188426262,Rejetée,New York,Maroc
+id_transaction_00000269,Retrait,-108.29027299502275,USD,-35.35786351538992,Complétée,Tokyo,Royaume-Uni
+id_transaction_00001000,Virement,421.48716765546584,ZAR,8.316809340954205,Complétée,Francfort,Royaume-Uni
+id_transaction_00000762,Prélèvement,-883.9420693580252,GBP,-5.69912964507984,Complétée,Johannesburg,Royaume-Uni
+id_transaction_00000562,Prélèvement,4160.448439421358,JPY,4.9734943252916635,En attente,Paris,Royaume-Uni
+id_transaction_00000622,Carte,-943.5752691480176,ZAR,3.6425552169641984,Complétée,Casablanca,Chine
+id_transaction_00000724,Retrait,1086.3610651577278,EUR,3.5289116233574127,Complétée,Washington DC,France
+id_transaction_00000667,Carte,2337.908134720286,GBP,19.957510006938314,En attente,Londres,Royaume-Uni
+id_transaction_00000618,Virement,-292.6347313091251,EUR,-10.637930684736194,Complétée,Casablanca,USA
+id_transaction_00000240,Dépôt,1904.1418948515393,JPY,17.655917002776818,En attente,Paris,USA
+id_transaction_00000426,Prélèvement,1064.7902385855311,EUR,12.353749397278152,Complétée,Tokyo,Royaume-Uni
+id_transaction_00000946,Dépôt,349.74681939655216,MAD,-3.6110795954242976,Complétée,Casablanca,Allemagne
+id_transaction_00000816,Retrait,1220.2798129207158,USD,16.580988625155403,Complétée,Londres,Japon
+id_transaction_00000635,Dépôt,-378.15389848249674,GBP,4.9958165364959575,Rejetée,Tokyo,Chine
+id_transaction_00000340,Dépôt,1719.5623495643913,MAD,-4.850924735185463,Rejetée,New York,Japon
+id_transaction_00000354,Carte,-1603.4028145775337,USD,-13.366613606581502,Complétée,Paris,USA
+id_transaction_00000273,Retrait,-156.56338739973205,ZAR,-10.42605233123847,En attente,Paris,USA
+id_transaction_00000021,Virement,93.43951150043483,JPY,-4.136819922167118,Complétée,New York,USA
+id_transaction_00000662,Virement,-1089.2818111659049,CNY,-10.474177439616646,En attente,Casablanca,USA
+id_transaction_00000401,Virement International,-1800.0812195931958,USD,-16.117007495460083,Complétée,Casablanca,Japon
+id_transaction_00000662,Prélèvement,89.17028097247845,USD,-15.51466245079553,Complétée,Paris,Maroc
+id_transaction_00000544,Virement,1601.841525821284,GBP,5.311914460022474,En attente,Londres,USA
+id_transaction_00000189,Dépôt,1156.809968956099,MAD,32.435322005905505,Complétée,Francfort,Maroc
+id_transaction_00000018,Prélèvement,-95.25349451728175,ZAR,13.539366225686958,En attente,Francfort,USA
+id_transaction_00000607,Carte,-38.36643418963547,MAD,-11.8034700799127,Complétée,Johannesburg,Royaume-Uni
+id_transaction_00000323,Carte,3457.451763037312,JPY,-0.028440822754017603,Complétée,Francfort,France
+id_transaction_00000533,Dépôt,283.3599446419212,USD,0.37931376708375986,Complétée,Francfort,Maroc
+id_transaction_00000116,Carte,1502.5125435595533,GBP,5.242507748017226,Complétée,Londres,Maroc
+id_transaction_00000303,Dépôt,5280.647610586568,USD,11.509513072568957,Complétée,Johannesburg,Maroc
+id_transaction_00000707,Carte,-468.27121665310983,ZAR,5.530162401354795,En attente,Johannesburg,Royaume-Uni
+id_transaction_00000255,Carte,-2165.1811164719693,USD,-4.744590704254034,En attente,Washington DC,Royaume-Uni
+id_transaction_00000304,Carte,-516.3998259252027,MAD,8.190412909310115,Complétée,Tokyo,USA
+id_transaction_00000324,Virement International,-610.3287814888516,JPY,-2.3101573283624104,En attente,Francfort,Maroc
+id_transaction_00000551,Dépôt,417.30952543283234,MAD,2.384720285135852,Complétée,Francfort,Japon
+id_transaction_00000803,Prélèvement,5370.20297613611,ZAR,1.1119529251932763,En attente,Tokyo,Allemagne
+id_transaction_00000767,Retrait,1241.3994722492362,GBP,6.323884574501894,Complétée,Casablanca,Maroc
+id_transaction_00000003,Dépôt,-4017.7181992672595,USD,-0.10790723133137714,Rejetée,Pékin,Maroc
+id_transaction_00000068,Retrait,839.8963161708396,EUR,22.116021484822365,Complétée,Tokyo,Maroc
+id_transaction_00000870,Virement International,992.272546198246,JPY,94.24307689150339,Complétée,Casablanca,Maroc
+id_transaction_00000664,Virement,434.28522524124224,JPY,8.80901061312635,Complétée,Londres,Royaume-Uni
+id_transaction_00000054,Retrait,12203.564117282307,USD,-16.57280551698599,Complétée,Johannesburg,France
+id_transaction_00000727,Carte,-135.16234371305768,GBP,-8.57708648912664,Complétée,Johannesburg,Maroc
+id_transaction_00000884,Prélèvement,1282.832225424575,USD,5.5917879337626655,Complétée,Londres,Chine
+id_transaction_00000223,Carte,261.5267552933139,MAD,-15.240705804189005,Complétée,Pékin,Royaume-Uni
+id_transaction_00000138,Dépôt,133604.93669372727,CNY,3.7423159028696795,Complétée,Washington DC,Japon
+id_transaction_00000196,Virement International,1421.8763569483283,CNY,-0.504847426539536,Complétée,Pékin,USA
+id_transaction_00000116,Retrait,-2146.3253046536993,MAD,-10.294622009850652,Complétée,Pékin,Japon
+id_transaction_00000775,Virement International,1869.5582126979202,ZAR,13.223001337921666,Complétée,Londres,USA
+id_transaction_00000404,Virement,-1119.328039897408,USD,-11.321354125167591,Complétée,Washington DC,Royaume-Uni
+id_transaction_00000096,Retrait,20968.755612279158,CNY,-1.0603716844467472,Complétée,Francfort,Royaume-Uni
+id_transaction_00000179,Dépôt,-916.7553023433235,GBP,-10.88476365507077,En attente,Washington DC,Allemagne
+id_transaction_00000463,Virement,247.21821164696547,USD,-3.166003769074213,En attente,New York,USA
+id_transaction_00000447,Dépôt,1268.6437801371717,USD,4.1334173421783404,Complétée,Pékin,Maroc
+id_transaction_00000432,Retrait,-209.39969750172224,EUR,0.19314553192775996,Complétée,Francfort,Royaume-Uni
+id_transaction_00000675,Prélèvement,37416.79045875836,JPY,16.73241620633744,Complétée,Casablanca,Maroc
+id_transaction_00000981,Virement,850.3756673537954,JPY,6.26386680138736,Complétée,Paris,USA
+id_transaction_00000194,Carte,1622.0044686960937,JPY,10.961753612140225,Complétée,New York,USA
+id_transaction_00000993,Dépôt,46027.30587616774,USD,-3.9949540256446285,Complétée,New York,Japon
+id_transaction_00000304,Dépôt,563.8587640543496,ZAR,4.855545950461479,Complétée,Londres,USA
+id_transaction_00000737,Prélèvement,-264.1883946566562,USD,0.4642620344901447,Complétée,Tokyo,Maroc
+id_transaction_00000203,Carte,-1053.276381219429,JPY,-16.468992940682316,En attente,Pékin,Japon
+id_transaction_00000919,Retrait,933.8386267494236,GBP,6.5415748759057575,En attente,Washington DC,USA
+id_transaction_00000503,Dépôt,503.57402824769304,EUR,1.9221929561927245,Complétée,Pékin,France
+id_transaction_00000620,Retrait,-750.9515144881194,MAD,-14.699917925285707,En attente,Johannesburg,USA
+id_transaction_00000331,Retrait,540.8405054794137,USD,7.104033885665281,En attente,Londres,Maroc
+id_transaction_00000852,Retrait,1728.7511417823603,GBP,3.180534859745958,En cours,Francfort,Royaume-Uni
+id_transaction_00000374,Retrait,1406.5529289423844,CNY,5.277868394579728,Rejetée,Francfort,Maroc
+id_transaction_00000360,Virement,1226.1296965641623,MAD,5.264483764013174,Complétée,Casablanca,Royaume-Uni
+id_transaction_00000678,Virement,507.8646945423749,GBP,0.09968885840466069,En attente,Londres,USA
+id_transaction_00000722,Dépôt,-500.7059414180163,USD,3.3425145180898808,Complétée,Londres,Afrique du Sud
+id_transaction_00000948,Dépôt,924.4613933352116,JPY,-5.096233408028458,Complétée,Paris,USA
+id_transaction_00000477,Virement,-1248.0095314556816,GBP,-11.677341227118216,En attente,Washington DC,USA
+id_transaction_00000073,Carte,80.2183951064016,EUR,-0.9675649168561202,En cours,Pékin,Maroc
+id_transaction_00000234,Prélèvement,5617.889599969416,ZAR,-3.9526004026405586,Complétée,Washington DC,Japon
+id_transaction_00000028,Retrait,-171.76062019208644,EUR,-6.260783663412597,Complétée,Pékin,Japon
+id_transaction_00000078,Carte,5333.528615842892,GBP,-7.55599257084299,En attente,Washington DC,Royaume-Uni
+id_transaction_00000777,Carte,-69.89402440385027,GBP,-1.6398036615907454,Complétée,Francfort,Royaume-Uni
+id_transaction_00000935,Virement,255.64698738456357,GBP,-3.6919555532599793,En attente,Casablanca,Maroc
+id_transaction_00000131,Dépôt,1341.4848187266389,ZAR,59.64431573270164,Complétée,New York,Royaume-Uni
+id_transaction_00000315,Virement,17974.409757718524,EUR,10.517142290647042,Rejetée,Johannesburg,Maroc
+id_transaction_00000614,Carte,1372.8041481282428,ZAR,13.350574815853633,Complétée,Tokyo,Maroc
+id_transaction_00000466,Carte,-749.9477593076366,GBP,-5.124967568237932,En attente,New York,Royaume-Uni
+id_transaction_00000152,Retrait,6788.472842320572,USD,-6.255507249018662,Complétée,Casablanca,Japon
+id_transaction_00000477,Dépôt,17948.655825458147,JPY,3.27447608148548,Complétée,Francfort,France
+id_transaction_00000348,Retrait,13045.768346300702,CNY,13.231987778162958,Complétée,Pékin,Allemagne
+id_transaction_00000747,Carte,1116.963887484876,USD,10.171680958948931,Complétée,Francfort,France
+id_transaction_00000270,Retrait,844.895775689333,MAD,4.3366977834319895,Complétée,Francfort,USA
+id_transaction_00000339,Retrait,560.9099477240431,ZAR,-6.616347850477326,Complétée,Pékin,UE
+id_transaction_00000530,Prélèvement,2724.550393658452,USD,-15.528243831207039,Complétée,New York,Maroc
+id_transaction_00000802,Virement,-919.6814828910695,USD,-4.539309622542686,Complétée,Tokyo,USA
+id_transaction_00000990,Carte,-769.6486902379814,EUR,-16.051401571075562,En attente,Washington DC,Japon
+id_transaction_00000894,Carte,1170.4785364157397,MAD,1.2280909148924648,En attente,Pékin,Chine
+id_transaction_00000597,Virement,4332.732324799417,USD,1.1419701109540954,En attente,Londres,USA
+id_transaction_00000952,Virement International,1582.0604319392282,USD,4.713659258953488,Complétée,Johannesburg,France
+id_transaction_00000209,Dépôt,1366.0434911764123,USD,-8.718003332575805,Complétée,Pékin,Japon
+id_transaction_00000031,Retrait,1285.91262736218,MAD,-3.679456514262612,Complétée,Casablanca,Royaume-Uni
+id_transaction_00000784,Virement International,5299.894971960849,USD,9.000865399920485,En cours,Washington DC,Royaume-Uni
+id_transaction_00000257,Retrait,3857.242917410819,MAD,721.0172076331062,Complétée,Francfort,Maroc
+id_transaction_00000588,Carte,90.52420440847754,MAD,-10.862664849030764,Complétée,Paris,Royaume-Uni
+id_transaction_00000026,Dépôt,1630.8622888048017,USD,19.65654092470518,En attente,Washington DC,UE
+id_transaction_00000668,Carte,-904.2508276637631,USD,-15.814156341767912,Rejetée,Rabat,Royaume-Uni
+id_transaction_00000726,Carte,332.2527756515878,MAD,-10.673566775796765,Complétée,Casablanca,Royaume-Uni
+id_transaction_00000392,Prélèvement,2290.6210367800923,USD,-4.789199205204233,En attente,Johannesburg,Royaume-Uni
+id_transaction_00000215,Retrait,-30.69299099963365,USD,9.066118561177433,Complétée,Tokyo,Japon
+id_transaction_00000601,Prélèvement,2607.9260958639306,EUR,5.460262124557378,Complétée,Tokyo,Allemagne
+id_transaction_00000800,Retrait,4499.313599187601,USD,5.881234746279846,Rejetée,Washington DC,Japon
+id_transaction_00000981,Carte,1434.7617398799503,GBP,6.315558813498816,Complétée,Londres,USA
+id_transaction_00000532,Retrait,5901.079921687387,EUR,8.830912743701058,Complétée,Washington DC,Japon
+id_transaction_00000195,Retrait,557.6862406696565,USD,0.5935432066533117,Rejetée,Pékin,UE
+id_transaction_00000953,Prélèvement,3765.9793354114577,MAD,-11.35730790347657,Complétée,Casablanca,Royaume-Uni
+id_transaction_00000416,Carte,1720.0126264737387,CNY,2618.1539711286414,Complétée,Casablanca,Royaume-Uni
+id_transaction_00000381,Virement International,680.1165303856845,CNY,-0.3261403319652718,En attente,Washington DC,USA
+id_transaction_00000465,Dépôt,-184.29165006076414,ZAR,-0.19097392836271698,Rejetée,Francfort,Royaume-Uni
+id_transaction_00000841,Virement International,152.964361473606,USD,-11.400244788242706,Rejetée,Washington DC,Japon
+id_transaction_00000823,Virement,-674.102887532859,EUR,1.9316486615888055,En cours,Washington DC,Maroc
+id_transaction_00000500,Dépôt,-5.622840832940597,EUR,4.879066269140023,Complétée,New York,Chine
+id_transaction_00000971,Retrait,576.8185092575375,JPY,7.57611225123321,Complétée,Tokyo,Maroc
+id_transaction_00000874,Virement International,520.4279458039703,JPY,6.558406788147603,Complétée,Casablanca,USA
+id_transaction_00000364,Dépôt,-265.436565965545,USD,-8.164140168088906,Complétée,Johannesburg,Afrique du Sud
+id_transaction_00000526,Retrait,1493.5269024093504,JPY,5.885120840513498,Complétée,Rabat,Royaume-Uni
+id_transaction_00000507,Dépôt,-604.8351089973838,USD,8.181303452949761,Complétée,New York,Maroc
+id_transaction_00000464,Carte,-393.2501873273418,MAD,-14.414520529064525,Complétée,Washington DC,USA
+id_transaction_00000575,Retrait,-331.7111953276575,USD,3.059899891796213,Complétée,Paris,France
+id_transaction_00000374,Retrait,1589.4184645156329,JPY,7.613798777972791,Complétée,Casablanca,Chine
+id_transaction_00000751,Retrait,1044.0432422389817,CNY,6.661601527894037,En attente,Paris,Maroc
+id_transaction_00000767,Retrait,-377.11948483294555,JPY,-1.3666467450291107,Complétée,Francfort,Royaume-Uni
+id_transaction_00000350,Virement International,5868.784590123229,MAD,-1.8196236637024201,Complétée,Londres,Maroc
+id_transaction_00000510,Retrait,-589.3565305570638,EUR,-8.339163794267176,Complétée,Tokyo,UE
+id_transaction_00000625,Carte,975.2727734915383,USD,4.6835058409834245,En cours,Londres,Royaume-Uni
+id_transaction_00000641,Dépôt,1029.413771777215,CNY,-9.796056469946564,Complétée,Pékin,Royaume-Uni
+id_transaction_00000422,Carte,691.4062406487881,ZAR,17.855367471203476,Complétée,Paris,Royaume-Uni
+id_transaction_00000293,Dépôt,-40.97635249964367,EUR,-7.352752905298867,En attente,Francfort,Royaume-Uni
+id_transaction_00000756,Retrait,1651.9936303291497,CNY,0.5571264267393952,Complétée,Francfort,Maroc
+id_transaction_00000869,Carte,1020.095416559282,CNY,7.956330021050908,Complétée,Tokyo,Royaume-Uni
+id_transaction_00000136,Prélèvement,1219.4816088396685,USD,2.189954200371275,Complétée,Pékin,Chine
+id_transaction_00000575,Virement International,192.75015098103802,JPY,-2.8957496320552236,Complétée,Tokyo,Maroc
+id_transaction_00000274,Virement International,645.4594537152047,EUR,-12.806413733982001,Complétée,Rabat,Royaume-Uni
+id_transaction_00000772,Carte,4870.717654158665,GBP,-8.646522699515643,Complétée,Pékin,Maroc
+id_transaction_00000578,Dépôt,6351.119708444463,USD,6.327351825157053,En cours,Washington DC,France
+id_transaction_00000917,Carte,177.8851870892496,USD,3.0687871174078762,Rejetée,Londres,Maroc
+id_transaction_00000014,Prélèvement,1507.5559391416737,USD,7.52763989165133,En cours,New York,USA
+id_transaction_00000674,Dépôt,-509.4209209322014,USD,4.374979597949347,En attente,Londres,Royaume-Uni
+id_transaction_00000073,Virement,677.2863123945299,CNY,2.5489976641068766,Complétée,Tokyo,Japon
+id_transaction_00000826,Carte,-175.98804371676772,MAD,-10.996133580081882,Complétée,New York,Afrique du Sud
+id_transaction_00000228,Carte,535.9230534946593,ZAR,-0.8660873919366585,En attente,Paris,USA
+id_transaction_00000819,Retrait,753.244237273997,USD,17.607729759984124,Complétée,New York,Maroc
+id_transaction_00000108,Virement International,-74.54954390003024,MAD,-1.8770133139352456,Complétée,Francfort,Royaume-Uni
+id_transaction_00000645,Virement,-502.89260253005307,JPY,1.5948099831566789,En cours,Tokyo,Royaume-Uni
+id_transaction_00000083,Retrait,1143.6724278584275,JPY,-13.372564480023321,Complétée,New York,Japon
+id_transaction_00000935,Retrait,676.2545891030599,GBP,12.414166095882653,Complétée,Londres,Royaume-Uni
+id_transaction_00000063,Virement International,1231.6049430060384,USD,7.995417829163008,En attente,Casablanca,Royaume-Uni
+id_transaction_00000505,Virement,358.6757307659219,MAD,3.80058971579938,En attente,Washington DC,Japon
+id_transaction_00000371,Retrait,1934.7710547778931,USD,-3.187347942628251,Complétée,Paris,France
+id_transaction_00000082,Retrait,30.099385376535224,CNY,-8.796840880748189,En attente,Pékin,Chine
+id_transaction_00000881,Carte,7.066165313853276,EUR,-0.6138953283501243,Complétée,Paris,Allemagne
+id_transaction_00000175,Prélèvement,1317.6826207750137,USD,22.174592190014973,Complétée,Pékin,Royaume-Uni
+id_transaction_00000315,Carte,-210.24249571959615,USD,-3.4394132319658146,Complétée,Paris,France
+id_transaction_00000882,Prélèvement,10828.488578090957,USD,12.942568681853865,Complétée,Johannesburg,France
+id_transaction_00000461,Retrait,718.456920175259,ZAR,5.816093577294223,En attente,Londres,Royaume-Uni
+id_transaction_00000248,Carte,1379.1690321157362,CNY,1.6575887916807441,Complétée,Londres,Maroc
+id_transaction_00000633,Prélèvement,535.7622513728032,GBP,2.5913552957828525,Complétée,New York,France
+id_transaction_00000633,Prélèvement,95.04037133417438,CNY,6.819736243526824,Complétée,Rabat,Royaume-Uni
+id_transaction_00000806,Dépôt,477.4214904113134,GBP,-6.615351695509127,Complétée,Francfort,Allemagne
+id_transaction_00000868,Retrait,-98.97373715593596,MAD,-14.383465347822508,Complétée,Francfort,USA
+id_transaction_00000406,Dépôt,851.1363225522716,EUR,3.2067078544216234,Complétée,New York,Royaume-Uni
+id_transaction_00000378,Retrait,1485.6047849702386,GBP,1.0982795958699647,Complétée,Francfort,Royaume-Uni
+id_transaction_00000424,Virement,852.5826513146465,CNY,2.1459389828629023,Complétée,Pékin,Chine
+id_transaction_00000459,Virement International,2037.2735096473102,GBP,2.0904925363356495,Complétée,Paris,Royaume-Uni
+id_transaction_00000634,Carte,-563.2736831564098,ZAR,-10.614559125366597,Complétée,Johannesburg,Maroc
+id_transaction_00000363,Virement International,239.78730714124112,USD,-6.235949940965933,Complétée,New York,Maroc
+id_transaction_00000330,Retrait,4545.834756529418,CNY,-3.780173393688247,Complétée,Tokyo,Japon
+id_transaction_00000185,Prélèvement,515.3004378216265,EUR,-6.015907927135257,Complétée,Paris,USA
+id_transaction_00000296,Retrait,928.8719552065577,USD,-9.074042547261183,Complétée,New York,Royaume-Uni
+id_transaction_00000930,Dépôt,4056.2757045714143,JPY,13.132457465620973,En attente,Tokyo,Chine
+id_transaction_00000910,Virement,280.1427751335777,CNY,3.445119481982405,Complétée,Tokyo,Maroc
+id_transaction_00000624,Virement,706.5039301921408,MAD,-3.756449071191077,En cours,Francfort,Maroc
+id_transaction_00000386,Carte,-764.2509017257325,EUR,-17.49360747506585,Complétée,New York,Japon
+id_transaction_00000751,Carte,900.2949325124589,EUR,14.870304926883684,Complétée,New York,Japon
+id_transaction_00000908,Carte,658.591807647655,EUR,7.54098225500055,En attente,Francfort,Royaume-Uni
+id_transaction_00000914,Virement International,5244.662836969141,ZAR,11.791197937522838,En attente,New York,USA
+id_transaction_00000014,Carte,1591.3955486686596,GBP,6.655341360360607,Complétée,Pékin,Chine
+id_transaction_00000238,Dépôt,18426.521210556246,JPY,-3.2246566520408573,Complétée,New York,France
+id_transaction_00000850,Virement,-596.1047228282881,MAD,-15.208935075012082,Complétée,Londres,Allemagne
+id_transaction_00000817,Dépôt,794.7382493221902,USD,6.570470760972366,En cours,Francfort,Allemagne
+id_transaction_00000319,Carte,6115.931769279809,GBP,-2.0453444623694166,Complétée,Washington DC,Maroc
+id_transaction_00000085,Retrait,2057.3408232907805,ZAR,-6.008496894952324,Complétée,Francfort,Maroc
+id_transaction_00000810,Retrait,-573.7158338484884,CNY,-11.749874136553235,Complétée,Johannesburg,Royaume-Uni
+id_transaction_00000492,Carte,-939.7421863107089,USD,94.34623011793589,Complétée,New York,USA
+id_transaction_00000421,Prélèvement,-452.8934395429085,USD,-5.60610540703841,Complétée,Rabat,France
+id_transaction_00000984,Retrait,-676.3508655830325,EUR,4.809050022717127,Complétée,Washington DC,Afrique du Sud
+id_transaction_00000282,Virement,1073.5369217438665,MAD,-6.14096746669929,Complétée,Francfort,Royaume-Uni
+id_transaction_00000394,Virement,1679.6143643683276,JPY,-3.232987674425808,Complétée,Pékin,Japon
+id_transaction_00000373,Prélèvement,-1024.0625763753574,CNY,-10.44374761119169,Complétée,Paris,USA
+id_transaction_00000169,Dépôt,1069.066669208496,EUR,25.21208916500998,En attente,Pékin,UE
+id_transaction_00000229,Prélèvement,-72.86220550581254,USD,12.18235462134118,Complétée,Johannesburg,Allemagne
+id_transaction_00000849,Dépôt,636.2744938058695,USD,10.323933324375261,Complétée,Londres,Maroc
+id_transaction_00000219,Retrait,1335.2055616754826,GBP,-10.098335385724404,Complétée,Londres,Maroc
+id_transaction_00000427,Virement,-582.633345067428,USD,-8.192056559229915,Complétée,Paris,Chine
+id_transaction_00000546,Virement,813.7489775966148,CNY,12.565131677627729,Complétée,New York,Afrique du Sud
+id_transaction_00000286,Dépôt,322.28606349119787,GBP,-1.4183330573102024,En attente,Tokyo,France
+id_transaction_00000552,Prélèvement,-73.43341304315175,USD,-1.521522285132768,En attente,Washington DC,USA
+id_transaction_00000731,Retrait,-432.8336651677863,EUR,-0.25125984404634405,Complétée,Washington DC,France
+id_transaction_00000965,Prélèvement,1308.9812672470812,USD,7.026808951037367,En attente,New York,Maroc
+id_transaction_00000668,Carte,24385.665848486686,EUR,-3.9689988772327593,Complétée,New York,Japon
+id_transaction_00000551,Virement,-672.7398243853403,CNY,-1.2897659298299757,Complétée,Pékin,Royaume-Uni
+id_transaction_00000203,Carte,1850.5865042932187,JPY,8.030128919181678,Complétée,New York,Japon
+id_transaction_00000432,Retrait,836.0149230186355,GBP,4.6384338999798,Complétée,Francfort,Japon
+id_transaction_00000460,Prélèvement,-730.4180048295899,USD,-7.480323877810895,En attente,Washington DC,Japon
+id_transaction_00000806,Carte,1064.9628086046052,EUR,6.868646049430253,Complétée,Pékin,Maroc
+id_transaction_00000538,Dépôt,5870.839046740954,EUR,-0.0714423473546093,En attente,Washington DC,Allemagne
+id_transaction_00000645,Retrait,6591.59792964924,USD,11.069696623757212,En cours,Casablanca,Japon
+id_transaction_00000318,Carte,599.1582512381183,USD,-2.0136709434861713,Complétée,New York,France
+id_transaction_00000449,Retrait,367.35629692278144,JPY,-2.818557643699523,Complétée,Francfort,Japon
+id_transaction_00000706,Carte,202.65976561380697,EUR,-1.6731242435426381,Complétée,Johannesburg,Maroc
+id_transaction_00000345,Dépôt,-187.71003065169725,USD,-4.9277960297888255,Complétée,Londres,Allemagne
+id_transaction_00000216,Carte,689.8208842454296,CNY,12.495058088405953,Complétée,Pékin,France
+id_transaction_00000584,Retrait,-1467.7096254162889,MAD,-0.5657140985652873,Complétée,Francfort,UE
+id_transaction_00000270,Dépôt,-141.68206227688643,EUR,-8.74342332328846,Complétée,Francfort,USA
+id_transaction_00000696,Prélèvement,830.8214093266072,GBP,1.83753180991148,En attente,Pékin,USA
+id_transaction_00000290,Retrait,238.9045607082935,USD,-0.4692459102741413,Complétée,Casablanca,Allemagne
+id_transaction_00000719,Dépôt,392.6047897653666,JPY,-3.9494365583401487,En attente,Londres,Maroc
+id_transaction_00000477,Virement International,6109.827053936824,USD,9.902604369301809,En attente,Pékin,Japon
+id_transaction_00000210,Virement,-75.91454255695987,GBP,-7.750417166869727,Complétée,New York,USA
+id_transaction_00000740,Prélèvement,6776.594902386979,EUR,-0.6195425448951983,Complétée,Pékin,Chine
+id_transaction_00000434,Carte,-19.5228177977462,CNY,-5.938250932838668,Complétée,Pékin,Maroc
+id_transaction_00000576,Virement,-481.2837238428383,JPY,-3.994070113489749,En attente,Rabat,USA
+id_transaction_00000679,Carte,-516.0095498075926,USD,-14.429727425933198,Complétée,Casablanca,Chine
+id_transaction_00000538,Carte,2555.4225635585653,CNY,7.83402393800109,Complétée,Washington DC,USA
+id_transaction_00000439,Prélèvement,-649.0472536867475,CNY,-10.1437726795908,En attente,Pékin,Maroc
+id_transaction_00000240,Carte,-1206.1957151875285,EUR,-2.3744428964384756,Complétée,New York,Japon
+id_transaction_00000791,Virement,-245.15451768967728,MAD,-0.5287260829050187,En attente,Casablanca,Japon
+id_transaction_00000449,Virement International,75210.96685742721,USD,-4.981121387794757,Complétée,Johannesburg,USA
+id_transaction_00000456,Prélèvement,-54.41838793783484,JPY,1.7637419312924947,Complétée,Londres,Maroc
+id_transaction_00000851,Retrait,-202.99718721128113,USD,-12.791349144965931,En cours,Londres,Maroc
+id_transaction_00000054,Carte,4.924098338643205,MAD,-3.474348807611121,Complétée,Londres,Maroc
+id_transaction_00000810,Virement International,406.2116144748002,USD,-3.6874057106486857,Complétée,Washington DC,Japon
+id_transaction_00000559,Carte,-143.01393118923693,MAD,-1.0583327736994619,Complétée,Rabat,USA
+id_transaction_00000819,Retrait,481.8952075085293,MAD,-4.908666647461872,En cours,Rabat,Allemagne
+id_transaction_00000704,Retrait,55280.53932271109,USD,-8.586523904957158,Complétée,Casablanca,Allemagne
+id_transaction_00000373,Virement,5213.364336812453,MAD,-3.3072934190104695,Complétée,New York,USA
+id_transaction_00000169,Prélèvement,951.8145542724151,CNY,3.9072490755100358,Complétée,Francfort,Maroc
+id_transaction_00000190,Dépôt,1106.754521355286,JPY,11.451255544868866,Rejetée,Francfort,USA
+id_transaction_00000411,Carte,-490.5334458970615,EUR,-6.999880541417823,En attente,Francfort,UE
+id_transaction_00000174,Carte,574.4687330898987,JPY,0.3689673848989594,Complétée,Londres,Royaume-Uni
+id_transaction_00000353,Carte,722.0549547497101,EUR,4.401426497659967,Complétée,Londres,Royaume-Uni
+id_transaction_00000718,Retrait,953.4086785334048,MAD,14.796600483084656,Complétée,Francfort,Maroc
+id_transaction_00000794,Dépôt,-864.7768643672753,USD,-7.7099175546213585,Complétée,Rabat,Japon
+id_transaction_00000994,Carte,6441.319332802552,GBP,-10.489755138636458,Complétée,Londres,Royaume-Uni
+id_transaction_00000965,Virement,1734.6777490188538,USD,-1.015996187550983,Complétée,Pékin,Royaume-Uni
+id_transaction_00000074,Virement,267.62306799495354,USD,10.823893381018033,En attente,New York,Allemagne
+id_transaction_00000164,Retrait,1563.2906358762698,EUR,3.3026928724773144,Complétée,New York,Maroc
+id_transaction_00000624,Carte,3347.5677328826423,EUR,4.189029522234634,Complétée,Paris,Afrique du Sud
+id_transaction_00000390,Carte,-796.5269545861312,CNY,-13.964865797231841,Complétée,Paris,Maroc
+id_transaction_00000009,Prélèvement,29891.012632324142,USD,0.40939534213704043,En attente,Londres,Maroc
+id_transaction_00000393,Carte,854.7108987526628,USD,2.152772766291627,Rejetée,Washington DC,Maroc
+id_transaction_00000111,Carte,298.4771493219172,EUR,-2.125502366850254,Rejetée,Francfort,USA
+id_transaction_00000204,Carte,2289.5076918124496,MAD,-4.301831890264592,Complétée,Rabat,Maroc
+id_transaction_00000206,Virement,4089.1083360279026,JPY,3.3880269745544807,Complétée,Washington DC,France
+id_transaction_00000589,Virement,491.33224090537726,EUR,0.31024685559393195,Complétée,Tokyo,Japon
+id_transaction_00000694,Retrait,-140.90337430723605,USD,7.748088284596296,Complétée,New York,USA
+id_transaction_00000702,Carte,238.5197226729611,GBP,-6.6652766975723,Complétée,Londres,Royaume-Uni
+id_transaction_00000601,Retrait,1509.6816704174562,CNY,2.5314406833343543,Complétée,Pékin,Maroc
+id_transaction_00000589,Retrait,436.5260661004631,USD,0.01309453009760464,Complétée,Tokyo,Maroc
+id_transaction_00000132,Dépôt,1387.1439307856028,ZAR,19.513128682995635,Complétée,Paris,Maroc
+id_transaction_00000851,Virement International,1297.397166002583,JPY,579.3412680657707,Complétée,Paris,Royaume-Uni
+id_transaction_00000078,Virement,158.38667173309466,CNY,-3.2789751585110585,Complétée,Rabat,Royaume-Uni
+id_transaction_00000010,Retrait,-249.52598182471638,EUR,-4.919814764027518,Complétée,Tokyo,Royaume-Uni
+id_transaction_00000523,Retrait,-646.4803036856609,EUR,0.8746853976481592,Complétée,New York,UE
+id_transaction_00000649,Carte,3380.389421811706,JPY,10.401846372589734,Complétée,Casablanca,France
+id_transaction_00000587,Carte,-695.8664521321913,MAD,-3.8610663883795224,Complétée,Rabat,Allemagne
+id_transaction_00000132,Retrait,933.8280975782284,EUR,9.85553153729849,Complétée,Casablanca,Maroc
+id_transaction_00000539,Retrait,-359.55427240694314,GBP,-10.169545433431026,Complétée,Paris,Royaume-Uni
+id_transaction_00000138,Carte,-359.9277483028667,GBP,-14.215183305619163,Complétée,Londres,Chine
+id_transaction_00000059,Prélèvement,593.3019557246485,EUR,-12.658780360757312,En attente,New York,USA
+id_transaction_00000858,Retrait,754.4707502325782,CNY,3.2265597998593134,Complétée,Londres,France
+id_transaction_00000250,Retrait,2307.891642803661,EUR,-7.130189436840435,Complétée,Francfort,Chine
+id_transaction_00000460,Dépôt,5011.201339881863,EUR,-1.0959962505755918,Complétée,Paris,Japon
+id_transaction_00000933,Virement,-253.77574112799925,JPY,-9.46364035879277,Complétée,Johannesburg,Maroc
+id_transaction_00000048,Retrait,309.54724700971497,USD,-4.472359790902275,Complétée,Washington DC,Afrique du Sud
+id_transaction_00000771,Prélèvement,-814.7123816477562,EUR,-12.543541065190652,Complétée,Francfort,Afrique du Sud
+id_transaction_00000044,Retrait,1274.1538657484439,USD,-3.26317798470449,Complétée,Rabat,Japon
+id_transaction_00000691,Virement,-488.61241409657407,GBP,-5.0327160017060395,Complétée,Tokyo,Maroc
+id_transaction_00000563,Virement International,1943.284988040654,MAD,5.166415450130071,Complétée,Tokyo,Chine
+id_transaction_00000525,Dépôt,742.967630701831,GBP,7.366431902648971,Complétée,New York,Maroc
+id_transaction_00000853,Prélèvement,133.82238630602944,JPY,-4.38080272677779,En attente,Washington DC,Japon
+id_transaction_00000464,Retrait,973.2587598189521,MAD,-1.5850882966020254,Complétée,Rabat,Japon
+id_transaction_00000522,Retrait,722.6041749001416,GBP,-8.530813387168212,En attente,Londres,USA
+id_transaction_00000590,Carte,-35.77037412700918,JPY,1.6969820104835471,Complétée,Londres,Maroc
+id_transaction_00000479,Retrait,351.19980631130045,USD,14.913678756887382,En attente,New York,Afrique du Sud
+id_transaction_00000106,Prélèvement,24.20773344000213,GBP,3.7076263594624947,Complétée,Johannesburg,Maroc
+id_transaction_00000681,Retrait,17261.602719163715,CNY,7.485203088705246,Complétée,Pékin,France
+id_transaction_00000100,Retrait,117.83006560277931,USD,-4.464908672000301,En attente,Washington DC,Afrique du Sud
+id_transaction_00000904,Retrait,-1583.0097509224252,EUR,-7.875085860923096,Complétée,Casablanca,Royaume-Uni
+id_transaction_00000003,Virement International,1009.2985644125653,EUR,-1.1739423703332745,Complétée,Rabat,France
+id_transaction_00000484,Retrait,7114.669359396017,EUR,-937.6068609713382,Complétée,New York,UE
+id_transaction_00000962,Virement International,637.7263581251595,USD,-5.363533654938023,Complétée,New York,Maroc
+id_transaction_00000565,Retrait,135.68368828609715,GBP,-2.806668924999573,En attente,Tokyo,Royaume-Uni
+id_transaction_00000098,Virement International,-907.1421690421133,USD,-16.745861887427264,Complétée,Rabat,USA
+id_transaction_00000113,Dépôt,1496.3524688259238,EUR,-3.1627216689526305,Complétée,New York,USA
+id_transaction_00000792,Dépôt,181.60241033322274,MAD,-0.6704942680498416,En attente,New York,USA
+id_transaction_00000582,Virement International,1108.4154206909511,EUR,16.630064790942857,Complétée,Washington DC,Maroc
+id_transaction_00000171,Carte,440.7403608228717,USD,-7.529272768265389,Complétée,Paris,Maroc
+id_transaction_00000512,Retrait,970.9171418234802,JPY,8.335397302032094,En cours,Paris,Japon
+id_transaction_00000844,Carte,2591.2881764447625,JPY,13.068540194276107,Complétée,Rabat,Japon
+id_transaction_00000111,Retrait,518.7236087983515,JPY,2.116709000047276,Rejetée,Francfort,Maroc
+id_transaction_00000803,Carte,1133.5460748818282,GBP,104.72773735899867,En attente,Tokyo,UE
+id_transaction_00000840,Dépôt,1698.5201106123063,USD,0.849043426728807,Complétée,Paris,Allemagne
+id_transaction_00000224,Dépôt,-509.6335172858925,CNY,5.452615113133834,Complétée,New York,France
+id_transaction_00000502,Carte,579.0919682891051,JPY,-5.585444712044043,En attente,Londres,Royaume-Uni
+id_transaction_00000395,Carte,1509.6290444502663,GBP,6.65119514090167,Complétée,Tokyo,France
+id_transaction_00000662,Retrait,-607.5671966614069,ZAR,-0.23257893188867484,Complétée,Casablanca,UE
+id_transaction_00000781,Carte,359.65625015592707,EUR,-5.388762231567253,En attente,Casablanca,Royaume-Uni
+id_transaction_00000363,Virement International,247.1369783169908,USD,-12.829916577356464,Complétée,Tokyo,Japon
+id_transaction_00000987,Carte,1536.1101997988935,ZAR,6.420584639408501,Complétée,Londres,France
+id_transaction_00000693,Retrait,715.3357564094607,USD,13.681929130036796,Complétée,Washington DC,Maroc
+id_transaction_00000891,Dépôt,1675.520839384691,ZAR,2.8900938026432827,Complétée,New York,Japon
+id_transaction_00000221,Virement,-302.45566090068746,JPY,-11.357569469318321,En attente,Paris,USA
+id_transaction_00000728,Retrait,5611.204780663147,USD,17.902829144381503,Complétée,Paris,Chine
+id_transaction_00000173,Carte,653.0619798403918,JPY,203.0687008193703,Complétée,Casablanca,Maroc
+id_transaction_00000316,Virement International,-1106.150936987378,USD,-10.783838324706117,Rejetée,Casablanca,Maroc
+id_transaction_00000813,Dépôt,-742.7548643941683,USD,-6.155645218876603,Rejetée,New York,USA
+id_transaction_00000343,Virement,2547.367790422766,MAD,-2.586906516034217,En attente,Tokyo,Japon
+id_transaction_00000991,Retrait,329.7363908338604,ZAR,-7.535624508897631,Complétée,Casablanca,Allemagne
+id_transaction_00000254,Carte,14446.11081851939,USD,-9.0920224429196,Complétée,New York,USA
+id_transaction_00000547,Virement,9003.774238723803,USD,8.581937388775668,Complétée,Pékin,USA
+id_transaction_00000962,Retrait,866.2800965746974,JPY,7.759155977181863,En attente,Paris,Allemagne
+id_transaction_00000994,Carte,84.88359214963594,USD,-1.7689315020535759,Complétée,Washington DC,USA
+id_transaction_00000778,Prélèvement,-523.9491642517788,GBP,5.062759963656646,Complétée,Johannesburg,USA
+id_transaction_00000471,Dépôt,25387.681166234343,USD,4.398808772271011,En attente,New York,USA
+id_transaction_00000633,Carte,434.1939998439339,CNY,-18.025054343307843,Complétée,Casablanca,Royaume-Uni
+id_transaction_00000955,Retrait,7785.3271613330335,USD,7.60569750259635,En cours,Francfort,Royaume-Uni
+id_transaction_00000781,Virement,1174.9832980129236,USD,1.5272713778303357,Rejetée,New York,Maroc
+id_transaction_00000563,Retrait,-2770.8030958365835,CNY,-6.103373139413507,En attente,Pékin,Royaume-Uni
+id_transaction_00000861,Carte,1185.191582173868,USD,5.105325153715787,Complétée,Pékin,UE
+id_transaction_00000942,Carte,-6255.66421464126,EUR,-4.2945681767741375,En attente,Pékin,Allemagne
+id_transaction_00000745,Dépôt,-361.18985527951384,ZAR,-0.35760439774152086,En attente,Pékin,Royaume-Uni
+id_transaction_00000576,Dépôt,465.8045556690461,CNY,56.86338821283636,Rejetée,New York,UE
+id_transaction_00000819,Virement,858.0928917666713,CNY,0.21602151923319823,Complétée,Pékin,Maroc
+id_transaction_00000448,Carte,-151.11643810544285,JPY,11.369944646131575,Complétée,Casablanca,Maroc
+id_transaction_00000576,Retrait,-59.412853842048264,USD,-3.5071788283387333,Complétée,Pékin,Royaume-Uni
+id_transaction_00000320,Virement International,2352.246826642102,GBP,-0.5571681111494717,Complétée,Johannesburg,Maroc
+id_transaction_00000761,Retrait,1447.5417536792436,JPY,5.113688308111472,Complétée,Francfort,Japon
+id_transaction_00000123,Prélèvement,406.07116169681285,ZAR,-5.581029159941541,En attente,Casablanca,Maroc
+id_transaction_00000999,Prélèvement,654.8407904093679,USD,-3.20717182736261,Complétée,Pékin,USA
+id_transaction_00000618,Retrait,251.38878926024924,CNY,-9.40126642613103,En attente,Washington DC,France
+id_transaction_00000970,Retrait,-206.5950669449794,JPY,5.077398333764275,Complétée,New York,USA
+id_transaction_00000394,Retrait,46.074809082628406,JPY,-10.031768382250846,Complétée,New York,Royaume-Uni
+id_transaction_00000778,Virement International,71.76248762347313,EUR,-2.3951722399392024,Complétée,Pékin,Royaume-Uni
+id_transaction_00000651,Retrait,1374.3318069960628,ZAR,-6.363806531351137,En cours,Tokyo,USA
+id_transaction_00000188,Virement International,-239.0262303725699,EUR,-7.415006577803479,En cours,Tokyo,Afrique du Sud
+id_transaction_00000682,Prélèvement,3771.898083013674,USD,-2.6422311991523797,Complétée,Pékin,Chine
+id_transaction_00000510,Prélèvement,1467.4634101028055,JPY,10.098390911608004,Complétée,New York,Japon
+id_transaction_00000923,Prélèvement,-150.55289518537074,USD,1.9938888048257413,En attente,New York,Afrique du Sud
+id_transaction_00000484,Retrait,848.4830101212715,JPY,-4.366952765348699,Complétée,New York,Royaume-Uni
+id_transaction_00000816,Retrait,141.61590849988238,JPY,1.1163326497906345,Complétée,Francfort,USA
+id_transaction_00000908,Carte,112.4909628928645,EUR,-0.6035399266535393,Complétée,Pékin,France
+id_transaction_00000981,Carte,18732.224452352908,MAD,-4.992364710318127,Complétée,Pékin,Chine
+id_transaction_00000816,Carte,297.8534023816196,USD,8.178135349435454,Complétée,New York,USA
+id_transaction_00000726,Carte,294.58422053362426,USD,10.467407199415332,Complétée,Casablanca,USA
+id_transaction_00000225,Retrait,-863.4019789674988,GBP,-16.80122565509649,Complétée,Tokyo,Royaume-Uni
+id_transaction_00000910,Retrait,-533.5184001995503,JPY,3.8047379395942693,En attente,Washington DC,France
+id_transaction_00000216,Retrait,395.92830620129894,CNY,0.950303481197464,Complétée,Rabat,USA
+id_transaction_00000624,Prélèvement,-1377.5438307818622,USD,-8.562139153763766,En attente,Washington DC,Royaume-Uni
+id_transaction_00000555,Dépôt,9525.048644273353,USD,11.47132997159724,Complétée,Johannesburg,Japon
+id_transaction_00000268,Carte,1028.4114875838845,USD,1.6034606971259926,Rejetée,New York,USA
+id_transaction_00000300,Carte,1161.0771478440797,JPY,4.321810703418677,Complétée,Washington DC,Japon
+id_transaction_00000048,Virement,1006.7003365793987,GBP,-0.11985608010989068,En attente,Pékin,Chine
+id_transaction_00000003,Carte,129.3623919705367,ZAR,-9.910667406192236,En attente,Londres,UE
+id_transaction_00000478,Retrait,1115.7449625688275,JPY,0.5876198928308334,Complétée,Casablanca,UE
+id_transaction_00000745,Carte,-231.53062178723974,MAD,17.066517964026957,Complétée,New York,Chine
+id_transaction_00000903,Retrait,600.569750493014,USD,1.0973606078359213,Rejetée,Pékin,USA
+id_transaction_00000444,Virement,1316.2589374727463,EUR,14.663612792662047,Complétée,New York,UE
+id_transaction_00000663,Retrait,380.7723868573198,GBP,-5.844093242816316,Complétée,Tokyo,Royaume-Uni
+id_transaction_00000313,Carte,1019.5725967572148,MAD,0.3539774573971046,Complétée,Tokyo,Royaume-Uni
+id_transaction_00000831,Retrait,244.9869176879138,ZAR,10.477961531455165,Complétée,Casablanca,France
+id_transaction_00000391,Dépôt,-666.6178855391005,USD,-0.38259946923232935,En attente,Washington DC,Maroc
+id_transaction_00000142,Dépôt,404.55516681078007,USD,-5.5468371929344675,Complétée,Pékin,Chine
+id_transaction_00000928,Prélèvement,1259.3579027671533,ZAR,6.981054846819541,En attente,Londres,USA
+id_transaction_00000647,Retrait,794.7723917081981,USD,6.858945439235024,Complétée,Casablanca,Maroc
+id_transaction_00000952,Virement,-366.18966318970126,JPY,-3.4624921582864028,En attente,Washington DC,Royaume-Uni
+id_transaction_00000602,Dépôt,906.95610428057,GBP,3.6893270227617094,Complétée,Casablanca,Royaume-Uni
+id_transaction_00000912,Prélèvement,2146.850900614145,EUR,5.449945431598868,Complétée,Casablanca,Afrique du Sud
+id_transaction_00000731,Dépôt,6172.61491338751,EUR,-2.689911344949188,En cours,Pékin,USA
+id_transaction_00000160,Carte,85.86268894022413,EUR,6.729748073368855,Complétée,Tokyo,France
+id_transaction_00000865,Virement,16674.094231404728,JPY,7.338150597093678,Complétée,New York,Royaume-Uni
+id_transaction_00000442,Retrait,1271.7510469454,USD,-12.541320260955715,Complétée,Pékin,Afrique du Sud
+id_transaction_00000440,Carte,-44.267492701905496,GBP,-3.4483205009369984,En attente,Pékin,Royaume-Uni
+id_transaction_00000180,Prélèvement,841.4917178680405,CNY,1.4485989368320067,En attente,Paris,USA
+id_transaction_00000538,Carte,114.71645032368349,MAD,4.516739515208367,Complétée,Pékin,Royaume-Uni
+id_transaction_00000978,Carte,344.5443636510455,JPY,2.253565309399455,Complétée,Pékin,Maroc
+id_transaction_00000760,Retrait,1618.6639342936664,ZAR,9.752849406471809,Rejetée,Londres,Afrique du Sud
+id_transaction_00000293,Dépôt,797.7403018388429,USD,14.89023704575946,Complétée,Tokyo,Maroc
+id_transaction_00000232,Carte,696.2521949159045,JPY,-6.643126780965514,En cours,Johannesburg,Allemagne
+id_transaction_00000549,Retrait,1854.9118258839026,EUR,15.309625302547282,En attente,Washington DC,USA
+id_transaction_00000938,Retrait,6829.284838785883,CNY,-10.062325486008763,Complétée,Tokyo,Maroc
+id_transaction_00000610,Virement International,38.27443518546096,EUR,9.360471079890655,Complétée,Johannesburg,Chine
+id_transaction_00000372,Retrait,12667.589281256936,USD,-2.0024707141857716,Complétée,Pékin,Royaume-Uni
+id_transaction_00000168,Retrait,-1298.3324664570782,USD,-14.613647297234916,Complétée,Londres,USA
+id_transaction_00000423,Prélèvement,-51.196732523423634,JPY,-0.7264863950400571,En cours,Francfort,Royaume-Uni
+id_transaction_00000055,Prélèvement,1546.3987484641248,MAD,1.8973945601672169,Complétée,Londres,France
+id_transaction_00000690,Dépôt,242.12667994579638,GBP,7.070565358665923,Complétée,Washington DC,Royaume-Uni
+id_transaction_00000138,Retrait,6287.1157531413655,USD,10.310999344476286,En cours,Francfort,Allemagne
+id_transaction_00000907,Retrait,540.478216827885,JPY,15.477307046132967,Complétée,Tokyo,France
+id_transaction_00000507,Retrait,398.6708649712348,EUR,1.618275746316026,Complétée,New York,UE
+id_transaction_00000310,Dépôt,406.6386991426316,JPY,7.461155316493804,Complétée,Casablanca,Chine
+id_transaction_00000130,Prélèvement,776.138697788353,JPY,6.697520731407842,Complétée,Johannesburg,Chine
+id_transaction_00000131,Dépôt,588.947291882899,GBP,-1.6822655187362319,Rejetée,Pékin,Maroc
+id_transaction_00000229,Virement International,-49.49421973542462,USD,-1.788402122576377,Complétée,Pékin,Chine
+id_transaction_00000786,Prélèvement,4116.3335336039945,USD,4.2981719410124635,Complétée,New York,USA
+id_transaction_00000004,Virement,478.3603528000229,MAD,5.7659307169254825,Complétée,Francfort,Royaume-Uni
+id_transaction_00000760,Dépôt,5319.98365354027,JPY,19.510805657627138,Complétée,Paris,USA
+id_transaction_00000967,Dépôt,1214.574240858945,CNY,-3.945358736845578,Complétée,Paris,Japon
+id_transaction_00000374,Retrait,136.1245779748017,USD,-5.1877584027777095,Complétée,Washington DC,USA
+id_transaction_00000831,Dépôt,945.9337024783946,JPY,-2.521811697317486,Complétée,Pékin,USA
+id_transaction_00000393,Virement,-710.7824941173329,CNY,-7.538292280049892,Complétée,Pékin,Afrique du Sud
+id_transaction_00000923,Dépôt,580.4723445683043,USD,1.951784471105713,Complétée,Casablanca,USA
+id_transaction_00000892,Carte,4074.199611828547,MAD,9.603370540919212,Complétée,Pékin,Allemagne
+id_transaction_00000971,Dépôt,1907.2131611847253,JPY,10.213055463840398,Complétée,Londres,Chine
+id_transaction_00000252,Prélèvement,16961.87506679978,MAD,7.627755720833326,Complétée,Pékin,UE
+id_transaction_00000535,Retrait,1060.8878645113132,GBP,7.565983840583202,Complétée,Pékin,Royaume-Uni
+id_transaction_00000850,Retrait,388.611141906105,GBP,-7.837936496218682,Complétée,Washington DC,Chine
+id_transaction_00000198,Carte,27721.48758851218,ZAR,-2.603064470312165,Complétée,Londres,USA
+id_transaction_00000380,Retrait,-497.07569996696816,USD,-14.188527641792032,En cours,Washington DC,Afrique du Sud
+id_transaction_00000805,Dépôt,583.5004587191744,JPY,4.676200662792962,En attente,Londres,Royaume-Uni
+id_transaction_00000985,Retrait,1341.9278181206012,MAD,-10.210338680896381,Complétée,Johannesburg,Royaume-Uni
+id_transaction_00000841,Dépôt,14.72396958781519,USD,4.655519548626083,Complétée,New York,Allemagne
+id_transaction_00000769,Virement International,-326.67972248350804,EUR,-9.795595472677576,En attente,Casablanca,USA
+id_transaction_00000133,Dépôt,110.99303344959554,USD,-7.699015971377823,Complétée,New York,Japon
+id_transaction_00000971,Dépôt,3490.1990533168596,MAD,-6.386268122198476,En attente,Rabat,USA
+id_transaction_00000198,Retrait,728.0048848746048,EUR,-6.284017925769475,Complétée,Tokyo,Japon
+id_transaction_00000825,Carte,1212.9662970607615,CNY,11.469758572210786,Complétée,Rabat,Maroc
+id_transaction_00000054,Dépôt,156.83083184825216,CNY,-17.50527070597119,Complétée,New York,Maroc
+id_transaction_00000830,Prélèvement,1104.911684134998,JPY,15.301618982586572,Complétée,New York,Maroc
+id_transaction_00000887,Carte,729.0213950621053,GBP,19.387617165674403,En attente,Francfort,Maroc
+id_transaction_00000835,Carte,13448.326583670168,MAD,3.4184857405797486,Complétée,Francfort,Afrique du Sud
+id_transaction_00000667,Retrait,-537.1958680802239,MAD,-7.352669725356855,Complétée,Rabat,Maroc
+id_transaction_00000235,Virement International,1066.999854839181,JPY,-0.5258142838505888,Rejetée,Rabat,Allemagne
+id_transaction_00000556,Virement,-641.3455520593469,MAD,-9.529113997004451,Complétée,New York,USA
+id_transaction_00000921,Dépôt,513.6470676175697,JPY,-5.159254741202729,Complétée,Paris,Japon
+id_transaction_00000394,Retrait,-1267.688707260248,USD,-5.967171496291686,Complétée,New York,Allemagne
+id_transaction_00000667,Retrait,-140.8438767479455,MAD,-4.122775540150671,Complétée,Tokyo,USA
+id_transaction_00000631,Virement,1266.1374502908338,CNY,12.119509669730693,En attente,Washington DC,USA
+id_transaction_00000278,Retrait,-999.855082753094,USD,-1.5110140528198341,Complétée,New York,Maroc
+id_transaction_00000216,Dépôt,12044.159188301226,CNY,4.193197664118047,Rejetée,Washington DC,USA
+id_transaction_00000819,Retrait,269.9797636087362,USD,-9.028675405153113,Complétée,Pékin,Royaume-Uni
+id_transaction_00000843,Retrait,126.11323296739687,MAD,-3.6215211835668244,En attente,Paris,Royaume-Uni
+id_transaction_00000039,Prélèvement,13610.807809322472,MAD,-1.2495058357278843,Complétée,Londres,Royaume-Uni
+id_transaction_00000255,Carte,-679.8737249719649,USD,-0.8669091696770241,Complétée,Tokyo,Royaume-Uni
+id_transaction_00000367,Dépôt,1476.4078636127442,EUR,13.170240200486255,Rejetée,Pékin,Chine
+id_transaction_00000603,Carte,2317.311527454962,MAD,16.355023798586238,Complétée,Londres,Royaume-Uni
+id_transaction_00000827,Retrait,6806.41375164979,GBP,-3.1742185399739435,Complétée,Pékin,Royaume-Uni
+id_transaction_00000721,Dépôt,989.7880488980628,USD,6.122480066428424,Complétée,Paris,USA
+id_transaction_00000174,Retrait,452.4373179164326,USD,7.257364959646838,Complétée,Casablanca,USA
+id_transaction_00000627,Carte,14321.374821986203,USD,-4.7075615997067475,Complétée,Francfort,Maroc
+id_transaction_00000615,Dépôt,-124.1930376778314,GBP,7.81355966793003,Complétée,Tokyo,Maroc
+id_transaction_00000295,Retrait,-600.6143049148878,USD,-1.7464228093113618,Complétée,Londres,Royaume-Uni
+id_transaction_00000122,Retrait,-406.3509415228442,ZAR,4.217655448302693,Complétée,Rabat,USA
+id_transaction_00000397,Retrait,3405.2195746839684,USD,-5.433417834412324,Complétée,New York,Japon
+id_transaction_00000544,Prélèvement,-510.6140463534448,JPY,-5.470623320523397,En attente,Paris,France
+id_transaction_00000525,Virement International,-505.6650262101988,CNY,13.68279400100013,Complétée,Pékin,Maroc
+id_transaction_00000066,Virement,461.316914396159,MAD,-0.5707109080939023,Complétée,Rabat,Royaume-Uni
+id_transaction_00000080,Virement International,1780.5363928538654,JPY,10.569105201289526,En attente,Tokyo,Afrique du Sud
+id_transaction_00000244,Dépôt,3892.19163012596,JPY,8.809823621896927,Rejetée,Francfort,Chine
+id_transaction_00000684,Virement,-146.26729024779843,USD,12.443170340361675,Complétée,Pékin,USA
+id_transaction_00000020,Virement International,862.2113074013319,EUR,-5.540088593783708,En attente,Londres,Allemagne
+id_transaction_00000896,Retrait,-128.71083940349354,EUR,30.507258539951977,Complétée,New York,Maroc
+id_transaction_00000392,Carte,621.4106331544453,GBP,-0.76674598805816,Complétée,Londres,Chine
+id_transaction_00000002,Carte,746.8641208274399,JPY,3.3876140813483455,Complétée,Francfort,UE

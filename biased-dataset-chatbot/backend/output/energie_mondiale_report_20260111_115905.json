@@ -1,0 +1,92 @@
+{
+  "generation_info": {
+    "category": "energie_mondiale",
+    "n_samples": 1000,
+    "generated_at": "2026-01-11T11:59:08.867095",
+    "bias_type": "geographic",
+    "bias_intensity": 0.5
+  },
+  "bias_report": {
+    "type": "geographic_bias",
+    "details": {
+      "region_column": "installation",
+      "overrepresented": "Zaporizhzhia Nuclear Power Plant",
+      "duplicated_count": 19
+    },
+    "original_size": 1000,
+    "biased_size": 1019,
+    "bias_type": "geographic",
+    "intensity": 0.5,
+    "applied_at": "2026-01-11T11:59:06.473931"
+  },
+  "analysis": {
+    "size_comparison": {
+      "original": 1000,
+      "biased": 1019,
+      "change_pct": 1.9
+    },
+    "distribution_changes": {
+      "latitude": {
+        "original_mean": 32.172380569947926,
+        "biased_mean": 32.22544168261452,
+        "original_std": 20.839358970686746,
+        "biased_std": 20.694413558277688,
+        "mean_change_pct": 0.16492753015608866,
+        "ks_statistic": 0.003351324828263003,
+        "ks_pvalue": 1.0
+      },
+      "longitude": {
+        "original_mean": 20.972801355880488,
+        "biased_mean": 21.33399155108599,
+        "original_std": 69.4131358779813,
+        "biased_std": 70.0660079199079,
+        "mean_change_pct": 1.7221838374133418,
+        "ks_statistic": 0.0068351324828263005,
+        "ks_pvalue": 0.9999999999999993
+      },
+      "capacite_mw": {
+        "original_mean": 2487.139,
+        "biased_mean": 2509.3140333660454,
+        "original_std": 3990.4861424809305,
+        "biased_std": 3974.450475602263,
+        "mean_change_pct": 0.8915880200521296,
+        "ks_statistic": 0.008012757605495583,
+        "ks_pvalue": 0.9999999999999813
+      },
+      "production_annuelle_gwh": {
+        "original_mean": 1659.8643661235892,
+        "biased_mean": 1665.1558717253226,
+        "original_std": 4291.725978404777,
+        "biased_std": 4300.406526490957,
+        "mean_change_pct": 0.31879144523662384,
+        "ks_statistic": 0.003225711481844946,
+        "ks_pvalue": 1.0
+      },
+      "emissions_co2": {
+        "original_mean": 1389236.7181187293,
+        "biased_mean": 1378218.6081440886,
+        "original_std": 2134187.5084752864,
+        "biased_std": 2128464.6710675964,
+        "mean_change_pct": -0.7931052952272317,
+        "ks_statistic": 0.003283611383709519,
+        "ks_pvalue": 1.0
+      },
+      "annee_mise_service": {
+        "original_mean": 2002.704,
+        "biased_mean": 2002.422963689892,
+        "original_std": 20.291380537659926,
+        "biased_std": 20.235807868431426,
+        "mean_change_pct": -0.01403284310152568,
+        "ks_statistic": 0.009255152109911678,
+        "ks_pvalue": 0.9999999999400299
+      }
+    },
+    "statistical_tests": {}
+  },
+  "files": {
+    "biased_dataset": "output\\energie_mondiale_biased_20260111_115905.csv",
+    "original_dataset": "output\\energie_mondiale_original_20260111_115905.csv",
+    "visualization": "output\\bias_energie_mondiale_geographic_20260111_115905.png",
+    "report": "output\\energie_mondiale_report_20260111_115905.json"
+  }
+}

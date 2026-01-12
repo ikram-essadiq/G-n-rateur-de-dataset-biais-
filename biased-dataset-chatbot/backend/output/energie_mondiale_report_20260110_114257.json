@@ -1,0 +1,92 @@
+{
+  "generation_info": {
+    "category": "energie_mondiale",
+    "n_samples": 1000,
+    "generated_at": "2026-01-10T11:43:01.618379",
+    "bias_type": "geographic",
+    "bias_intensity": 0.5
+  },
+  "bias_report": {
+    "type": "geographic_bias",
+    "details": {
+      "region_column": "installation",
+      "overrepresented": "Parc Solaire Núñez de Balboa",
+      "duplicated_count": 21
+    },
+    "original_size": 1000,
+    "biased_size": 1021,
+    "bias_type": "geographic",
+    "intensity": 0.5,
+    "applied_at": "2026-01-10T11:42:58.793115"
+  },
+  "analysis": {
+    "size_comparison": {
+      "original": 1000,
+      "biased": 1021,
+      "change_pct": 2.1
+    },
+    "distribution_changes": {
+      "latitude": {
+        "original_mean": 31.90343505742373,
+        "biased_mean": 31.826659958877205,
+        "original_std": 21.835227033690305,
+        "biased_std": 21.959432730942755,
+        "mean_change_pct": -0.24064837660301175,
+        "ks_statistic": 0.0045523996082272285,
+        "ks_pvalue": 1.0
+      },
+      "longitude": {
+        "original_mean": 23.883337251302926,
+        "biased_mean": 23.61081346151168,
+        "original_std": 65.85534757130742,
+        "biased_std": 65.64411899090841,
+        "mean_change_pct": -1.141062435800252,
+        "ks_statistic": 0.005523016650342801,
+        "ks_pvalue": 1.0
+      },
+      "capacite_mw": {
+        "original_mean": 2513.888,
+        "biased_mean": 2488.933398628795,
+        "original_std": 4081.2721104449156,
+        "biased_std": 4061.4479883689974,
+        "mean_change_pct": -0.9926695768150261,
+        "ks_statistic": 0.005340842311459353,
+        "ks_pvalue": 1.0
+      },
+      "production_annuelle_gwh": {
+        "original_mean": 1667.0619584841602,
+        "biased_mean": 1671.3785839835307,
+        "original_std": 4140.954922121039,
+        "biased_std": 4117.350625601392,
+        "mean_change_pct": 0.2589361167652881,
+        "ks_statistic": 0.0038188050930460333,
+        "ks_pvalue": 1.0
+      },
+      "emissions_co2": {
+        "original_mean": 1495771.2139344136,
+        "biased_mean": 1474900.4828861284,
+        "original_std": 2265519.589322696,
+        "biased_std": 2253010.2617263347,
+        "mean_change_pct": -1.3953157310326738,
+        "ks_statistic": 0.004849167482859941,
+        "ks_pvalue": 1.0
+      },
+      "annee_mise_service": {
+        "original_mean": 2003.918,
+        "biased_mean": 2004.048971596474,
+        "original_std": 20.27911532879377,
+        "biased_std": 20.296999474475026,
+        "mean_change_pct": 0.006535776238058451,
+        "ks_statistic": 0.00468462291870715,
+        "ks_pvalue": 1.0
+      }
+    },
+    "statistical_tests": {}
+  },
+  "files": {
+    "biased_dataset": "output\\energie_mondiale_biased_20260110_114257.csv",
+    "original_dataset": "output\\energie_mondiale_original_20260110_114257.csv",
+    "visualization": "output\\bias_energie_mondiale_geographic_20260110_114257.png",
+    "report": "output\\energie_mondiale_report_20260110_114257.json"
+  }
+}

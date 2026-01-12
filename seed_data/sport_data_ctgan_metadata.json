@@ -1,0 +1,26 @@
+{
+  "training_file": "sport_data.csv",
+  "n_samples": 1000,
+  "n_columns": 6,
+  "columns": [
+    "id",
+    "athlete",
+    "sport",
+    "pays",
+    "resultat",
+    "date"
+  ],
+  "discrete_columns": [
+    "id",
+    "athlete",
+    "sport",
+    "pays",
+    "resultat",
+    "date"
+  ],
+  "continuous_columns": [],
+  "epochs": 300,
+  "batch_size": 500,
+  "training_duration": 451.68373,
+  "trained_at": "2026-01-01T16:21:37.384344"
+}

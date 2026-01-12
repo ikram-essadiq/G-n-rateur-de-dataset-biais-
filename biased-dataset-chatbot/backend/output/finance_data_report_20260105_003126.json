@@ -1,0 +1,56 @@
+{
+  "generation_info": {
+    "category": "finance_data",
+    "n_samples": 1000,
+    "generated_at": "2026-01-05T00:31:29.039801",
+    "bias_type": "sampling",
+    "bias_intensity": 0.5
+  },
+  "bias_report": {
+    "type": "sampling_bias",
+    "details": {
+      "original_size": 1000,
+      "sampled_size": 750,
+      "sampling_method": "exponential"
+    },
+    "original_size": 1000,
+    "biased_size": 750,
+    "bias_type": "sampling",
+    "intensity": 0.5,
+    "applied_at": "2026-01-05T00:31:26.828812"
+  },
+  "analysis": {
+    "size_comparison": {
+      "original": 1000,
+      "biased": 750,
+      "change_pct": -25.0
+    },
+    "distribution_changes": {
+      "id": {
+        "original_mean": 5080.166,
+        "biased_mean": 4924.157333333334,
+        "original_std": 2862.752766105352,
+        "biased_std": 2823.350921123923,
+        "mean_change_pct": -3.0709363959103606,
+        "ks_statistic": 0.036333333333333336,
+        "ks_pvalue": 0.6119521305425338
+      },
+      "valeur": {
+        "original_mean": 50.35679030024835,
+        "biased_mean": 50.61396134874289,
+        "original_std": 29.449027276088522,
+        "biased_std": 29.184008276692783,
+        "mean_change_pct": 0.5106978561593556,
+        "ks_statistic": 0.015,
+        "ks_pvalue": 0.9999626338149966
+      }
+    },
+    "statistical_tests": {}
+  },
+  "files": {
+    "biased_dataset": "output\\finance_data_biased_20260105_003126.csv",
+    "original_dataset": "output\\finance_data_original_20260105_003126.csv",
+    "visualization": "output\\bias_finance_data_sampling_20260105_003126.png",
+    "report": "output\\finance_data_report_20260105_003126.json"
+  }
+}

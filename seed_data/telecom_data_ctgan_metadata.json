@@ -1,0 +1,22 @@
+{
+  "training_file": "telecom_data.csv",
+  "n_samples": 1500,
+  "n_columns": 4,
+  "columns": [
+    "id",
+    "nom_personne",
+    "operateur_telephonique",
+    "forfait_abonnement"
+  ],
+  "discrete_columns": [
+    "id",
+    "nom_personne",
+    "operateur_telephonique",
+    "forfait_abonnement"
+  ],
+  "continuous_columns": [],
+  "epochs": 300,
+  "batch_size": 500,
+  "training_duration": 1305.032025,
+  "trained_at": "2026-01-01T16:44:02.548144"
+}

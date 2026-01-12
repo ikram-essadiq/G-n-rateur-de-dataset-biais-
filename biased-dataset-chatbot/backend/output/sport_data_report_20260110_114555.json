@@ -1,0 +1,37 @@
+{
+  "generation_info": {
+    "category": "sport_data",
+    "n_samples": 1000,
+    "generated_at": "2026-01-10T11:45:57.651993",
+    "bias_type": "geographic",
+    "bias_intensity": 0.5
+  },
+  "bias_report": {
+    "type": "geographic_bias",
+    "details": {
+      "region_column": "pays",
+      "overrepresented": "USA",
+      "duplicated_count": 182
+    },
+    "original_size": 1000,
+    "biased_size": 1182,
+    "bias_type": "geographic",
+    "intensity": 0.5,
+    "applied_at": "2026-01-10T11:45:56.296771"
+  },
+  "analysis": {
+    "size_comparison": {
+      "original": 1000,
+      "biased": 1182,
+      "change_pct": 18.2
+    },
+    "distribution_changes": {},
+    "statistical_tests": {}
+  },
+  "files": {
+    "biased_dataset": "output\\sport_data_biased_20260110_114555.csv",
+    "original_dataset": "output\\sport_data_original_20260110_114555.csv",
+    "visualization": "output\\bias_sport_data_geographic_20260110_114555.png",
+    "report": "output\\sport_data_report_20260110_114555.json"
+  }
+}

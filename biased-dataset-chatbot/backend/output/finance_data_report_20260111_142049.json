@@ -1,0 +1,56 @@
+{
+  "generation_info": {
+    "category": "finance_data",
+    "n_samples": 200,
+    "generated_at": "2026-01-11T14:20:52.247312",
+    "bias_type": "geographic",
+    "bias_intensity": 0.5
+  },
+  "bias_report": {
+    "type": "geographic_bias",
+    "details": {
+      "region_column": "ville",
+      "overrepresented": "Pékin",
+      "duplicated_count": 14
+    },
+    "original_size": 200,
+    "biased_size": 214,
+    "bias_type": "geographic",
+    "intensity": 0.5,
+    "applied_at": "2026-01-11T14:20:49.614256"
+  },
+  "analysis": {
+    "size_comparison": {
+      "original": 200,
+      "biased": 214,
+      "change_pct": 7.000000000000001
+    },
+    "distribution_changes": {
+      "montant": {
+        "original_mean": 3415.092155202706,
+        "biased_mean": 3390.7217805971404,
+        "original_std": 14091.085988032515,
+        "biased_std": 13661.999068490106,
+        "mean_change_pct": -0.7136081106460952,
+        "ks_statistic": 0.015373831775700935,
+        "ks_pvalue": 0.9999999999999994
+      },
+      "frais": {
+        "original_mean": 5.522805783895076,
+        "biased_mean": 5.902849011942695,
+        "original_std": 33.86286491860932,
+        "biased_std": 33.197931244428034,
+        "mean_change_pct": 6.8813433408969855,
+        "ks_statistic": 0.019953271028037383,
+        "ks_pvalue": 0.9999999998213152
+      }
+    },
+    "statistical_tests": {}
+  },
+  "files": {
+    "biased_dataset": "output\\finance_data_biased_20260111_142049.csv",
+    "original_dataset": "output\\finance_data_original_20260111_142049.csv",
+    "visualization": "output\\bias_finance_data_geographic_20260111_142049.png",
+    "report": "output\\finance_data_report_20260111_142049.json"
+  }
+}

@@ -1,0 +1,1001 @@
+id,nom,prenom,age,sexe,groupe_sanguin,poids,taille,imc,tension,allergies,maladies_chroniques
+PAT_000743,Khalil,Manon,90,M,AB+,81,141,21.30192000765213,153/116,Aucune,"Insuffisance cardiaque, Arthrite"
+PAT_000285,Petit,Chloe,48,F,A+,91,151,33.48613226036047,121/73,Gluten,Aucune
+PAT_000553,Richard,Sophie,60,M,O+,72,166,37.123844924686914,157/104,Aucune,Asthme
+PAT_000590,Hassani,Mehdi,84,M,AB+,90,141,19.51757891069913,95/72,Pénicilline,Aucune
+PAT_000772,Tazi,Salma,45,F,A+,80,83,20.599507195096827,157/114,Acariens,Aucune
+PAT_000038,Moreau,Salma,38,F,O+,48,139,36.412809093314614,178/94,Pollen,Aucune
+PAT_000995,Kadiri,Julien,69,M,A+,74,141,16.360802040118376,94/87,Pollen,Arthrite
+PAT_000136,Leroy,Salma,15,F,O+,20,140,24.27696585144181,169/119,Pénicilline,Cancer (rémission)
+PAT_000028,Richard,Nicolas,62,M,A+,42,139,20.718981919542287,134/81,Aucune,"Hypertension, Insuffisance cardiaque, Ostéoporose"
+PAT_000172,Leroy,Nour,85,F,AB+,34,86,18.719532755116077,105/82,Latex,Aucune
+PAT_000925,Khalil,Chloe,94,M,B-,94,173,11.083142841048904,109/67,Pollen,"Arthrite, Sclérose en plaques, BPCO"
+PAT_000912,Petit,Antoine,4,F,O+,70,137,21.697183996718415,100/83,Aucune,Aucune
+PAT_000430,Martin,Marie,38,F,A+,51,151,33.040341639757685,125/113,Pollen,"Cirrhose, BPCO"
+PAT_000647,Martin,Clara,95,F,O+,76,79,32.14687779555941,121/66,Pollen,Aucune
+PAT_000046,Martin,Salma,56,F,AB-,111,145,19.53265896545276,169/95,Aucune,Aucune
+PAT_000571,Durand,Julien,18,M,O-,103,76,35.964941309012225,127/63,Pollen,"Hypothyroïdie, Maladie coronarienne"
+PAT_000833,Mansouri,Aisha,51,M,O+,97,152,25.90691754892739,174/63,Fruits de mer,"Maladie de Parkinson, Maladie de Crohn"
+PAT_000262,Robert,Amina,59,F,O-,69,167,27.862011626131082,105/93,Aucune,"BPCO, Cancer (rémission), Maladie coronarienne"
+PAT_000934,Thomas,Lucas,96,F,O+,45,76,43.3146054426947,174/63,Aucune,Aucune
+PAT_000998,Hassani,Aisha,58,F,O+,71,50,26.911801286449094,148/106,Aucune,Aucune
+PAT_000161,Alami,Ahmed,16,F,B+,92,173,21.24584721899859,108/115,Pénicilline,Aucune
+PAT_000195,Leroy,Leila,27,M,B+,94,164,15.085686744398107,107/102,Pénicilline,Arthrite
+PAT_000778,Alami,Khadija,30,F,A+,98,144,18.33674812127975,159/76,Pénicilline,"Cancer (rémission), Colite ulcéreuse"
+PAT_000948,Durand,Karim,60,F,B+,82,62,32.83619466471801,127/88,Aucune,Aucune
+PAT_000955,Hassani,Chloe,54,F,B+,34,144,23.018311334401552,171/82,Aucune,Aucune
+PAT_000245,Thomas,David,32,F,B+,79,178,24.1018192945833,100/86,Aucune,Aucune
+PAT_000061,Leroy,Mohammed,60,M,B+,112,57,29.663862929647152,115/61,Pénicilline,Aucune
+PAT_000168,Moreau,Nour,96,F,O+,59,166,11.779963023537126,155/63,Pénicilline,"Hypothyroïdie, Cirrhose"
+PAT_000024,Tazi,Alexandre,90,F,A+,104,150,19.09017415751392,141/61,Aucune,Aucune
+PAT_000188,Kadiri,Sophie,25,M,A+,75,167,34.486005504435774,141/65,Pollen,"Diabète Type 2, Alzheimer"
+PAT_000283,Leroy,Fatima,57,F,A+,61,145,15.04980397386037,99/72,Pénicilline,Aucune
+PAT_000322,Alami,Yasmine,62,M,A+,73,166,27.72190222667367,119/112,Aucune,Aucune
+PAT_000038,Durand,Léa,25,F,O+,80,153,33.876044142533544,137/67,Pollen,Aucune
+PAT_000334,Alami,Mohammed,92,M,B+,60,57,30.086822668291283,99/105,Aucune,"Hypertension, Diabète Type 1, Cirrhose"
+PAT_000925,Leroy,Amina,65,F,AB-,51,173,29.992017386325845,176/86,Pollen,"Ostéoporose, Hyperthyroïdie"
+PAT_000128,Thomas,Julien,76,F,A+,16,149,23.58809724295445,113/82,Pénicilline,Ostéoporose
+PAT_000938,Khalil,Ahmed,76,M,O+,22,135,17.092965456463936,169/95,Aucune,Insuffisance rénale chronique
+PAT_000645,Dubois,Fatima,21,F,O-,119,168,15.273341526765915,176/88,Aucune,Aucune
+PAT_000181,Richard,Omar,43,F,B+,72,147,15.567312970511068,118/91,Aucune,Asthme
+PAT_000163,Thomas,Léa,66,M,B+,55,90,2.533690345168722,145/113,Aucune,"Ostéoporose, Hypertension, Épilepsie"
+PAT_000930,Leroy,Leila,33,M,O+,105,147,29.905888752886995,133/65,Aucune,Insuffisance cardiaque
+PAT_000118,Martin,Léa,80,M,A+,56,154,0.6259225586851542,174/116,Aucune,Aucune
+PAT_000661,Benali,Alexandre,59,M,O+,69,147,5.502861750000649,150/101,Aucune,Sclérose en plaques
+PAT_000830,Dubois,Ali,37,M,B+,23,143,14.136000304722629,177/113,Aucune,Aucune
+PAT_000174,Bernard,Leila,65,F,A+,46,60,16.86639933670279,159/76,Aucune,"Cancer (rémission), Ostéoporose"
+PAT_000428,Dubois,Leila,97,F,O+,112,165,20.587128162296366,97/69,Pollen,Diabète Type 1
+PAT_000904,Robert,Khalid,70,M,A+,69,68,38.57201436161926,110/85,Aucune,Aucune
+PAT_000855,Thomas,Omar,44,F,A+,63,170,29.010556196867743,121/69,Aucune,"Hyperthyroïdie, Sclérose en plaques"
+PAT_000482,Tazi,Laura,8,F,A-,49,170,11.517551093419513,138/93,Aucune,"Épilepsie, Asthme"
+PAT_000240,Hassani,Léa,60,F,B+,53,149,26.836719169086145,150/70,Pollen,Aucune
+PAT_000392,Alami,Léa,46,F,B+,83,146,30.55254992160183,165/117,Aucune,Insuffisance cardiaque
+PAT_000833,Leroy,Karim,78,F,B+,90,69,16.286664079461396,151/77,Fruits de mer,Aucune
+PAT_000297,Tazi,Leila,23,M,A+,72,150,9.180694771919043,153/108,Gluten,"BPCO, Colite ulcéreuse, Arthrite"
+PAT_000594,Leroy,Julie,52,F,O+,112,168,26.256053495643414,151/98,Aucune,Aucune
+PAT_000978,Dubois,Léa,61,M,A-,107,99,14.166112997532174,120/103,Pénicilline,"Colite ulcéreuse, Alzheimer, Cirrhose"
+PAT_000022,Moreau,Antoine,83,M,B+,67,146,25.15096981330388,139/119,Aucune,Aucune
+PAT_000796,Martin,Yasmine,44,M,O+,81,140,11.121867850693924,137/61,Gluten,Aucune
+PAT_000432,Thomas,Hassan,62,M,A+,82,146,28.246216883121757,139/103,Pénicilline,Aucune
+PAT_000180,Thomas,Ahmed,20,F,A+,40,154,30.76069106882735,116/95,Aspirine,"Arthrite, Sclérose en plaques"
+PAT_000105,Petit,Fatima,99,F,O+,102,152,35.82217687361088,96/103,Pénicilline,Aucune
+PAT_000937,Thomas,Mehdi,70,F,B+,72,68,32.86011711440899,175/64,Fruits de mer,"Ostéoporose, Colite ulcéreuse"
+PAT_000553,Kadiri,Mohammed,30,F,A+,65,53,19.161567075914537,155/118,Aucune,Aucune
+PAT_000665,Dubois,Amina,42,M,A-,94,148,43.37275234046583,142/111,Fruits de mer,"Maladie coronarienne, Colite ulcéreuse, Épilepsie"
+PAT_000099,Tazi,Ali,56,M,B+,28,143,41.55109563339826,155/76,Pénicilline,Arthrite
+PAT_000078,Khalil,Hassan,52,F,O+,105,65,18.336420495605964,148/73,Aucune,Aucune
+PAT_000043,Martin,Karim,25,F,O+,45,173,21.41074025551134,156/91,Aspirine,Aucune
+PAT_000903,Tazi,Michel,14,F,O+,119,79,29.679374140575273,161/80,Latex,Colite ulcéreuse
+PAT_000732,Robert,Emma,86,F,B+,72,150,31.908672427432517,151/109,Aucune,Aucune
+PAT_000529,Dubois,Michel,55,F,O+,48,75,30.232354701212564,123/68,Acariens,Hypothyroïdie
+PAT_000844,Richard,Karim,62,M,O+,45,82,16.40723151500619,98/76,Aucune,Aucune
+PAT_000605,Leroy,Karim,81,M,AB+,112,76,28.726420312986143,157/114,Latex,"Cancer (rémission), Hypertension, Sclérose en plaques"
+PAT_000868,Fassi,Pierre,42,M,B+,52,144,9.274825573934697,137/69,Aucune,Aucune
+PAT_000022,Filali,Karim,41,M,B+,100,138,12.370653161815898,138/114,Aucune,Aucune
+PAT_000341,Durand,Karim,81,F,B+,59,154,22.504123653388,156/87,Aucune,Cirrhose
+PAT_000412,Robert,Khalid,79,F,B+,112,63,22.01070139923535,136/107,Aucune,Aucune
+PAT_000194,Robert,Youssef,69,F,B+,64,86,18.125595101253253,160/107,Aucune,"Épilepsie, Maladie coronarienne, Sclérose en plaques"
+PAT_000182,Dubois,Omar,42,M,A+,83,145,20.428461789729063,158/92,Fruits de mer,Alzheimer
+PAT_000321,Thomas,Zineb,92,F,AB+,91,170,14.006827296714505,128/61,Iode,"Sclérose en plaques, Ostéoporose, Colite ulcéreuse"
+PAT_000072,Richard,Zineb,87,F,B+,106,145,21.130451749491424,102/114,Aucune,Maladie de Crohn
+PAT_000736,Filali,Aisha,72,M,O+,78,51,8.754493201247012,105/73,Fruits de mer,Aucune
+PAT_000472,Petit,Emma,92,M,B+,96,174,17.411341688187004,178/78,Lactose,Aucune
+PAT_000601,Moreau,Karim,17,F,O+,116,140,19.982707604583105,163/109,Pénicilline,Aucune
+PAT_000881,Tazi,Ahmed,52,F,O+,94,153,39.55843009454937,175/119,Pénicilline,Aucune
+PAT_000318,Robert,Julie,86,M,B+,69,80,26.573423198961496,154/110,Aucune,Aucune
+PAT_000955,Leroy,Ahmed,73,F,B+,62,168,31.275549655220534,98/99,Pénicilline,Aucune
+PAT_000791,Khalil,Thomas,59,F,A+,20,164,42.843191466217746,146/79,Aucune,Aucune
+PAT_000837,Tazi,Manon,52,F,A-,54,153,39.68886945126819,143/66,Pénicilline,"Hypothyroïdie, Maladie coronarienne"
+PAT_000014,Bernard,Amine,52,F,B+,106,140,10.122449574141992,101/88,Gluten,Aucune
+PAT_000376,Richard,Pierre,84,M,O+,89,45,18.953743654139455,148/115,Aucune,Alzheimer
+PAT_000896,Kadiri,Michel,39,M,A+,83,164,15.306086611571551,110/83,Aucune,Maladie de Parkinson
+PAT_000285,Martin,Laura,14,F,A+,98,137,10.865445262009434,168/92,Pénicilline,Aucune
+PAT_000221,Petit,Laura,92,F,O+,117,58,21.82348244218811,178/94,Pénicilline,Insuffisance rénale chronique
+PAT_000731,Bernard,Nour,41,M,O-,114,148,13.136217392726442,176/62,Pénicilline,"Épilepsie, Maladie coronarienne, Sclérose en plaques"
+PAT_000808,Khalil,Mohammed,52,F,B+,49,145,29.392714124174816,159/76,Pénicilline,Aucune
+PAT_000108,Martin,Mohammed,46,M,B+,63,60,14.122587477123131,150/70,Pénicilline,Cirrhose
+PAT_000670,Leroy,Ahmed,73,F,B+,114,135,18.667148004536198,138/98,Aucune,"Hypothyroïdie, Épilepsie, Arthrite"
+PAT_000041,Leroy,Mohammed,68,M,B+,78,134,15.09026286109712,173/96,Fruits de mer,Aucune
+PAT_000748,Leroy,Julien,53,F,B+,74,78,33.54947852663903,98/117,Lactose,Aucune
+PAT_000123,Fassi,Léa,64,F,B+,92,160,34.533221887056655,126/79,Aspirine,Aucune
+PAT_000846,Thomas,Nour,25,F,O-,87,82,34.75762409175664,169/60,Aucune,"Maladie de Parkinson, Hypothyroïdie, Alzheimer"
+PAT_000008,Martin,Zineb,87,F,B-,74,150,29.458367829822695,145/113,Pénicilline,Colite ulcéreuse
+PAT_000715,Alami,Omar,75,M,B+,100,174,33.57939844813622,176/79,Pénicilline,"Hypertension, Insuffisance cardiaque"
+PAT_000721,Richard,Nour,92,M,A+,92,143,38.59596189715589,142/95,Pénicilline,"Sclérose en plaques, BPCO"
+PAT_000151,Thomas,David,36,F,O+,91,140,25.88766525348275,159/85,Fruits de mer,Asthme
+PAT_000666,Idrissi,Michel,18,F,O+,57,96,25.184979129494046,108/84,Aucune,"Sclérose en plaques, Maladie de Crohn"
+PAT_000042,Tazi,Michel,22,M,O+,109,71,31.394222125310137,152/69,Fruits de mer,Aucune
+PAT_000675,Filali,Chloe,83,M,A-,81,144,32.99927047602858,168/103,Aucune,"Diabète Type 1, BPCO"
+PAT_000764,Idrissi,Zineb,40,F,O+,112,146,28.169290045174844,158/92,Pollen,"Maladie coronarienne, Hypertension"
+PAT_000246,Tazi,Lucas,79,F,B+,56,165,33.578614223786424,174/68,Pénicilline,"Sclérose en plaques, Maladie de Crohn"
+PAT_000587,Tazi,Zineb,45,M,B+,61,141,20.081573041496007,149/98,Aucune,"Diabète Type 1, Cancer (rémission)"
+PAT_000918,Khalil,Clara,45,F,O+,63,152,25.432886652197425,109/83,Fruits de mer,Hypothyroïdie
+PAT_000337,Kadiri,Chloe,35,F,B+,110,144,14.46358748374054,155/63,Pénicilline,Aucune
+PAT_000737,Dubois,Aisha,29,M,A+,49,60,8.57730109624434,96/61,Lactose,Aucune
+PAT_000756,Tazi,Thomas,109,F,O+,67,154,2.1169590553937816,120/74,Aucune,Aucune
+PAT_000544,Tazi,Ahmed,39,F,O+,90,175,35.77025432159885,157/92,Latex,Hypothyroïdie
+PAT_000628,Tazi,Mohammed,83,F,B+,89,142,1.7125774686639694,124/113,Acariens,Aucune
+PAT_000939,Alami,Leila,64,F,B+,84,140,12.722943887922323,137/78,Pénicilline,Maladie de Parkinson
+PAT_000536,Richard,Marie,55,F,B+,51,141,22.29936011116591,126/61,Aucune,Aucune
+PAT_000268,Thomas,Alexandre,67,F,O+,85,136,4.2205151742772085,174/116,Pénicilline,Aucune
+PAT_000715,Mansouri,Thomas,37,M,O-,96,148,12.443818610033999,116/95,Aucune,Maladie coronarienne
+PAT_000190,Thomas,Omar,94,F,O+,78,68,28.159269690816206,140/93,Latex,Aucune
+PAT_000942,Leroy,Antoine,88,F,O+,112,142,23.426386782775225,159/118,Fruits de mer,Aucune
+PAT_000060,Richard,Karim,68,F,O+,59,137,23.299303114408435,168/92,Pénicilline,Aucune
+PAT_000199,Alami,Ali,40,M,O+,98,144,20.743391030250848,129/60,Acariens,"Insuffisance rénale chronique, Colite ulcéreuse"
+PAT_000978,Thomas,Chloe,93,M,O+,118,159,16.079186445836744,145/109,Fruits de mer,Sclérose en plaques
+PAT_000399,Dubois,Karim,53,F,A+,110,162,21.68032156020824,144/91,Pénicilline,"Diabète Type 1, Maladie de Crohn"
+PAT_000348,Filali,Laura,89,M,B+,105,150,23.334317625679695,129/98,Pollen,"Insuffisance cardiaque, Épilepsie, Cancer (rémission)"
+PAT_000264,Kadiri,Chloe,64,F,B+,81,140,19.1210760460703,126/94,Pénicilline,"Diabète Type 1, Cancer (rémission)"
+PAT_000045,Tazi,Mohammed,52,M,O+,96,170,21.41919796372842,136/74,Pénicilline,Aucune
+PAT_000345,Khalil,Thomas,91,M,A-,112,165,29.31804916276242,102/67,Aucune,"Maladie de Parkinson, Cirrhose, Asthme"
+PAT_000775,Benali,Khadija,24,F,B+,53,138,16.85869629051462,116/80,Pénicilline,"Ostéoporose, Hyperthyroïdie"
+PAT_000275,Leroy,Karim,18,M,A+,111,140,8.158145176168935,112/102,Aucune,Aucune
+PAT_000955,Kadiri,Lucas,17,F,O+,78,55,19.8805548982968,173/96,Aucune,Diabète Type 2
+PAT_000567,Tazi,Amina,11,F,A+,62,145,18.824350620960708,133/99,Aucune,Aucune
+PAT_000253,Durand,Camille,46,F,B+,91,151,24.034050222282556,118/111,Aucune,Aucune
+PAT_000487,Tazi,Michel,82,F,A+,93,141,20.667801190717114,102/85,Aucune,Aucune
+PAT_000485,Bernard,Amina,34,F,A+,31,172,27.22114144954871,169/62,Latex,"Hypothyroïdie, Maladie coronarienne"
+PAT_000706,Filali,Sara,77,F,B+,12,146,0.9200833406219715,155/89,Pénicilline,Aucune
+PAT_000867,Petit,Ali,63,F,O+,112,179,21.51399138381641,100/86,Aucune,"Sclérose en plaques, Cancer (rémission), Maladie de Crohn"
+PAT_000202,Alami,Khadija,62,M,B+,48,144,0.6033762976651538,129/79,Aucune,Aucune
+PAT_000367,Dubois,Hassan,42,M,O+,116,141,29.610045131306993,142/111,Pénicilline,Aucune
+PAT_000782,Benali,Thomas,44,F,O+,79,55,19.588365883268466,161/66,Fruits de mer,Arthrite
+PAT_000843,Fassi,Chloe,2,F,O+,63,67,21.81273324904787,105/80,Aucune,Insuffisance rénale chronique
+PAT_000457,Fassi,Chloe,24,F,B+,95,141,28.369724288067655,119/107,Gluten,Aucune
+PAT_000164,Martin,Emma,66,F,B+,49,76,24.10837674788975,144/91,Aucune,Aucune
+PAT_000129,Khalil,Jean,85,F,AB-,54,142,28.339514623972875,163/69,Fruits de mer,"Hypothyroïdie, Insuffisance cardiaque"
+PAT_000569,Durand,Amina,18,F,A-,48,139,20.651906388779803,124/81,Aucune,Aucune
+PAT_000074,Idrissi,Nicolas,35,F,A+,62,168,22.08679997747584,121/66,Pollen,Alzheimer
+PAT_000680,Hassani,Mohammed,61,M,B-,85,145,11.438295559853158,169/60,Pollen,"Asthme, Arthrite"
+PAT_000173,Richard,Léa,82,M,O-,48,87,25.81965359063983,102/114,Fruits de mer,Maladie de Parkinson
+PAT_000576,Leroy,Omar,89,M,O+,72,155,22.17722948466305,134/82,Aucune,Asthme
+PAT_000622,Idrissi,Hassan,8,F,AB+,119,145,19.15987846595664,93/75,Iode,"Maladie coronarienne, Hypothyroïdie"
+PAT_000899,Alami,Laura,17,M,A+,77,172,15.201236183571595,168/63,Pénicilline,"Arthrite, Hypertension"
+PAT_000871,Moreau,Khalid,14,F,A+,85,146,21.643459791755248,137/88,Pénicilline,"Diabète Type 2, Hypertension"
+PAT_000620,Idrissi,Alexandre,76,F,AB+,70,146,37.23968721452939,138/102,Pénicilline,Sclérose en plaques
+PAT_000829,Richard,Alexandre,32,M,A+,94,142,39.19208434940607,172/118,Iode,Aucune
+PAT_000434,Bernard,Sara,48,F,A+,66,69,33.89773653184148,152/88,Aucune,Aucune
+PAT_000526,Benali,Laura,72,M,O+,45,64,31.761677179877243,129/65,Aucune,Aucune
+PAT_000967,Richard,Mehdi,28,M,A-,77,141,5.300742354415419,149/68,Pollen,Aucune
+PAT_000911,Benali,Michel,43,F,B+,102,51,15.74605097993409,149/73,Aucune,"Hypothyroïdie, Cirrhose, Hypertension"
+PAT_000247,Khalil,Zineb,86,M,O+,88,166,24.27556881197836,151/109,Aucune,Aucune
+PAT_000552,Moreau,Leila,75,M,B+,45,152,24.965178336013533,100/65,Acariens,Aucune
+PAT_000728,Robert,Chloe,49,F,A-,55,149,21.99724493379982,138/62,Aucune,"Insuffisance cardiaque, Épilepsie, Cancer (rémission)"
+PAT_000529,Dubois,Nicolas,45,M,AB+,78,146,29.468545577876984,174/75,Lactose,"Asthme, Maladie coronarienne, Maladie de Parkinson"
+PAT_000589,Khalil,Amina,9,F,O+,92,143,25.010501287827076,120/65,Aucune,Aucune
+PAT_000019,Dubois,Chloe,70,F,O+,61,50,12.596123987646255,138/71,Aucune,Aucune
+PAT_000884,Idrissi,Léa,51,M,A-,63,150,7.0855961518505275,139/85,Aucune,"Diabète Type 1, Cancer (rémission)"
+PAT_000876,Hassani,Julie,84,F,O+,117,96,30.006925703766413,127/99,Aucune,Aucune
+PAT_000998,Tazi,Emma,74,M,O+,111,84,23.68348729677201,129/100,Pollen,Aucune
+PAT_000058,Hassani,Mehdi,99,F,B+,114,146,15.683355016297305,133/83,Pollen,Alzheimer
+PAT_000905,Dubois,Zineb,52,F,AB+,17,146,-1.1642957205742945,110/65,Aucune,Aucune
+PAT_000155,Robert,Fatima,39,F,B+,96,144,47.398260633522604,162/96,Gluten,Diabète Type 2
+PAT_000247,Filali,Emma,72,F,AB+,46,162,26.38635804176719,161/66,Pénicilline,"Hypothyroïdie, Maladie coronarienne"
+PAT_000814,Thomas,Hassan,25,F,O+,45,150,32.96395886037179,154/118,Aucune,Aucune
+PAT_000640,Fassi,Khadija,95,F,B+,119,65,0.9074594413072816,156/74,Gluten,Maladie de Crohn
+PAT_000831,Robert,Nicolas,77,M,O+,77,143,22.65369703805745,172/108,Aucune,Aucune
+PAT_000700,Khalil,Khadija,13,M,A+,47,140,22.572818514998062,161/91,Aucune,"Insuffisance cardiaque, Hyperthyroïdie"
+PAT_000502,Robert,Sara,15,F,A+,78,154,25.48084174133062,138/78,Pollen,Aucune
+PAT_000553,Thomas,Alexandre,58,F,O+,77,168,30.152360081609984,110/110,Aucune,"Maladie coronarienne, Alzheimer"
+PAT_000660,Tazi,Sara,59,F,A+,63,167,31.94130222241127,134/109,Pollen,Aucune
+PAT_000302,Dubois,Amine,27,M,O-,83,148,33.244010252500324,161/90,Iode,Ostéoporose
+PAT_000355,Robert,Antoine,33,F,A+,33,142,24.640792080481916,131/117,Pollen,Aucune
+PAT_000599,Mansouri,Amina,91,M,O+,45,165,52.01252236225242,136/98,Pénicilline,"Arthrite, Cirrhose"
+PAT_000560,Petit,Ali,19,F,O+,119,77,12.147880119866723,102/101,Gluten,Aucune
+PAT_000432,Idrissi,Aisha,21,M,O+,58,66,30.897884530743333,159/118,Aucune,Insuffisance rénale chronique
+PAT_000844,Leroy,Sophie,69,F,O+,51,143,3.8295129525578506,115/110,Aucune,Aucune
+PAT_000715,Petit,Nicolas,59,F,B+,118,161,15.237629706998977,90/86,Fruits de mer,Aucune
+PAT_000141,Petit,Julien,17,F,O+,79,76,3.4982571647396608,143/89,Latex,Aucune
+PAT_000690,Moreau,Aisha,88,M,O-,59,152,20.794294629811453,151/106,Pénicilline,"Cirrhose, Hypertension"
+PAT_000885,Alami,Fatima,22,M,B+,54,166,3.229102007882238,128/69,Aucune,Aucune
+PAT_000699,Richard,Pierre,43,M,A+,65,140,23.865866262448314,99/72,Acariens,"Maladie de Parkinson, Maladie de Crohn, Sclérose en plaques"
+PAT_000907,Thomas,Zineb,58,F,B+,114,145,14.587808978181531,176/79,Aucune,Cancer (rémission)
+PAT_000376,Dubois,Chloe,66,F,O+,66,175,32.60615900775261,166/88,Aucune,Aucune
+PAT_000930,Tazi,Léa,21,M,A-,111,166,33.213758789153665,101/112,Aucune,Hypothyroïdie
+PAT_000180,Durand,Sara,15,F,B+,87,170,19.045233137747633,115/110,Pollen,Cancer (rémission)
+PAT_000128,Idrissi,Léa,94,M,B+,67,79,22.762561661436663,152/100,Aucune,Arthrite
+PAT_000498,Robert,Pierre,66,F,O+,63,140,29.18354103708896,173/118,Pollen,Aucune
+PAT_000187,Khalil,Mohammed,64,M,O+,68,149,34.9438472158576,151/98,Fruits de mer,Aucune
+PAT_000973,Moreau,David,86,F,O+,71,143,14.807719143567653,137/72,Acariens,Aucune
+PAT_000030,Benali,Ali,9,F,O+,96,168,42.25230897327599,100/83,Pénicilline,Insuffisance cardiaque
+PAT_000667,Bernard,Khadija,49,F,B+,90,170,16.159217518513376,98/93,Aspirine,Aucune
+PAT_000134,Alami,Camille,86,M,A+,66,79,18.265576088441186,125/88,Gluten,"Hypertension, BPCO"
+PAT_000080,Hassani,Alexandre,85,M,A+,10,71,29.151657775057206,134/94,Aspirine,Hypothyroïdie
+PAT_000116,Moreau,Khadija,98,F,A+,80,142,20.31697065435778,103/79,Pénicilline,Hyperthyroïdie
+PAT_000067,Richard,Michel,48,F,O+,102,62,36.49172561281494,124/93,Gluten,Aucune
+PAT_000121,Alami,Léa,39,F,A+,15,148,21.32234927598287,107/73,Pollen,"Arthrite, Diabète Type 2"
+PAT_000622,Hassani,Marie,67,F,B+,34,145,31.60118611924321,177/89,Aucune,Maladie coronarienne
+PAT_000981,Kadiri,Khalid,26,F,AB+,18,161,20.27444556773777,156/118,Aucune,"Maladie de Crohn, BPCO, Asthme"
+PAT_000797,Tazi,Marie,58,F,B+,54,62,27.1233564150847,123/88,Pénicilline,"Sclérose en plaques, Ostéoporose, Colite ulcéreuse"
+PAT_000576,Benali,Chloe,19,F,B+,59,138,27.175092812699354,95/112,Pénicilline,Aucune
+PAT_000198,Durand,Sophie,37,F,O+,63,142,24.448263505716703,169/75,Latex,Aucune
+PAT_000376,Moreau,Lucas,85,F,O+,60,142,36.87681078306694,151/63,Aucune,Insuffisance rénale chronique
+PAT_000060,Dubois,Léa,60,M,B-,66,154,9.541717241782923,167/117,Aucune,Aucune
+PAT_000203,Thomas,Ali,31,M,A+,91,75,31.020423396494646,105/64,Pollen,Cancer (rémission)
+PAT_000172,Filali,Emma,79,F,B+,111,154,35.534651904803695,113/83,Pénicilline,Aucune
+PAT_000789,Tazi,Youssef,23,F,AB+,117,147,25.473947184475488,120/80,Aucune,"Sclérose en plaques, Ostéoporose"
+PAT_000594,Filali,Karim,19,M,B+,81,139,28.626188576268184,174/115,Aucune,"Épilepsie, Ostéoporose"
+PAT_000011,Benali,Léa,82,F,A+,98,154,11.280483484560904,165/112,Aucune,Aucune
+PAT_000758,Khalil,Julie,24,M,AB+,54,75,24.7416912141794,136/76,Pollen,Colite ulcéreuse
+PAT_000225,Kadiri,Hassan,68,F,A-,114,151,18.663140714486065,99/90,Fruits de mer,BPCO
+PAT_000041,Mansouri,Manon,28,F,O+,48,141,14.872932280826507,103/116,Pollen,Aucune
+PAT_000001,Khalil,Thomas,20,M,A+,117,166,35.93652133576315,101/76,Aucune,"Hyperthyroïdie, Maladie coronarienne"
+PAT_000602,Thomas,Antoine,89,F,A+,10,68,12.817519895452428,149/73,Aucune,"Maladie de Crohn, Diabète Type 1, Épilepsie"
+PAT_000676,Robert,Karim,66,F,O+,65,146,19.549496210857562,152/112,Pollen,Aucune
+PAT_000279,Tazi,Zineb,19,M,B+,64,145,18.423173476992645,175/105,Pollen,Aucune
+PAT_000127,Richard,Fatima,11,F,AB+,97,172,19.371972200625272,127/68,Latex,Maladie coronarienne
+PAT_000339,Kadiri,Alexandre,15,M,O+,85,137,25.153371116822065,108/85,Pénicilline,BPCO
+PAT_000882,Alami,Karim,41,M,B+,21,164,33.73916533250108,151/109,Lactose,Aucune
+PAT_000164,Khalil,Sophie,8,F,O+,107,60,27.98165856375229,150/103,Aucune,Aucune
+PAT_000819,Khalil,Khalid,51,M,B+,92,148,20.118232639556865,110/110,Iode,Aucune
+PAT_000396,Idrissi,Lucas,44,F,O+,48,78,19.44224308730812,102/71,Pénicilline,Maladie de Parkinson
+PAT_000917,Idrissi,Omar,59,M,O+,60,88,35.81876803226343,167/65,Aucune,"Cancer (rémission), Ostéoporose"
+PAT_000440,Filali,Emma,84,F,B+,56,142,23.573925497749823,147/86,Lactose,Maladie de Parkinson
+PAT_000009,Filali,Marie,89,F,A-,63,58,27.21294820176768,135/115,Aucune,Aucune
+PAT_000430,Benali,Karim,50,F,O+,56,140,16.85496155703911,117/87,Iode,Aucune
+PAT_000563,Filali,Khalid,78,M,A-,117,86,23.872570890517252,135/69,Pollen,Aucune
+PAT_000302,Durand,Nour,91,M,B+,48,74,18.444418153957923,122/73,Acariens,BPCO
+PAT_000591,Khalil,Nicolas,85,M,A+,59,140,23.58405855535873,110/65,Pénicilline,Maladie de Parkinson
+PAT_000101,Alami,Hassan,45,F,B+,97,81,38.67552115109624,107/71,Aucune,"Arthrite, Colite ulcéreuse"
+PAT_000274,Fassi,Thomas,67,M,A+,85,144,27.931063367368793,114/68,Aspirine,"Asthme, Épilepsie, Diabète Type 1"
+PAT_000717,Robert,Manon,88,M,AB+,101,86,25.46688654906859,174/63,Pénicilline,Aucune
+PAT_000099,Martin,Karim,40,F,O+,63,142,33.1459283872607,172/74,Pénicilline,Aucune
+PAT_000236,Idrissi,Julien,32,F,O+,101,79,21.876428492719107,123/100,Pénicilline,"Cancer (rémission), Hypothyroïdie"
+PAT_000541,Petit,Michel,37,F,A+,66,64,25.223669142124912,179/118,Aspirine,"Hypothyroïdie, Arthrite"
+PAT_000510,Bernard,Nicolas,57,F,A+,12,147,34.0192188733971,176/89,Aucune,Ostéoporose
+PAT_000805,Durand,Léa,6,F,O+,74,146,20.14154593957268,140/62,Aucune,Aucune
+PAT_000974,Idrissi,Leila,55,M,B+,114,144,28.76894498828407,159/115,Pollen,"Arthrite, Diabète Type 2"
+PAT_000497,Kadiri,Mehdi,54,M,O-,94,147,53.12303099400766,93/60,Gluten,Aucune
+PAT_000146,Kadiri,Sophie,84,F,B+,52,139,22.72420062219198,99/82,Aucune,Maladie de Parkinson
+PAT_000020,Petit,Salma,84,M,O+,45,147,19.643256346213853,115/97,Acariens,Aucune
+PAT_000621,Robert,Leila,15,F,O+,94,63,20.7959849073408,95/113,Aucune,"Insuffisance rénale chronique, Cirrhose"
+PAT_000844,Richard,Aisha,55,F,O+,17,55,29.475348406090212,135/69,Aspirine,Aucune
+PAT_000038,Richard,Ahmed,73,M,B+,89,62,44.15046433737365,171/99,Aucune,"Cirrhose, BPCO"
+PAT_000379,Bernard,Mehdi,4,M,A+,68,139,50.75561768915041,104/93,Aucune,"Insuffisance cardiaque, Arthrite"
+PAT_000144,Richard,Alexandre,60,F,A-,10,145,18.650694212874583,92/106,Acariens,"Sclérose en plaques, Colite ulcéreuse"
+PAT_000951,Idrissi,Youssef,51,F,O+,46,138,24.480992176284126,138/80,Aucune,Maladie de Crohn
+PAT_000150,Mansouri,Salma,51,M,B+,11,139,18.694015921850774,130/94,Aucune,Aucune
+PAT_000066,Thomas,Chloe,42,F,O+,104,144,23.084964617941186,104/95,Pollen,Aucune
+PAT_000425,Hassani,Nour,61,M,A+,114,68,10.214792471387483,141/68,Fruits de mer,Aucune
+PAT_000466,Khalil,Ali,86,F,B+,86,135,16.045248379934645,166/65,Aucune,Aucune
+PAT_000061,Khalil,Aisha,83,F,A+,61,148,14.286216819614044,96/103,Aucune,Aucune
+PAT_000178,Hassani,Zineb,4,F,B+,85,149,16.37593001361779,157/104,Pénicilline,Aucune
+PAT_000931,Petit,Aisha,56,F,O-,54,150,14.086580783109305,161/85,Iode,Maladie de Crohn
+PAT_000335,Idrissi,Camille,67,M,B+,116,150,24.55715059608243,146/90,Aucune,Aucune
+PAT_000858,Leroy,Thomas,66,M,A-,74,136,9.005702429699264,145/113,Pénicilline,Aucune
+PAT_000623,Benali,Marie,16,F,AB+,86,149,20.002648960883022,133/83,Aucune,"Sclérose en plaques, Colite ulcéreuse"
+PAT_000758,Martin,Mohammed,42,F,O+,108,158,21.68977114266385,171/66,Lactose,"Hyperthyroïdie, Maladie coronarienne"
+PAT_000869,Fassi,Khalid,43,F,O+,90,82,44.993835426354636,151/117,Iode,Aucune
+PAT_000297,Alami,Emma,58,F,B+,108,171,72.12212630923757,93/75,Aucune,"Hypothyroïdie, Épilepsie, Arthrite"
+PAT_000303,Khalil,Thomas,85,F,O+,68,145,20.20045730622046,175/64,Aucune,Sclérose en plaques
+PAT_000485,Martin,Hassan,27,F,B+,104,53,12.715575482660029,107/111,Pollen,Aucune
+PAT_000580,Durand,Hassan,80,F,O+,117,102,10.277235159320139,123/88,Aucune,Aucune
+PAT_000741,Alami,Leila,40,F,A-,92,171,13.949880480025083,157/92,Pollen,"Arthrite, Ostéoporose"
+PAT_000048,Kadiri,Sara,35,M,B-,63,83,32.99052819759828,162/102,Pénicilline,"Insuffisance cardiaque, Hypothyroïdie"
+PAT_000537,Khalil,Salma,66,F,B+,33,45,14.316920300961094,146/82,Pollen,Aucune
+PAT_000311,Leroy,Hassan,40,F,O+,97,141,26.238487754809256,146/88,Pénicilline,Colite ulcéreuse
+PAT_000590,Martin,Aisha,22,M,O+,51,142,33.599159579327015,119/112,Aucune,Aucune
+PAT_000974,Robert,Alexandre,70,M,O+,66,142,38.63352395030583,172/62,Aucune,Sclérose en plaques
+PAT_000284,Moreau,Thomas,68,F,O+,36,140,45.6074442543475,155/76,Aucune,Aucune
+PAT_000704,Dubois,Khalid,36,M,AB+,59,151,27.739869655466364,130/61,Iode,"Maladie coronarienne, Épilepsie, Diabète Type 2"
+PAT_000245,Filali,Michel,61,F,A-,52,137,11.528962770241527,115/110,Pénicilline,Aucune
+PAT_000153,Martin,Mohammed,89,M,O+,105,82,13.744579059069947,137/115,Aucune,Aucune
+PAT_000443,Alami,Julie,20,F,B+,48,65,26.900226244811947,100/86,Pénicilline,Aucune
+PAT_000442,Robert,Karim,61,F,O+,117,163,23.41723670139646,169/111,Fruits de mer,Aucune
+PAT_000376,Idrissi,Yasmine,71,F,B+,67,149,26.322361679515566,152/85,Aucune,Aucune
+PAT_000517,Khalil,Zineb,73,F,O+,94,150,16.70737718466606,179/107,Aucune,"Ostéoporose, Arthrite, Hypothyroïdie"
+PAT_000673,Tazi,Leila,11,F,A+,92,50,26.959205416757648,155/67,Aucune,"Asthme, Sclérose en plaques"
+PAT_000792,Khalil,Ali,56,F,B+,76,168,8.263915197750476,135/63,Aucune,Aucune
+PAT_000560,Martin,Leila,47,F,A-,89,80,18.149168087979877,121/70,Pollen,"Ostéoporose, Hyperthyroïdie"
+PAT_000202,Thomas,Clara,51,F,B+,65,167,28.798498904568792,149/64,Fruits de mer,Aucune
+PAT_000202,Kadiri,Sara,63,M,A+,102,78,23.883967122959312,130/61,Aucune,"Maladie de Parkinson, Maladie de Crohn, Sclérose en plaques"
+PAT_000288,Moreau,Mohammed,66,F,B+,112,132,14.542570942250265,101/72,Aucune,Aucune
+PAT_000071,Robert,Hassan,96,F,AB+,59,141,34.35020551140269,166/106,Pollen,Aucune
+PAT_000078,Alami,Alexandre,87,F,B+,75,162,4.420458867252028,159/69,Pénicilline,Aucune
+PAT_000121,Richard,Salma,52,F,B+,22,162,42.542612159893395,106/111,Lactose,Aucune
+PAT_000129,Durand,Mohammed,9,M,O+,65,147,23.30000873563081,161/90,Latex,"Cirrhose, BPCO, Sclérose en plaques"
+PAT_000947,Idrissi,Ahmed,36,F,O+,77,85,32.25389173371071,149/68,Aucune,Aucune
+PAT_000020,Thomas,Julien,32,F,B+,63,166,29.853802876483964,116/68,Aucune,"Insuffisance cardiaque, Hypothyroïdie"
+PAT_000388,Thomas,Mohammed,55,M,A+,88,146,14.390374629539574,134/80,Fruits de mer,"Hyperthyroïdie, Sclérose en plaques"
+PAT_000199,Leroy,Michel,29,M,B+,112,175,23.298072786904584,166/66,Aucune,"Colite ulcéreuse, Alzheimer, Cirrhose"
+PAT_000659,Thomas,David,28,F,B+,92,145,12.568980387771646,132/79,Latex,Cirrhose
+PAT_000990,Robert,Amina,11,F,O-,71,169,60.79425527509939,114/105,Iode,Aucune
+PAT_000657,Tazi,Fatima,63,M,O+,93,160,8.009853917450608,166/117,Aucune,Aucune
+PAT_000557,Idrissi,Zineb,14,F,O+,99,151,32.37875816827932,156/118,Aucune,Hypothyroïdie
+PAT_000541,Bernard,Alexandre,67,M,B+,106,146,23.48114878672112,176/109,Aucune,Aucune
+PAT_000601,Fassi,Nicolas,68,M,AB+,114,146,22.86432026342757,133/91,Aucune,Aucune
+PAT_000577,Richard,Chloe,13,F,AB+,52,174,13.250874811940559,100/114,Acariens,"Colite ulcéreuse, Hypertension, Insuffisance cardiaque"
+PAT_000152,Filali,Léa,20,M,O+,53,145,38.28940180514975,91/74,Aucune,Aucune
+PAT_000653,Mansouri,Fatima,55,M,B+,112,150,32.24885743699132,131/84,Fruits de mer,"Colite ulcéreuse, Cancer (rémission)"
+PAT_000484,Fassi,Léa,96,F,A+,85,65,34.682044133273834,158/97,Fruits de mer,Maladie coronarienne
+PAT_000292,Leroy,Fatima,79,F,A+,115,140,52.50329854356613,119/119,Pénicilline,Aucune
+PAT_000800,Mansouri,Julien,14,F,O+,66,172,29.751435401296494,97/103,Latex,Aucune
+PAT_000524,Hassani,Manon,79,F,AB+,64,149,29.03184331908549,151/116,Fruits de mer,Insuffisance cardiaque
+PAT_000376,Alami,Marie,55,M,O+,78,61,22.18898693579641,110/65,Fruits de mer,Hyperthyroïdie
+PAT_000416,Martin,Leila,52,F,O+,95,136,22.52149054839956,168/96,Aucune,"Cirrhose, BPCO"
+PAT_000142,Hassani,Thomas,98,M,O+,63,144,23.866855603907265,155/77,Pollen,Aucune
+PAT_000398,Leroy,Hassan,87,F,O+,61,164,6.4837561353944455,177/68,Aucune,"Cancer (rémission), Hypothyroïdie"
+PAT_000517,Martin,Leila,59,M,B+,83,78,3.5842934189195397,166/88,Pollen,Aucune
+PAT_000220,Moreau,Thomas,29,F,B+,117,143,40.56034888137686,135/74,Fruits de mer,"Maladie coronarienne, Alzheimer"
+PAT_000871,Moreau,Thomas,38,F,O+,61,170,42.64630051288751,152/108,Acariens,"Colite ulcéreuse, Maladie de Parkinson"
+PAT_000014,Alami,Sophie,14,F,A+,115,141,29.35903120183382,98/117,Aucune,Aucune
+PAT_000422,Benali,Fatima,16,M,B+,54,145,18.171685331039377,145/72,Pénicilline,Épilepsie
+PAT_000312,Filali,Mohammed,28,M,B+,51,167,17.583865915826664,132/94,Gluten,Aucune
+PAT_000892,Mansouri,Clara,92,F,O+,62,72,27.668584946026666,157/104,Aucune,"Asthme, Cirrhose"
+PAT_000537,Khalil,Khadija,92,M,B+,100,72,28.542896873749868,166/77,Aucune,BPCO
+PAT_000920,Tazi,Hassan,50,F,O+,79,76,18.01334238283692,114/87,Aucune,Sclérose en plaques
+PAT_000395,Durand,Aisha,49,M,O+,19,143,22.381744510583808,171/85,Pollen,"Maladie de Crohn, Diabète Type 2, Insuffisance cardiaque"
+PAT_000539,Alami,Ali,63,F,B+,59,145,24.354403483698324,151/109,Aucune,"Hyperthyroïdie, Maladie coronarienne"
+PAT_000309,Thomas,Lucas,86,M,B+,68,54,13.653036737986511,120/119,Aucune,Arthrite
+PAT_000426,Idrissi,Emma,17,F,B+,54,63,30.52661325611086,112/118,Gluten,"Sclérose en plaques, Cancer (rémission), Maladie de Crohn"
+PAT_000638,Idrissi,Karim,17,F,O+,88,168,17.189930444954214,101/112,Pollen,Aucune
+PAT_000543,Moreau,Alexandre,93,F,O+,75,58,21.153651246095347,151/109,Pénicilline,Aucune
+PAT_000162,Tazi,Sara,63,M,B+,91,150,27.557121322018094,126/61,Aucune,Insuffisance cardiaque
+PAT_000519,Kadiri,Marie,18,F,O+,78,151,26.819877966644647,120/94,Aucune,Diabète Type 1
+PAT_000989,Kadiri,Emma,49,F,B+,55,62,31.34212475062852,142/111,Acariens,"Arthrite, Ostéoporose"
+PAT_000537,Leroy,Chloe,24,F,B+,39,151,30.79920127366261,102/115,Lactose,"Ostéoporose, Cancer (rémission)"
+PAT_000915,Bernard,Thomas,44,F,O-,24,166,22.12361960047986,96/110,Fruits de mer,"Hyperthyroïdie, Maladie coronarienne"
+PAT_000219,Bernard,Léa,83,F,AB+,48,60,8.117982960266055,133/65,Aucune,Aucune
+PAT_000746,Kadiri,Omar,54,F,O+,45,150,30.006278027735256,174/104,Aucune,Aucune
+PAT_000341,Petit,Ahmed,58,M,A+,55,146,21.88903611127359,132/81,Aucune,BPCO
+PAT_000948,Tazi,Nicolas,91,M,A+,78,57,21.16561698811538,102/67,Pénicilline,Aucune
+PAT_000883,Mansouri,Khalid,94,F,B+,105,69,27.444786642016656,133/104,Gluten,"Arthrite, Diabète Type 2"
+PAT_000250,Moreau,Sophie,91,F,AB+,76,141,37.833995683813484,176/79,Aucune,Aucune
+PAT_000900,Moreau,Omar,46,M,A+,90,144,34.06169371961487,142/105,Aucune,Aucune
+PAT_000107,Tazi,Leila,54,F,B+,100,81,13.611291637880617,149/105,Aucune,"Épilepsie, BPCO"
+PAT_000185,Kadiri,Lucas,45,M,A+,105,173,25.160038801893926,120/119,Aucune,"Épilepsie, Insuffisance cardiaque, Hyperthyroïdie"
+PAT_000602,Khalil,Laura,34,F,AB+,27,154,41.49114429204493,138/78,Aucune,"Asthme, Sclérose en plaques"
+PAT_000671,Dubois,Thomas,12,F,A-,60,166,22.67669208706917,156/118,Latex,"Cancer (rémission), Cirrhose"
+PAT_000098,Filali,Aisha,89,M,O+,116,75,18.904728877834096,92/93,Aucune,"Sclérose en plaques, Maladie de Crohn"
+PAT_000359,Bernard,Lucas,45,F,B+,115,174,27.948726587370782,101/100,Pénicilline,"Diabète Type 2, Alzheimer"
+PAT_000628,Tazi,Salma,76,F,B+,73,171,32.414060699066376,124/81,Aucune,"Sclérose en plaques, Colite ulcéreuse"
+PAT_000881,Tazi,Yasmine,44,F,B+,85,147,-1.012878396907972,147/104,Lactose,Aucune
+PAT_000600,Robert,Emma,40,F,O+,23,144,16.45899264379154,140/93,Lactose,Colite ulcéreuse
+PAT_000022,Petit,Pierre,56,F,A-,59,96,35.988290476168935,151/89,Pénicilline,Aucune
+PAT_000600,Kadiri,Thomas,61,F,AB+,28,172,38.005393965798994,136/119,Aucune,Aucune
+PAT_000430,Thomas,Julie,46,F,A+,30,164,24.29773343258317,156/113,Pénicilline,Aucune
+PAT_000321,Filali,Camille,78,M,A+,107,70,27.56835149919556,99/61,Acariens,Aucune
+PAT_000685,Tazi,Julie,32,M,A-,118,153,9.504716949215949,178/101,Iode,BPCO
+PAT_000151,Martin,Manon,52,F,AB+,35,67,32.970463104851575,95/112,Aucune,"Insuffisance cardiaque, Arthrite"
+PAT_000069,Fassi,Antoine,44,F,A+,60,144,29.08306237382505,90/75,Pénicilline,Aucune
+PAT_000542,Khalil,Nicolas,50,F,O+,46,148,20.874118131512244,123/95,Aucune,"Maladie de Crohn, Insuffisance rénale chronique"
+PAT_000037,Bernard,Hassan,52,F,AB+,10,151,24.95488142047864,95/113,Aucune,Diabète Type 2
+PAT_000847,Kadiri,Salma,61,F,O+,95,145,13.698284582847696,112/112,Pénicilline,Aucune
+PAT_000140,Leroy,Marie,42,F,B+,42,174,23.441153969666537,124/103,Pénicilline,"Hypothyroïdie, Hypertension, Diabète Type 2"
+PAT_000295,Tazi,Laura,87,F,B+,95,140,40.50535284374273,176/114,Aucune,Aucune
+PAT_000714,Moreau,Karim,36,F,B+,46,148,28.526707226429526,158/92,Gluten,Maladie de Parkinson
+PAT_000568,Moreau,Lucas,68,F,B-,80,77,16.39252373328504,146/88,Gluten,Cancer (rémission)
+PAT_000855,Richard,Ahmed,42,F,O+,66,170,26.703759075562196,179/86,Pénicilline,Aucune
+PAT_000568,Kadiri,Zineb,18,F,B+,91,157,35.45727021334704,120/65,Pénicilline,Maladie de Parkinson
+PAT_000509,Khalil,Marie,22,F,O+,93,141,25.83753344119117,157/92,Aucune,Aucune
+PAT_000398,Tazi,Karim,72,F,A+,54,146,25.173488286992054,150/101,Acariens,Maladie coronarienne
+PAT_000037,Idrissi,Leila,35,M,B+,92,144,8.099666535274455,134/109,Lactose,Aucune
+PAT_000728,Idrissi,Julien,39,M,A+,111,142,29.67222682724816,140/62,Aucune,"Asthme, Hypothyroïdie, Colite ulcéreuse"
+PAT_000559,Richard,Omar,20,F,A+,90,144,25.380526345040096,153/60,Pénicilline,Sclérose en plaques
+PAT_000753,Durand,Antoine,49,F,A-,51,66,28.502262087539954,174/118,Pénicilline,Aucune
+PAT_000015,Martin,Youssef,44,M,O+,14,142,4.457096541409527,166/110,Aucune,"Cancer (rémission), Ostéoporose"
+PAT_000512,Richard,Karim,20,M,B+,95,70,16.02146131053968,174/75,Pollen,Aucune
+PAT_000018,Tazi,Thomas,68,M,AB+,90,61,27.2123816127357,163/69,Aucune,Aucune
+PAT_000006,Hassani,Hassan,23,F,AB+,53,162,16.949264018369732,110/112,Acariens,Aucune
+PAT_000302,Martin,Karim,22,F,B+,96,139,29.482344327188965,100/92,Aucune,Aucune
+PAT_000698,Richard,Leila,102,F,O+,112,160,20.306138017564624,167/65,Pollen,Aucune
+PAT_000623,Martin,Mohammed,62,F,O+,96,149,41.52471992948212,163/62,Acariens,Aucune
+PAT_000022,Bernard,Nicolas,16,F,B+,71,83,22.497038766604938,133/60,Aucune,"Insuffisance rénale chronique, Ostéoporose"
+PAT_000536,Tazi,Jean,87,M,B+,71,148,22.12022395165421,98/83,Aucune,Diabète Type 2
+PAT_000258,Leroy,Manon,92,F,B+,55,139,23.15209667969677,146/61,Aucune,Aucune
+PAT_000947,Filali,Khalid,50,F,O+,65,61,12.272737951910827,150/97,Pénicilline,Aucune
+PAT_000164,Durand,Manon,14,F,B+,112,66,4.53241348028933,175/105,Aucune,Alzheimer
+PAT_000448,Idrissi,Sara,20,F,O+,101,145,34.28068382284812,91/108,Fruits de mer,"Hypothyroïdie, Hypertension, Diabète Type 2"
+PAT_000782,Benali,Karim,77,F,B+,88,139,29.149771992245267,113/117,Iode,Aucune
+PAT_000260,Bernard,Thomas,3,F,O+,79,173,26.28942286909139,168/91,Pénicilline,Maladie coronarienne
+PAT_000591,Martin,Youssef,55,F,AB+,12,85,16.96542136426984,127/60,Fruits de mer,"Maladie de Parkinson, Maladie de Crohn, Sclérose en plaques"
+PAT_000615,Robert,Sara,45,F,O+,102,150,42.20329955507679,102/101,Pénicilline,Aucune
+PAT_000496,Tazi,Leila,46,F,B+,46,142,15.25743287337615,135/103,Aucune,"Maladie coronarienne, Hypothyroïdie"
+PAT_000491,Idrissi,Nicolas,85,F,O+,114,91,32.002131110037446,152/118,Pénicilline,"Ostéoporose, Insuffisance rénale chronique"
+PAT_000002,Hassani,Yasmine,8,M,AB+,58,149,24.843647961445846,131/96,Aucune,Aucune
+PAT_000420,Filali,Mohammed,57,F,O+,88,143,20.902450574856758,107/102,Acariens,Aucune
+PAT_000662,Martin,Laura,48,F,O+,62,146,7.863695908608829,112/88,Aucune,"Arthrite, Colite ulcéreuse"
+PAT_000116,Moreau,Manon,51,M,O+,75,170,21.010406049764853,139/119,Fruits de mer,Aucune
+PAT_000508,Kadiri,Nicolas,19,F,A+,98,166,22.963263067405272,121/79,Fruits de mer,Aucune
+PAT_000824,Leroy,Karim,71,M,O+,59,152,24.79060086240063,123/101,Fruits de mer,"Asthme, Épilepsie, Diabète Type 1"
+PAT_000641,Tazi,Aisha,3,M,AB+,55,143,23.95267157263943,158/92,Aucune,"Épilepsie, Asthme"
+PAT_000395,Dubois,Nicolas,82,F,O+,46,140,26.605424411467013,137/69,Latex,Insuffisance cardiaque
+PAT_000864,Khalil,Mohammed,70,F,B-,62,154,19.686581325740324,153/88,Gluten,Aucune
+PAT_000791,Moreau,Ali,89,F,O+,57,62,28.595585015274352,156/113,Pénicilline,Aucune
+PAT_000980,Dubois,Julie,37,F,A-,87,67,31.79305376870949,133/84,Latex,"Cancer (rémission), Maladie de Crohn"
+PAT_000359,Richard,Fatima,77,M,A+,47,161,20.586567262923772,138/113,Aucune,Arthrite
+PAT_000147,Khalil,Julien,44,M,B-,54,84,6.604928932040977,94/87,Aspirine,Aucune
+PAT_000862,Bernard,Mehdi,20,F,B+,67,140,20.32437212555833,103/115,Acariens,"BPCO, Cirrhose"
+PAT_000782,Martin,Salma,40,F,O+,54,168,24.181128503538314,94/98,Latex,Aucune
+PAT_000219,Martin,Leila,63,F,A+,70,164,15.925685592114437,117/109,Pénicilline,Aucune
+PAT_000844,Tazi,Thomas,57,F,O+,112,169,27.848579067322472,158/92,Pénicilline,Arthrite
+PAT_000911,Martin,Ahmed,20,M,B+,61,144,34.061026522004184,90/67,Aucune,Aucune
+PAT_000987,Bernard,Marie,88,F,B+,20,147,38.0717597663811,93/79,Aucune,Aucune
+PAT_000838,Durand,Zineb,61,F,B-,52,70,25.988526571129132,126/109,Pénicilline,Aucune
+PAT_000856,Richard,Thomas,83,M,B+,102,79,15.025820586364517,133/116,Acariens,"Hypothyroïdie, Maladie coronarienne"
+PAT_000587,Richard,Mehdi,16,F,AB+,87,68,37.5921351618091,133/91,Pénicilline,Insuffisance cardiaque
+PAT_000703,Fassi,Fatima,60,F,A+,110,145,15.17281228383065,143/112,Iode,Aucune
+PAT_000384,Dubois,Nicolas,14,F,B-,112,156,19.84637577556031,130/100,Fruits de mer,Aucune
+PAT_000743,Dubois,Nicolas,34,M,B+,80,149,23.356555980720582,129/98,Aspirine,"Cancer (rémission), Maladie de Crohn"
+PAT_000349,Thomas,Nicolas,54,F,A+,36,139,24.090776281571213,122/91,Aucune,"Hypertension, Diabète Type 1, Asthme"
+PAT_000568,Leroy,Hassan,36,M,A+,54,169,30.066577900893865,169/113,Aspirine,Aucune
+PAT_000925,Kadiri,Sara,40,M,A+,61,76,39.85473526008111,149/77,Pénicilline,Aucune
+PAT_000661,Bernard,Julie,15,M,O+,56,136,25.672755759470974,131/70,Pénicilline,Diabète Type 1
+PAT_000777,Thomas,Ali,50,F,A+,80,165,30.712753303503977,105/106,Pollen,Maladie coronarienne
+PAT_000769,Richard,Manon,62,M,AB+,78,65,23.59137485698622,102/105,Aucune,Aucune
+PAT_000658,Filali,Karim,37,F,A+,83,142,24.928937037211828,136/60,Gluten,Aucune
+PAT_000553,Hassani,Mehdi,63,F,B+,43,143,22.051066776668627,139/88,Fruits de mer,Aucune
+PAT_000887,Tazi,Ahmed,64,M,O+,55,138,42.99903198666802,162/108,Pénicilline,Aucune
+PAT_000548,Benali,Aisha,18,M,O+,48,166,10.342703184166842,169/60,Gluten,Aucune
+PAT_000675,Alami,Nicolas,85,M,B+,53,76,17.878253505628752,163/102,Pollen,"Hypothyroïdie, Diabète Type 2"
+PAT_000310,Benali,Aisha,69,M,B+,97,52,6.5811631197573135,104/78,Aspirine,Aucune
+PAT_000131,Petit,Zineb,14,F,O+,47,51,30.320804807899076,143/117,Pollen,Aucune
+PAT_000353,Dubois,Manon,68,F,B+,51,65,19.087314310200263,121/108,Iode,"Colite ulcéreuse, Épilepsie"
+PAT_000759,Martin,Zineb,82,F,B+,29,52,15.188331172261055,177/76,Aucune,"Maladie de Crohn, Arthrite"
+PAT_000491,Fassi,Fatima,38,M,B+,98,74,23.360504360916096,92/89,Acariens,Aucune
+PAT_000158,Leroy,Nicolas,11,M,O+,68,82,28.721182195863538,142/103,Aucune,Aucune
+PAT_000732,Dubois,Mohammed,26,F,O+,115,150,27.32520578420072,177/64,Pollen,Maladie de Parkinson
+PAT_000222,Tazi,Zineb,33,F,B+,58,138,21.272858977384562,107/94,Aucune,Hypothyroïdie
+PAT_000672,Fassi,Karim,34,F,O+,95,169,23.82375138652453,131/71,Pénicilline,Aucune
+PAT_000128,Petit,Hassan,24,F,A+,17,164,28.982535793831595,110/109,Pollen,"Hyperthyroïdie, Asthme, Maladie coronarienne"
+PAT_000783,Petit,Emma,84,F,O+,68,143,20.318557114605984,102/115,Pénicilline,Maladie de Parkinson
+PAT_000434,Filali,Khadija,34,F,O+,62,165,15.532640588967212,164/115,Aucune,Aucune
+PAT_000505,Bernard,Marie,10,F,A-,115,66,20.595734514806846,178/69,Fruits de mer,Aucune
+PAT_000014,Alami,Chloe,70,F,O+,59,143,34.058127804080335,143/83,Pollen,"Insuffisance cardiaque, Hyperthyroïdie"
+PAT_000907,Tazi,Julie,43,F,O+,105,169,6.881739088681551,135/106,Iode,Aucune
+PAT_000697,Richard,Karim,4,F,A+,77,172,29.910277650465055,121/85,Fruits de mer,"Maladie coronarienne, Épilepsie, Diabète Type 2"
+PAT_000529,Kadiri,Fatima,84,F,O+,34,172,28.476244380389126,149/66,Pollen,Maladie de Crohn
+PAT_000650,Kadiri,Amina,68,F,O+,98,142,37.943674009897585,120/65,Aucune,"BPCO, Colite ulcéreuse, Arthrite"
+PAT_000025,Bernard,Karim,21,M,B+,65,135,21.661257445722633,110/85,Pollen,Aucune
+PAT_000325,Alami,Manon,87,F,A-,96,67,21.4060584166766,176/88,Fruits de mer,Hypertension
+PAT_000438,Robert,Aisha,43,M,O+,88,91,21.79449613489762,137/110,Iode,Alzheimer
+PAT_000830,Kadiri,Sara,11,F,O+,61,54,28.731594119115805,135/63,Pénicilline,Aucune
+PAT_000294,Idrissi,Hassan,83,F,O+,36,146,8.840404026895026,130/62,Aucune,Aucune
+PAT_000476,Kadiri,Zineb,77,M,O+,91,90,30.479783774491864,100/65,Iode,"Épilepsie, Insuffisance cardiaque, Hyperthyroïdie"
+PAT_000950,Dubois,Clara,14,M,O+,78,76,24.393132113628504,93/108,Aucune,"Maladie de Parkinson, Maladie de Crohn, Sclérose en plaques"
+PAT_000290,Filali,Zineb,45,F,O+,29,162,28.315900228922132,142/103,Acariens,Maladie de Parkinson
+PAT_000751,Leroy,Karim,47,M,O+,29,75,24.070270594272984,101/72,Latex,"Épilepsie, Arthrite, Diabète Type 1"
+PAT_000685,Martin,Marie,65,F,B+,59,74,19.922433788454278,149/68,Acariens,Aucune
+PAT_000173,Thomas,Marie,18,M,A+,91,139,20.904045758907777,178/108,Aucune,Aucune
+PAT_000487,Khalil,Antoine,52,M,B+,104,173,30.73942267357685,101/88,Pénicilline,Insuffisance cardiaque
+PAT_000918,Hassani,Aisha,35,M,AB+,113,169,12.695758449496504,146/99,Pollen,Arthrite
+PAT_000222,Khalil,Camille,43,F,A-,24,166,33.53945980909199,102/114,Lactose,"Alzheimer, Insuffisance cardiaque, Maladie coronarienne"
+PAT_000896,Alami,Lucas,13,F,O+,105,142,26.2433914598708,109/98,Aucune,Aucune
+PAT_000042,Idrissi,Nour,48,F,AB+,93,165,29.93083753959585,111/115,Aucune,Insuffisance rénale chronique
+PAT_000814,Benali,Lucas,18,F,O+,11,143,31.189238409380224,114/118,Acariens,"Cancer (rémission), Ostéoporose"
+PAT_000015,Kadiri,Amina,40,M,A+,117,148,20.923298002896143,113/89,Pénicilline,Hypertension
+PAT_000121,Leroy,Marie,57,M,O+,119,151,28.140577679878994,157/104,Fruits de mer,Aucune
+PAT_000269,Thomas,Marie,28,F,B+,97,144,16.12155787591428,93/64,Pénicilline,"Hyperthyroïdie, Asthme, Maladie coronarienne"
+PAT_000097,Martin,Karim,17,M,B+,94,66,27.329367968247666,152/112,Pollen,Aucune
+PAT_000097,Thomas,Amina,56,F,B+,13,142,29.490047810676618,156/113,Pollen,Aucune
+PAT_000759,Alami,Mohammed,68,M,B+,31,147,12.347235346344958,178/70,Pollen,Aucune
+PAT_000336,Tazi,Omar,64,F,O+,55,141,26.62392866988247,92/89,Pénicilline,Aucune
+PAT_000167,Martin,Emma,53,F,B+,96,140,29.72974535150628,118/119,Iode,Aucune
+PAT_000796,Kadiri,Clara,43,F,O+,72,149,43.43280665605917,152/118,Aucune,Aucune
+PAT_000171,Thomas,Karim,43,F,O+,66,169,31.9669746364432,126/82,Aucune,Aucune
+PAT_000784,Leroy,Manon,60,F,B+,112,141,41.69285049741128,164/65,Aucune,"Insuffisance rénale chronique, Cirrhose"
+PAT_000976,Leroy,Amina,52,F,A-,83,151,7.692053716596851,149/64,Aucune,"Hypothyroïdie, Maladie coronarienne"
+PAT_000874,Richard,Nicolas,5,M,A-,115,74,32.282351142383526,137/115,Fruits de mer,Aucune
+PAT_000676,Martin,Chloe,63,F,B-,112,172,20.020358151951434,169/111,Acariens,Aucune
+PAT_000866,Fassi,Karim,90,F,AB-,35,145,14.525486244063567,115/97,Aucune,"BPCO, Sclérose en plaques"
+PAT_000300,Kadiri,Fatima,65,F,O+,116,162,26.958676032235264,177/89,Fruits de mer,Aucune
+PAT_000873,Moreau,Léa,74,F,O+,105,143,7.967592220891294,92/63,Aucune,Aucune
+PAT_000752,Robert,Khadija,72,F,O+,66,153,22.89308727883349,156/103,Fruits de mer,Maladie de Crohn
+PAT_000986,Moreau,Zineb,57,F,A+,96,142,11.165081963941093,179/107,Aucune,Aucune
+PAT_000767,Tazi,Amine,86,M,O+,77,75,15.293200035966091,137/109,Aucune,"Insuffisance rénale chronique, Colite ulcéreuse"
+PAT_000832,Hassani,Nour,47,M,A+,42,68,11.439034762142317,140/107,Pénicilline,"Diabète Type 1, BPCO"
+PAT_000954,Tazi,Ahmed,90,M,O+,75,69,14.648794020020036,166/77,Aucune,Aucune
+PAT_000397,Khalil,Emma,60,F,A+,61,142,17.908769064778845,114/63,Iode,"Sclérose en plaques, Cancer (rémission), Maladie de Crohn"
+PAT_000350,Filali,Julie,58,F,B+,49,140,22.90663441748835,97/95,Aucune,Maladie coronarienne
+PAT_000459,Khalil,Chloe,50,F,A+,46,66,26.978327304490364,177/112,Pollen,Alzheimer
+PAT_000449,Hassani,Yasmine,40,F,O+,90,54,29.93989687505613,122/73,Aucune,Aucune
+PAT_000947,Leroy,Zineb,54,M,B+,51,142,16.481848847924446,134/80,Fruits de mer,"Diabète Type 2, Maladie coronarienne"
+PAT_000188,Moreau,Nicolas,20,F,B+,64,147,22.05104214078243,167/75,Aucune,"BPCO, Sclérose en plaques"
+PAT_000670,Martin,Manon,90,F,O+,84,173,34.615030445779965,100/86,Latex,"Diabète Type 2, Maladie coronarienne"
+PAT_000688,Filali,Léa,40,F,A-,63,140,26.96137382739544,151/112,Aucune,Arthrite
+PAT_000072,Dubois,Ali,15,F,O+,67,138,18.542259118423004,112/92,Aucune,Aucune
+PAT_000981,Khalil,Marie,56,F,B+,46,77,30.378762633027378,133/71,Pénicilline,"Maladie de Parkinson, Maladie de Crohn"
+PAT_000531,Durand,Leila,95,F,B+,101,146,18.936138771586833,109/98,Aucune,Aucune
+PAT_000512,Tazi,Ali,90,F,A+,21,54,7.690068961607663,151/110,Pénicilline,Aucune
+PAT_000616,Tazi,Ali,49,F,B+,31,147,14.477491498763204,142/79,Gluten,Aucune
+PAT_000201,Khalil,Nicolas,47,M,A-,91,168,14.576521344277692,108/84,Aucune,"Diabète Type 1, Hypertension"
+PAT_000025,Moreau,Salma,40,F,O+,117,61,34.1263525305518,169/93,Gluten,Aucune
+PAT_000528,Leroy,Lucas,94,M,B+,98,68,22.695907846780557,148/75,Aucune,"Maladie de Parkinson, Cirrhose"
+PAT_000216,Bernard,Aisha,77,F,B+,106,138,12.80905153988188,160/107,Pénicilline,Aucune
+PAT_000494,Tazi,Hassan,93,F,O+,30,143,42.77987686083175,167/94,Aucune,"BPCO, Sclérose en plaques"
+PAT_000249,Mansouri,Emma,82,F,O+,98,148,18.41992048489548,93/85,Acariens,Aucune
+PAT_000923,Alami,Michel,7,F,O+,92,143,21.67671497367884,138/71,Aucune,Maladie de Crohn
+PAT_000009,Dubois,Khadija,36,F,B+,105,84,32.28593395346742,159/106,Iode,Aucune
+PAT_000876,Petit,Zineb,45,F,O+,85,146,16.598958713469624,159/106,Lactose,"Asthme, Hypothyroïdie, Colite ulcéreuse"
+PAT_000159,Petit,Thomas,89,F,O-,27,148,27.867259632870166,95/66,Aucune,Aucune
+PAT_000958,Robert,Nicolas,12,F,A+,61,77,15.978110462994405,95/90,Iode,Aucune
+PAT_000590,Martin,Yasmine,99,M,B+,97,174,11.996409247865639,127/84,Fruits de mer,Aucune
+PAT_000386,Durand,Hassan,34,F,O+,71,170,8.652179218135755,101/100,Fruits de mer,Aucune
+PAT_000650,Khalil,Youssef,51,M,A-,76,146,17.983463006344934,122/91,Pénicilline,Aucune
+PAT_000899,Khalil,Youssef,78,M,O+,109,143,30.738187641621955,102/89,Pénicilline,Aucune
+PAT_000146,Benali,Manon,62,F,O+,54,163,13.122724303911212,95/77,Aucune,Aucune
+PAT_000846,Fassi,Mohammed,77,F,B+,79,71,31.053418151335723,93/87,Fruits de mer,Aucune
+PAT_000959,Hassani,Chloe,58,F,AB+,92,152,12.115967724438487,164/93,Pollen,Aucune
+PAT_000790,Alami,David,65,F,O+,80,134,9.875411326791651,113/116,Aucune,"Ostéoporose, Cancer (rémission)"
+PAT_000636,Moreau,Aisha,62,F,B+,105,87,25.491190751994992,94/64,Pollen,Aucune
+PAT_000883,Tazi,Aisha,75,M,A+,106,148,10.817433149425696,135/63,Aucune,Aucune
+PAT_000015,Alami,Leila,55,F,O+,109,159,18.63522349538004,149/113,Fruits de mer,Aucune
+PAT_000008,Filali,Manon,36,M,O+,89,140,20.551695148104997,102/101,Aspirine,Aucune
+PAT_000809,Bernard,Léa,19,M,O+,87,172,29.73056980154932,147/86,Aucune,Aucune
+PAT_000202,Hassani,Antoine,15,F,O+,77,139,8.880817099861636,158/113,Pénicilline,Aucune
+PAT_000758,Dubois,Marie,70,F,A+,67,156,35.06359924574789,147/113,Aucune,"Diabète Type 2, Maladie coronarienne"
+PAT_000304,Alami,Hassan,40,F,A-,54,146,10.740702245057841,145/114,Pollen,"BPCO, Colite ulcéreuse, Arthrite"
+PAT_000044,Mansouri,Michel,89,F,A+,93,150,27.411511903430103,105/80,Pénicilline,"Arthrite, Cancer (rémission), Diabète Type 1"
+PAT_000377,Thomas,Mohammed,57,M,O+,104,155,17.513471082181955,163/102,Fruits de mer,"Asthme, Alzheimer"
+PAT_000457,Fassi,Nicolas,53,F,A-,12,142,24.39397509796254,176/88,Aucune,Aucune
+PAT_000864,Petit,Léa,82,M,O+,91,140,28.948905627897037,174/93,Pénicilline,Aucune
+PAT_000604,Khalil,Sara,63,F,A+,92,139,15.906757820450782,100/119,Pénicilline,Insuffisance cardiaque
+PAT_000334,Leroy,Marie,47,F,AB+,115,168,37.72955894375161,147/65,Acariens,"BPCO, Colite ulcéreuse"
+PAT_000051,Benali,Karim,69,F,B+,90,140,22.286644267251297,142/111,Fruits de mer,Aucune
+PAT_000115,Mansouri,Emma,45,F,A-,91,141,16.86604934285715,146/82,Acariens,"Maladie coronarienne, Hypertension"
+PAT_000911,Moreau,Nour,62,F,B+,117,150,18.33673739775417,101/112,Aucune,Alzheimer
+PAT_000051,Leroy,Michel,42,F,B+,70,83,26.29296825788557,109/91,Aucune,Aucune
+PAT_000611,Hassani,Michel,19,F,A-,96,73,23.103552410054277,92/106,Pénicilline,Maladie coronarienne
+PAT_000530,Robert,Salma,52,M,O+,105,144,26.199370771145936,128/78,Aucune,"Hyperthyroïdie, Maladie coronarienne"
+PAT_000395,Petit,Amina,47,F,O+,110,144,38.17436397264879,138/78,Aucune,Hyperthyroïdie
+PAT_000960,Tazi,Amine,5,M,A+,63,143,26.94738609267722,146/79,Aucune,Diabète Type 2
+PAT_000851,Richard,Léa,90,F,B+,50,166,17.308991812004376,134/112,Lactose,Sclérose en plaques
+PAT_000370,Tazi,Lucas,63,M,B+,57,146,32.20915527485104,110/85,Pénicilline,Aucune
+PAT_000262,Dubois,Leila,15,M,A+,61,144,25.40523578487603,95/112,Aucune,"Hypertension, Diabète Type 2"
+PAT_000666,Mansouri,Chloe,72,F,B+,99,74,22.2385837995481,154/113,Pollen,Aucune
+PAT_000541,Thomas,Salma,86,F,AB+,58,176,21.53534508365857,170/115,Lactose,"Cancer (rémission), Hypertension, Sclérose en plaques"
+PAT_000361,Filali,Emma,29,M,O+,72,75,20.59460947965099,151/116,Pénicilline,Aucune
+PAT_000839,Richard,Thomas,47,M,A+,65,64,49.19998392528854,139/77,Gluten,Hyperthyroïdie
+PAT_000386,Hassani,Ali,69,F,B+,70,170,22.883348900534585,173/97,Latex,Aucune
+PAT_000829,Idrissi,Sophie,12,F,A-,59,144,28.41252631843254,163/109,Aucune,Hyperthyroïdie
+PAT_000571,Benali,Léa,13,F,A+,58,52,10.158570096814268,146/109,Aucune,Aucune
+PAT_000379,Tazi,Ali,54,M,O+,119,67,20.599882395216046,172/76,Latex,"Maladie de Crohn, Diabète Type 2, Cancer (rémission)"
+PAT_000985,Filali,Amina,85,M,B+,68,172,34.71049821151077,101/64,Pénicilline,Maladie de Crohn
+PAT_000651,Kadiri,Thomas,53,F,A+,93,145,14.329996711222215,137/67,Gluten,Aucune
+PAT_000236,Richard,Julien,54,M,B+,63,59,26.30141864515823,139/77,Pénicilline,Hypertension
+PAT_000613,Richard,Thomas,23,F,A+,103,144,25.198496387846298,157/88,Pénicilline,Cancer (rémission)
+PAT_000607,Hassani,Amina,86,F,A+,53,170,32.611400593774846,119/109,Pénicilline,"Sclérose en plaques, Colite ulcéreuse"
+PAT_000535,Richard,Julie,94,F,A+,49,138,32.875419863093185,92/113,Pollen,Aucune
+PAT_000276,Thomas,Yasmine,57,F,AB-,95,64,32.340398299574915,154/90,Aspirine,Aucune
+PAT_000140,Filali,Khalid,85,M,O+,88,160,9.726058749726782,105/64,Aucune,Insuffisance cardiaque
+PAT_000924,Tazi,Antoine,38,F,B+,68,171,15.35804363920052,135/103,Aucune,Aucune
+PAT_000660,Thomas,Leila,72,F,A-,108,152,10.550668826971766,147/94,Acariens,Aucune
+PAT_000346,Leroy,Zineb,95,F,B+,62,143,24.49399711064395,134/113,Aucune,Asthme
+PAT_000830,Robert,Aisha,24,F,O+,94,142,15.27663134449626,133/108,Aucune,Colite ulcéreuse
+PAT_000668,Idrissi,Hassan,68,M,B+,90,171,22.444151515704533,114/101,Gluten,Cirrhose
+PAT_000746,Benali,Emma,55,F,A+,83,167,23.143939842355746,178/101,Fruits de mer,"Sclérose en plaques, Colite ulcéreuse"
+PAT_000112,Martin,Ali,94,F,B+,51,65,22.670484406168892,161/80,Pénicilline,Aucune
+PAT_000671,Idrissi,Julien,51,F,O-,56,150,12.333555305299516,133/99,Fruits de mer,Aucune
+PAT_000006,Alami,Nour,89,M,A+,62,145,18.24780806231635,154/63,Latex,Aucune
+PAT_000895,Hassani,Marie,7,F,B+,55,163,28.480264561612444,133/84,Pénicilline,Alzheimer
+PAT_000278,Hassani,Karim,64,M,O-,74,68,13.795477945117307,109/114,Fruits de mer,Aucune
+PAT_000327,Kadiri,Marie,43,F,B+,91,143,31.21525083986856,151/117,Aucune,"Cirrhose, BPCO"
+PAT_000312,Bernard,Nicolas,52,F,A+,94,58,30.117013320926493,126/61,Aucune,Aucune
+PAT_000266,Mansouri,Hassan,72,F,B+,99,176,19.7334686483592,122/116,Latex,Aucune
+PAT_000391,Bernard,Amina,85,M,B+,91,165,36.15913479115535,108/115,Aucune,Aucune
+PAT_000949,Leroy,Sara,22,F,O+,116,174,35.969222335920364,174/63,Aucune,Aucune
+PAT_000017,Khalil,Leila,81,F,A-,93,81,29.08604593331573,95/66,Pollen,"Insuffisance cardiaque, Épilepsie, Cancer (rémission)"
+PAT_000960,Durand,Zineb,101,F,AB+,81,54,32.24938258614056,96/85,Pénicilline,Asthme
+PAT_000394,Thomas,Laura,62,M,A+,102,135,28.65382898843444,142/116,Pénicilline,Arthrite
+PAT_000355,Moreau,Hassan,51,F,B+,52,59,16.105828735059745,109/80,Pénicilline,"Alzheimer, Insuffisance cardiaque, Maladie coronarienne"
+PAT_000690,Hassani,Hassan,71,F,B+,95,88,0.3474982333229768,137/79,Aucune,Aucune
+PAT_000475,Filali,Michel,36,F,O+,56,147,26.00687190527338,132/70,Iode,Maladie de Crohn
+PAT_000401,Tazi,Thomas,77,F,O+,103,133,7.203768160728847,164/65,Aucune,Aucune
+PAT_000879,Petit,Alexandre,13,M,B+,75,159,10.215506721411305,102/114,Pénicilline,Asthme
+PAT_000516,Martin,Mohammed,65,F,B+,62,167,12.504051320704853,125/88,Pollen,Asthme
+PAT_000257,Robert,Hassan,10,M,B+,115,85,17.638090714826745,156/100,Pollen,"Maladie de Crohn, Arthrite"
+PAT_000749,Robert,Camille,57,F,O+,50,156,23.099482304102054,140/101,Pollen,"Cancer (rémission), Ostéoporose"
+PAT_000284,Dubois,Amina,69,M,AB+,105,140,24.628268325831677,154/90,Iode,"Insuffisance cardiaque, Arthrite"
+PAT_000316,Khalil,Hassan,33,F,O+,81,152,16.02192846928682,113/87,Aucune,"Épilepsie, Asthme"
+PAT_000260,Khalil,Emma,90,F,B+,55,67,19.580580744667444,99/109,Aucune,Aucune
+PAT_000755,Benali,Mohammed,78,F,O+,62,144,27.35605606733111,146/82,Pénicilline,Aucune
+PAT_000893,Thomas,Thomas,61,F,A+,68,143,22.833636738946772,166/103,Fruits de mer,Aucune
+PAT_000398,Dubois,Camille,31,F,O+,119,153,15.37702440622829,144/60,Aucune,Aucune
+PAT_000557,Idrissi,Khalid,64,F,AB+,94,140,25.55062358661791,96/103,Pénicilline,"Cancer (rémission), Hypertension"
+PAT_000191,Kadiri,Lucas,55,F,A+,28,146,32.48436990485756,122/118,Aucune,"Cancer (rémission), Hypothyroïdie"
+PAT_000363,Filali,Lucas,14,F,B+,58,166,39.06038860813051,147/86,Aucune,Aucune
+PAT_000917,Mansouri,Lucas,54,F,B+,105,145,35.680754077979046,134/109,Pénicilline,"Cancer (rémission), Hypertension, Sclérose en plaques"
+PAT_000614,Leroy,Mehdi,83,F,O+,69,74,12.844184917095076,106/60,Pénicilline,Aucune
+PAT_000360,Hassani,Pierre,53,F,O+,63,162,19.307023632174904,158/71,Aucune,Épilepsie
+PAT_000140,Alami,Zineb,9,F,A+,10,89,35.75314072846302,154/106,Fruits de mer,"Hypothyroïdie, Maladie coronarienne"
+PAT_000975,Khalil,David,59,F,B+,75,143,29.164518180803572,146/61,Aucune,Diabète Type 2
+PAT_000504,Durand,Mohammed,49,F,O+,53,140,20.85538424904002,154/77,Aucune,"Asthme, Alzheimer"
+PAT_000958,Thomas,Nicolas,49,F,O+,78,151,12.329874025096931,135/91,Pollen,"Sclérose en plaques, Cancer (rémission), Maladie de Crohn"
+PAT_000537,Tazi,Aisha,12,F,B+,70,166,34.279080513286665,132/87,Fruits de mer,Insuffisance rénale chronique
+PAT_000659,Martin,Manon,100,M,AB+,96,150,35.88435676874111,129/66,Aucune,Asthme
+PAT_000352,Bernard,Thomas,74,F,O+,48,167,26.18332586030315,92/89,Aucune,"Asthme, Cirrhose"
+PAT_000851,Petit,Zineb,43,F,A-,101,76,35.197119411595054,131/71,Iode,Aucune
+PAT_000440,Benali,Karim,46,M,O+,84,136,22.15034490207271,178/69,Aucune,Aucune
+PAT_000697,Idrissi,Mohammed,56,F,A+,89,155,11.095094290413224,154/90,Lactose,"Sclérose en plaques, BPCO"
+PAT_000758,Benali,Thomas,88,M,B+,117,148,12.67054032972694,156/77,Gluten,Hypertension
+PAT_000820,Thomas,Khadija,26,M,A+,68,165,33.12639228524215,98/70,Pénicilline,Cirrhose
+PAT_000776,Tazi,Michel,58,M,B+,52,87,12.94345303594855,153/108,Aucune,Aucune
+PAT_000635,Richard,Salma,25,M,B+,74,72,16.65799211233173,118/61,Lactose,Aucune
+PAT_000887,Dubois,Hassan,45,F,AB+,16,135,41.79360644868978,167/99,Aucune,Maladie de Parkinson
+PAT_000342,Martin,Pierre,20,F,B+,51,142,18.686146160245464,146/90,Iode,Aucune
+PAT_000486,Kadiri,Nicolas,69,F,A+,95,67,26.263264241367803,134/94,Aucune,"Arthrite, Diabète Type 2"
+PAT_000758,Martin,Léa,69,M,B+,13,85,-2.0094698319992084,91/94,Pollen,Aucune
+PAT_000506,Alami,Zineb,75,F,A+,112,139,6.995874228503567,153/116,Pénicilline,Aucune
+PAT_000515,Idrissi,Zineb,16,F,B+,61,138,27.214602723733922,112/111,Aucune,Insuffisance cardiaque
+PAT_000202,Hassani,Lucas,70,M,B+,81,140,27.988084325951174,105/64,Fruits de mer,"Cancer (rémission), Cirrhose"
+PAT_000840,Thomas,Mehdi,76,F,O+,100,140,23.522128975366975,141/88,Aucune,Aucune
+PAT_000922,Mansouri,Sara,50,M,B+,118,170,43.13209824235347,118/111,Fruits de mer,"Maladie coronarienne, Hypertension"
+PAT_000550,Moreau,Laura,21,F,B+,105,168,22.666298952544075,146/79,Aucune,Aucune
+PAT_000858,Martin,Nour,47,F,B+,115,134,18.09694733177464,139/97,Aucune,Aucune
+PAT_000776,Martin,Julie,82,M,O+,110,142,21.597323467456956,117/103,Gluten,Aucune
+PAT_000646,Tazi,Karim,78,F,B+,112,68,32.447001068233504,112/106,Aucune,Aucune
+PAT_000340,Petit,Karim,66,F,O+,118,148,13.363611994296265,165/112,Fruits de mer,Aucune
+PAT_000849,Alami,Amina,47,M,O+,45,84,61.74111518427492,128/78,Aucune,Aucune
+PAT_000446,Thomas,Léa,96,F,A+,63,69,60.92605412319805,137/78,Aucune,BPCO
+PAT_000954,Kadiri,Marie,52,M,O+,58,44,24.076748891430878,112/118,Pénicilline,"Diabète Type 2, Arthrite"
+PAT_000187,Dubois,Thomas,83,F,B+,83,162,8.938696055361682,152/72,Aucune,Aucune
+PAT_000172,Tazi,Manon,56,F,A+,109,139,33.99249418503242,132/94,Latex,Aucune
+PAT_000888,Khalil,Julie,86,F,O+,78,147,20.113888852805633,109/71,Aucune,Aucune
+PAT_000562,Richard,Thomas,7,F,A-,119,78,16.994013689038372,170/84,Acariens,Aucune
+PAT_000371,Tazi,Aisha,39,F,O+,48,59,6.107633748245689,164/65,Aucune,Aucune
+PAT_000803,Leroy,Léa,85,M,O+,73,142,18.11784880292092,136/98,Fruits de mer,"Arthrite, Diabète Type 2"
+PAT_000474,Hassani,Fatima,84,M,O+,13,144,24.73511893386979,90/102,Aucune,Aucune
+PAT_000760,Fassi,Khalid,51,M,A+,57,163,9.394048461047685,138/95,Aucune,Aucune
+PAT_000894,Durand,Fatima,57,F,A-,18,142,14.107618706577078,174/67,Pollen,Aucune
+PAT_000801,Idrissi,Léa,90,F,B+,105,168,35.20624056750031,90/97,Aucune,Aucune
+PAT_000644,Tazi,Léa,45,M,O-,61,143,31.336928178757486,106/86,Aucune,Insuffisance cardiaque
+PAT_000119,Thomas,Sophie,63,M,A+,80,147,29.33382343556974,100/65,Pénicilline,"Cancer (rémission), Alzheimer, Sclérose en plaques"
+PAT_000894,Martin,Emma,77,M,O+,46,145,28.406645228433614,108/71,Fruits de mer,Aucune
+PAT_000669,Filali,Khalid,23,F,B+,95,143,43.44289357276804,138/98,Pénicilline,Aucune
+PAT_000800,Moreau,Zineb,33,M,O+,107,142,29.427481067538668,163/93,Fruits de mer,Cancer (rémission)
+PAT_000205,Fassi,Omar,70,F,O-,78,79,12.558595365038244,128/78,Pénicilline,"Sclérose en plaques, Ostéoporose, Colite ulcéreuse"
+PAT_000664,Khalil,Aisha,16,F,O+,109,72,26.039605703571546,174/63,Pollen,Aucune
+PAT_000579,Kadiri,Emma,84,F,O+,56,76,38.824454254460875,153/77,Pénicilline,Aucune
+PAT_000544,Alami,Marie,21,F,A+,70,141,23.483389413252848,142/95,Lactose,"BPCO, Cancer (rémission), Maladie coronarienne"
+PAT_000243,Martin,Hassan,42,F,B+,81,150,11.377867718671379,95/86,Latex,Cancer (rémission)
+PAT_000160,Moreau,Chloe,25,F,O+,51,60,14.080953813645849,129/65,Pénicilline,Aucune
+PAT_000933,Alami,Thomas,92,F,B+,101,160,29.654673069740497,167/75,Pénicilline,Aucune
+PAT_000902,Fassi,Julien,84,F,B+,58,61,16.732757319369984,94/64,Pollen,Aucune
+PAT_000560,Thomas,Zineb,22,M,O+,69,138,28.146165415028157,174/63,Fruits de mer,Hypertension
+PAT_000333,Mansouri,Manon,49,F,A+,103,82,32.438556098598134,145/109,Gluten,"Diabète Type 2, Alzheimer"
+PAT_000197,Kadiri,Mehdi,1,F,O+,55,75,12.369653683977624,177/95,Acariens,Aucune
+PAT_000269,Thomas,Salma,48,F,B+,52,61,32.33648202002696,105/106,Pénicilline,Diabète Type 1
+PAT_000371,Hassani,Sophie,53,F,O+,105,134,20.0491825760555,92/93,Pénicilline,Aucune
+PAT_000669,Robert,David,83,F,A+,117,54,16.010832259676633,136/60,Pollen,"Sclérose en plaques, Hypertension, Maladie de Crohn"
+PAT_000081,Thomas,Thomas,52,M,A-,40,146,7.600407437124698,106/95,Aucune,"Asthme, Épilepsie, Diabète Type 1"
+PAT_000283,Durand,Zineb,74,M,B+,63,141,27.074814090228,92/99,Latex,Insuffisance rénale chronique
+PAT_000953,Kadiri,Amina,25,F,A+,80,169,17.754673736936233,147/76,Aucune,"Maladie de Crohn, Diabète Type 1"
+PAT_000986,Kadiri,Aisha,20,F,A-,41,154,34.972478671905236,155/95,Fruits de mer,Aucune
+PAT_000865,Martin,Fatima,74,F,A+,101,139,32.473949891496886,157/104,Aucune,Sclérose en plaques
+PAT_000882,Benali,Emma,36,F,O-,106,144,28.347636089968944,158/71,Pollen,"Asthme, Colite ulcéreuse, Cancer (rémission)"
+PAT_000663,Tazi,Michel,8,F,A-,58,145,37.397073688185294,135/63,Iode,"Maladie de Crohn, Diabète Type 2, Cancer (rémission)"
+PAT_000990,Durand,Leila,94,M,O+,92,65,9.83396276272996,101/64,Lactose,Aucune
+PAT_000080,Robert,Leila,24,F,O+,63,149,20.820935500748394,175/64,Gluten,"Maladie de Crohn, Insuffisance rénale chronique"
+PAT_000893,Richard,Sophie,36,F,B+,90,171,31.161903517722234,115/61,Acariens,Aucune
+PAT_000401,Kadiri,Khalid,46,F,B-,91,142,11.89477064915673,144/98,Aucune,"Cancer (rémission), Alzheimer, Sclérose en plaques"
+PAT_000597,Tazi,Salma,44,M,B+,116,141,19.112384713352682,153/60,Pénicilline,Aucune
+PAT_000022,Kadiri,Pierre,61,F,O+,60,163,16.483856628158915,160/90,Pénicilline,Aucune
+PAT_000871,Mansouri,Emma,50,M,O+,111,143,24.663898927011466,168/91,Latex,"Hypertension, Épilepsie, Sclérose en plaques"
+PAT_000507,Filali,Thomas,30,F,O+,119,155,9.26181494891254,152/72,Pénicilline,"Maladie coronarienne, Hypothyroïdie"
+PAT_000017,Khalil,Mohammed,40,F,O+,94,136,38.157831659467654,144/91,Acariens,Diabète Type 2
+PAT_000184,Durand,Aisha,85,M,O-,94,93,19.225615949667354,146/82,Aucune,"Cancer (rémission), Ostéoporose"
+PAT_000251,Durand,Lucas,40,F,A+,89,137,28.415316935158913,176/65,Pollen,Aucune
+PAT_000247,Benali,Nicolas,44,F,A+,84,64,10.230213254382098,158/80,Fruits de mer,"Sclérose en plaques, Ostéoporose, Colite ulcéreuse"
+PAT_000488,Kadiri,Chloe,52,F,O+,68,168,43.453963358792095,139/64,Aucune,"Sclérose en plaques, Ostéoporose"
+PAT_000944,Alami,Nour,48,F,A+,108,61,31.188407975726985,147/76,Aucune,Cancer (rémission)
+PAT_000921,Khalil,Chloe,83,F,A+,117,141,28.022022040002692,99/82,Pollen,Hypertension
+PAT_000209,Bernard,Camille,42,M,A+,90,76,18.036366365010604,147/104,Pénicilline,Sclérose en plaques
+PAT_000649,Dubois,Léa,81,M,AB+,98,146,22.048948849455954,137/79,Aucune,Aucune
+PAT_000173,Tazi,Mohammed,52,M,O+,22,147,36.09453701175487,173/89,Fruits de mer,Épilepsie
+PAT_000914,Dubois,Nicolas,59,M,O+,112,143,13.969500758074762,147/86,Pénicilline,Aucune
+PAT_000231,Kadiri,Nour,45,F,A+,23,151,34.85786727540057,172/64,Aspirine,"Épilepsie, Arthrite, Diabète Type 1"
+PAT_000196,Moreau,Hassan,99,F,B+,97,70,17.16347180934204,146/82,Aucune,Aucune
+PAT_000954,Hassani,Clara,86,M,O+,89,145,6.152098162791509,144/91,Aucune,Aucune
+PAT_000359,Robert,Karim,14,F,A+,96,81,23.1977459134788,120/92,Lactose,"Ostéoporose, Hypertension, Épilepsie"
+PAT_000051,Khalil,Sara,67,F,A-,61,81,3.0210170383545805,150/70,Aspirine,BPCO
+PAT_000772,Kadiri,Yasmine,84,F,A+,69,140,31.81774883980772,99/82,Aucune,Aucune
+PAT_000462,Thomas,Hassan,18,F,B+,35,154,25.214046774389626,92/113,Pollen,Aucune
+PAT_000414,Filali,Manon,54,F,B+,54,166,32.419941184200646,105/80,Pénicilline,Aucune
+PAT_000667,Tazi,Michel,60,F,B+,88,144,5.97869611199399,109/67,Fruits de mer,"Insuffisance rénale chronique, Cirrhose"
+PAT_000063,Filali,Aisha,33,F,A+,82,64,6.469516289040509,152/108,Aucune,Aucune
+PAT_000500,Filali,Léa,36,M,A+,75,139,17.715566212959054,120/93,Pénicilline,Aucune
+PAT_000390,Tazi,Sophie,11,M,B+,115,168,30.171210733827134,126/68,Pénicilline,Aucune
+PAT_000856,Leroy,Alexandre,68,F,O+,100,138,3.790506608817841,117/63,Aucune,Aucune
+PAT_000677,Kadiri,Nicolas,63,M,AB+,118,43,-1.5531550440685002,139/64,Fruits de mer,Aucune
+PAT_000599,Khalil,Aisha,37,F,O+,61,149,8.358547165702488,156/77,Pénicilline,"Arthrite, Hypertension"
+PAT_000870,Moreau,Karim,97,F,A+,96,58,25.758327254569895,127/99,Pénicilline,Aucune
+PAT_000232,Alami,Omar,22,F,O-,96,166,21.644319892905806,166/117,Pénicilline,Hypothyroïdie
+PAT_000097,Fassi,Ahmed,67,F,O+,66,159,20.567902787997724,168/89,Fruits de mer,Cancer (rémission)
+PAT_000139,Martin,Nour,59,F,O+,69,145,20.89651158926251,177/64,Pénicilline,Aucune
+PAT_000304,Durand,Amina,68,F,B+,80,136,12.787879686120654,139/64,Pollen,"Hypothyroïdie, Maladie coronarienne"
+PAT_000469,Benali,Zineb,3,M,AB+,93,163,22.80011003153544,156/113,Acariens,Alzheimer
+PAT_000716,Khalil,Nicolas,35,F,A-,46,72,28.688581142345612,149/111,Pénicilline,"Insuffisance cardiaque, Maladie de Parkinson, Hypertension"
+PAT_000403,Petit,Karim,82,F,O+,108,154,38.47914016865693,158/71,Aucune,Aucune
+PAT_000122,Bernard,Sophie,80,F,O+,102,149,18.522928058463616,170/113,Iode,"Hypertension, Diabète Type 2"
+PAT_000886,Idrissi,Sophie,76,F,O+,85,144,4.549280789529227,137/61,Pénicilline,Aucune
+PAT_000865,Khalil,Zineb,84,M,O+,60,136,29.908556520407593,110/109,Aucune,Hypertension
+PAT_000560,Hassani,Karim,20,M,B+,32,141,9.379542168920173,108/71,Pollen,"Diabète Type 2, Hyperthyroïdie"
+PAT_000959,Thomas,Hassan,93,M,A+,111,148,21.278511605135236,126/79,Aucune,"Diabète Type 2, Hypertension"
+PAT_000524,Filali,Khadija,20,M,B+,52,169,24.90356680078441,101/98,Pénicilline,"Diabète Type 1, Épilepsie"
+PAT_000412,Leroy,Camille,22,M,O+,114,163,29.313908780560155,148/116,Aucune,"Épilepsie, BPCO"
+PAT_000112,Bernard,Léa,18,M,A+,32,140,18.699706658414428,170/84,Aucune,"Alzheimer, Insuffisance cardiaque, Maladie coronarienne"
+PAT_000174,Kadiri,Emma,66,F,B+,51,135,29.852507498391454,108/85,Aucune,Aucune
+PAT_000330,Alami,Khalid,55,F,AB+,112,140,13.346193175547043,110/64,Aucune,Aucune
+PAT_000089,Alami,Amina,18,F,B+,79,138,14.199421991420973,140/62,Aucune,Aucune
+PAT_000047,Petit,Zineb,57,F,A-,101,148,30.754359653136937,139/97,Lactose,Diabète Type 2
+PAT_000233,Petit,Mehdi,30,F,B+,99,150,11.28695122000482,124/93,Aucune,Aucune
+PAT_000437,Idrissi,Mehdi,80,F,A+,98,177,38.34068258761986,156/115,Fruits de mer,Aucune
+PAT_000163,Kadiri,Nicolas,63,F,A+,95,147,32.94519471590334,107/87,Aucune,Aucune
+PAT_000776,Leroy,Laura,22,F,B+,51,167,15.207465664142177,160/90,Aucune,"Insuffisance cardiaque, Maladie de Parkinson, Hypertension"
+PAT_000513,Khalil,Mehdi,23,F,A+,48,65,30.01977019838349,95/63,Gluten,Aucune
+PAT_000911,Idrissi,Khadija,80,F,B+,104,142,41.497914291504465,118/119,Pénicilline,"Ostéoporose, Hyperthyroïdie"
+PAT_000920,Richard,Sophie,44,F,O+,106,62,23.388571682215918,104/78,Lactose,"Cancer (rémission), Hypertension"
+PAT_000751,Martin,Khalid,50,M,B+,45,74,15.209721442256875,101/101,Acariens,"Cancer (rémission), Cirrhose"
+PAT_000516,Mansouri,Clara,52,M,O+,15,89,9.72936041461939,136/98,Acariens,Aucune
+PAT_000248,Thomas,Mehdi,31,M,A+,89,72,26.907986078422745,110/81,Iode,"Cancer (rémission), Arthrite, Insuffisance cardiaque"
+PAT_000218,Tazi,Thomas,14,F,O+,69,144,13.80400004193816,151/113,Fruits de mer,"Diabète Type 2, Hyperthyroïdie"
+PAT_000101,Moreau,Yasmine,34,F,B-,48,73,33.98206337815041,152/106,Aucune,"Insuffisance rénale chronique, Colite ulcéreuse"
+PAT_000987,Martin,Emma,90,F,B+,103,149,38.26362392936481,129/100,Iode,"BPCO, Cancer (rémission), Maladie coronarienne"
+PAT_000775,Durand,Aisha,89,M,B-,93,167,28.857451258352565,90/66,Pollen,Maladie de Crohn
+PAT_000676,Leroy,Hassan,67,F,B+,46,62,9.978022326079557,177/64,Pollen,Insuffisance cardiaque
+PAT_000485,Robert,Leila,18,M,B+,91,72,26.985035032197032,137/61,Aucune,Insuffisance cardiaque
+PAT_000221,Kadiri,Alexandre,27,F,O+,23,141,17.40245108812625,173/113,Aucune,"Cancer (rémission), Insuffisance rénale chronique"
+PAT_000076,Richard,Sophie,58,M,B+,70,139,14.491278359681388,169/116,Lactose,"Hypothyroïdie, Épilepsie, Arthrite"
+PAT_000607,Hassani,Mehdi,61,F,B+,90,86,16.610800925305853,114/118,Pénicilline,Aucune
+PAT_000978,Petit,Ahmed,17,F,B+,68,142,19.379815156633782,133/60,Aucune,Cancer (rémission)
+PAT_000564,Bernard,Michel,57,F,AB-,103,149,26.839370037479952,174/75,Fruits de mer,Épilepsie
+PAT_000474,Richard,Thomas,5,F,B+,68,158,45.5088706400943,131/117,Aucune,"Hyperthyroïdie, Maladie coronarienne"
+PAT_000948,Benali,Zineb,11,F,B+,71,152,14.322090331880688,95/66,Lactose,"Insuffisance cardiaque, Maladie de Parkinson, Hypertension"
+PAT_000217,Richard,Thomas,58,F,O+,114,162,23.076704963609984,146/118,Fruits de mer,"Cancer (rémission), Ostéoporose"
+PAT_000173,Khalil,Jean,12,M,AB-,90,148,36.890466075887296,129/98,Pollen,Aucune
+PAT_000677,Martin,Leila,89,M,A+,98,140,21.12690065511349,107/73,Fruits de mer,"Arthrite, Hypothyroïdie, BPCO"
+PAT_000894,Bernard,Ali,63,F,B+,103,141,11.570130505814943,139/97,Fruits de mer,Aucune
+PAT_000315,Hassani,Aisha,54,M,B+,48,149,24.23945795010053,112/106,Latex,Aucune
+PAT_000610,Bernard,Salma,42,F,O-,96,143,41.28002731970306,168/112,Aucune,"Diabète Type 1, Cancer (rémission)"
+PAT_000282,Thomas,Sophie,7,F,B+,13,147,37.88729337199016,130/61,Aucune,"Asthme, Maladie de Parkinson"
+PAT_000493,Hassani,Julie,73,F,O+,111,153,20.187395783913402,173/74,Lactose,"Maladie de Parkinson, Maladie de Crohn, Sclérose en plaques"
+PAT_000251,Benali,Nour,50,F,B+,114,173,39.53600006696007,102/85,Aspirine,"Arthrite, Colite ulcéreuse"
+PAT_000057,Kadiri,Thomas,66,F,A+,26,143,39.41531436808451,158/92,Latex,Aucune
+PAT_000269,Filali,Camille,72,M,A+,108,109,26.019649992699417,137/78,Pénicilline,"Épilepsie, BPCO"
+PAT_000819,Hassani,Leila,53,F,O+,105,173,29.577781685295072,173/118,Aspirine,Colite ulcéreuse
+PAT_000522,Khalil,Pierre,90,F,O+,102,55,24.613761561054595,96/62,Aucune,Aucune
+PAT_000736,Filali,Mohammed,88,M,O-,91,157,18.346145476856208,129/79,Pollen,"Diabète Type 1, Arthrite"
+PAT_000311,Idrissi,Youssef,15,M,A+,115,141,16.94544693017505,122/91,Fruits de mer,"Diabète Type 2, Alzheimer"
+PAT_000165,Khalil,Julie,38,F,B+,91,140,20.537638071799336,94/64,Aucune,Aucune
+PAT_000980,Filali,Antoine,91,M,B+,69,167,25.681100714430187,120/94,Aucune,Aucune
+PAT_000983,Hassani,Chloe,69,M,B+,61,172,29.90519619851667,174/99,Aucune,Aucune
+PAT_000633,Martin,Amina,75,F,B+,55,143,33.614515258592284,98/71,Aucune,Aucune
+PAT_000342,Idrissi,Aisha,28,M,O+,29,143,62.05241766793499,101/111,Aspirine,"Sclérose en plaques, Ostéoporose"
+PAT_000790,Robert,Aisha,86,F,O+,92,142,50.2048654193881,124/89,Pénicilline,Aucune
+PAT_000601,Tazi,Khalid,55,M,B+,59,151,12.79526886805611,125/84,Fruits de mer,"Asthme, Arthrite"
+PAT_000456,Durand,Emma,92,F,B-,117,64,26.22980097554603,171/117,Pénicilline,Aucune
+PAT_000058,Mansouri,Pierre,46,F,B+,64,79,31.437780246285136,129/79,Aucune,Aucune
+PAT_000258,Martin,Leila,83,M,B+,61,59,32.932414843853905,174/104,Aucune,Aucune
+PAT_000645,Petit,Mohammed,21,F,B+,52,148,26.862638367429454,176/109,Lactose,Aucune
+PAT_000032,Mansouri,Léa,36,F,O-,62,145,24.523449233530695,139/83,Iode,"Maladie de Parkinson, Hypothyroïdie, Alzheimer"
+PAT_000010,Kadiri,Yasmine,57,F,O+,45,169,26.862196843141987,149/104,Lactose,Aucune
+PAT_000662,Idrissi,Pierre,64,F,O+,62,147,27.03599918999621,136/67,Fruits de mer,Asthme
+PAT_000581,Moreau,Sara,69,F,O+,98,143,26.960926988463775,152/88,Aspirine,"Asthme, Alzheimer"
+PAT_000934,Tazi,Thomas,78,F,O+,62,161,30.356625127877425,171/94,Latex,Épilepsie
+PAT_000372,Petit,Lucas,43,F,O+,67,68,16.19442822018139,139/83,Gluten,Colite ulcéreuse
+PAT_000278,Richard,Nour,73,F,O+,59,69,27.777587106749277,112/111,Pollen,Épilepsie
+PAT_000428,Durand,Antoine,92,F,B+,97,54,18.36723297764249,96/61,Aucune,"Diabète Type 1, Maladie de Crohn"
+PAT_000554,Leroy,Antoine,72,F,B+,70,139,17.779767629788708,98/83,Aucune,"Épilepsie, Asthme"
+PAT_000544,Leroy,Nicolas,55,F,O+,82,144,32.90295884394554,101/76,Aucune,Aucune
+PAT_000278,Idrissi,Mehdi,77,F,AB+,112,151,27.663352943593857,159/85,Iode,"Ostéoporose, Cancer (rémission)"
+PAT_000874,Dubois,Nicolas,28,F,O+,27,144,26.499132208282113,92/63,Aucune,Alzheimer
+PAT_000925,Bernard,Hassan,31,F,A+,79,148,26.991183418718276,167/62,Latex,Aucune
+PAT_000632,Kadiri,Chloe,54,F,B+,65,134,17.225461272848307,155/99,Latex,Aucune
+PAT_000441,Kadiri,Laura,50,F,A-,71,145,35.96334229534015,152/106,Aucune,BPCO
+PAT_000151,Tazi,Pierre,72,F,A+,109,149,19.356986715696607,159/118,Pénicilline,Aucune
+PAT_000529,Leroy,Sophie,76,M,B-,109,172,22.225378169049424,140/79,Acariens,Aucune
+PAT_000101,Tazi,Jean,85,F,O+,98,140,17.929317349292667,167/62,Aucune,"Hypothyroïdie, Diabète Type 1"
+PAT_000250,Thomas,Khadija,41,F,B+,100,171,43.472838644577095,140/105,Pollen,Aucune
+PAT_000328,Petit,Zineb,60,M,A+,28,148,33.33209649661744,141/68,Fruits de mer,Hypothyroïdie
+PAT_000841,Tazi,Karim,67,F,A-,108,171,21.13968109058487,129/100,Pénicilline,"BPCO, Sclérose en plaques"
+PAT_000294,Martin,Amina,14,F,B+,102,73,31.836822219408894,93/60,Aucune,Aucune
+PAT_000561,Tazi,Khalid,63,F,O+,82,144,28.28832041497713,100/83,Aucune,Insuffisance rénale chronique
+PAT_000307,Thomas,Sophie,49,F,O+,46,155,29.31927681671606,146/82,Aspirine,Aucune
+PAT_000541,Petit,Hassan,57,F,O+,70,151,-1.6992889320387654,96/99,Pénicilline,Aucune
+PAT_000095,Durand,Amine,66,F,O-,90,144,27.94332200303716,175/103,Pollen,"Cancer (rémission), Alzheimer, Sclérose en plaques"
+PAT_000369,Filali,Amine,32,M,A-,26,66,15.387335875402734,124/113,Aucune,Aucune
+PAT_000449,Kadiri,Camille,20,F,A+,57,168,20.6931209733282,142/67,Aucune,Diabète Type 1
+PAT_000502,Mansouri,Yasmine,37,F,A-,54,156,31.499346713060618,99/82,Pollen,Aucune
+PAT_000009,Mansouri,Khalid,36,F,B+,47,139,32.58693110562817,147/94,Pénicilline,Aucune
+PAT_000570,Filali,Fatima,100,F,B+,68,146,21.1415361982707,105/67,Aucune,Maladie de Crohn
+PAT_000862,Tazi,Fatima,4,F,A-,46,145,25.846513620966387,128/103,Iode,"Insuffisance cardiaque, Cirrhose, Maladie de Parkinson"
+PAT_000227,Fassi,Manon,51,F,A+,116,152,11.956200635726141,98/71,Aucune,"Insuffisance cardiaque, Hypothyroïdie"
+PAT_000255,Tazi,Zineb,70,F,B+,82,138,32.98176469754133,169/119,Pénicilline,Maladie coronarienne
+PAT_000836,Durand,Leila,67,M,O+,72,75,37.920085597844725,163/102,Acariens,Aucune
+PAT_000741,Dubois,Leila,56,M,O+,65,95,28.107958449714737,141/108,Pénicilline,"Hypothyroïdie, Arthrite"
+PAT_000802,Benali,Aisha,53,F,B+,90,89,45.70413408000801,106/86,Fruits de mer,Aucune
+PAT_000671,Tazi,Alexandre,57,F,O+,69,144,28.7774095139816,164/60,Aspirine,Arthrite
+PAT_000317,Khalil,David,88,F,O+,77,149,28.678607271606243,97/69,Aucune,Épilepsie
+PAT_000636,Tazi,Hassan,92,F,O+,119,59,18.729061798825906,160/79,Aucune,Aucune
+PAT_000226,Kadiri,Thomas,11,F,A+,106,154,46.638890727041925,103/74,Lactose,"Arthrite, Hypertension"
+PAT_000983,Idrissi,Ahmed,37,M,A+,37,85,35.418825270159104,112/80,Gluten,Aucune
+PAT_000008,Khalil,Manon,33,F,O+,91,162,27.901066246268986,140/93,Pénicilline,Aucune
+PAT_000450,Richard,Thomas,46,F,B+,90,146,21.90553126576983,134/112,Fruits de mer,Aucune
+PAT_000992,Moreau,Alexandre,8,M,A+,114,145,11.79761805013168,103/98,Pénicilline,"Hyperthyroïdie, Sclérose en plaques"
+PAT_000924,Khalil,David,35,F,A+,97,105,28.514860661298783,109/80,Pénicilline,"Hypertension, Épilepsie, Sclérose en plaques"
+PAT_000631,Durand,Sophie,46,M,A-,32,86,11.377950323159002,101/76,Latex,"BPCO, Cancer (rémission), Maladie coronarienne"
+PAT_000993,Dubois,Nicolas,44,M,AB+,119,139,27.37240349073299,95/66,Latex,"Cancer (rémission), Cirrhose"
+PAT_000798,Filali,Léa,17,F,O+,111,146,35.656954283609444,134/81,Pénicilline,Aucune
+PAT_000708,Mansouri,Khadija,96,F,O+,63,173,12.517574260857428,121/119,Aucune,"BPCO, Sclérose en plaques"
+PAT_000529,Khalil,Clara,37,M,A+,70,46,14.25832612448893,136/76,Pénicilline,Aucune
+PAT_000028,Tazi,Karim,17,F,A+,43,140,22.196037934856868,107/102,Aucune,Épilepsie
+PAT_000065,Benali,Alexandre,19,F,B+,51,164,6.248789088335812,166/66,Aucune,Aucune
+PAT_000516,Fassi,Yasmine,81,M,A-,80,143,30.40674937730915,140/107,Aucune,Aucune
+PAT_000535,Dubois,Zineb,63,F,O+,69,144,25.91596409857788,132/84,Pénicilline,Aucune
+PAT_000880,Moreau,David,33,F,B+,61,147,17.703251234887432,112/98,Acariens,Hyperthyroïdie
+PAT_000780,Martin,Manon,83,F,B+,48,146,17.83749545342878,133/91,Aucune,Aucune
+PAT_000973,Petit,Salma,75,F,O+,19,148,15.214564601428563,98/83,Aspirine,Aucune
+PAT_000011,Benali,Hassan,73,F,B+,90,139,-0.358616159328804,98/105,Pénicilline,Aucune
+PAT_000985,Martin,Manon,53,F,A+,78,75,12.694274302460206,157/71,Iode,Aucune
+PAT_000864,Leroy,David,65,F,O+,49,80,26.02378870978541,154/63,Iode,"BPCO, Cirrhose"
+PAT_000594,Fassi,Khadija,8,F,B+,62,81,23.57729416453568,101/64,Aucune,Maladie de Crohn
+PAT_000904,Kadiri,Michel,29,F,B+,119,139,31.071754497854503,143/112,Pénicilline,Aucune
+PAT_000890,Idrissi,Léa,54,M,B+,16,164,17.400495372351358,151/113,Pollen,Cirrhose
+PAT_000878,Tazi,Youssef,38,F,O+,52,139,16.78615513492865,147/113,Pénicilline,Aucune
+PAT_000753,Durand,Nicolas,43,F,AB+,51,86,25.69598770454864,120/103,Pollen,"Maladie de Parkinson, Arthrite, Cancer (rémission)"
+PAT_000138,Leroy,Sophie,48,M,B+,101,144,31.763518976717027,103/116,Aucune,Aucune
+PAT_000957,Bernard,Julien,30,F,AB-,47,143,28.161983300392418,174/63,Aucune,Diabète Type 1
+PAT_000437,Mansouri,Karim,45,F,A+,60,61,17.30425671314791,113/117,Aucune,Aucune
+PAT_000194,Filali,Salma,60,F,O+,55,78,21.50519098134555,142/116,Pollen,Aucune
+PAT_000057,Idrissi,Marie,60,F,O+,60,58,12.809909278072858,160/90,Fruits de mer,Aucune
+PAT_000493,Richard,Khadija,56,M,O+,81,173,20.873001083552605,151/114,Pénicilline,Épilepsie
+PAT_000735,Tazi,Clara,64,M,B+,36,151,27.736003204832336,179/107,Pénicilline,Aucune
+PAT_000163,Martin,Nour,50,M,O+,70,164,24.9645100040803,94/98,Aucune,"Hypothyroïdie, Cirrhose"
+PAT_000606,Idrissi,Mohammed,86,F,O+,20,149,35.401999968836336,141/77,Fruits de mer,Aucune
+PAT_000921,Dubois,Jean,39,M,A+,47,68,14.959443773551886,119/119,Pollen,"Cirrhose, BPCO, Sclérose en plaques"
+PAT_000294,Petit,Chloe,77,F,B+,109,145,31.63003937850626,158/71,Latex,Colite ulcéreuse
+PAT_000533,Durand,Mohammed,41,M,B+,18,165,28.277638350293174,149/73,Gluten,Cancer (rémission)
+PAT_000223,Martin,Sara,19,F,AB-,50,149,16.45473176899389,145/119,Fruits de mer,Aucune
+PAT_000706,Richard,Leila,75,M,A+,112,159,20.143084323997268,159/106,Pénicilline,Maladie de Parkinson
+PAT_000542,Thomas,Thomas,46,F,B+,76,147,18.560160129447112,98/105,Aucune,"Sclérose en plaques, Diabète Type 1"
+PAT_000480,Alami,Chloe,83,F,O+,115,148,23.05393515492905,177/112,Aucune,Aucune
+PAT_001000,Leroy,Karim,39,F,A+,46,143,33.40315328958467,177/89,Pollen,Aucune
+PAT_000205,Idrissi,Mohammed,19,M,O+,114,66,29.92965285343807,176/65,Acariens,"Asthme, Colite ulcéreuse, Cancer (rémission)"
+PAT_000993,Tazi,Salma,99,M,O+,90,76,17.876031667301515,169/82,Aucune,Aucune
+PAT_000519,Idrissi,Karim,10,F,O+,111,164,31.92788471291205,140/62,Aucune,Aucune
+PAT_000364,Bernard,Karim,23,F,A+,118,56,18.523407666623307,90/97,Aucune,Insuffisance rénale chronique
+PAT_000405,Kadiri,Manon,13,F,B+,59,143,40.194566023368054,101/76,Aucune,Aucune
+PAT_000631,Thomas,Chloe,80,F,AB+,70,145,27.357347284423014,101/64,Acariens,Aucune
+PAT_000420,Kadiri,Laura,49,M,O-,74,147,5.349782015869694,132/94,Aspirine,Aucune
+PAT_000087,Khalil,Youssef,58,F,A+,97,151,27.096203832179878,101/98,Fruits de mer,"Cirrhose, BPCO, Sclérose en plaques"
+PAT_000780,Kadiri,Yasmine,73,F,O+,20,166,10.85261353488672,152/111,Aucune,Aucune
+PAT_000930,Leroy,Lucas,23,F,O+,61,150,6.9051450175622495,104/91,Pollen,Aucune
+PAT_000485,Hassani,Ali,94,F,AB+,94,176,30.553394960329094,132/87,Fruits de mer,"Maladie de Parkinson, Cancer (rémission)"
+PAT_000633,Mansouri,Julien,6,F,O+,23,155,52.36886718927311,97/98,Pénicilline,"Insuffisance cardiaque, Cirrhose, Maladie de Parkinson"
+PAT_000795,Khalil,Khadija,6,M,B+,92,138,21.0201520114042,112/102,Aucune,Sclérose en plaques
+PAT_000586,Robert,Zineb,92,F,O+,78,71,16.791454804732734,105/67,Pénicilline,"Insuffisance cardiaque, Hypertension"
+PAT_000524,Martin,David,48,M,O+,118,143,45.26246390509786,122/118,Pénicilline,Aucune
+PAT_000172,Petit,Hassan,39,F,B+,24,148,29.059978741997057,155/99,Aucune,Aucune
+PAT_000009,Hassani,Alexandre,98,M,AB+,89,164,21.184477110150233,102/104,Latex,"Hypertension, Insuffisance cardiaque"
+PAT_000042,Martin,Ahmed,92,M,AB-,50,168,34.22178342510203,175/103,Lactose,"Diabète Type 1, Hypertension"
+PAT_000043,Kadiri,Mehdi,57,M,O+,64,140,12.545796645742975,137/107,Aucune,Aucune
+PAT_000149,Dubois,Omar,70,F,O+,57,142,24.03323694180382,146/61,Aucune,Hyperthyroïdie
+PAT_000805,Robert,Thomas,80,M,B+,118,146,10.625935620819632,102/90,Pénicilline,Aucune
+PAT_000010,Idrissi,Zineb,72,F,O+,72,71,18.750460713815563,167/108,Acariens,"Maladie de Parkinson, Arthrite, Cancer (rémission)"
+PAT_000018,Tazi,Youssef,33,M,B+,48,144,32.43223427926446,99/109,Aspirine,Cancer (rémission)
+PAT_000945,Thomas,Hassan,91,F,O+,97,134,18.968076588181994,145/106,Acariens,Alzheimer
+PAT_000250,Robert,Léa,51,F,O-,89,152,51.13333262191422,93/79,Pollen,"Diabète Type 2, Arthrite"
+PAT_000345,Robert,Karim,57,F,O+,93,48,10.453690889437276,137/106,Aucune,Aucune
+PAT_000112,Robert,Léa,46,M,AB+,57,163,14.715908732407037,176/109,Gluten,Aucune
+PAT_000286,Petit,Karim,91,F,B+,114,141,13.494090172993658,164/97,Pollen,Aucune
+PAT_000317,Kadiri,Mohammed,89,F,B+,59,59,27.32127580922348,101/76,Aucune,Aucune
+PAT_000498,Martin,Mohammed,47,M,A+,53,167,13.655369553129226,126/61,Fruits de mer,"Diabète Type 2, Maladie coronarienne"
+PAT_000148,Bernard,Amine,64,F,O+,77,172,17.369253719919794,133/116,Aucune,Aucune
+PAT_000074,Tazi,Camille,91,F,B+,69,149,15.11940094974133,158/82,Aucune,Aucune
+PAT_000638,Hassani,Hassan,84,F,B+,94,147,24.158233159002187,172/94,Fruits de mer,Aucune
+PAT_000453,Richard,Laura,70,F,B+,119,167,34.58860526370874,103/79,Aucune,Diabète Type 2
+PAT_000160,Bernard,Julie,78,M,B+,87,171,26.18033484616167,97/109,Aucune,Hypertension
+PAT_000589,Leroy,Emma,65,M,O+,68,166,29.878905767581976,134/91,Lactose,Hypothyroïdie
+PAT_000913,Richard,Sara,14,F,B+,110,153,28.893917457262106,174/110,Gluten,Maladie de Parkinson
+PAT_000587,Idrissi,Zineb,32,F,O-,47,76,3.084837969871609,119/71,Lactose,"Arthrite, Cirrhose"
+PAT_000246,Richard,Omar,55,M,A+,115,142,24.81412892998325,142/95,Fruits de mer,"Cancer (rémission), Insuffisance rénale chronique"
+PAT_000081,Leroy,Léa,-3,F,O+,81,143,36.77869301288133,95/86,Aucune,Aucune
+PAT_000045,Robert,Amina,84,M,B+,85,142,1.4994686040177214,150/115,Aucune,"Sclérose en plaques, Ostéoporose, Colite ulcéreuse"
+PAT_000283,Alami,Mohammed,29,F,O+,114,139,35.633386213498994,146/82,Aucune,Aucune
+PAT_000300,Fassi,Salma,20,F,O+,108,157,23.281203071535003,148/75,Aucune,Aucune
+PAT_000415,Robert,Alexandre,75,M,O+,69,168,31.618275975693198,113/116,Fruits de mer,Aucune
+PAT_000156,Idrissi,Ali,51,F,A+,76,174,26.628162806382342,104/74,Aucune,"Insuffisance rénale chronique, Maladie coronarienne"
+PAT_000589,Tazi,Ali,74,F,O+,92,146,31.982445770121675,110/69,Aucune,Aucune
+PAT_000146,Tazi,Aisha,51,F,B+,57,147,30.266867163994096,155/63,Pénicilline,BPCO
+PAT_000461,Leroy,David,52,F,B+,81,163,26.57262886266985,101/88,Pénicilline,Aucune
+PAT_000056,Idrissi,Léa,108,M,O+,92,93,24.126659941578726,144/98,Acariens,"Maladie coronarienne, Alzheimer"
+PAT_000942,Martin,Nicolas,45,F,O+,59,138,24.033628321296753,173/92,Aucune,Aucune
+PAT_000601,Khalil,Nicolas,90,F,A+,50,82,7.63322098130857,115/63,Pénicilline,"Insuffisance cardiaque, Maladie de Parkinson, Hypertension"
+PAT_000144,Durand,Mohammed,62,F,B+,78,142,14.592664564535816,152/118,Pollen,Colite ulcéreuse
+PAT_000368,Richard,Zineb,63,F,B+,92,140,39.921008204142,132/94,Iode,Aucune
+PAT_000937,Richard,Sara,90,F,B+,84,168,22.968123861920397,92/99,Latex,Aucune
+PAT_000110,Mansouri,Karim,50,F,O+,54,146,13.66504579184979,170/84,Gluten,Aucune
+PAT_000940,Idrissi,Alexandre,51,F,O+,29,149,32.56138138985836,145/106,Aucune,"Ostéoporose, Insuffisance rénale chronique"
+PAT_000525,Durand,Salma,95,F,A-,112,94,15.263187641586882,92/62,Latex,"Asthme, Colite ulcéreuse, Cancer (rémission)"
+PAT_000622,Tazi,Ahmed,35,M,A+,58,70,38.520886246195204,133/116,Aspirine,Aucune
+PAT_000872,Dubois,Khalid,81,F,O+,106,51,17.947431777983,108/71,Aucune,"Diabète Type 2, Arthrite"
+PAT_000440,Filali,Khalid,6,F,B+,112,140,25.668551467089205,126/79,Lactose,Sclérose en plaques
+PAT_000632,Mansouri,Nicolas,57,F,B+,114,139,20.639014556332043,119/79,Fruits de mer,Maladie coronarienne
+PAT_000773,Tazi,Laura,65,F,O-,49,144,29.084349744178045,153/84,Iode,"Hypertension, Diabète Type 1, Cirrhose"
+PAT_000220,Khalil,Chloe,44,F,O+,30,146,20.403018764262907,151/73,Lactose,Arthrite
+PAT_000024,Hassani,Amina,68,F,B+,111,143,36.531603587032535,119/90,Fruits de mer,Maladie de Parkinson
+PAT_000350,Leroy,Thomas,58,F,A-,61,152,22.765086095831723,102/73,Aucune,Cancer (rémission)
+PAT_000707,Leroy,Aisha,57,F,O+,96,145,40.06074609149512,133/108,Iode,"Diabète Type 1, Hypertension"
+PAT_000304,Kadiri,Hassan,0,F,O+,63,86,18.625613424809437,138/78,Fruits de mer,"Diabète Type 1, Maladie de Crohn, Cirrhose"
+PAT_000256,Robert,Marie,71,F,O+,16,85,41.22501829931011,174/93,Fruits de mer,Hypertension
+PAT_000530,Robert,Mohammed,63,M,B+,35,143,10.784799818030365,117/69,Pénicilline,Colite ulcéreuse
+PAT_000763,Thomas,Ali,27,M,A+,48,85,26.322166443047372,90/110,Aucune,"Cancer (rémission), Hypertension"
+PAT_000380,Robert,Lucas,21,F,B+,97,98,8.317199167756062,160/90,Pénicilline,"Asthme, Maladie coronarienne, Maladie de Parkinson"
+PAT_000885,Richard,Léa,23,M,B+,98,76,18.922445622182448,155/83,Aucune,Aucune
+PAT_000336,Richard,Salma,44,M,A-,52,60,15.722156449010091,113/83,Aucune,Aucune
+PAT_000465,Moreau,Nour,23,M,AB+,85,163,26.475298750297775,141/88,Acariens,"Diabète Type 2, Alzheimer"
+PAT_000631,Martin,Alexandre,80,F,B+,111,164,33.91589248589843,167/65,Pénicilline,Aucune
+PAT_000101,Alami,Amina,48,F,O+,68,155,23.25387982390865,115/110,Aucune,"Épilepsie, BPCO"
+PAT_000842,Moreau,Manon,72,F,A-,80,56,0.36430758626248405,159/85,Aspirine,Aucune
+PAT_000303,Benali,Julie,10,M,B+,84,137,24.980650726837705,161/80,Fruits de mer,"Épilepsie, Hyperthyroïdie"
+PAT_000977,Kadiri,Zineb,40,F,AB+,23,152,9.288630861796609,169/119,Acariens,"Épilepsie, Insuffisance rénale chronique"
+PAT_000813,Thomas,Karim,9,M,O+,47,160,22.029922423216412,176/89,Aucune,Aucune
+PAT_000269,Tazi,Jean,52,F,O-,99,168,13.825722798931352,142/115,Latex,"Hypertension, Diabète Type 1, Cirrhose"
+PAT_000772,Durand,Manon,11,F,O+,109,156,15.826062473834984,151/113,Acariens,"Hypothyroïdie, Hypertension, Diabète Type 2"
+PAT_000181,Kadiri,Hassan,43,F,B+,119,165,24.192780300500345,101/72,Aucune,Aucune
+PAT_000379,Dubois,Sara,95,F,B+,109,139,19.09272543563444,99/90,Pénicilline,Aucune
+PAT_000567,Benali,Chloe,70,F,B+,58,140,20.34247787040059,103/68,Aucune,Aucune
+PAT_000233,Hassani,Leila,65,F,B-,110,142,22.841770352507744,178/101,Gluten,"Maladie de Crohn, Insuffisance rénale chronique, Cirrhose"
+PAT_000079,Filali,Chloe,74,M,O+,98,167,9.668118250560163,107/87,Aucune,Aucune
+PAT_000987,Martin,Alexandre,54,F,O+,57,165,22.757938738619373,155/99,Aucune,Aucune
+PAT_000700,Richard,Chloe,65,F,O+,72,141,26.73461022390275,99/82,Lactose,"Hypertension, Diabète Type 1, Asthme"
+PAT_000425,Fassi,Khadija,91,M,A+,96,86,31.008446020046733,171/94,Pénicilline,Aucune
+PAT_000582,Moreau,Sara,53,F,O+,78,141,24.430471401193444,119/89,Pollen,Hyperthyroïdie
+PAT_000228,Kadiri,Mehdi,44,F,B+,100,139,30.733887306666187,159/76,Aucune,Aucune
+PAT_000584,Idrissi,Mehdi,21,M,A+,70,82,26.829324133483727,120/65,Lactose,"Insuffisance rénale chronique, Colite ulcéreuse"
+PAT_000475,Petit,Mohammed,77,M,O+,115,154,29.811148029000226,154/90,Aucune,"Maladie de Parkinson, Arthrite, Cancer (rémission)"
+PAT_000934,Durand,Michel,15,F,A-,52,146,19.7840333187617,90/110,Fruits de mer,Insuffisance cardiaque
+PAT_000739,Bernard,Lucas,53,F,B+,76,147,44.60166911943224,96/61,Latex,BPCO
+PAT_000832,Leroy,Hassan,56,F,AB+,20,177,17.665174879170387,167/75,Pénicilline,"Ostéoporose, Hypertension"
+PAT_000954,Martin,Hassan,25,F,B+,90,143,14.146757958236613,108/84,Aucune,Aucune
+PAT_000053,Benali,Zineb,32,M,O+,16,152,15.030701215252854,136/76,Acariens,Aucune
+PAT_000421,Robert,Camille,94,F,B+,88,149,35.44218278028831,154/117,Aspirine,Aucune
+PAT_000503,Filali,Karim,67,F,O+,87,166,17.31050610817399,99/105,Aucune,"Insuffisance rénale chronique, Arthrite, Maladie de Parkinson"
+PAT_000125,Moreau,Salma,37,F,B+,90,140,12.500827325018516,156/103,Pollen,Aucune
+PAT_000982,Bernard,Alexandre,20,F,O+,23,136,27.416349334434123,102/105,Aucune,"Hypertension, Insuffisance cardiaque, Ostéoporose"
+PAT_000864,Robert,Alexandre,51,M,O+,101,69,8.626038573982056,162/67,Iode,Arthrite
+PAT_000008,Dubois,Jean,45,M,AB+,11,161,41.94752843400013,141/109,Pollen,Arthrite
+PAT_000331,Thomas,Ahmed,59,F,B+,92,59,31.028206475742017,167/80,Aucune,Aucune
+PAT_000546,Khalil,Hassan,38,F,B+,116,151,21.9428284869633,177/89,Aucune,Aucune
+PAT_000372,Tazi,Mohammed,18,M,A+,95,144,19.664867987018972,124/93,Iode,"Insuffisance rénale chronique, Cirrhose"
+PAT_000112,Moreau,Sara,88,F,O+,68,140,17.841149620153303,108/85,Pénicilline,Aucune
+PAT_000761,Tazi,Amina,81,F,O+,97,164,23.9003196414689,154/117,Pénicilline,"Sclérose en plaques, BPCO"
+PAT_000613,Hassani,Khadija,42,F,O+,74,69,24.62007410744331,125/113,Pénicilline,Hyperthyroïdie
+PAT_000897,Moreau,Hassan,76,M,A+,118,78,12.647489877518366,111/102,Pénicilline,Sclérose en plaques
+PAT_000694,Martin,Sara,40,M,B+,36,140,27.047812835955476,177/68,Latex,"Diabète Type 1, BPCO"
+PAT_000333,Martin,Antoine,87,M,A+,112,149,19.18196139338256,92/112,Pollen,"BPCO, Sclérose en plaques"
+PAT_000615,Bernard,Zineb,60,F,O+,16,149,20.58898092902859,136/74,Aucune,Insuffisance cardiaque
+PAT_000652,Khalil,Leila,19,F,A-,68,68,19.185992835242775,156/103,Gluten,Aucune
+PAT_000743,Kadiri,Karim,68,F,A+,81,167,10.020316979984509,107/102,Pénicilline,Aucune
+PAT_000190,Martin,Sophie,85,F,B+,97,146,30.08997400157581,100/86,Aucune,Insuffisance rénale chronique
+PAT_000493,Tazi,Michel,89,F,O+,102,56,23.003741850552714,127/63,Aucune,Aucune
+PAT_000955,Idrissi,Marie,22,F,AB+,110,152,25.8470560599619,127/60,Pénicilline,"Diabète Type 2, Sclérose en plaques, Hypertension"
+PAT_000415,Tazi,Mohammed,54,F,O+,52,167,17.722103829251107,132/87,Aucune,Aucune
+PAT_000494,Thomas,Zineb,36,M,O+,42,150,31.027237281383798,140/101,Aucune,"Diabète Type 2, Maladie coronarienne"
+PAT_000751,Hassani,Ali,28,F,A+,68,144,29.955902232681503,110/72,Pollen,"Diabète Type 1, Alzheimer"
+PAT_000425,Robert,Thomas,78,M,O+,76,77,30.925172247928238,115/97,Aucune,Aucune
+PAT_000958,Petit,Ali,67,F,B+,117,75,13.82981884207249,168/90,Gluten,"Diabète Type 2, Hypertension"
+PAT_000964,Tazi,Zineb,6,F,A+,55,50,22.423941150264525,172/108,Aspirine,Aucune
+PAT_000496,Hassani,Omar,17,M,O+,66,149,17.84583874466479,139/96,Pollen,"Épilepsie, Arthrite, Diabète Type 1"
+PAT_000242,Robert,Michel,72,M,O+,88,161,14.767788117083748,129/100,Pénicilline,Aucune
+PAT_000067,Bernard,Marie,11,M,A+,57,145,28.937678762087746,110/65,Pénicilline,"Hypothyroïdie, Insuffisance cardiaque"
+PAT_000538,Filali,Manon,65,M,AB+,78,171,12.345762925579528,128/69,Gluten,"Sclérose en plaques, Ostéoporose, Colite ulcéreuse"
+PAT_000738,Alami,Marie,52,M,O+,112,52,21.150750626011195,173/97,Aucune,Aucune
+PAT_000001,Dubois,Zineb,9,M,A-,98,143,25.104370097288943,148/85,Aucune,Aucune
+PAT_000672,Dubois,Nicolas,61,F,B+,107,153,21.806476959475873,97/109,Pénicilline,Maladie coronarienne
+PAT_000406,Tazi,Salma,16,M,O+,54,86,12.66866324350585,166/70,Aucune,Sclérose en plaques
+PAT_000405,Hassani,Salma,17,M,O+,53,161,24.070685718910276,157/71,Pénicilline,Aucune
+PAT_000805,Idrissi,Mohammed,56,M,A-,30,147,20.782846884917156,101/68,Lactose,"Sclérose en plaques, Colite ulcéreuse"
+PAT_000600,Khalil,Khadija,29,M,B+,59,71,16.945450556746128,149/66,Pénicilline,"Cancer (rémission), Cirrhose"
+PAT_000075,Richard,Manon,93,M,B+,84,162,13.497559143581956,109/80,Pénicilline,Maladie coronarienne
+PAT_000068,Moreau,Zineb,49,F,A+,50,145,24.516682084091556,112/116,Aucune,"Asthme, Sclérose en plaques"
+PAT_000945,Tazi,Julie,52,M,B+,94,142,14.249603495451879,108/85,Pénicilline,Colite ulcéreuse
+PAT_000393,Robert,Amina,12,F,A+,90,63,31.490183570963776,114/68,Fruits de mer,"Asthme, Alzheimer"
+PAT_000428,Kadiri,Ahmed,6,F,B+,97,79,20.127256905410142,110/69,Pénicilline,"Hypothyroïdie, Arthrite"
+PAT_000924,Filali,Thomas,46,F,B+,119,83,31.425670241738686,93/63,Aucune,Aucune
+PAT_000829,Durand,Alexandre,11,F,A+,69,151,31.903709024102703,108/84,Aucune,"Diabète Type 1, Arthrite"
+PAT_000544,Idrissi,Ahmed,11,F,B+,86,90,26.43949293724721,177/74,Acariens,Alzheimer
+PAT_000983,Robert,Nour,57,F,O+,75,80,18.456604635784004,109/83,Aspirine,"Maladie de Parkinson, Maladie de Crohn, Sclérose en plaques"
+PAT_000621,Khalil,Alexandre,22,F,O-,92,153,6.657484250645382,159/69,Aucune,Aucune
+PAT_000886,Hassani,Sara,63,M,A+,48,146,29.06727222924502,122/69,Gluten,Aucune

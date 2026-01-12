@@ -1,0 +1,20 @@
+{
+  "generation_info": {
+    "category": "vehicules_transport",
+    "n_samples": 1000,
+    "generated_at": "2026-01-11T00:47:15.399025",
+    "bias_type": "none",
+    "bias_intensity": 0.5
+  },
+  "bias_report": {
+    "message": "Aucun biais appliqué",
+    "type": "none"
+  },
+  "analysis": {},
+  "files": {
+    "biased_dataset": "output\\vehicules_transport_biased_20260111_004715.csv",
+    "original_dataset": "output\\vehicules_transport_original_20260111_004715.csv",
+    "visualization": null,
+    "report": "output\\vehicules_transport_report_20260111_004715.json"
+  }
+}

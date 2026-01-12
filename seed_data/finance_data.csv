@@ -1,0 +1,1001 @@
+id_transaction,type_transaction,montant,devise,frais,statut,ville,pays
+id_transaction_00000001,Dépôt,66.91,MAD,1.0,Complétée,Casablanca,Maroc
+id_transaction_00000002,Retrait,10021.5,EUR,6.51,Complétée,Francfort,Allemagne
+id_transaction_00000003,Virement International,1179.88,USD,10.77,Complétée,Washington DC,USA
+id_transaction_00000004,Dépôt,200.62,CNY,1.39,Complétée,Pékin,Chine
+id_transaction_00000005,Virement International,3412.01,USD,60.64,Complétée,New York,USA
+id_transaction_00000006,Virement,708.78,MAD,8.08,Rejetée,Casablanca,Maroc
+id_transaction_00000007,Prélèvement,87.15,GBP,4.95,Complétée,Londres,Royaume-Uni
+id_transaction_00000008,Virement,316.51,MAD,6.63,Complétée,Casablanca,Maroc
+id_transaction_00000009,Prélèvement,522.72,EUR,3.27,Complétée,Paris,France
+id_transaction_00000010,Carte,56.73,USD,9.65,Complétée,New York,USA
+id_transaction_00000011,Virement,966.02,JPY,7.29,Complétée,Tokyo,Japon
+id_transaction_00000012,Prélèvement,1527.86,MAD,1.16,Complétée,Rabat,Maroc
+id_transaction_00000013,Retrait,309.02,MAD,3.25,Complétée,Casablanca,Maroc
+id_transaction_00000014,Virement International,1311.9,EUR,18.58,En attente,Francfort,UE
+id_transaction_00000015,Dépôt,3801.5,JPY,4.94,Complétée,Tokyo,Japon
+id_transaction_00000016,Prélèvement,670.0,GBP,1.08,Complétée,Londres,Royaume-Uni
+id_transaction_00000017,Carte,39.27,MAD,4.1,Complétée,Casablanca,Maroc
+id_transaction_00000018,Carte,93.29,EUR,2.9,Complétée,Francfort,Allemagne
+id_transaction_00000019,Virement International,4985.22,USD,27.9,Complétée,Washington DC,USA
+id_transaction_00000020,Retrait,646.63,EUR,9.07,Complétée,Francfort,Allemagne
+id_transaction_00000021,Virement International,200.58,MAD,0.99,Complétée,Rabat,Maroc
+id_transaction_00000022,Virement,87.48,GBP,3.38,Complétée,Londres,Royaume-Uni
+id_transaction_00000023,Virement,394.17,MAD,2.47,Complétée,Casablanca,Maroc
+id_transaction_00000024,Prélèvement,801.21,GBP,0.51,Complétée,Londres,Royaume-Uni
+id_transaction_00000025,Prélèvement,1275.31,USD,7.62,En cours,Washington DC,USA
+id_transaction_00000026,Carte,10.0,GBP,6.34,Complétée,Londres,Royaume-Uni
+id_transaction_00000027,Dépôt,1527.32,EUR,3.49,Complétée,Francfort,UE
+id_transaction_00000028,Virement,1000.47,MAD,5.18,Complétée,Casablanca,Maroc
+id_transaction_00000029,Retrait,549.21,USD,6.96,Complétée,New York,USA
+id_transaction_00000030,Prélèvement,46.28,MAD,5.17,En cours,Casablanca,Maroc
+id_transaction_00000031,Virement International,5012.88,GBP,50.99,En attente,Londres,Royaume-Uni
+id_transaction_00000032,Dépôt,629.85,MAD,7.85,Rejetée,Rabat,Maroc
+id_transaction_00000033,Dépôt,92.01,USD,4.86,Complétée,New York,USA
+id_transaction_00000034,Virement,78.19,EUR,0.18,Complétée,Francfort,UE
+id_transaction_00000035,Retrait,1481.55,ZAR,3.08,Complétée,Johannesburg,Afrique du Sud
+id_transaction_00000036,Dépôt,1698.7,USD,2.5,Complétée,New York,USA
+id_transaction_00000037,Prélèvement,3123.31,USD,8.64,Complétée,New York,USA
+id_transaction_00000038,Dépôt,2340.32,USD,0.44,Complétée,New York,USA
+id_transaction_00000039,Virement,1001.44,CNY,5.72,Rejetée,Pékin,Chine
+id_transaction_00000040,Carte,10.0,MAD,8.51,Complétée,Rabat,Maroc
+id_transaction_00000041,Virement,72.13,EUR,2.54,Complétée,Francfort,UE
+id_transaction_00000042,Virement,3243.49,EUR,1.37,Complétée,Paris,France
+id_transaction_00000043,Prélèvement,636.94,USD,9.13,Complétée,New York,USA
+id_transaction_00000044,Virement International,3024.84,MAD,80.76,Complétée,Rabat,Maroc
+id_transaction_00000045,Prélèvement,66.67,MAD,1.55,Complétée,Casablanca,Maroc
+id_transaction_00000046,Virement International,3951.36,GBP,63.67,Complétée,Londres,Royaume-Uni
+id_transaction_00000047,Retrait,230.03,CNY,7.0,Complétée,Pékin,Chine
+id_transaction_00000048,Carte,10.0,USD,7.15,Rejetée,New York,USA
+id_transaction_00000049,Dépôt,126.76,JPY,1.73,Complétée,Tokyo,Japon
+id_transaction_00000050,Carte,10.0,USD,9.55,Complétée,New York,USA
+id_transaction_00000051,Dépôt,785.04,EUR,4.74,Complétée,Francfort,UE
+id_transaction_00000052,Retrait,1289.42,USD,4.34,Complétée,New York,USA
+id_transaction_00000053,Prélèvement,2309.41,USD,6.59,Complétée,Washington DC,USA
+id_transaction_00000054,Prélèvement,409.67,GBP,5.86,Complétée,Londres,Royaume-Uni
+id_transaction_00000055,Retrait,830.33,CNY,6.26,Complétée,Pékin,Chine
+id_transaction_00000056,Prélèvement,812.88,MAD,2.74,Complétée,Rabat,Maroc
+id_transaction_00000057,Prélèvement,39.82,CNY,6.56,Complétée,Pékin,Chine
+id_transaction_00000058,Prélèvement,2154.56,EUR,4.96,Complétée,Paris,France
+id_transaction_00000059,Carte,107.02,EUR,5.48,Complétée,Paris,France
+id_transaction_00000060,Prélèvement,5074.71,EUR,5.81,Complétée,Francfort,UE
+id_transaction_00000061,Carte,21.32,JPY,5.34,Complétée,Tokyo,Japon
+id_transaction_00000062,Carte,10.0,USD,3.89,En attente,New York,USA
+id_transaction_00000063,Carte,294.51,JPY,2.13,Complétée,Tokyo,Japon
+id_transaction_00000064,Virement International,4908.04,EUR,65.01,Complétée,Paris,France
+id_transaction_00000065,Retrait,461.79,EUR,8.38,Complétée,Francfort,Allemagne
+id_transaction_00000066,Prélèvement,456.73,ZAR,8.92,Complétée,Johannesburg,Afrique du Sud
+id_transaction_00000067,Carte,268.01,USD,8.8,Complétée,Washington DC,USA
+id_transaction_00000068,Virement,576.07,GBP,3.5,Complétée,Londres,Royaume-Uni
+id_transaction_00000069,Prélèvement,37.35,MAD,4.05,Complétée,Casablanca,Maroc
+id_transaction_00000070,Virement,214.16,USD,6.81,Complétée,New York,USA
+id_transaction_00000071,Virement,447.86,GBP,9.93,Complétée,Londres,Royaume-Uni
+id_transaction_00000072,Virement,437.7,EUR,4.55,Complétée,Paris,France
+id_transaction_00000073,Virement International,163.09,EUR,0.92,Complétée,Francfort,Allemagne
+id_transaction_00000074,Prélèvement,1307.68,USD,3.6,Complétée,New York,USA
+id_transaction_00000075,Virement International,820.04,GBP,14.83,Complétée,Londres,Royaume-Uni
+id_transaction_00000076,Virement International,121.36,USD,3.42,Complétée,New York,USA
+id_transaction_00000077,Prélèvement,253.51,EUR,7.78,Complétée,Paris,France
+id_transaction_00000078,Virement,69.77,EUR,7.5,Complétée,Paris,France
+id_transaction_00000079,Dépôt,674.31,MAD,7.5,Complétée,Rabat,Maroc
+id_transaction_00000080,Carte,960.35,EUR,7.57,Complétée,Francfort,UE
+id_transaction_00000081,Virement International,546.19,JPY,3.4,Complétée,Tokyo,Japon
+id_transaction_00000082,Retrait,269.78,EUR,9.68,Complétée,Francfort,UE
+id_transaction_00000083,Carte,12.84,GBP,1.36,Complétée,Londres,Royaume-Uni
+id_transaction_00000084,Prélèvement,28.84,MAD,5.14,Complétée,Casablanca,Maroc
+id_transaction_00000085,Carte,53.41,JPY,2.58,Complétée,Tokyo,Japon
+id_transaction_00000086,Dépôt,738.54,JPY,0.76,Complétée,Tokyo,Japon
+id_transaction_00000087,Virement International,9140.33,USD,112.88,Complétée,New York,USA
+id_transaction_00000088,Carte,55.85,JPY,3.48,Complétée,Tokyo,Japon
+id_transaction_00000089,Prélèvement,64.86,CNY,0.92,Complétée,Pékin,Chine
+id_transaction_00000090,Virement International,292.76,MAD,3.31,Complétée,Casablanca,Maroc
+id_transaction_00000091,Virement International,4377.27,MAD,94.62,Complétée,Casablanca,Maroc
+id_transaction_00000092,Carte,110.67,EUR,3.54,En attente,Francfort,Allemagne
+id_transaction_00000093,Virement,595.79,JPY,8.41,Complétée,Tokyo,Japon
+id_transaction_00000094,Retrait,550.06,JPY,6.49,Complétée,Tokyo,Japon
+id_transaction_00000095,Virement International,1235.2,EUR,4.73,Complétée,Paris,France
+id_transaction_00000096,Dépôt,56.57,USD,6.06,En cours,Washington DC,USA
+id_transaction_00000097,Carte,20.57,MAD,1.87,Complétée,Rabat,Maroc
+id_transaction_00000098,Dépôt,194.28,GBP,6.97,Complétée,Londres,Royaume-Uni
+id_transaction_00000099,Retrait,5959.53,CNY,8.21,En attente,Pékin,Chine
+id_transaction_00000100,Prélèvement,360.77,USD,7.69,Complétée,Washington DC,USA
+id_transaction_00000101,Retrait,35.12,CNY,1.15,Complétée,Pékin,Chine
+id_transaction_00000102,Carte,58.68,ZAR,9.32,Complétée,Johannesburg,Afrique du Sud
+id_transaction_00000103,Virement,8960.36,JPY,5.49,Complétée,Tokyo,Japon
+id_transaction_00000104,Prélèvement,21.81,USD,1.39,Complétée,Washington DC,USA
+id_transaction_00000105,Dépôt,2786.69,GBP,1.07,Complétée,Londres,Royaume-Uni
+id_transaction_00000106,Retrait,809.79,JPY,9.33,Complétée,Tokyo,Japon
+id_transaction_00000107,Retrait,531.27,EUR,0.48,Complétée,Francfort,Allemagne
+id_transaction_00000108,Carte,92.73,USD,1.64,Complétée,New York,USA
+id_transaction_00000109,Dépôt,267.45,JPY,5.88,Complétée,Tokyo,Japon
+id_transaction_00000110,Virement International,10059.05,EUR,188.34,En attente,Paris,France
+id_transaction_00000111,Prélèvement,574.46,GBP,1.17,Complétée,Londres,Royaume-Uni
+id_transaction_00000112,Virement,2243.14,MAD,8.94,Complétée,Casablanca,Maroc
+id_transaction_00000113,Virement,3884.14,JPY,8.77,Complétée,Tokyo,Japon
+id_transaction_00000114,Carte,99.79,MAD,8.46,Complétée,Rabat,Maroc
+id_transaction_00000115,Carte,455.49,MAD,0.12,Complétée,Casablanca,Maroc
+id_transaction_00000116,Virement International,8383.59,JPY,146.73,En attente,Tokyo,Japon
+id_transaction_00000117,Prélèvement,613.97,USD,5.06,Rejetée,New York,USA
+id_transaction_00000118,Retrait,74.57,MAD,1.02,Complétée,Rabat,Maroc
+id_transaction_00000119,Carte,79.47,USD,6.07,Complétée,New York,USA
+id_transaction_00000120,Virement International,3641.65,EUR,18.08,Complétée,Francfort,Allemagne
+id_transaction_00000121,Virement,82.93,GBP,6.08,Complétée,Londres,Royaume-Uni
+id_transaction_00000122,Virement,135.07,MAD,7.88,Complétée,Casablanca,Maroc
+id_transaction_00000123,Prélèvement,513.9,EUR,0.33,Complétée,Francfort,Allemagne
+id_transaction_00000124,Virement,1291.05,JPY,4.19,Complétée,Tokyo,Japon
+id_transaction_00000125,Virement,269.53,EUR,0.85,Rejetée,Paris,France
+id_transaction_00000126,Dépôt,440.9,JPY,8.98,Complétée,Tokyo,Japon
+id_transaction_00000127,Virement International,109.79,GBP,2.35,Complétée,Londres,Royaume-Uni
+id_transaction_00000128,Retrait,26743.56,CNY,8.62,Complétée,Pékin,Chine
+id_transaction_00000129,Prélèvement,76.26,MAD,0.25,Complétée,Casablanca,Maroc
+id_transaction_00000130,Virement,5588.16,EUR,2.54,Complétée,Paris,France
+id_transaction_00000131,Dépôt,238.41,MAD,2.43,Complétée,Casablanca,Maroc
+id_transaction_00000132,Virement International,4941.93,GBP,43.46,Complétée,Londres,Royaume-Uni
+id_transaction_00000133,Prélèvement,658.0,USD,4.21,Complétée,New York,USA
+id_transaction_00000134,Dépôt,1945.97,EUR,2.68,Complétée,Paris,France
+id_transaction_00000135,Virement International,1430.89,JPY,41.83,Complétée,Tokyo,Japon
+id_transaction_00000136,Prélèvement,819.42,CNY,9.85,Complétée,Pékin,Chine
+id_transaction_00000137,Virement,10227.74,GBP,2.58,Complétée,Londres,Royaume-Uni
+id_transaction_00000138,Prélèvement,469.29,JPY,8.15,Complétée,Tokyo,Japon
+id_transaction_00000139,Virement,6102.33,GBP,1.07,Complétée,Londres,Royaume-Uni
+id_transaction_00000140,Prélèvement,391.01,CNY,6.65,Complétée,Pékin,Chine
+id_transaction_00000141,Virement,717.25,MAD,0.47,Complétée,Casablanca,Maroc
+id_transaction_00000142,Carte,10.0,EUR,2.45,Complétée,Francfort,Allemagne
+id_transaction_00000143,Retrait,954.27,EUR,4.76,Complétée,Francfort,Allemagne
+id_transaction_00000144,Virement International,89.38,MAD,0.58,Complétée,Casablanca,Maroc
+id_transaction_00000145,Dépôt,2261.79,EUR,1.07,Complétée,Francfort,Allemagne
+id_transaction_00000146,Virement,140.5,GBP,6.88,Complétée,Londres,Royaume-Uni
+id_transaction_00000147,Dépôt,1041.7,EUR,2.72,Complétée,Paris,France
+id_transaction_00000148,Carte,234.82,USD,9.17,Complétée,Washington DC,USA
+id_transaction_00000149,Virement,1991.92,GBP,7.32,Complétée,Londres,Royaume-Uni
+id_transaction_00000150,Prélèvement,1984.88,CNY,2.21,Complétée,Pékin,Chine
+id_transaction_00000151,Prélèvement,21.57,GBP,1.21,Complétée,Londres,Royaume-Uni
+id_transaction_00000152,Prélèvement,265.27,MAD,7.95,Complétée,Casablanca,Maroc
+id_transaction_00000153,Dépôt,466.0,MAD,2.3,Complétée,Casablanca,Maroc
+id_transaction_00000154,Carte,27.29,JPY,4.41,Complétée,Tokyo,Japon
+id_transaction_00000155,Virement,2553.56,CNY,5.2,Complétée,Pékin,Chine
+id_transaction_00000156,Virement International,15868.99,JPY,219.92,Complétée,Tokyo,Japon
+id_transaction_00000157,Carte,25.13,USD,4.8,Complétée,Washington DC,USA
+id_transaction_00000158,Virement,3340.99,USD,4.18,Complétée,New York,USA
+id_transaction_00000159,Virement International,11320.97,EUR,94.17,En attente,Francfort,UE
+id_transaction_00000160,Virement,4541.24,ZAR,1.24,Complétée,Johannesburg,Afrique du Sud
+id_transaction_00000161,Dépôt,1404.33,JPY,9.89,Complétée,Tokyo,Japon
+id_transaction_00000162,Dépôt,550.83,MAD,8.38,Complétée,Casablanca,Maroc
+id_transaction_00000163,Prélèvement,216.2,JPY,9.57,Complétée,Tokyo,Japon
+id_transaction_00000164,Retrait,2419.4,GBP,1.74,En cours,Londres,Royaume-Uni
+id_transaction_00000165,Virement International,33.4,EUR,0.27,Complétée,Francfort,UE
+id_transaction_00000166,Prélèvement,108.03,GBP,8.1,En attente,Londres,Royaume-Uni
+id_transaction_00000167,Dépôt,29.29,USD,2.6,Complétée,New York,USA
+id_transaction_00000168,Prélèvement,61.19,JPY,2.2,Complétée,Tokyo,Japon
+id_transaction_00000169,Carte,10.0,JPY,5.92,En attente,Tokyo,Japon
+id_transaction_00000170,Prélèvement,109.36,EUR,8.64,Complétée,Francfort,UE
+id_transaction_00000171,Dépôt,154.97,MAD,1.6,En attente,Rabat,Maroc
+id_transaction_00000172,Virement,198.1,JPY,1.06,Rejetée,Tokyo,Japon
+id_transaction_00000173,Carte,42.49,CNY,3.35,En attente,Pékin,Chine
+id_transaction_00000174,Retrait,502.74,MAD,7.57,Complétée,Casablanca,Maroc
+id_transaction_00000175,Carte,56.65,CNY,2.6,Complétée,Pékin,Chine
+id_transaction_00000176,Virement International,3568.54,JPY,1.97,Complétée,Tokyo,Japon
+id_transaction_00000177,Retrait,524.96,GBP,0.68,Complétée,Londres,Royaume-Uni
+id_transaction_00000178,Virement,744.54,GBP,3.46,Complétée,Londres,Royaume-Uni
+id_transaction_00000179,Dépôt,2219.21,CNY,2.53,Complétée,Pékin,Chine
+id_transaction_00000180,Carte,27.51,USD,1.02,Rejetée,Washington DC,USA
+id_transaction_00000181,Carte,293.76,GBP,2.73,Complétée,Londres,Royaume-Uni
+id_transaction_00000182,Retrait,2880.78,GBP,9.1,Complétée,Londres,Royaume-Uni
+id_transaction_00000183,Carte,99.9,CNY,5.63,Complétée,Pékin,Chine
+id_transaction_00000184,Retrait,1135.46,CNY,8.69,Complétée,Pékin,Chine
+id_transaction_00000185,Virement International,8330.43,USD,241.79,Complétée,New York,USA
+id_transaction_00000186,Virement International,1783.58,ZAR,6.7,Complétée,Johannesburg,Afrique du Sud
+id_transaction_00000187,Virement,132.79,CNY,5.82,Complétée,Pékin,Chine
+id_transaction_00000188,Dépôt,394.87,USD,1.5,En cours,Washington DC,USA
+id_transaction_00000189,Prélèvement,37.49,EUR,6.95,Complétée,Paris,France
+id_transaction_00000190,Virement International,2709.66,GBP,40.55,Complétée,Londres,Royaume-Uni
+id_transaction_00000191,Prélèvement,199.01,EUR,3.22,Complétée,Paris,France
+id_transaction_00000192,Retrait,92.93,MAD,6.36,Complétée,Casablanca,Maroc
+id_transaction_00000193,Prélèvement,877.52,EUR,4.84,Complétée,Paris,France
+id_transaction_00000194,Retrait,2341.06,EUR,0.82,Complétée,Francfort,UE
+id_transaction_00000195,Carte,10.0,CNY,4.7,Complétée,Pékin,Chine
+id_transaction_00000196,Carte,265.48,JPY,4.98,Complétée,Tokyo,Japon
+id_transaction_00000197,Dépôt,74.31,EUR,6.8,Complétée,Paris,France
+id_transaction_00000198,Retrait,341.69,JPY,5.05,Complétée,Tokyo,Japon
+id_transaction_00000199,Virement,344.44,EUR,8.73,Complétée,Paris,France
+id_transaction_00000200,Carte,23.12,JPY,6.23,Complétée,Tokyo,Japon
+id_transaction_00000201,Virement International,5696.46,USD,84.13,Complétée,New York,USA
+id_transaction_00000202,Virement,260.54,MAD,0.95,Complétée,Casablanca,Maroc
+id_transaction_00000203,Virement,39.1,EUR,0.73,Complétée,Francfort,UE
+id_transaction_00000204,Carte,36.29,ZAR,8.29,Complétée,Johannesburg,Afrique du Sud
+id_transaction_00000205,Dépôt,132.55,MAD,3.79,Rejetée,Rabat,Maroc
+id_transaction_00000206,Carte,10.0,EUR,7.82,Complétée,Francfort,Allemagne
+id_transaction_00000207,Virement International,1550.35,CNY,2.66,Complétée,Pékin,Chine
+id_transaction_00000208,Carte,23.89,JPY,2.25,Complétée,Tokyo,Japon
+id_transaction_00000209,Carte,715.97,JPY,3.97,Complétée,Tokyo,Japon
+id_transaction_00000210,Dépôt,1284.11,EUR,3.23,Complétée,Paris,France
+id_transaction_00000211,Retrait,134.42,EUR,1.88,Complétée,Francfort,Allemagne
+id_transaction_00000212,Virement International,8191.52,USD,43.53,En attente,New York,USA
+id_transaction_00000213,Prélèvement,531.48,USD,7.69,Complétée,Washington DC,USA
+id_transaction_00000214,Retrait,518.09,USD,2.16,Complétée,New York,USA
+id_transaction_00000215,Carte,12.37,USD,6.05,Complétée,New York,USA
+id_transaction_00000216,Prélèvement,549.65,GBP,3.27,Complétée,Londres,Royaume-Uni
+id_transaction_00000217,Prélèvement,258.18,CNY,8.18,Complétée,Pékin,Chine
+id_transaction_00000218,Virement,3176.58,MAD,3.96,Complétée,Casablanca,Maroc
+id_transaction_00000219,Virement,16.01,JPY,0.15,Complétée,Tokyo,Japon
+id_transaction_00000220,Dépôt,83.64,USD,9.51,Complétée,Washington DC,USA
+id_transaction_00000221,Carte,10.0,USD,4.77,Complétée,Washington DC,USA
+id_transaction_00000222,Virement International,4196.23,EUR,90.07,Complétée,Francfort,Allemagne
+id_transaction_00000223,Dépôt,1259.4,EUR,2.43,Complétée,Francfort,Allemagne
+id_transaction_00000224,Retrait,615.1,EUR,3.52,Rejetée,Francfort,Allemagne
+id_transaction_00000225,Retrait,91.57,USD,8.03,Complétée,Washington DC,USA
+id_transaction_00000226,Prélèvement,77.06,EUR,7.16,Complétée,Francfort,UE
+id_transaction_00000227,Prélèvement,920.65,GBP,1.81,Complétée,Londres,Royaume-Uni
+id_transaction_00000228,Retrait,651.76,EUR,0.87,Complétée,Paris,France
+id_transaction_00000229,Carte,65.59,MAD,8.19,Complétée,Rabat,Maroc
+id_transaction_00000230,Prélèvement,911.37,GBP,3.61,Complétée,Londres,Royaume-Uni
+id_transaction_00000231,Virement,137.33,EUR,8.23,Complétée,Paris,France
+id_transaction_00000232,Prélèvement,1544.39,MAD,1.5,Complétée,Casablanca,Maroc
+id_transaction_00000233,Virement,237.18,EUR,0.96,Complétée,Paris,France
+id_transaction_00000234,Virement International,76633.77,EUR,134.39,Complétée,Francfort,Allemagne
+id_transaction_00000235,Carte,10.0,USD,7.25,Complétée,Washington DC,USA
+id_transaction_00000236,Retrait,20.88,EUR,6.03,Complétée,Francfort,Allemagne
+id_transaction_00000237,Carte,22.82,CNY,2.27,Complétée,Pékin,Chine
+id_transaction_00000238,Carte,11.92,GBP,0.68,Complétée,Londres,Royaume-Uni
+id_transaction_00000239,Carte,688.46,JPY,2.31,Complétée,Tokyo,Japon
+id_transaction_00000240,Prélèvement,1489.01,EUR,6.62,En cours,Francfort,UE
+id_transaction_00000241,Virement International,572.53,GBP,16.52,Complétée,Londres,Royaume-Uni
+id_transaction_00000242,Virement,883.74,EUR,0.01,Complétée,Paris,France
+id_transaction_00000243,Retrait,102.53,USD,9.74,Complétée,New York,USA
+id_transaction_00000244,Carte,171.77,MAD,2.57,Complétée,Rabat,Maroc
+id_transaction_00000245,Virement,62.98,USD,0.63,Complétée,New York,USA
+id_transaction_00000246,Prélèvement,418.75,GBP,3.81,Complétée,Londres,Royaume-Uni
+id_transaction_00000247,Virement,176.6,USD,9.42,Complétée,Washington DC,USA
+id_transaction_00000248,Dépôt,1366.2,EUR,5.75,Complétée,Paris,France
+id_transaction_00000249,Prélèvement,705.98,GBP,7.21,Complétée,Londres,Royaume-Uni
+id_transaction_00000250,Prélèvement,184.27,MAD,2.24,Complétée,Casablanca,Maroc
+id_transaction_00000251,Virement International,384.97,USD,10.37,Complétée,Washington DC,USA
+id_transaction_00000252,Dépôt,634.34,ZAR,8.25,Rejetée,Johannesburg,Afrique du Sud
+id_transaction_00000253,Carte,116.94,JPY,4.32,Complétée,Tokyo,Japon
+id_transaction_00000254,Retrait,437.46,JPY,1.06,Complétée,Tokyo,Japon
+id_transaction_00000255,Dépôt,94.65,CNY,0.61,Complétée,Pékin,Chine
+id_transaction_00000256,Virement,754.3,JPY,9.95,Complétée,Tokyo,Japon
+id_transaction_00000257,Virement International,1371.48,GBP,20.96,Complétée,Londres,Royaume-Uni
+id_transaction_00000258,Carte,70.5,MAD,3.06,Complétée,Casablanca,Maroc
+id_transaction_00000259,Prélèvement,332.7,GBP,1.95,Complétée,Londres,Royaume-Uni
+id_transaction_00000260,Virement International,21563.1,MAD,474.57,Complétée,Casablanca,Maroc
+id_transaction_00000261,Prélèvement,3146.86,JPY,5.82,Complétée,Tokyo,Japon
+id_transaction_00000262,Carte,30.69,MAD,2.41,Complétée,Casablanca,Maroc
+id_transaction_00000263,Retrait,1372.21,EUR,4.99,Complétée,Paris,France
+id_transaction_00000264,Virement,925.88,EUR,8.6,Complétée,Paris,France
+id_transaction_00000265,Retrait,657.05,GBP,2.53,Complétée,Londres,Royaume-Uni
+id_transaction_00000266,Dépôt,314.16,USD,3.86,Complétée,New York,USA
+id_transaction_00000267,Virement,67.56,USD,7.37,Complétée,New York,USA
+id_transaction_00000268,Carte,59.98,MAD,7.46,Complétée,Rabat,Maroc
+id_transaction_00000269,Dépôt,53.48,MAD,3.5,Complétée,Rabat,Maroc
+id_transaction_00000270,Dépôt,93.93,MAD,1.74,Complétée,Casablanca,Maroc
+id_transaction_00000271,Retrait,144.69,EUR,9.76,En attente,Paris,France
+id_transaction_00000272,Virement,1169.46,MAD,2.61,Complétée,Casablanca,Maroc
+id_transaction_00000273,Retrait,439.45,EUR,5.82,Complétée,Paris,France
+id_transaction_00000274,Virement,2015.78,EUR,2.25,En attente,Francfort,Allemagne
+id_transaction_00000275,Retrait,187.32,USD,9.28,Complétée,New York,USA
+id_transaction_00000276,Virement International,651.45,CNY,19.4,Complétée,Pékin,Chine
+id_transaction_00000277,Virement,62.68,MAD,9.78,Complétée,Casablanca,Maroc
+id_transaction_00000278,Retrait,1000.55,ZAR,3.2,Complétée,Johannesburg,Afrique du Sud
+id_transaction_00000279,Retrait,350.18,EUR,7.26,Complétée,Francfort,Allemagne
+id_transaction_00000280,Dépôt,354.66,EUR,3.42,Complétée,Paris,France
+id_transaction_00000281,Dépôt,514.92,EUR,8.77,Complétée,Francfort,UE
+id_transaction_00000282,Prélèvement,111.67,JPY,8.12,Complétée,Tokyo,Japon
+id_transaction_00000283,Virement,582.62,CNY,6.58,Complétée,Pékin,Chine
+id_transaction_00000284,Virement International,2008.49,EUR,11.33,Complétée,Paris,France
+id_transaction_00000285,Virement,45.84,GBP,1.49,Complétée,Londres,Royaume-Uni
+id_transaction_00000286,Carte,10.39,CNY,3.85,Complétée,Pékin,Chine
+id_transaction_00000287,Virement International,174.73,GBP,3.65,Complétée,Londres,Royaume-Uni
+id_transaction_00000288,Retrait,28.75,EUR,3.88,Complétée,Paris,France
+id_transaction_00000289,Retrait,180.09,GBP,2.25,Complétée,Londres,Royaume-Uni
+id_transaction_00000290,Retrait,148.45,EUR,4.98,Complétée,Paris,France
+id_transaction_00000291,Retrait,72.78,CNY,3.28,Complétée,Pékin,Chine
+id_transaction_00000292,Retrait,301.72,MAD,8.01,Complétée,Rabat,Maroc
+id_transaction_00000293,Retrait,799.14,MAD,4.96,Complétée,Casablanca,Maroc
+id_transaction_00000294,Retrait,1500.53,USD,3.35,Complétée,New York,USA
+id_transaction_00000295,Dépôt,1899.69,JPY,8.42,Complétée,Tokyo,Japon
+id_transaction_00000296,Carte,40.76,JPY,4.83,Complétée,Tokyo,Japon
+id_transaction_00000297,Virement International,10.0,CNY,0.22,Complétée,Pékin,Chine
+id_transaction_00000298,Virement International,2160.71,CNY,8.77,Complétée,Pékin,Chine
+id_transaction_00000299,Retrait,1524.61,GBP,9.75,Complétée,Londres,Royaume-Uni
+id_transaction_00000300,Prélèvement,142.74,USD,2.68,Complétée,New York,USA
+id_transaction_00000301,Dépôt,584.42,GBP,5.6,Complétée,Londres,Royaume-Uni
+id_transaction_00000302,Prélèvement,459.89,MAD,2.6,Complétée,Casablanca,Maroc
+id_transaction_00000303,Prélèvement,114.82,JPY,3.38,Complétée,Tokyo,Japon
+id_transaction_00000304,Retrait,1008.5,JPY,1.14,Complétée,Tokyo,Japon
+id_transaction_00000305,Virement,258.96,MAD,7.08,Complétée,Casablanca,Maroc
+id_transaction_00000306,Virement International,4042.55,GBP,58.78,Complétée,Londres,Royaume-Uni
+id_transaction_00000307,Virement International,1628.64,USD,17.39,Complétée,New York,USA
+id_transaction_00000308,Prélèvement,3590.47,MAD,7.57,Complétée,Casablanca,Maroc
+id_transaction_00000309,Carte,25.89,MAD,9.47,Complétée,Casablanca,Maroc
+id_transaction_00000310,Virement International,71402.51,USD,604.99,Complétée,Washington DC,USA
+id_transaction_00000311,Virement International,36.3,EUR,0.1,Complétée,Paris,France
+id_transaction_00000312,Retrait,85.1,JPY,2.87,Complétée,Tokyo,Japon
+id_transaction_00000313,Carte,10.0,GBP,8.97,Complétée,Londres,Royaume-Uni
+id_transaction_00000314,Retrait,900.87,EUR,1.66,Complétée,Paris,France
+id_transaction_00000315,Virement,350.32,EUR,7.33,Complétée,Francfort,Allemagne
+id_transaction_00000316,Retrait,248.84,USD,9.68,Complétée,New York,USA
+id_transaction_00000317,Carte,305.85,USD,1.66,En cours,New York,USA
+id_transaction_00000318,Virement,275.1,JPY,8.23,Complétée,Tokyo,Japon
+id_transaction_00000319,Retrait,519.41,JPY,7.1,En attente,Tokyo,Japon
+id_transaction_00000320,Prélèvement,2911.42,CNY,4.59,Complétée,Pékin,Chine
+id_transaction_00000321,Retrait,914.82,USD,8.26,Complétée,Washington DC,USA
+id_transaction_00000322,Retrait,114.45,MAD,7.4,En attente,Rabat,Maroc
+id_transaction_00000323,Virement,4331.83,EUR,8.06,Complétée,Paris,France
+id_transaction_00000324,Retrait,630.15,EUR,1.67,Complétée,Francfort,UE
+id_transaction_00000325,Dépôt,22.11,MAD,2.13,Complétée,Rabat,Maroc
+id_transaction_00000326,Carte,65.94,EUR,9.38,Complétée,Francfort,UE
+id_transaction_00000327,Virement,65.49,CNY,9.07,Complétée,Pékin,Chine
+id_transaction_00000328,Virement International,15811.07,USD,181.01,Complétée,Washington DC,USA
+id_transaction_00000329,Virement International,2700.65,EUR,2.2,Complétée,Francfort,UE
+id_transaction_00000330,Virement,256.1,CNY,9.11,Complétée,Pékin,Chine
+id_transaction_00000331,Retrait,1529.96,EUR,2.82,Complétée,Paris,France
+id_transaction_00000332,Virement International,1039.49,MAD,2.13,Complétée,Casablanca,Maroc
+id_transaction_00000333,Dépôt,1078.6,ZAR,0.64,Complétée,Johannesburg,Afrique du Sud
+id_transaction_00000334,Carte,540.01,USD,8.92,Complétée,New York,USA
+id_transaction_00000335,Virement,35.2,USD,7.89,Complétée,New York,USA
+id_transaction_00000336,Virement,1311.77,JPY,5.25,Complétée,Tokyo,Japon
+id_transaction_00000337,Virement,185.51,GBP,9.11,Complétée,Londres,Royaume-Uni
+id_transaction_00000338,Virement,579.16,ZAR,1.65,Complétée,Johannesburg,Afrique du Sud
+id_transaction_00000339,Virement International,391.96,USD,6.02,Complétée,New York,USA
+id_transaction_00000340,Carte,176.67,GBP,2.63,En cours,Londres,Royaume-Uni
+id_transaction_00000341,Virement,158.54,USD,2.54,Complétée,Washington DC,USA
+id_transaction_00000342,Virement International,4399.36,GBP,18.48,Complétée,Londres,Royaume-Uni
+id_transaction_00000343,Retrait,296.66,EUR,0.08,Complétée,Francfort,UE
+id_transaction_00000344,Retrait,407.61,USD,4.63,Complétée,New York,USA
+id_transaction_00000345,Prélèvement,317.29,GBP,0.87,Complétée,Londres,Royaume-Uni
+id_transaction_00000346,Carte,16.54,MAD,0.45,Complétée,Casablanca,Maroc
+id_transaction_00000347,Virement International,57591.84,EUR,1524.33,Complétée,Francfort,Allemagne
+id_transaction_00000348,Virement,139.21,JPY,9.55,Complétée,Tokyo,Japon
+id_transaction_00000349,Dépôt,1361.11,JPY,0.41,Complétée,Tokyo,Japon
+id_transaction_00000350,Retrait,900.33,EUR,4.56,Complétée,Paris,France
+id_transaction_00000351,Prélèvement,183.2,GBP,6.46,Complétée,Londres,Royaume-Uni
+id_transaction_00000352,Virement International,18530.8,ZAR,85.79,Complétée,Johannesburg,Afrique du Sud
+id_transaction_00000353,Dépôt,2760.45,EUR,9.91,Complétée,Francfort,UE
+id_transaction_00000354,Virement International,3765.89,USD,50.71,Complétée,Washington DC,USA
+id_transaction_00000355,Carte,10.0,JPY,7.29,Complétée,Tokyo,Japon
+id_transaction_00000356,Virement International,12904.08,CNY,156.36,En attente,Pékin,Chine
+id_transaction_00000357,Carte,10.0,JPY,3.84,En attente,Tokyo,Japon
+id_transaction_00000358,Virement,810.35,EUR,3.19,Complétée,Francfort,UE
+id_transaction_00000359,Dépôt,1898.5,USD,3.75,Complétée,New York,USA
+id_transaction_00000360,Retrait,292.25,MAD,5.17,Complétée,Rabat,Maroc
+id_transaction_00000361,Dépôt,776.38,EUR,1.01,Complétée,Paris,France
+id_transaction_00000362,Retrait,476.64,CNY,9.72,Complétée,Pékin,Chine
+id_transaction_00000363,Retrait,28.48,EUR,3.13,Complétée,Francfort,UE
+id_transaction_00000364,Prélèvement,45.77,MAD,1.16,En attente,Casablanca,Maroc
+id_transaction_00000365,Virement,40.06,GBP,3.4,En cours,Londres,Royaume-Uni
+id_transaction_00000366,Virement,43.41,GBP,5.42,Complétée,Londres,Royaume-Uni
+id_transaction_00000367,Prélèvement,60.81,JPY,9.66,Complétée,Tokyo,Japon
+id_transaction_00000368,Prélèvement,26.13,EUR,4.02,Complétée,Francfort,UE
+id_transaction_00000369,Prélèvement,7639.11,GBP,2.01,Complétée,Londres,Royaume-Uni
+id_transaction_00000370,Dépôt,172.16,GBP,7.22,En attente,Londres,Royaume-Uni
+id_transaction_00000371,Virement International,1445.88,JPY,34.45,Complétée,Tokyo,Japon
+id_transaction_00000372,Retrait,614.11,GBP,9.49,Rejetée,Londres,Royaume-Uni
+id_transaction_00000373,Retrait,28.23,USD,2.86,En attente,New York,USA
+id_transaction_00000374,Dépôt,3170.54,EUR,8.66,Complétée,Francfort,Allemagne
+id_transaction_00000375,Retrait,751.48,ZAR,9.56,Complétée,Johannesburg,Afrique du Sud
+id_transaction_00000376,Retrait,3781.51,USD,6.4,Complétée,New York,USA
+id_transaction_00000377,Carte,161.43,EUR,7.63,En cours,Francfort,UE
+id_transaction_00000378,Prélèvement,110.66,EUR,2.99,Complétée,Francfort,Allemagne
+id_transaction_00000379,Virement,1685.28,USD,2.95,Complétée,New York,USA
+id_transaction_00000380,Carte,118.42,MAD,7.69,Complétée,Rabat,Maroc
+id_transaction_00000381,Retrait,288.93,GBP,7.23,Complétée,Londres,Royaume-Uni
+id_transaction_00000382,Virement International,520.59,ZAR,4.78,Complétée,Johannesburg,Afrique du Sud
+id_transaction_00000383,Retrait,137.84,USD,8.42,Complétée,New York,USA
+id_transaction_00000384,Prélèvement,667.97,USD,4.03,Complétée,New York,USA
+id_transaction_00000385,Virement International,3358.02,USD,84.85,Complétée,New York,USA
+id_transaction_00000386,Carte,32.69,GBP,2.15,Complétée,Londres,Royaume-Uni
+id_transaction_00000387,Virement International,326.78,EUR,7.0,Complétée,Paris,France
+id_transaction_00000388,Retrait,1304.11,MAD,7.75,Complétée,Casablanca,Maroc
+id_transaction_00000389,Dépôt,109.35,EUR,1.89,Complétée,Paris,France
+id_transaction_00000390,Prélèvement,4420.99,GBP,3.4,Complétée,Londres,Royaume-Uni
+id_transaction_00000391,Retrait,24.06,GBP,9.36,Complétée,Londres,Royaume-Uni
+id_transaction_00000392,Prélèvement,67.79,JPY,5.65,Complétée,Tokyo,Japon
+id_transaction_00000393,Carte,22.88,MAD,1.3,En attente,Casablanca,Maroc
+id_transaction_00000394,Carte,29.51,JPY,3.85,Complétée,Tokyo,Japon
+id_transaction_00000395,Prélèvement,262.54,GBP,5.52,Complétée,Londres,Royaume-Uni
+id_transaction_00000396,Virement,659.27,GBP,4.72,Complétée,Londres,Royaume-Uni
+id_transaction_00000397,Carte,149.8,MAD,1.26,Complétée,Rabat,Maroc
+id_transaction_00000398,Retrait,315.25,EUR,6.82,Complétée,Francfort,UE
+id_transaction_00000399,Retrait,1813.71,MAD,7.82,Complétée,Rabat,Maroc
+id_transaction_00000400,Prélèvement,876.38,CNY,3.79,Complétée,Pékin,Chine
+id_transaction_00000401,Retrait,1084.15,USD,2.67,Rejetée,Washington DC,USA
+id_transaction_00000402,Prélèvement,266.86,EUR,6.78,Complétée,Francfort,Allemagne
+id_transaction_00000403,Retrait,1106.87,USD,1.2,En cours,New York,USA
+id_transaction_00000404,Dépôt,4119.68,CNY,5.48,Complétée,Pékin,Chine
+id_transaction_00000405,Virement,704.03,GBP,2.91,Complétée,Londres,Royaume-Uni
+id_transaction_00000406,Retrait,2275.28,JPY,7.1,En attente,Tokyo,Japon
+id_transaction_00000407,Carte,19.25,USD,9.58,Complétée,Washington DC,USA
+id_transaction_00000408,Retrait,379.27,GBP,9.63,Complétée,Londres,Royaume-Uni
+id_transaction_00000409,Prélèvement,670.63,GBP,7.81,Complétée,Londres,Royaume-Uni
+id_transaction_00000410,Carte,12.29,JPY,6.36,Complétée,Tokyo,Japon
+id_transaction_00000411,Dépôt,1051.29,MAD,2.91,Complétée,Casablanca,Maroc
+id_transaction_00000412,Prélèvement,1022.38,EUR,6.31,Complétée,Paris,France
+id_transaction_00000413,Virement International,5236.82,ZAR,28.33,En attente,Johannesburg,Afrique du Sud
+id_transaction_00000414,Carte,573.93,EUR,8.98,Complétée,Francfort,UE
+id_transaction_00000415,Dépôt,211.9,CNY,9.61,Complétée,Pékin,Chine
+id_transaction_00000416,Retrait,975.38,USD,7.12,En cours,New York,USA
+id_transaction_00000417,Virement International,6986.78,EUR,158.73,Complétée,Paris,France
+id_transaction_00000418,Dépôt,302.97,MAD,1.63,Complétée,Casablanca,Maroc
+id_transaction_00000419,Retrait,61.83,GBP,3.22,Complétée,Londres,Royaume-Uni
+id_transaction_00000420,Dépôt,999.02,USD,2.46,Complétée,Washington DC,USA
+id_transaction_00000421,Carte,17.51,EUR,9.2,Complétée,Francfort,UE
+id_transaction_00000422,Virement,38.49,JPY,3.72,Complétée,Tokyo,Japon
+id_transaction_00000423,Prélèvement,144.47,GBP,5.64,Complétée,Londres,Royaume-Uni
+id_transaction_00000424,Prélèvement,1207.31,JPY,7.52,Complétée,Tokyo,Japon
+id_transaction_00000425,Virement,79.19,JPY,4.31,Complétée,Tokyo,Japon
+id_transaction_00000426,Carte,158.01,EUR,7.59,Complétée,Francfort,Allemagne
+id_transaction_00000427,Prélèvement,3349.53,JPY,4.76,En attente,Tokyo,Japon
+id_transaction_00000428,Virement International,210.39,GBP,0.45,Complétée,Londres,Royaume-Uni
+id_transaction_00000429,Dépôt,2693.09,GBP,8.36,Complétée,Londres,Royaume-Uni
+id_transaction_00000430,Prélèvement,232.02,GBP,5.16,Complétée,Londres,Royaume-Uni
+id_transaction_00000431,Retrait,1136.1,GBP,0.55,Complétée,Londres,Royaume-Uni
+id_transaction_00000432,Virement International,385.14,EUR,11.17,Complétée,Francfort,UE
+id_transaction_00000433,Retrait,276.55,CNY,3.03,Complétée,Pékin,Chine
+id_transaction_00000434,Dépôt,2209.31,JPY,1.25,Complétée,Tokyo,Japon
+id_transaction_00000435,Virement International,12218.79,USD,198.85,Complétée,New York,USA
+id_transaction_00000436,Dépôt,27.13,EUR,5.18,Complétée,Paris,France
+id_transaction_00000437,Prélèvement,823.08,GBP,6.32,Complétée,Londres,Royaume-Uni
+id_transaction_00000438,Virement,644.01,JPY,1.59,Complétée,Tokyo,Japon
+id_transaction_00000439,Carte,142.98,USD,1.57,Complétée,Washington DC,USA
+id_transaction_00000440,Retrait,75.89,GBP,4.35,Complétée,Londres,Royaume-Uni
+id_transaction_00000441,Retrait,368.55,GBP,2.35,Complétée,Londres,Royaume-Uni
+id_transaction_00000442,Virement,798.07,JPY,0.52,Rejetée,Tokyo,Japon
+id_transaction_00000443,Virement International,406.35,JPY,10.55,Complétée,Tokyo,Japon
+id_transaction_00000444,Prélèvement,265.12,GBP,6.73,En attente,Londres,Royaume-Uni
+id_transaction_00000445,Virement International,33654.03,JPY,914.8,Complétée,Tokyo,Japon
+id_transaction_00000446,Retrait,596.98,EUR,0.2,Complétée,Paris,France
+id_transaction_00000447,Virement,47.12,CNY,3.56,En attente,Pékin,Chine
+id_transaction_00000448,Dépôt,988.23,EUR,0.72,Complétée,Paris,France
+id_transaction_00000449,Virement International,7682.84,MAD,228.26,Complétée,Casablanca,Maroc
+id_transaction_00000450,Virement,2991.36,EUR,0.68,En cours,Paris,France
+id_transaction_00000451,Retrait,76.52,JPY,2.64,Complétée,Tokyo,Japon
+id_transaction_00000452,Dépôt,33.39,EUR,2.87,Complétée,Paris,France
+id_transaction_00000453,Prélèvement,356.0,EUR,0.92,Complétée,Paris,France
+id_transaction_00000454,Dépôt,533.01,CNY,2.67,Complétée,Pékin,Chine
+id_transaction_00000455,Virement International,32203.25,USD,589.33,Complétée,Washington DC,USA
+id_transaction_00000456,Dépôt,1845.51,GBP,8.66,Complétée,Londres,Royaume-Uni
+id_transaction_00000457,Virement,292.26,MAD,5.88,Complétée,Rabat,Maroc
+id_transaction_00000458,Carte,82.7,USD,0.15,Complétée,Washington DC,USA
+id_transaction_00000459,Virement,342.18,GBP,8.4,Complétée,Londres,Royaume-Uni
+id_transaction_00000460,Virement International,8062.43,EUR,24.65,En cours,Paris,France
+id_transaction_00000461,Prélèvement,648.6,EUR,4.34,Complétée,Paris,France
+id_transaction_00000462,Virement,192.74,JPY,6.71,Complétée,Tokyo,Japon
+id_transaction_00000463,Virement,102.08,MAD,0.63,Complétée,Casablanca,Maroc
+id_transaction_00000464,Virement International,58366.2,EUR,1468.19,Rejetée,Francfort,Allemagne
+id_transaction_00000465,Retrait,49.37,CNY,6.17,Rejetée,Pékin,Chine
+id_transaction_00000466,Dépôt,550.13,MAD,0.68,Complétée,Rabat,Maroc
+id_transaction_00000467,Carte,10.0,EUR,3.68,Complétée,Paris,France
+id_transaction_00000468,Dépôt,618.5,JPY,6.3,Complétée,Tokyo,Japon
+id_transaction_00000469,Virement International,160336.61,EUR,4503.6,Complétée,Francfort,Allemagne
+id_transaction_00000470,Virement International,643.35,EUR,11.56,Complétée,Paris,France
+id_transaction_00000471,Retrait,1751.78,EUR,0.11,Complétée,Francfort,Allemagne
+id_transaction_00000472,Carte,12.06,MAD,0.7,Complétée,Rabat,Maroc
+id_transaction_00000473,Prélèvement,949.48,EUR,1.1,En attente,Paris,France
+id_transaction_00000474,Retrait,1723.78,JPY,5.15,Complétée,Tokyo,Japon
+id_transaction_00000475,Carte,62.11,JPY,9.41,Complétée,Tokyo,Japon
+id_transaction_00000476,Carte,10.0,MAD,5.53,Complétée,Rabat,Maroc
+id_transaction_00000477,Virement,1607.93,EUR,8.59,En attente,Francfort,UE
+id_transaction_00000478,Virement International,7827.32,EUR,107.83,Complétée,Francfort,UE
+id_transaction_00000479,Retrait,477.31,JPY,1.61,Complétée,Tokyo,Japon
+id_transaction_00000480,Virement International,97663.03,MAD,2610.11,Complétée,Rabat,Maroc
+id_transaction_00000481,Retrait,275.27,ZAR,3.11,Complétée,Johannesburg,Afrique du Sud
+id_transaction_00000482,Virement International,1517.69,MAD,15.28,Complétée,Casablanca,Maroc
+id_transaction_00000483,Virement,3018.61,USD,6.96,Complétée,New York,USA
+id_transaction_00000484,Carte,10.0,MAD,4.12,Complétée,Casablanca,Maroc
+id_transaction_00000485,Carte,14.25,JPY,6.92,Complétée,Tokyo,Japon
+id_transaction_00000486,Prélèvement,218.73,MAD,2.04,En attente,Casablanca,Maroc
+id_transaction_00000487,Virement,20561.79,GBP,6.28,Complétée,Londres,Royaume-Uni
+id_transaction_00000488,Virement International,100432.48,MAD,1461.58,Complétée,Rabat,Maroc
+id_transaction_00000489,Virement International,1445.89,JPY,21.01,Complétée,Tokyo,Japon
+id_transaction_00000490,Prélèvement,80.62,EUR,8.77,Complétée,Paris,France
+id_transaction_00000491,Prélèvement,130.82,GBP,7.29,Complétée,Londres,Royaume-Uni
+id_transaction_00000492,Dépôt,3588.96,EUR,3.79,En attente,Francfort,Allemagne
+id_transaction_00000493,Virement,128.42,USD,1.04,Complétée,Washington DC,USA
+id_transaction_00000494,Virement,586.04,USD,7.82,Complétée,New York,USA
+id_transaction_00000495,Dépôt,136.87,GBP,1.95,Complétée,Londres,Royaume-Uni
+id_transaction_00000496,Prélèvement,559.47,EUR,5.79,En attente,Francfort,UE
+id_transaction_00000497,Carte,15.31,EUR,3.14,Complétée,Paris,France
+id_transaction_00000498,Prélèvement,151.69,USD,9.08,Complétée,New York,USA
+id_transaction_00000499,Virement,314.61,CNY,4.51,Complétée,Pékin,Chine
+id_transaction_00000500,Virement International,342.58,GBP,6.54,Complétée,Londres,Royaume-Uni
+id_transaction_00000501,Retrait,319.02,ZAR,9.83,Complétée,Johannesburg,Afrique du Sud
+id_transaction_00000502,Virement,2871.17,JPY,0.31,Complétée,Tokyo,Japon
+id_transaction_00000503,Dépôt,1754.85,CNY,7.84,Complétée,Pékin,Chine
+id_transaction_00000504,Carte,93.11,ZAR,6.67,Complétée,Johannesburg,Afrique du Sud
+id_transaction_00000505,Dépôt,15901.83,EUR,3.04,Complétée,Paris,France
+id_transaction_00000506,Virement International,26869.71,USD,616.14,Complétée,New York,USA
+id_transaction_00000507,Carte,633.29,EUR,9.91,En attente,Francfort,UE
+id_transaction_00000508,Prélèvement,5609.2,JPY,5.79,Complétée,Tokyo,Japon
+id_transaction_00000509,Carte,10.0,USD,4.94,Complétée,Washington DC,USA
+id_transaction_00000510,Virement International,197.24,GBP,0.32,Complétée,Londres,Royaume-Uni
+id_transaction_00000511,Dépôt,7660.87,EUR,6.97,Complétée,Paris,France
+id_transaction_00000512,Retrait,194.81,MAD,5.8,Complétée,Casablanca,Maroc
+id_transaction_00000513,Virement International,2083.28,GBP,28.43,Complétée,Londres,Royaume-Uni
+id_transaction_00000514,Carte,160.22,JPY,6.43,Complétée,Tokyo,Japon
+id_transaction_00000515,Dépôt,361.07,EUR,0.85,Complétée,Francfort,Allemagne
+id_transaction_00000516,Dépôt,204.9,USD,8.63,Complétée,New York,USA
+id_transaction_00000517,Retrait,1479.53,GBP,6.19,Complétée,Londres,Royaume-Uni
+id_transaction_00000518,Virement International,74256.59,MAD,774.14,Complétée,Casablanca,Maroc
+id_transaction_00000519,Dépôt,222.8,EUR,1.68,Complétée,Paris,France
+id_transaction_00000520,Prélèvement,3136.65,EUR,4.38,Complétée,Paris,France
+id_transaction_00000521,Retrait,48.31,USD,3.02,Complétée,New York,USA
+id_transaction_00000522,Virement International,221.45,GBP,5.16,En attente,Londres,Royaume-Uni
+id_transaction_00000523,Virement International,9379.26,CNY,226.17,Complétée,Pékin,Chine
+id_transaction_00000524,Prélèvement,27.69,JPY,1.44,Complétée,Tokyo,Japon
+id_transaction_00000525,Retrait,357.49,EUR,3.06,Complétée,Francfort,UE
+id_transaction_00000526,Prélèvement,115.63,EUR,7.25,Complétée,Paris,France
+id_transaction_00000527,Retrait,216.77,USD,5.38,Complétée,New York,USA
+id_transaction_00000528,Virement,190.74,EUR,4.83,Complétée,Paris,France
+id_transaction_00000529,Retrait,1616.63,EUR,8.9,Complétée,Paris,France
+id_transaction_00000530,Retrait,450.98,ZAR,9.32,En cours,Johannesburg,Afrique du Sud
+id_transaction_00000531,Virement International,1932.35,JPY,49.52,Complétée,Tokyo,Japon
+id_transaction_00000532,Prélèvement,569.39,EUR,6.04,En attente,Francfort,UE
+id_transaction_00000533,Virement International,34061.34,CNY,375.41,Complétée,Pékin,Chine
+id_transaction_00000534,Carte,25.28,CNY,1.75,Complétée,Pékin,Chine
+id_transaction_00000535,Carte,15.52,GBP,0.01,En attente,Londres,Royaume-Uni
+id_transaction_00000536,Retrait,106.7,EUR,2.32,Complétée,Paris,France
+id_transaction_00000537,Carte,189.37,GBP,0.4,Complétée,Londres,Royaume-Uni
+id_transaction_00000538,Dépôt,387.22,ZAR,9.08,Complétée,Johannesburg,Afrique du Sud
+id_transaction_00000539,Retrait,377.24,MAD,4.3,Complétée,Casablanca,Maroc
+id_transaction_00000540,Carte,10.0,GBP,3.98,Complétée,Londres,Royaume-Uni
+id_transaction_00000541,Virement,210.74,USD,6.26,Complétée,New York,USA
+id_transaction_00000542,Virement,646.56,MAD,1.61,Complétée,Rabat,Maroc
+id_transaction_00000543,Virement,4015.23,EUR,9.15,Complétée,Francfort,UE
+id_transaction_00000544,Virement International,2029.21,USD,37.18,Complétée,New York,USA
+id_transaction_00000545,Dépôt,71.18,EUR,5.56,Complétée,Paris,France
+id_transaction_00000546,Virement International,10014.32,USD,95.55,Complétée,New York,USA
+id_transaction_00000547,Virement International,870.91,JPY,7.64,Complétée,Tokyo,Japon
+id_transaction_00000548,Dépôt,34.4,JPY,5.97,Complétée,Tokyo,Japon
+id_transaction_00000549,Dépôt,1114.01,CNY,3.4,Complétée,Pékin,Chine
+id_transaction_00000550,Virement,279.23,JPY,6.23,Complétée,Tokyo,Japon
+id_transaction_00000551,Retrait,342.79,ZAR,2.61,Complétée,Johannesburg,Afrique du Sud
+id_transaction_00000552,Virement,121.63,EUR,1.86,Rejetée,Paris,France
+id_transaction_00000553,Prélèvement,599.71,ZAR,2.73,Complétée,Johannesburg,Afrique du Sud
+id_transaction_00000554,Carte,162.03,JPY,9.42,Complétée,Tokyo,Japon
+id_transaction_00000555,Prélèvement,2715.16,CNY,2.95,En attente,Pékin,Chine
+id_transaction_00000556,Virement,139.68,USD,7.3,Complétée,New York,USA
+id_transaction_00000557,Carte,176.01,MAD,4.34,Complétée,Rabat,Maroc
+id_transaction_00000558,Dépôt,35.26,JPY,7.33,Complétée,Tokyo,Japon
+id_transaction_00000559,Carte,957.31,GBP,8.98,Complétée,Londres,Royaume-Uni
+id_transaction_00000560,Retrait,1359.45,EUR,8.27,Complétée,Paris,France
+id_transaction_00000561,Carte,88.56,JPY,7.84,Complétée,Tokyo,Japon
+id_transaction_00000562,Virement International,1908.11,USD,12.77,En attente,New York,USA
+id_transaction_00000563,Dépôt,38.44,MAD,4.24,Complétée,Casablanca,Maroc
+id_transaction_00000564,Prélèvement,711.6,GBP,3.48,Complétée,Londres,Royaume-Uni
+id_transaction_00000565,Virement International,175.41,CNY,3.04,Complétée,Pékin,Chine
+id_transaction_00000566,Virement,1074.69,EUR,8.96,Complétée,Paris,France
+id_transaction_00000567,Virement,41.3,USD,8.41,Complétée,New York,USA
+id_transaction_00000568,Carte,27.26,JPY,0.17,Complétée,Tokyo,Japon
+id_transaction_00000569,Virement,1054.26,JPY,3.12,Complétée,Tokyo,Japon
+id_transaction_00000570,Prélèvement,504.44,CNY,5.62,En cours,Pékin,Chine
+id_transaction_00000571,Retrait,1007.6,ZAR,6.62,Complétée,Johannesburg,Afrique du Sud
+id_transaction_00000572,Retrait,510.54,GBP,4.03,Complétée,Londres,Royaume-Uni
+id_transaction_00000573,Prélèvement,81.13,GBP,6.76,Complétée,Londres,Royaume-Uni
+id_transaction_00000574,Retrait,145.61,GBP,1.56,En attente,Londres,Royaume-Uni
+id_transaction_00000575,Dépôt,5610.53,JPY,9.58,Complétée,Tokyo,Japon
+id_transaction_00000576,Retrait,414.72,JPY,6.35,En attente,Tokyo,Japon
+id_transaction_00000577,Prélèvement,70.15,USD,8.94,Complétée,New York,USA
+id_transaction_00000578,Prélèvement,270.79,CNY,5.47,Complétée,Pékin,Chine
+id_transaction_00000579,Retrait,507.59,GBP,8.28,Complétée,Londres,Royaume-Uni
+id_transaction_00000580,Retrait,1783.02,EUR,2.34,Complétée,Francfort,Allemagne
+id_transaction_00000581,Virement International,349.42,JPY,4.01,Complétée,Tokyo,Japon
+id_transaction_00000582,Virement International,1838.31,GBP,6.64,Complétée,Londres,Royaume-Uni
+id_transaction_00000583,Prélèvement,138.03,GBP,5.46,Complétée,Londres,Royaume-Uni
+id_transaction_00000584,Virement,86.24,USD,7.24,Complétée,Washington DC,USA
+id_transaction_00000585,Virement,202.35,ZAR,0.77,Complétée,Johannesburg,Afrique du Sud
+id_transaction_00000586,Carte,13.08,EUR,3.05,Rejetée,Francfort,Allemagne
+id_transaction_00000587,Prélèvement,165.53,GBP,0.39,En attente,Londres,Royaume-Uni
+id_transaction_00000588,Retrait,356.99,USD,2.48,Complétée,New York,USA
+id_transaction_00000589,Dépôt,820.74,USD,3.75,Complétée,Washington DC,USA
+id_transaction_00000590,Retrait,270.03,ZAR,8.32,Complétée,Johannesburg,Afrique du Sud
+id_transaction_00000591,Virement,341.72,GBP,3.37,Complétée,Londres,Royaume-Uni
+id_transaction_00000592,Virement International,1408.61,EUR,9.14,Complétée,Francfort,UE
+id_transaction_00000593,Retrait,115.12,JPY,4.08,Complétée,Tokyo,Japon
+id_transaction_00000594,Virement International,38130.74,USD,448.32,Complétée,New York,USA
+id_transaction_00000595,Retrait,1470.93,GBP,7.91,Complétée,Londres,Royaume-Uni
+id_transaction_00000596,Prélèvement,672.34,GBP,1.56,Complétée,Londres,Royaume-Uni
+id_transaction_00000597,Prélèvement,583.38,EUR,1.17,Complétée,Francfort,Allemagne
+id_transaction_00000598,Dépôt,10.0,EUR,8.66,Complétée,Paris,France
+id_transaction_00000599,Prélèvement,9619.02,JPY,6.65,Complétée,Tokyo,Japon
+id_transaction_00000600,Dépôt,426.33,EUR,7.8,Complétée,Francfort,Allemagne
+id_transaction_00000601,Virement,1091.35,MAD,2.53,En attente,Casablanca,Maroc
+id_transaction_00000602,Virement International,17844.44,EUR,365.38,Complétée,Paris,France
+id_transaction_00000603,Carte,42.88,CNY,6.61,Complétée,Pékin,Chine
+id_transaction_00000604,Virement International,6701.46,EUR,121.83,Complétée,Paris,France
+id_transaction_00000605,Virement,699.77,EUR,4.11,En cours,Paris,France
+id_transaction_00000606,Retrait,255.84,USD,6.73,Complétée,Washington DC,USA
+id_transaction_00000607,Dépôt,214.75,GBP,8.06,Complétée,Londres,Royaume-Uni
+id_transaction_00000608,Carte,360.16,JPY,3.63,Complétée,Tokyo,Japon
+id_transaction_00000609,Prélèvement,709.44,ZAR,1.51,Complétée,Johannesburg,Afrique du Sud
+id_transaction_00000610,Retrait,643.44,CNY,7.85,Complétée,Pékin,Chine
+id_transaction_00000611,Virement,2853.02,GBP,2.54,Complétée,Londres,Royaume-Uni
+id_transaction_00000612,Dépôt,6362.35,JPY,3.26,En attente,Tokyo,Japon
+id_transaction_00000613,Virement International,30640.08,JPY,511.61,Complétée,Tokyo,Japon
+id_transaction_00000614,Virement International,5293.67,USD,0.0,Complétée,New York,USA
+id_transaction_00000615,Dépôt,485.25,EUR,8.12,Complétée,Francfort,UE
+id_transaction_00000616,Retrait,1614.05,USD,3.9,Complétée,Washington DC,USA
+id_transaction_00000617,Dépôt,365.67,MAD,0.88,Complétée,Rabat,Maroc
+id_transaction_00000618,Virement International,5742.92,USD,55.14,Complétée,New York,USA
+id_transaction_00000619,Dépôt,1428.31,CNY,1.2,Complétée,Pékin,Chine
+id_transaction_00000620,Retrait,2464.44,JPY,9.95,Complétée,Tokyo,Japon
+id_transaction_00000621,Carte,27.4,JPY,6.17,Complétée,Tokyo,Japon
+id_transaction_00000622,Retrait,29.75,EUR,5.24,Complétée,Francfort,Allemagne
+id_transaction_00000623,Dépôt,1106.45,JPY,8.32,Complétée,Tokyo,Japon
+id_transaction_00000624,Dépôt,377.23,EUR,5.23,Rejetée,Francfort,Allemagne
+id_transaction_00000625,Virement International,432.0,JPY,12.66,Complétée,Tokyo,Japon
+id_transaction_00000626,Virement International,30482.76,JPY,845.08,Complétée,Tokyo,Japon
+id_transaction_00000627,Virement,92.97,GBP,5.5,Complétée,Londres,Royaume-Uni
+id_transaction_00000628,Retrait,45.76,JPY,3.46,Complétée,Tokyo,Japon
+id_transaction_00000629,Virement International,47.95,JPY,0.58,Complétée,Tokyo,Japon
+id_transaction_00000630,Carte,230.43,EUR,6.48,Complétée,Paris,France
+id_transaction_00000631,Virement,735.63,CNY,1.51,Rejetée,Pékin,Chine
+id_transaction_00000632,Carte,66.46,EUR,8.68,Complétée,Paris,France
+id_transaction_00000633,Carte,64.25,MAD,6.98,Complétée,Rabat,Maroc
+id_transaction_00000634,Virement International,1292.49,GBP,3.82,Complétée,Londres,Royaume-Uni
+id_transaction_00000635,Dépôt,7967.71,USD,5.93,Complétée,New York,USA
+id_transaction_00000636,Carte,90.12,EUR,1.51,Complétée,Paris,France
+id_transaction_00000637,Virement,376.61,USD,6.3,Complétée,New York,USA
+id_transaction_00000638,Prélèvement,1553.04,MAD,3.26,En cours,Casablanca,Maroc
+id_transaction_00000639,Virement International,6616.95,CNY,122.66,Complétée,Pékin,Chine
+id_transaction_00000640,Carte,26.21,MAD,2.27,Complétée,Casablanca,Maroc
+id_transaction_00000641,Prélèvement,176.77,EUR,5.99,Complétée,Francfort,Allemagne
+id_transaction_00000642,Virement International,2221.52,EUR,29.5,Complétée,Francfort,Allemagne
+id_transaction_00000643,Prélèvement,128.02,EUR,2.18,Complétée,Francfort,Allemagne
+id_transaction_00000644,Virement,407.25,CNY,2.47,Complétée,Pékin,Chine
+id_transaction_00000645,Retrait,218.4,ZAR,8.2,Complétée,Johannesburg,Afrique du Sud
+id_transaction_00000646,Prélèvement,392.38,JPY,8.37,Complétée,Tokyo,Japon
+id_transaction_00000647,Carte,104.24,MAD,2.44,Complétée,Casablanca,Maroc
+id_transaction_00000648,Virement International,836.66,EUR,12.13,Complétée,Francfort,UE
+id_transaction_00000649,Prélèvement,135.43,USD,0.71,Complétée,New York,USA
+id_transaction_00000650,Virement,409.2,USD,9.6,Complétée,New York,USA
+id_transaction_00000651,Prélèvement,194.03,JPY,0.77,Rejetée,Tokyo,Japon
+id_transaction_00000652,Retrait,1382.23,CNY,5.19,Complétée,Pékin,Chine
+id_transaction_00000653,Dépôt,1728.99,GBP,1.7,Complétée,Londres,Royaume-Uni
+id_transaction_00000654,Virement,66.19,JPY,0.24,Complétée,Tokyo,Japon
+id_transaction_00000655,Virement International,239.17,USD,4.22,Complétée,New York,USA
+id_transaction_00000656,Virement,148.68,JPY,8.44,Complétée,Tokyo,Japon
+id_transaction_00000657,Virement International,2553.65,MAD,48.32,Rejetée,Casablanca,Maroc
+id_transaction_00000658,Virement International,100391.79,EUR,2440.93,Complétée,Francfort,Allemagne
+id_transaction_00000659,Dépôt,638.54,MAD,4.6,Complétée,Rabat,Maroc
+id_transaction_00000660,Retrait,1308.26,CNY,1.35,En cours,Pékin,Chine
+id_transaction_00000661,Carte,425.02,USD,4.84,Complétée,New York,USA
+id_transaction_00000662,Virement,30.0,MAD,3.15,Complétée,Casablanca,Maroc
+id_transaction_00000663,Virement International,1002.03,USD,5.88,Complétée,New York,USA
+id_transaction_00000664,Retrait,81.93,JPY,5.14,Complétée,Tokyo,Japon
+id_transaction_00000665,Dépôt,1054.49,EUR,1.74,Complétée,Paris,France
+id_transaction_00000666,Carte,17.55,GBP,6.42,Complétée,Londres,Royaume-Uni
+id_transaction_00000667,Prélèvement,782.99,USD,2.96,Complétée,Washington DC,USA
+id_transaction_00000668,Dépôt,2519.2,GBP,1.81,Complétée,Londres,Royaume-Uni
+id_transaction_00000669,Prélèvement,4460.08,USD,0.67,Complétée,New York,USA
+id_transaction_00000670,Prélèvement,5017.78,GBP,7.15,Complétée,Londres,Royaume-Uni
+id_transaction_00000671,Retrait,37.21,EUR,8.63,Complétée,Paris,France
+id_transaction_00000672,Retrait,103.26,MAD,6.63,Complétée,Casablanca,Maroc
+id_transaction_00000673,Prélèvement,679.6,GBP,3.2,Complétée,Londres,Royaume-Uni
+id_transaction_00000674,Dépôt,101.27,GBP,1.38,Complétée,Londres,Royaume-Uni
+id_transaction_00000675,Carte,176.48,JPY,7.6,Complétée,Tokyo,Japon
+id_transaction_00000676,Retrait,123.18,USD,9.77,Complétée,Washington DC,USA
+id_transaction_00000677,Carte,154.36,MAD,6.92,Complétée,Casablanca,Maroc
+id_transaction_00000678,Virement,1214.34,EUR,9.65,Complétée,Paris,France
+id_transaction_00000679,Prélèvement,1905.11,EUR,3.98,Complétée,Francfort,UE
+id_transaction_00000680,Virement International,174.1,JPY,4.75,Complétée,Tokyo,Japon
+id_transaction_00000681,Virement International,1747.16,ZAR,42.58,Complétée,Johannesburg,Afrique du Sud
+id_transaction_00000682,Retrait,808.11,EUR,5.46,Complétée,Paris,France
+id_transaction_00000683,Prélèvement,73.58,GBP,5.01,Rejetée,Londres,Royaume-Uni
+id_transaction_00000684,Dépôt,2552.07,EUR,0.64,Complétée,Francfort,Allemagne
+id_transaction_00000685,Virement International,4911.18,EUR,34.72,Complétée,Francfort,Allemagne
+id_transaction_00000686,Virement International,956.8,USD,3.78,En attente,New York,USA
+id_transaction_00000687,Virement International,2619.2,MAD,4.21,Complétée,Rabat,Maroc
+id_transaction_00000688,Virement International,3448.68,MAD,20.13,Complétée,Rabat,Maroc
+id_transaction_00000689,Virement,462.5,EUR,6.04,Complétée,Francfort,Allemagne
+id_transaction_00000690,Dépôt,6062.04,EUR,1.05,Complétée,Francfort,UE
+id_transaction_00000691,Carte,28.53,ZAR,1.39,En attente,Johannesburg,Afrique du Sud
+id_transaction_00000692,Virement International,612.59,EUR,1.3,Complétée,Paris,France
+id_transaction_00000693,Carte,24.86,MAD,1.39,Complétée,Casablanca,Maroc
+id_transaction_00000694,Virement,428.02,MAD,1.67,Complétée,Casablanca,Maroc
+id_transaction_00000695,Virement International,31.57,USD,0.39,En attente,Washington DC,USA
+id_transaction_00000696,Prélèvement,9921.35,EUR,4.19,Complétée,Francfort,UE
+id_transaction_00000697,Prélèvement,2513.84,GBP,3.12,Rejetée,Londres,Royaume-Uni
+id_transaction_00000698,Virement,21.81,GBP,5.54,Complétée,Londres,Royaume-Uni
+id_transaction_00000699,Virement International,6289.57,USD,43.75,Complétée,Washington DC,USA
+id_transaction_00000700,Retrait,1038.56,MAD,0.73,Complétée,Rabat,Maroc
+id_transaction_00000701,Virement,1266.49,MAD,2.75,Complétée,Rabat,Maroc
+id_transaction_00000702,Prélèvement,118.84,GBP,7.39,Complétée,Londres,Royaume-Uni
+id_transaction_00000703,Dépôt,177.3,EUR,8.08,Complétée,Paris,France
+id_transaction_00000704,Virement,830.13,MAD,0.97,En attente,Rabat,Maroc
+id_transaction_00000705,Retrait,479.81,ZAR,1.85,Rejetée,Johannesburg,Afrique du Sud
+id_transaction_00000706,Carte,10.23,EUR,9.05,En attente,Francfort,UE
+id_transaction_00000707,Prélèvement,2705.2,JPY,9.94,Complétée,Tokyo,Japon
+id_transaction_00000708,Dépôt,803.59,EUR,0.21,Complétée,Francfort,UE
+id_transaction_00000709,Retrait,5243.49,EUR,1.39,En attente,Paris,France
+id_transaction_00000710,Dépôt,353.37,MAD,8.03,Complétée,Rabat,Maroc
+id_transaction_00000711,Retrait,50.26,MAD,5.45,Complétée,Casablanca,Maroc
+id_transaction_00000712,Prélèvement,36.58,MAD,3.1,Complétée,Casablanca,Maroc
+id_transaction_00000713,Virement International,408.41,JPY,6.7,Complétée,Tokyo,Japon
+id_transaction_00000714,Virement International,6907.64,CNY,8.25,Complétée,Pékin,Chine
+id_transaction_00000715,Retrait,1559.82,JPY,8.53,Rejetée,Tokyo,Japon
+id_transaction_00000716,Prélèvement,1978.75,JPY,9.81,Complétée,Tokyo,Japon
+id_transaction_00000717,Prélèvement,3469.65,USD,4.5,Complétée,New York,USA
+id_transaction_00000718,Virement,910.0,EUR,3.14,Complétée,Paris,France
+id_transaction_00000719,Carte,35.97,USD,2.37,Complétée,Washington DC,USA
+id_transaction_00000720,Retrait,243.28,EUR,6.96,Complétée,Paris,France
+id_transaction_00000721,Retrait,3345.33,MAD,1.8,Complétée,Casablanca,Maroc
+id_transaction_00000722,Virement,1341.6,MAD,2.41,Complétée,Rabat,Maroc
+id_transaction_00000723,Virement International,2939.25,CNY,10.87,Complétée,Pékin,Chine
+id_transaction_00000724,Virement,291.95,GBP,9.66,Complétée,Londres,Royaume-Uni
+id_transaction_00000725,Carte,67.35,USD,5.35,Complétée,New York,USA
+id_transaction_00000726,Retrait,1797.55,EUR,3.28,En attente,Paris,France
+id_transaction_00000727,Dépôt,398.28,EUR,2.17,Complétée,Paris,France
+id_transaction_00000728,Prélèvement,108.81,ZAR,1.9,Complétée,Johannesburg,Afrique du Sud
+id_transaction_00000729,Virement,27.28,MAD,7.25,Complétée,Rabat,Maroc
+id_transaction_00000730,Dépôt,149.64,GBP,7.91,En cours,Londres,Royaume-Uni
+id_transaction_00000731,Prélèvement,3026.72,MAD,4.64,Complétée,Rabat,Maroc
+id_transaction_00000732,Virement,26.62,CNY,1.13,Complétée,Pékin,Chine
+id_transaction_00000733,Prélèvement,113.73,ZAR,5.31,Complétée,Johannesburg,Afrique du Sud
+id_transaction_00000734,Retrait,274.73,EUR,8.98,Complétée,Francfort,Allemagne
+id_transaction_00000735,Virement International,375.47,CNY,2.32,Complétée,Pékin,Chine
+id_transaction_00000736,Prélèvement,323.81,GBP,2.42,En cours,Londres,Royaume-Uni
+id_transaction_00000737,Retrait,7056.56,GBP,8.56,Complétée,Londres,Royaume-Uni
+id_transaction_00000738,Retrait,310.05,ZAR,3.28,Complétée,Johannesburg,Afrique du Sud
+id_transaction_00000739,Dépôt,903.65,JPY,1.82,Complétée,Tokyo,Japon
+id_transaction_00000740,Dépôt,115.42,JPY,2.12,Complétée,Tokyo,Japon
+id_transaction_00000741,Dépôt,493.27,USD,3.06,Complétée,New York,USA
+id_transaction_00000742,Virement International,4823.55,ZAR,37.47,Complétée,Johannesburg,Afrique du Sud
+id_transaction_00000743,Virement,643.33,GBP,5.64,Complétée,Londres,Royaume-Uni
+id_transaction_00000744,Prélèvement,23.7,GBP,6.17,Complétée,Londres,Royaume-Uni
+id_transaction_00000745,Dépôt,862.09,GBP,1.92,En attente,Londres,Royaume-Uni
+id_transaction_00000746,Virement,3536.73,JPY,4.9,Complétée,Tokyo,Japon
+id_transaction_00000747,Retrait,7224.03,EUR,4.38,Complétée,Paris,France
+id_transaction_00000748,Retrait,126.23,CNY,5.02,En attente,Pékin,Chine
+id_transaction_00000749,Virement International,46.73,MAD,1.29,Complétée,Rabat,Maroc
+id_transaction_00000750,Prélèvement,249.52,CNY,3.25,Complétée,Pékin,Chine
+id_transaction_00000751,Virement International,2440.75,USD,31.42,Complétée,New York,USA
+id_transaction_00000752,Dépôt,36.84,CNY,8.28,Complétée,Pékin,Chine
+id_transaction_00000753,Prélèvement,207.89,EUR,4.25,Complétée,Paris,France
+id_transaction_00000754,Carte,395.94,MAD,1.01,Complétée,Casablanca,Maroc
+id_transaction_00000755,Dépôt,2794.25,JPY,3.5,En attente,Tokyo,Japon
+id_transaction_00000756,Retrait,58.23,USD,4.04,Complétée,New York,USA
+id_transaction_00000757,Prélèvement,26.05,GBP,5.17,Complétée,Londres,Royaume-Uni
+id_transaction_00000758,Prélèvement,1828.52,USD,4.86,Complétée,New York,USA
+id_transaction_00000759,Dépôt,1154.07,JPY,1.0,En attente,Tokyo,Japon
+id_transaction_00000760,Prélèvement,27501.11,EUR,6.03,Complétée,Francfort,Allemagne
+id_transaction_00000761,Prélèvement,267.4,USD,7.46,En attente,Washington DC,USA
+id_transaction_00000762,Carte,47.64,GBP,1.92,Complétée,Londres,Royaume-Uni
+id_transaction_00000763,Virement International,13730.78,JPY,123.98,Complétée,Tokyo,Japon
+id_transaction_00000764,Virement International,28417.15,USD,192.49,Complétée,New York,USA
+id_transaction_00000765,Virement,225.31,USD,2.04,En cours,New York,USA
+id_transaction_00000766,Retrait,22.93,EUR,3.02,Complétée,Paris,France
+id_transaction_00000767,Retrait,3051.29,MAD,1.21,Complétée,Rabat,Maroc
+id_transaction_00000768,Carte,516.23,USD,4.88,Complétée,Washington DC,USA
+id_transaction_00000769,Virement International,35224.74,ZAR,808.74,Complétée,Johannesburg,Afrique du Sud
+id_transaction_00000770,Virement,85.8,JPY,3.1,Complétée,Tokyo,Japon
+id_transaction_00000771,Retrait,2485.52,GBP,4.35,En cours,Londres,Royaume-Uni
+id_transaction_00000772,Virement International,1111.77,EUR,10.88,Complétée,Paris,France
+id_transaction_00000773,Retrait,324.45,JPY,4.74,Complétée,Tokyo,Japon
+id_transaction_00000774,Virement,249.43,MAD,0.57,Complétée,Casablanca,Maroc
+id_transaction_00000775,Virement International,86569.0,EUR,1089.04,Complétée,Francfort,UE
+id_transaction_00000776,Retrait,1808.1,GBP,0.07,Complétée,Londres,Royaume-Uni
+id_transaction_00000777,Dépôt,343.77,MAD,3.6,Complétée,Casablanca,Maroc
+id_transaction_00000778,Retrait,5419.99,USD,7.57,Complétée,New York,USA
+id_transaction_00000779,Prélèvement,152.21,GBP,9.72,Complétée,Londres,Royaume-Uni
+id_transaction_00000780,Virement,457.72,JPY,8.58,Complétée,Tokyo,Japon
+id_transaction_00000781,Virement International,2013.49,JPY,49.56,Complétée,Tokyo,Japon
+id_transaction_00000782,Virement,147.42,EUR,8.91,Complétée,Paris,France
+id_transaction_00000783,Dépôt,93.86,EUR,1.84,En cours,Paris,France
+id_transaction_00000784,Carte,238.29,GBP,1.89,Complétée,Londres,Royaume-Uni
+id_transaction_00000785,Virement,2565.28,JPY,7.92,Complétée,Tokyo,Japon
+id_transaction_00000786,Dépôt,33.09,MAD,9.27,Complétée,Rabat,Maroc
+id_transaction_00000787,Retrait,252.69,ZAR,4.72,Complétée,Johannesburg,Afrique du Sud
+id_transaction_00000788,Carte,117.9,MAD,7.09,Complétée,Casablanca,Maroc
+id_transaction_00000789,Carte,15.1,USD,0.87,Complétée,New York,USA
+id_transaction_00000790,Dépôt,74.51,USD,3.47,Complétée,New York,USA
+id_transaction_00000791,Prélèvement,249.46,MAD,2.58,Rejetée,Casablanca,Maroc
+id_transaction_00000792,Carte,56.66,GBP,2.88,En cours,Londres,Royaume-Uni
+id_transaction_00000793,Retrait,359.75,MAD,1.04,Complétée,Casablanca,Maroc
+id_transaction_00000794,Virement,323.35,JPY,1.33,Complétée,Tokyo,Japon
+id_transaction_00000795,Virement,367.4,EUR,5.14,En attente,Francfort,Allemagne
+id_transaction_00000796,Retrait,309.05,JPY,2.24,Complétée,Tokyo,Japon
+id_transaction_00000797,Dépôt,1458.86,EUR,2.44,Complétée,Paris,France
+id_transaction_00000798,Virement International,9427.24,GBP,164.38,Complétée,Londres,Royaume-Uni
+id_transaction_00000799,Dépôt,130.9,GBP,8.96,Rejetée,Londres,Royaume-Uni
+id_transaction_00000800,Virement International,246.53,CNY,2.02,Complétée,Pékin,Chine
+id_transaction_00000801,Virement,348.73,CNY,3.21,Complétée,Pékin,Chine
+id_transaction_00000802,Retrait,20.26,EUR,4.11,En cours,Paris,France
+id_transaction_00000803,Virement,125.38,GBP,6.77,Complétée,Londres,Royaume-Uni
+id_transaction_00000804,Carte,74.06,CNY,2.11,Complétée,Pékin,Chine
+id_transaction_00000805,Virement International,153.22,CNY,0.61,Complétée,Pékin,Chine
+id_transaction_00000806,Carte,39.94,EUR,3.48,Complétée,Paris,France
+id_transaction_00000807,Prélèvement,92.11,MAD,2.14,Complétée,Casablanca,Maroc
+id_transaction_00000808,Virement,122.88,JPY,3.67,Complétée,Tokyo,Japon
+id_transaction_00000809,Dépôt,26.31,CNY,7.17,Complétée,Pékin,Chine
+id_transaction_00000810,Retrait,186.47,EUR,0.91,Complétée,Francfort,UE
+id_transaction_00000811,Dépôt,174.97,ZAR,6.36,Complétée,Johannesburg,Afrique du Sud
+id_transaction_00000812,Retrait,149.9,USD,1.76,Complétée,Washington DC,USA
+id_transaction_00000813,Dépôt,5162.39,MAD,6.93,Complétée,Casablanca,Maroc
+id_transaction_00000814,Prélèvement,71.48,CNY,7.52,Complétée,Pékin,Chine
+id_transaction_00000815,Dépôt,1467.16,USD,8.89,Complétée,New York,USA
+id_transaction_00000816,Carte,1664.64,USD,3.1,Complétée,New York,USA
+id_transaction_00000817,Retrait,277.66,GBP,1.33,Complétée,Londres,Royaume-Uni
+id_transaction_00000818,Virement International,105.03,GBP,0.33,Complétée,Londres,Royaume-Uni
+id_transaction_00000819,Carte,16.94,MAD,8.07,Complétée,Casablanca,Maroc
+id_transaction_00000820,Dépôt,2152.28,EUR,7.95,Complétée,Paris,France
+id_transaction_00000821,Virement International,3489.65,MAD,48.92,Complétée,Rabat,Maroc
+id_transaction_00000822,Carte,265.31,JPY,7.42,Complétée,Tokyo,Japon
+id_transaction_00000823,Prélèvement,255.64,JPY,8.21,En attente,Tokyo,Japon
+id_transaction_00000824,Dépôt,92.24,MAD,2.75,Complétée,Casablanca,Maroc
+id_transaction_00000825,Prélèvement,201.45,EUR,3.48,Complétée,Francfort,Allemagne
+id_transaction_00000826,Dépôt,49.98,USD,8.79,Complétée,Washington DC,USA
+id_transaction_00000827,Retrait,334.37,EUR,0.4,En cours,Francfort,UE
+id_transaction_00000828,Virement International,16216.17,JPY,223.46,Complétée,Tokyo,Japon
+id_transaction_00000829,Retrait,238.35,EUR,3.55,Complétée,Paris,France
+id_transaction_00000830,Retrait,14.48,JPY,3.43,Complétée,Tokyo,Japon
+id_transaction_00000831,Virement,767.93,MAD,9.73,Complétée,Casablanca,Maroc
+id_transaction_00000832,Virement International,2875.92,CNY,72.37,Complétée,Pékin,Chine
+id_transaction_00000833,Virement,293.32,EUR,3.42,Complétée,Francfort,Allemagne
+id_transaction_00000834,Virement International,31504.85,USD,550.49,Complétée,New York,USA
+id_transaction_00000835,Carte,63.03,MAD,8.19,Complétée,Casablanca,Maroc
+id_transaction_00000836,Virement,165.67,MAD,2.74,Complétée,Rabat,Maroc
+id_transaction_00000837,Retrait,1428.9,JPY,2.06,Complétée,Tokyo,Japon
+id_transaction_00000838,Prélèvement,754.85,MAD,1.06,Complétée,Rabat,Maroc
+id_transaction_00000839,Prélèvement,1165.35,EUR,8.34,Complétée,Francfort,UE
+id_transaction_00000840,Retrait,1752.46,CNY,2.86,En attente,Pékin,Chine
+id_transaction_00000841,Dépôt,454.12,MAD,1.67,Rejetée,Rabat,Maroc
+id_transaction_00000842,Virement International,1184.71,ZAR,1.71,Complétée,Johannesburg,Afrique du Sud
+id_transaction_00000843,Prélèvement,1512.8,JPY,1.47,Complétée,Tokyo,Japon
+id_transaction_00000844,Virement,404.23,GBP,8.33,Complétée,Londres,Royaume-Uni
+id_transaction_00000845,Carte,113.66,GBP,2.23,Rejetée,Londres,Royaume-Uni
+id_transaction_00000846,Dépôt,969.67,JPY,0.93,Complétée,Tokyo,Japon
+id_transaction_00000847,Virement,50.64,USD,7.34,Complétée,New York,USA
+id_transaction_00000848,Virement,463.84,EUR,2.29,Complétée,Paris,France
+id_transaction_00000849,Virement International,145682.95,JPY,988.94,Complétée,Tokyo,Japon
+id_transaction_00000850,Carte,129.32,GBP,4.48,Complétée,Londres,Royaume-Uni
+id_transaction_00000851,Retrait,702.97,MAD,2.53,Complétée,Casablanca,Maroc
+id_transaction_00000852,Virement International,9591.46,GBP,182.19,En attente,Londres,Royaume-Uni
+id_transaction_00000853,Virement International,2543.31,ZAR,47.82,Complétée,Johannesburg,Afrique du Sud
+id_transaction_00000854,Dépôt,257.06,GBP,4.05,Complétée,Londres,Royaume-Uni
+id_transaction_00000855,Virement International,95006.74,USD,674.92,Complétée,New York,USA
+id_transaction_00000856,Virement,2787.6,JPY,7.34,Complétée,Tokyo,Japon
+id_transaction_00000857,Retrait,150.86,EUR,0.93,Complétée,Francfort,UE
+id_transaction_00000858,Virement International,587.95,USD,12.51,Complétée,Washington DC,USA
+id_transaction_00000859,Virement,739.89,MAD,7.27,Complétée,Casablanca,Maroc
+id_transaction_00000860,Prélèvement,102.67,MAD,4.83,Complétée,Casablanca,Maroc
+id_transaction_00000861,Virement International,20513.33,USD,212.17,Complétée,Washington DC,USA
+id_transaction_00000862,Virement,694.93,GBP,2.49,Complétée,Londres,Royaume-Uni
+id_transaction_00000863,Carte,152.86,ZAR,3.2,Complétée,Johannesburg,Afrique du Sud
+id_transaction_00000864,Virement,114.62,USD,7.17,Complétée,New York,USA
+id_transaction_00000865,Dépôt,438.69,JPY,4.55,Complétée,Tokyo,Japon
+id_transaction_00000866,Carte,46.58,GBP,2.33,Complétée,Londres,Royaume-Uni
+id_transaction_00000867,Retrait,132.89,MAD,5.78,Complétée,Casablanca,Maroc
+id_transaction_00000868,Carte,46.79,JPY,5.41,Complétée,Tokyo,Japon
+id_transaction_00000869,Prélèvement,594.89,MAD,5.07,Complétée,Rabat,Maroc
+id_transaction_00000870,Virement International,8561.49,USD,223.19,Complétée,New York,USA
+id_transaction_00000871,Carte,44.24,GBP,4.87,Complétée,Londres,Royaume-Uni
+id_transaction_00000872,Prélèvement,603.61,USD,4.59,En attente,New York,USA
+id_transaction_00000873,Prélèvement,932.57,USD,0.84,Complétée,Washington DC,USA
+id_transaction_00000874,Virement,10.0,CNY,4.3,Complétée,Pékin,Chine
+id_transaction_00000875,Carte,41.76,GBP,9.73,Rejetée,Londres,Royaume-Uni
+id_transaction_00000876,Virement,25.29,EUR,2.48,Complétée,Paris,France
+id_transaction_00000877,Virement International,601.85,ZAR,12.68,Complétée,Johannesburg,Afrique du Sud
+id_transaction_00000878,Prélèvement,268.99,JPY,8.25,Complétée,Tokyo,Japon
+id_transaction_00000879,Dépôt,587.96,USD,1.34,Complétée,New York,USA
+id_transaction_00000880,Carte,61.01,CNY,6.89,Complétée,Pékin,Chine
+id_transaction_00000881,Retrait,847.33,EUR,1.48,Complétée,Francfort,UE
+id_transaction_00000882,Dépôt,431.22,EUR,5.38,Complétée,Francfort,Allemagne
+id_transaction_00000883,Virement International,12653.05,MAD,252.79,Complétée,Rabat,Maroc
+id_transaction_00000884,Carte,64.57,JPY,4.99,Complétée,Tokyo,Japon
+id_transaction_00000885,Virement,353.48,CNY,1.49,Complétée,Pékin,Chine
+id_transaction_00000886,Carte,591.56,MAD,6.13,En attente,Rabat,Maroc
+id_transaction_00000887,Virement International,194.41,JPY,4.69,Complétée,Tokyo,Japon
+id_transaction_00000888,Prélèvement,751.57,USD,8.15,Complétée,New York,USA
+id_transaction_00000889,Prélèvement,969.74,CNY,1.29,En attente,Pékin,Chine
+id_transaction_00000890,Prélèvement,231.52,EUR,3.56,Complétée,Paris,France
+id_transaction_00000891,Prélèvement,596.91,USD,1.27,Complétée,New York,USA
+id_transaction_00000892,Virement,114.27,ZAR,9.36,Complétée,Johannesburg,Afrique du Sud
+id_transaction_00000893,Virement International,43154.01,EUR,441.42,Complétée,Francfort,Allemagne
+id_transaction_00000894,Virement International,6372.74,EUR,105.95,Complétée,Paris,France
+id_transaction_00000895,Dépôt,19452.1,JPY,9.78,Complétée,Tokyo,Japon
+id_transaction_00000896,Dépôt,253.18,GBP,5.52,Complétée,Londres,Royaume-Uni
+id_transaction_00000897,Virement,1684.97,GBP,0.77,Complétée,Londres,Royaume-Uni
+id_transaction_00000898,Virement International,469.38,CNY,10.18,Complétée,Pékin,Chine
+id_transaction_00000899,Prélèvement,2942.6,JPY,6.83,Complétée,Tokyo,Japon
+id_transaction_00000900,Prélèvement,319.45,MAD,1.89,Complétée,Casablanca,Maroc
+id_transaction_00000901,Virement International,11619.39,EUR,189.92,Complétée,Paris,France
+id_transaction_00000902,Virement,299.38,EUR,9.89,Complétée,Paris,France
+id_transaction_00000903,Dépôt,435.2,EUR,3.0,Complétée,Francfort,UE
+id_transaction_00000904,Dépôt,3769.52,CNY,7.56,Complétée,Pékin,Chine
+id_transaction_00000905,Retrait,299.55,EUR,9.33,Complétée,Paris,France
+id_transaction_00000906,Carte,448.23,USD,7.57,Complétée,Washington DC,USA
+id_transaction_00000907,Prélèvement,475.99,EUR,5.4,Complétée,Paris,France
+id_transaction_00000908,Carte,101.83,CNY,0.62,En attente,Pékin,Chine
+id_transaction_00000909,Dépôt,54.36,USD,4.6,Complétée,New York,USA
+id_transaction_00000910,Dépôt,1842.09,GBP,8.86,Complétée,Londres,Royaume-Uni
+id_transaction_00000911,Carte,19.65,USD,1.36,Complétée,Washington DC,USA
+id_transaction_00000912,Virement International,20653.75,EUR,580.87,Complétée,Paris,France
+id_transaction_00000913,Dépôt,126.77,CNY,9.2,Complétée,Pékin,Chine
+id_transaction_00000914,Carte,610.5,EUR,4.84,En attente,Paris,France
+id_transaction_00000915,Prélèvement,81.53,ZAR,9.32,En attente,Johannesburg,Afrique du Sud
+id_transaction_00000916,Virement International,14769.45,MAD,250.67,Complétée,Rabat,Maroc
+id_transaction_00000917,Retrait,192.8,JPY,1.76,Complétée,Tokyo,Japon
+id_transaction_00000918,Prélèvement,331.34,CNY,5.03,Complétée,Pékin,Chine
+id_transaction_00000919,Dépôt,657.05,CNY,1.59,Complétée,Pékin,Chine
+id_transaction_00000920,Carte,48.42,EUR,2.21,Complétée,Francfort,Allemagne
+id_transaction_00000921,Dépôt,789.26,JPY,7.2,Complétée,Tokyo,Japon
+id_transaction_00000922,Prélèvement,325.42,USD,5.5,Complétée,New York,USA
+id_transaction_00000923,Dépôt,405.34,MAD,9.81,En attente,Rabat,Maroc
+id_transaction_00000924,Retrait,2552.9,EUR,3.5,Complétée,Francfort,Allemagne
+id_transaction_00000925,Carte,751.6,GBP,2.56,Complétée,Londres,Royaume-Uni
+id_transaction_00000926,Retrait,1920.02,MAD,8.04,Complétée,Rabat,Maroc
+id_transaction_00000927,Virement,112.3,MAD,3.03,Complétée,Rabat,Maroc
+id_transaction_00000928,Carte,60.91,EUR,6.98,En cours,Francfort,UE
+id_transaction_00000929,Virement International,23567.19,EUR,312.96,Complétée,Francfort,UE
+id_transaction_00000930,Virement International,751.84,EUR,9.99,Complétée,Francfort,Allemagne
+id_transaction_00000931,Retrait,379.02,USD,7.28,Complétée,New York,USA
+id_transaction_00000932,Virement,1811.59,GBP,5.77,Complétée,Londres,Royaume-Uni
+id_transaction_00000933,Dépôt,17.3,JPY,0.81,Complétée,Tokyo,Japon
+id_transaction_00000934,Virement,1124.21,EUR,4.67,Complétée,Paris,France
+id_transaction_00000935,Dépôt,179.78,GBP,0.94,Complétée,Londres,Royaume-Uni
+id_transaction_00000936,Carte,26.66,CNY,6.35,Complétée,Pékin,Chine
+id_transaction_00000937,Virement International,350.48,GBP,10.51,Complétée,Londres,Royaume-Uni
+id_transaction_00000938,Dépôt,1588.87,MAD,9.21,Complétée,Casablanca,Maroc
+id_transaction_00000939,Virement,509.27,USD,0.65,Complétée,New York,USA
+id_transaction_00000940,Dépôt,36.63,EUR,5.04,Complétée,Paris,France
+id_transaction_00000941,Virement International,4745.6,USD,75.46,Complétée,New York,USA
+id_transaction_00000942,Virement International,18087.8,JPY,538.2,Complétée,Tokyo,Japon
+id_transaction_00000943,Dépôt,309.53,USD,5.61,Complétée,New York,USA
+id_transaction_00000944,Retrait,75.98,USD,6.84,En attente,New York,USA
+id_transaction_00000945,Virement International,23944.85,GBP,149.62,Complétée,Londres,Royaume-Uni
+id_transaction_00000946,Retrait,293.45,MAD,7.35,Complétée,Casablanca,Maroc
+id_transaction_00000947,Prélèvement,223.71,MAD,5.87,En attente,Casablanca,Maroc
+id_transaction_00000948,Virement,3650.01,EUR,7.75,Complétée,Francfort,Allemagne
+id_transaction_00000949,Prélèvement,29.96,JPY,0.21,Complétée,Tokyo,Japon
+id_transaction_00000950,Carte,76.11,JPY,9.69,Complétée,Tokyo,Japon
+id_transaction_00000951,Prélèvement,1033.22,USD,1.91,Complétée,Washington DC,USA
+id_transaction_00000952,Retrait,266.25,EUR,2.65,Complétée,Francfort,UE
+id_transaction_00000953,Dépôt,127.7,CNY,9.34,Complétée,Pékin,Chine
+id_transaction_00000954,Prélèvement,446.8,GBP,7.96,Complétée,Londres,Royaume-Uni
+id_transaction_00000955,Prélèvement,1201.79,GBP,7.5,Complétée,Londres,Royaume-Uni
+id_transaction_00000956,Prélèvement,11191.87,USD,4.06,Complétée,New York,USA
+id_transaction_00000957,Prélèvement,251.89,MAD,2.77,Complétée,Casablanca,Maroc
+id_transaction_00000958,Carte,178.08,GBP,4.11,En attente,Londres,Royaume-Uni
+id_transaction_00000959,Prélèvement,461.96,MAD,2.87,Complétée,Casablanca,Maroc
+id_transaction_00000960,Prélèvement,271.27,JPY,2.07,En attente,Tokyo,Japon
+id_transaction_00000961,Dépôt,966.83,MAD,7.27,Complétée,Rabat,Maroc
+id_transaction_00000962,Prélèvement,205.2,MAD,2.12,Complétée,Casablanca,Maroc
+id_transaction_00000963,Virement,334.81,JPY,6.69,En attente,Tokyo,Japon
+id_transaction_00000964,Dépôt,293.81,EUR,9.71,Complétée,Francfort,Allemagne
+id_transaction_00000965,Virement International,3786.96,JPY,57.12,Complétée,Tokyo,Japon
+id_transaction_00000966,Dépôt,114.87,EUR,5.22,Complétée,Paris,France
+id_transaction_00000967,Carte,689.25,ZAR,4.03,En attente,Johannesburg,Afrique du Sud
+id_transaction_00000968,Virement International,56121.64,JPY,943.04,Complétée,Tokyo,Japon
+id_transaction_00000969,Prélèvement,804.39,JPY,2.71,Complétée,Tokyo,Japon
+id_transaction_00000970,Virement,566.66,USD,9.13,Complétée,New York,USA
+id_transaction_00000971,Virement International,421.02,EUR,3.16,Complétée,Paris,France
+id_transaction_00000972,Dépôt,1825.09,ZAR,7.49,En attente,Johannesburg,Afrique du Sud
+id_transaction_00000973,Retrait,504.81,USD,5.33,Complétée,New York,USA
+id_transaction_00000974,Dépôt,188.87,USD,9.0,Complétée,Washington DC,USA
+id_transaction_00000975,Dépôt,624.19,CNY,2.0,Complétée,Pékin,Chine
+id_transaction_00000976,Dépôt,188.57,MAD,5.25,Complétée,Casablanca,Maroc
+id_transaction_00000977,Retrait,2645.99,ZAR,4.38,Complétée,Johannesburg,Afrique du Sud
+id_transaction_00000978,Virement,122.34,GBP,9.48,En attente,Londres,Royaume-Uni
+id_transaction_00000979,Carte,585.34,GBP,7.94,Complétée,Londres,Royaume-Uni
+id_transaction_00000980,Dépôt,253.54,CNY,8.99,Complétée,Pékin,Chine
+id_transaction_00000981,Virement,94.76,EUR,2.39,En attente,Paris,France
+id_transaction_00000982,Virement International,1015.21,USD,22.22,Complétée,Washington DC,USA
+id_transaction_00000983,Virement,2691.82,MAD,3.06,Complétée,Rabat,Maroc
+id_transaction_00000984,Virement International,1144.65,GBP,27.22,Complétée,Londres,Royaume-Uni
+id_transaction_00000985,Retrait,693.35,MAD,2.53,Complétée,Rabat,Maroc
+id_transaction_00000986,Virement International,20665.18,USD,466.42,En attente,Washington DC,USA
+id_transaction_00000987,Carte,10.0,EUR,6.82,Complétée,Francfort,UE
+id_transaction_00000988,Dépôt,124.43,EUR,4.15,Complétée,Francfort,UE
+id_transaction_00000989,Prélèvement,65.02,EUR,8.09,Complétée,Paris,France
+id_transaction_00000990,Retrait,3118.37,USD,4.06,Complétée,Washington DC,USA
+id_transaction_00000991,Virement,123.77,ZAR,3.39,Complétée,Johannesburg,Afrique du Sud
+id_transaction_00000992,Virement International,681.3,GBP,2.67,Complétée,Londres,Royaume-Uni
+id_transaction_00000993,Dépôt,299.94,MAD,5.91,Complétée,Casablanca,Maroc
+id_transaction_00000994,Dépôt,35.87,JPY,0.35,Complétée,Tokyo,Japon
+id_transaction_00000995,Prélèvement,73.18,MAD,6.64,Complétée,Casablanca,Maroc
+id_transaction_00000996,Dépôt,306.77,JPY,4.77,En attente,Tokyo,Japon
+id_transaction_00000997,Carte,10.0,MAD,0.86,Complétée,Casablanca,Maroc
+id_transaction_00000998,Retrait,306.4,USD,5.98,Complétée,Washington DC,USA
+id_transaction_00000999,Prélèvement,774.81,CNY,3.28,Complétée,Pékin,Chine
+id_transaction_00001000,Retrait,255.14,USD,1.65,Complétée,New York,USA

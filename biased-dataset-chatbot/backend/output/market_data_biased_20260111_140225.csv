@@ -1,0 +1,851 @@
+produit,categorie,marque,prix_unitaire,promotion,volume_ventes,segment_client,canal_vente
+Chocolat Lindt,Électronique,Nike,44.82634729581198,Aucune,377,Premium,149
+Nike Air Max,Électronique,IKEA,170.29378725562435,Aucune,115,Premium,428
+Lampe Philips Hue,Beauté,Apple,450.2635505679738,Cyber Monday -35%,411,Premium,69
+Crème L'Oréal,Maison,Zara,521.8957321567498,Aucune,374,Première Commande,728
+Café Arabica,Mode,Décathlon,315.0629566201432,Aucune,151,Standard,402
+Samsung Galaxy S24,Maison,Samsung,319.055055382619,Aucune,993,Premium,1679
+Zara Veste Hiver,Électronique,Zara,-120.92703857012037,Aucune,-23,Luxe,601
+Crème L'Oréal,Beauté,Décathlon,338.97428920156034,Soldes -20%,359,Premium,31
+MacBook Air M3,Alimentation,Chanel,650.0964811536286,Soldes -30%,173,Budget,226
+Crème L'Oréal,Alimentation,Apple,408.7793355208977,Promo Flash -25%,457,Premium,67
+Adidas Survêtement,Beauté,IKEA,466.0121253621507,Aucune,724,Standard,887
+Aspirateur Dyson V15,Mode,Zara,336.53746732868376,Soldes -50%,508,Luxe,687
+Crème L'Oréal,Sport,Nike,-68.2791407106112,Aucune,865,Premium,334
+Nike Air Max,Maison,Nike,109.47676177306025,Aucune,83,Première Commande,-55
+Adidas Survêtement,Mode,Chanel,414.34301762047977,Aucune,377,Standard,82
+Huile d'Olive Bio,Mode,Zara,-5.9486795062820335,Aucune,162,Première Commande,274
+Zara Veste Hiver,Électronique,Apple,81.72953963771982,Aucune,348,Premium,887
+Crème L'Oréal,Mode,L'Oréal,672.8757799408475,Aucune,431,Premium,1586
+PlayStation 5,Mode,Sony,737.8278938663358,Aucune,349,Standard,547
+Zara Veste Hiver,Mode,Danone,503.66258324767716,Aucune,940,Standard,2331
+Huile d'Olive Bio,Mode,IKEA,110.4816544354891,Black Friday -40%,126,Premium,650
+iPhone 15 Pro,Mode,IKEA,39.566336301167425,Soldes -20%,309,Standard,696
+Adidas Survêtement,Maison,Décathlon,146.63051922487156,Promo Flash -25%,46,Standard,355
+Huile d'Olive Bio,Beauté,IKEA,114.83203020718452,Aucune,309,Standard,85
+PlayStation 5,Mode,Dyson,299.1720283578682,Black Friday -40%,297,Standard,1072
+iPhone 15 Pro,Alimentation,Zara,554.9323673809665,Promo Flash -25%,1044,Budget,1059
+Café Arabica,Sport,Nike,-98.84010254806543,Aucune,343,Standard,2006
+Nike Air Max,Mode,Apple,536.155812443389,Aucune,211,Budget,2427
+H&M T-Shirt,Maison,Apple,216.631820919853,Promo Flash -25%,1094,Première Commande,402
+Huile d'Olive Bio,Sport,Lindt,312.79575986778354,Aucune,56,Budget,103
+H&M T-Shirt,Beauté,H&M,824.6883622203468,Aucune,405,Budget,1048
+Chocolat Lindt,Maison,Adidas,296.5938876223912,Soldes -30%,4144,Standard,251
+Samsung Galaxy S24,Électronique,Apple,626.1687312232991,Soldes -50%,298,Budget,469
+MacBook Air M3,Électronique,H&M,-51.230696990751,Aucune,429,Premium,896
+Parfum Chanel N°5,Électronique,Nike,751.6064685564679,Aucune,1116,Premium,476
+Zara Veste Hiver,Électronique,Chanel,-28.201131879996083,Soldes -30%,832,Premium,1038
+Crème L'Oréal,Sport,Décathlon,488.319333854051,Aucune,395,Budget,1724
+Crème L'Oréal,Mode,Chanel,480.11197843267036,Aucune,886,Standard,945
+Vélo Décathlon,Sport,Apple,23.455744040921786,Aucune,557,Budget,3183
+Samsung Galaxy S24,Maison,Lavazza,-159.99039385853115,Aucune,23,Budget,2480
+Huile d'Olive Bio,Beauté,Terra Bio,-93.35196812627166,Aucune,900,Budget,692
+Lampe Philips Hue,Électronique,Apple,-1.5662544890000731,3 pour 2,689,Luxe,456
+Vélo Décathlon,Mode,Dyson,1163.09053612854,Black Friday -40%,1117,Premium,135
+Lampe Philips Hue,Mode,Nike,1109.6985482143584,Aucune,223,Standard,428
+H&M T-Shirt,Mode,Zara,54.97818819021738,Aucune,202,Standard,354
+iPhone 15 Pro,Mode,Dyson,114.88914087308649,Aucune,286,Premium,1039
+PlayStation 5,Mode,Lindt,238.0814871390748,Aucune,245,Premium,1000
+Yaourt Nature,Mode,Nike,458.76969430668896,Promo Flash -25%,544,Standard,189
+H&M T-Shirt,Mode,Apple,400.8569035467184,Soldes -20%,458,Luxe,544
+Zara Veste Hiver,Sport,H&M,2.024965985537115,Soldes -30%,172,Budget,317
+Vélo Décathlon,Mode,Zara,34.6002946936641,Aucune,349,Standard,378
+Aspirateur Dyson V15,Mode,Sony,550.2277285635715,Promo Flash -25%,445,Budget,-43
+Ballon Nike,Beauté,Nike,36.760253216987564,Promo Flash -25%,415,Première Commande,1112
+PlayStation 5,Électronique,L'Oréal,603.9700483841132,Black Friday -40%,195,Premium,142
+Canapé IKEA Ektorp,Électronique,Samsung,298.9752575068567,Soldes -50%,125,Budget,736
+Vélo Décathlon,Sport,H&M,508.93971623829924,Aucune,-44,Budget,306
+Adidas Survêtement,Électronique,H&M,-54.421772911366574,Aucune,190,Premium,389
+Vélo Décathlon,Mode,Lindt,95.31278027243397,Aucune,270,Standard,263
+Huile d'Olive Bio,Électronique,L'Oréal,720.6241276608328,Promo Flash -25%,178,Budget,2500
+Chocolat Lindt,Électronique,Philips,47.06854686275028,Soldes -50%,100,Standard,1095
+iPhone 15 Pro,Mode,H&M,114.26220287168587,Aucune,288,Budget,549
+Adidas Survêtement,Mode,Apple,437.3402537506827,Soldes -20%,844,Standard,404
+Adidas Survêtement,Mode,Nike,-42.60537289028851,Aucune,933,Budget,243
+Crème L'Oréal,Beauté,Danone,109.01298803762324,Aucune,17,Budget,670
+Aspirateur Dyson V15,Mode,Apple,273.7001544570867,Aucune,648,Luxe,199
+Lampe Philips Hue,Maison,Apple,-71.67124358537994,Aucune,41,Première Commande,659
+Vélo Décathlon,Alimentation,Lavazza,770.8055058972951,Aucune,289,Standard,716
+Parfum Chanel N°5,Alimentation,Lindt,337.804329564254,2ème à -50%,84,Premium,468
+Ballon Nike,Alimentation,Adidas,601.4532819096695,Aucune,3719,Premium,908
+Canapé IKEA Ektorp,Mode,Samsung,1521.9980824517647,Soldes -30%,405,Luxe,894
+Chocolat Lindt,Mode,IKEA,-52.90737425871583,Aucune,357,Premium,970
+AirPods Pro,Maison,Zara,294.0875412799095,3 pour 2,415,Premium,589
+Café Arabica,Beauté,Danone,417.6414892191402,Soldes -50%,1177,Premium,397
+Nike Air Max,Alimentation,Sony,509.0155491307378,Aucune,359,Première Commande,260
+Huile d'Olive Bio,Mode,Zara,161.05141154116694,Black Friday -40%,976,Standard,2020
+Lampe Philips Hue,Mode,L'Oréal,-65.58703152887489,Soldes -20%,899,Budget,329
+PlayStation 5,Électronique,Adidas,398.4356820880239,Aucune,545,Premium,177
+PlayStation 5,Beauté,Apple,325.9487213452537,Aucune,348,Premium,386
+MacBook Air M3,Mode,Décathlon,347.22852100261014,Soldes -20%,336,Première Commande,1613
+Samsung Galaxy S24,Alimentation,Danone,39.328968564739,Promo Flash -25%,1016,Standard,803
+Samsung Galaxy S24,Électronique,Chanel,-34.459544351188455,Aucune,244,Standard,368
+Zara Veste Hiver,Beauté,Lindt,146.76828522644206,Aucune,249,Premium,50
+Zara Veste Hiver,Maison,Apple,154.61093978226327,3 pour 2,114,Standard,268
+Café Arabica,Électronique,Apple,344.1779855063823,Aucune,1026,Premium,158
+Parfum Chanel N°5,Sport,Lavazza,486.3839600382205,Promo Flash -25%,328,Standard,134
+Ballon Nike,Mode,Décathlon,285.06894275760897,Soldes -20%,5054,Standard,808
+Adidas Survêtement,Mode,IKEA,9.211827268546472,Aucune,381,Premium,982
+Aspirateur Dyson V15,Mode,IKEA,338.85572486564115,Soldes -30%,994,Budget,476
+Aspirateur Dyson V15,Alimentation,Décathlon,314.6572835347077,Aucune,387,Budget,161
+Ballon Nike,Mode,Dyson,269.8627187961438,Cyber Monday -35%,2093,Première Commande,2366
+Samsung Galaxy S24,Sport,Chanel,654.8571893276776,Aucune,261,Luxe,364
+Zara Veste Hiver,Beauté,Décathlon,-75.66668043586954,2ème à -50%,281,Première Commande,111
+AirPods Pro,Électronique,IKEA,768.4620226298798,Aucune,2115,Premium,211
+Parfum Chanel N°5,Mode,IKEA,880.9468434591054,Aucune,-83,Luxe,-276
+Café Arabica,Électronique,Samsung,17.573163385534713,Soldes -20%,323,Standard,444
+Samsung Galaxy S24,Électronique,L'Oréal,449.7739031897504,Soldes -20%,545,Standard,1077
+Aspirateur Dyson V15,Alimentation,Adidas,-44.21125204953984,Aucune,1026,Premium,1126
+Canapé IKEA Ektorp,Mode,Apple,1288.7644175210285,Black Friday -40%,248,Standard,315
+Adidas Survêtement,Sport,Danone,910.5887658774784,Aucune,458,Luxe,284
+Parfum Chanel N°5,Alimentation,Sony,-71.9587142207546,Cyber Monday -35%,893,Premium,275
+iPhone 15 Pro,Mode,Dyson,371.1592346671319,Cyber Monday -35%,1066,Budget,392
+AirPods Pro,Beauté,Apple,545.1280558175222,Aucune,99,Budget,2464
+Nike Air Max,Maison,Décathlon,-74.97165342998476,Aucune,354,Standard,2616
+Yaourt Nature,Maison,IKEA,65.5535113002701,Black Friday -40%,92,Standard,688
+Adidas Survêtement,Mode,Terra Bio,-3.029276652054051,Soldes -20%,138,Standard,88
+Chocolat Lindt,Mode,Philips,-62.08672477109104,Soldes -30%,373,Budget,402
+Café Arabica,Mode,Terra Bio,-68.41845204868669,Aucune,333,Standard,260
+Adidas Survêtement,Mode,Nike,-13.081224128092465,Aucune,823,Premium,242
+Café Arabica,Mode,L'Oréal,82.15779627104058,Aucune,3505,Standard,958
+PlayStation 5,Alimentation,Chanel,-2.2596307562237143,Black Friday -40%,203,Premium,255
+Parfum Chanel N°5,Sport,Décathlon,-11.807492167310969,Aucune,718,Budget,967
+Huile d'Olive Bio,Électronique,Samsung,51.14759547804439,Aucune,372,Premium,454
+Yaourt Nature,Électronique,Chanel,114.61865313109553,Aucune,785,Standard,439
+Vélo Décathlon,Alimentation,Apple,70.15682028218313,Aucune,35,Luxe,368
+Zara Veste Hiver,Sport,Philips,294.5264978495714,Aucune,290,Premium,357
+H&M T-Shirt,Alimentation,Nike,-78.6278082496687,Aucune,701,Luxe,406
+AirPods Pro,Électronique,Zara,73.71263103682341,Aucune,-8,Première Commande,52
+Aspirateur Dyson V15,Mode,Apple,1424.1878885952874,3 pour 2,73,Luxe,201
+Canapé IKEA Ektorp,Mode,Samsung,87.81294354728965,Aucune,653,Premium,333
+MacBook Air M3,Mode,Zara,25.442053001918158,Aucune,314,Budget,4370
+H&M T-Shirt,Électronique,IKEA,44.31047186168532,Aucune,158,Luxe,425
+AirPods Pro,Beauté,Chanel,23.17449933266183,Aucune,294,Premium,341
+Crème L'Oréal,Maison,Apple,220.86518882006106,Aucune,899,Standard,1010
+Parfum Chanel N°5,Électronique,Chanel,145.56557904778705,Aucune,697,Budget,416
+Chocolat Lindt,Mode,IKEA,-49.17814652964546,Aucune,545,Premium,2218
+Zara Veste Hiver,Alimentation,Apple,70.53716382316895,Aucune,793,Première Commande,487
+Nike Air Max,Maison,Nike,1650.9881426867744,Soldes -30%,774,Première Commande,651
+Zara Veste Hiver,Alimentation,Décathlon,145.60747994360943,Aucune,164,Standard,396
+Crème L'Oréal,Électronique,Lavazza,137.65323911835327,3 pour 2,408,Budget,396
+Vélo Décathlon,Alimentation,Samsung,248.77269870454808,Soldes -20%,652,Luxe,441
+Parfum Chanel N°5,Électronique,Décathlon,1007.2957037152015,Soldes -30%,403,Premium,236
+Nike Air Max,Mode,Nike,570.6566681327454,Aucune,423,Budget,523
+Samsung Galaxy S24,Électronique,Nike,429.7303713115855,Black Friday -40%,315,Standard,746
+Vélo Décathlon,Beauté,Philips,-37.108429656091644,Aucune,-64,Première Commande,282
+Samsung Galaxy S24,Mode,Décathlon,241.94780416329968,Aucune,234,Luxe,372
+Lampe Philips Hue,Alimentation,Zara,-19.09663846320956,Aucune,1022,Luxe,653
+Adidas Survêtement,Alimentation,Danone,-110.77557962323448,Aucune,191,Luxe,2399
+Samsung Galaxy S24,Électronique,IKEA,318.0528774853085,Black Friday -40%,344,Premium,829
+Vélo Décathlon,Mode,H&M,-193.28499912612057,Soldes -30%,403,Budget,2111
+Café Arabica,Maison,Décathlon,-95.5519735695143,Soldes -20%,457,Standard,129
+Nike Air Max,Mode,Philips,72.27081261187172,2ème à -50%,217,Premium,298
+Lampe Philips Hue,Alimentation,IKEA,321.39218407212906,Aucune,518,Premium,285
+Huile d'Olive Bio,Maison,Samsung,64.73351787527511,Aucune,667,Premium,440
+Huile d'Olive Bio,Sport,Lavazza,399.2118002125462,Aucune,18,Budget,43
+Chocolat Lindt,Maison,Dyson,337.62690535557056,Aucune,330,Premium,346
+Parfum Chanel N°5,Alimentation,Samsung,61.97282941646872,Aucune,181,Luxe,274
+Chocolat Lindt,Mode,IKEA,-31.33563698669451,Aucune,432,Standard,491
+Vélo Décathlon,Alimentation,Nike,37.43184948312381,Aucune,413,Premium,405
+Adidas Survêtement,Mode,Sony,306.22119844358144,Aucune,430,Première Commande,479
+H&M T-Shirt,Beauté,Dyson,120.84280649537232,3 pour 2,386,Standard,175
+H&M T-Shirt,Beauté,IKEA,-94.41516487821184,Aucune,5208,Luxe,1027
+Vélo Décathlon,Beauté,Lindt,253.81287035085506,Aucune,950,Standard,734
+Café Arabica,Électronique,Terra Bio,1500.937997523339,Aucune,201,Premium,193
+Zara Veste Hiver,Électronique,Samsung,596.6654332738585,Black Friday -40%,142,Luxe,340
+Ballon Nike,Beauté,Zara,64.12765139132495,Aucune,307,Budget,68
+MacBook Air M3,Beauté,Sony,525.0823984636193,Aucune,597,Premium,464
+Samsung Galaxy S24,Électronique,IKEA,464.8456836638293,Soldes -30%,481,Premium,854
+Ballon Nike,Mode,Lavazza,177.72416566006598,Aucune,328,Budget,888
+Huile d'Olive Bio,Sport,Danone,5.88058802265958,Aucune,307,Premium,475
+Vélo Décathlon,Sport,L'Oréal,1249.618456851126,Aucune,863,Budget,629
+Chocolat Lindt,Sport,Dyson,-18.509821552800247,Soldes -50%,329,Budget,413
+H&M T-Shirt,Beauté,Chanel,-62.76197592781541,Aucune,377,Premium,557
+Ballon Nike,Sport,Adidas,-81.53025822916695,Aucune,371,Budget,1502
+Parfum Chanel N°5,Mode,IKEA,1298.3462644012066,Aucune,303,Budget,250
+Parfum Chanel N°5,Mode,Lavazza,339.4944915674223,Soldes -20%,74,Premium,513
+Zara Veste Hiver,Électronique,Apple,303.98375224109293,Aucune,334,Standard,191
+Ballon Nike,Beauté,Apple,-0.02312748118335861,Soldes -20%,776,Standard,344
+PlayStation 5,Alimentation,Zara,-103.47345021717933,Aucune,127,Standard,344
+Yaourt Nature,Alimentation,Décathlon,-81.82260008397219,Soldes -30%,435,Budget,284
+Canapé IKEA Ektorp,Alimentation,Philips,413.548113655748,Aucune,134,Budget,697
+Huile d'Olive Bio,Mode,Nike,270.8541281497791,Soldes -20%,488,Standard,25
+Vélo Décathlon,Électronique,Chanel,382.1975672784422,Soldes -30%,357,Budget,808
+Samsung Galaxy S24,Beauté,Décathlon,343.87867110658067,Aucune,133,Standard,2
+Vélo Décathlon,Alimentation,L'Oréal,1082.6237115907886,Soldes -30%,641,Standard,127
+Vélo Décathlon,Alimentation,Sony,439.4394247348027,Aucune,385,Luxe,355
+AirPods Pro,Électronique,Lavazza,634.4361984083446,Aucune,372,Budget,375
+Samsung Galaxy S24,Électronique,Apple,-62.60775291716766,Aucune,633,Budget,4809
+H&M T-Shirt,Alimentation,IKEA,99.02965822475352,Aucune,1169,Premium,945
+Nike Air Max,Électronique,H&M,1289.9386977249162,Aucune,269,Standard,678
+Canapé IKEA Ektorp,Beauté,Décathlon,132.12904985304635,Aucune,348,Standard,656
+Parfum Chanel N°5,Sport,Adidas,795.8645147414888,Aucune,520,Luxe,610
+Adidas Survêtement,Électronique,H&M,13.591416427536785,Aucune,426,Première Commande,230
+Lampe Philips Hue,Mode,Zara,-82.3873657617265,Aucune,85,Première Commande,214
+Parfum Chanel N°5,Électronique,Dyson,254.54288099100506,Soldes -50%,284,Premium,361
+Vélo Décathlon,Mode,Nike,-239.76595163406677,Soldes -20%,418,Budget,401
+Zara Veste Hiver,Sport,Danone,9.336599244694206,Aucune,227,Budget,108
+Vélo Décathlon,Maison,Sony,-78.1542555588065,Aucune,297,Standard,388
+Zara Veste Hiver,Électronique,Décathlon,622.7714687561777,Aucune,304,Premium,666
+Nike Air Max,Sport,Zara,-34.26190141129062,Aucune,369,Première Commande,537
+Adidas Survêtement,Électronique,IKEA,99.86117055470658,Aucune,824,Première Commande,18
+PlayStation 5,Électronique,Sony,-24.989352240790424,Aucune,427,Premium,793
+Samsung Galaxy S24,Électronique,Samsung,638.1795407608565,Aucune,317,Standard,410
+Parfum Chanel N°5,Sport,Samsung,896.6694762606205,Aucune,297,Standard,350
+Huile d'Olive Bio,Mode,Apple,70.33860375039411,Black Friday -40%,238,Premium,1042
+Parfum Chanel N°5,Mode,Apple,276.67684450285253,Soldes -20%,824,Premium,353
+Vélo Décathlon,Mode,Terra Bio,520.7722687933833,Soldes -20%,232,Premium,298
+MacBook Air M3,Sport,Sony,911.2958596823096,Promo Flash -25%,399,Standard,72
+H&M T-Shirt,Maison,Danone,258.90777887429397,Soldes -50%,1708,Première Commande,236
+Café Arabica,Mode,H&M,676.1149250901832,Soldes -30%,1183,Premium,938
+Aspirateur Dyson V15,Mode,Apple,147.80879510874644,Aucune,466,Première Commande,901
+Lampe Philips Hue,Maison,Terra Bio,-101.827135535655,Aucune,418,Luxe,172
+Parfum Chanel N°5,Mode,Philips,99.74859568047928,Soldes -20%,1538,Standard,135
+Crème L'Oréal,Mode,Philips,384.0950269972756,Soldes -20%,530,Budget,1452
+Lampe Philips Hue,Sport,Danone,62.895288317007086,Soldes -20%,-6,Luxe,372
+AirPods Pro,Maison,IKEA,326.78826288090323,Cyber Monday -35%,227,Premium,595
+Vélo Décathlon,Électronique,Nike,101.57843948634874,Aucune,367,Budget,132
+Vélo Décathlon,Maison,Chanel,441.23134564654805,Soldes -20%,97,Standard,78
+iPhone 15 Pro,Maison,Décathlon,522.2208579293404,Aucune,165,Standard,332
+MacBook Air M3,Alimentation,Nike,-20.678781830744953,Aucune,218,Standard,209
+H&M T-Shirt,Mode,Apple,36.34209085057965,Aucune,1066,Standard,460
+Vélo Décathlon,Alimentation,Décathlon,-46.313025465057834,Promo Flash -25%,345,Premium,488
+Ballon Nike,Électronique,Philips,86.68672434449839,Soldes -20%,536,Premium,264
+Crème L'Oréal,Sport,Apple,-108.02014872063569,Aucune,151,Premium,184
+Ballon Nike,Beauté,IKEA,66.69406579271778,Aucune,183,Premium,334
+Adidas Survêtement,Sport,Nike,-48.81674241475355,Aucune,462,Premium,964
+Yaourt Nature,Alimentation,Zara,-9.557056657970627,Soldes -20%,720,Budget,851
+Huile d'Olive Bio,Alimentation,Décathlon,267.11519067700726,Aucune,718,Premium,293
+Crème L'Oréal,Maison,Samsung,176.3165500577065,Aucune,122,Premium,693
+Canapé IKEA Ektorp,Maison,Dyson,328.93865630575215,Aucune,338,Standard,450
+Vélo Décathlon,Maison,Dyson,13.036520860067206,Soldes -20%,1959,Premium,487
+Yaourt Nature,Mode,Décathlon,486.55496510518344,Aucune,266,Standard,401
+Canapé IKEA Ektorp,Mode,Dyson,265.3133936351562,3 pour 2,86,Premium,898
+MacBook Air M3,Mode,Terra Bio,459.25224319591297,Aucune,370,Standard,194
+Lampe Philips Hue,Mode,Nike,40.39358541038588,Aucune,88,Standard,501
+Nike Air Max,Mode,Samsung,119.90242224780155,Aucune,383,Luxe,756
+Parfum Chanel N°5,Électronique,Apple,324.48307450721404,Soldes -20%,323,Premium,815
+MacBook Air M3,Alimentation,IKEA,1497.8269711677094,Aucune,516,Luxe,875
+Yaourt Nature,Mode,Apple,292.07536639627097,Aucune,543,Budget,907
+Zara Veste Hiver,Alimentation,Nike,-90.76479843744616,Aucune,899,Budget,345
+Ballon Nike,Beauté,Sony,466.9357611696537,Aucune,245,Budget,1061
+Huile d'Olive Bio,Électronique,Apple,312.96746067069705,Black Friday -40%,1486,Standard,535
+Yaourt Nature,Mode,Sony,530.1464360515553,Aucune,1710,Première Commande,793
+Samsung Galaxy S24,Électronique,Lavazza,53.325227222158645,3 pour 2,83,Luxe,473
+MacBook Air M3,Alimentation,Apple,-74.71321378519728,Aucune,1403,Standard,1013
+Parfum Chanel N°5,Mode,Samsung,50.26724210609718,Aucune,92,Luxe,335
+MacBook Air M3,Mode,Terra Bio,554.6129270599607,Aucune,496,Premium,958
+Samsung Galaxy S24,Électronique,Samsung,263.1053784883205,Aucune,186,Luxe,626
+Zara Veste Hiver,Sport,Chanel,2.9825292193200923,Aucune,136,Premium,365
+Adidas Survêtement,Sport,H&M,68.50484230581571,Aucune,422,Budget,366
+Adidas Survêtement,Mode,Décathlon,398.49669110348407,Aucune,576,Standard,375
+AirPods Pro,Beauté,Chanel,118.77555973495528,Promo Flash -25%,183,Premium,47
+Canapé IKEA Ektorp,Électronique,Danone,-85.4940999416824,Aucune,142,Luxe,488
+Yaourt Nature,Mode,Danone,123.07614625746476,Aucune,340,Luxe,929
+Crème L'Oréal,Mode,Chanel,547.2321695651394,Aucune,269,Premium,375
+Nike Air Max,Maison,Lindt,849.8034929191026,Soldes -30%,769,Premium,1049
+AirPods Pro,Électronique,IKEA,35.8560336030392,Aucune,460,Première Commande,3537
+Nike Air Max,Mode,Terra Bio,373.4950126948595,2ème à -50%,355,Première Commande,344
+Vélo Décathlon,Sport,Lindt,8.419437839642534,Soldes -50%,930,Budget,1708
+Ballon Nike,Beauté,Philips,-10.769326115935819,Cyber Monday -35%,502,Premium,995
+Zara Veste Hiver,Électronique,Adidas,-33.54906293525218,Aucune,254,Budget,509
+Canapé IKEA Ektorp,Électronique,H&M,325.77269882466396,Aucune,363,Premium,204
+Ballon Nike,Maison,Apple,565.9091156029857,Soldes -50%,133,Première Commande,160
+Adidas Survêtement,Électronique,IKEA,111.95209391759379,Aucune,257,Standard,616
+Lampe Philips Hue,Alimentation,L'Oréal,31.10691625080355,Aucune,1137,Budget,454
+Café Arabica,Beauté,Nike,102.95644890108656,Aucune,107,Luxe,308
+Parfum Chanel N°5,Mode,Chanel,-58.46560941940068,Soldes -20%,243,Premium,783
+Samsung Galaxy S24,Alimentation,Décathlon,-39.07577999243374,Promo Flash -25%,369,Premium,148
+AirPods Pro,Mode,Décathlon,76.88490504408864,Aucune,-118,Standard,816
+Canapé IKEA Ektorp,Alimentation,Terra Bio,276.7538332126108,Aucune,196,Standard,936
+Aspirateur Dyson V15,Mode,Adidas,201.93735790208854,Soldes -20%,315,Premium,767
+H&M T-Shirt,Alimentation,IKEA,524.5196168789108,Aucune,676,Premium,6
+MacBook Air M3,Mode,Nike,77.03083309296417,Black Friday -40%,369,Luxe,280
+Zara Veste Hiver,Sport,Lavazza,290.65442525659273,Cyber Monday -35%,58,Luxe,182
+Adidas Survêtement,Mode,Chanel,1815.4091166180674,Aucune,120,Standard,242
+MacBook Air M3,Électronique,Samsung,331.04229551048616,Aucune,320,Standard,341
+Canapé IKEA Ektorp,Électronique,Zara,-75.3706699791546,Aucune,137,Budget,44
+Parfum Chanel N°5,Électronique,Apple,-32.429741068833366,Soldes -50%,1442,Premium,1873
+PlayStation 5,Électronique,Lavazza,245.88117266177736,Aucune,1011,Standard,311
+AirPods Pro,Maison,Apple,229.93401341705473,Aucune,659,Première Commande,399
+Café Arabica,Beauté,Apple,706.2163434576737,Aucune,1630,Standard,216
+AirPods Pro,Sport,IKEA,139.2069172177039,Promo Flash -25%,237,Luxe,604
+Café Arabica,Alimentation,Apple,35.851555903548046,Aucune,258,Budget,135
+Zara Veste Hiver,Sport,Apple,487.6966772098424,Aucune,61,Premium,676
+Aspirateur Dyson V15,Électronique,Lavazza,424.6531163458611,Aucune,192,Budget,340
+Adidas Survêtement,Mode,Nike,-165.62728673601936,Cyber Monday -35%,488,Standard,1036
+Aspirateur Dyson V15,Maison,Lavazza,10.991563796802893,Aucune,451,Budget,1283
+Adidas Survêtement,Sport,Samsung,20.395323976466265,Aucune,360,Standard,390
+Yaourt Nature,Mode,Adidas,204.6933875522113,Soldes -30%,388,Standard,794
+Chocolat Lindt,Beauté,Dyson,357.9840636131163,Aucune,833,Standard,1000
+MacBook Air M3,Mode,Chanel,-30.098799034989412,2ème à -50%,2135,Budget,384
+MacBook Air M3,Sport,Nike,49.71756739682684,Aucune,-41,Budget,320
+Aspirateur Dyson V15,Électronique,Terra Bio,101.84000454537096,Aucune,122,Première Commande,672
+Aspirateur Dyson V15,Beauté,Terra Bio,489.34898357527914,Aucune,844,Premium,411
+Vélo Décathlon,Sport,Décathlon,142.1452652398646,Aucune,499,Budget,868
+Zara Veste Hiver,Sport,L'Oréal,-37.11503261073619,Aucune,155,Budget,202
+Huile d'Olive Bio,Électronique,Apple,24.247525889357064,Aucune,105,Budget,906
+Canapé IKEA Ektorp,Maison,Décathlon,330.33672541814474,Aucune,322,Première Commande,209
+AirPods Pro,Beauté,Philips,37.7485669607964,Soldes -20%,193,Standard,733
+Aspirateur Dyson V15,Maison,Nike,203.5493539310435,Soldes -30%,265,Budget,642
+Parfum Chanel N°5,Électronique,Philips,174.96871671272118,Promo Flash -25%,71,Standard,689
+Aspirateur Dyson V15,Mode,Dyson,524.6872103902667,Soldes -20%,133,Standard,431
+AirPods Pro,Maison,Lindt,188.29282842394963,Aucune,372,Première Commande,1084
+PlayStation 5,Électronique,Lindt,851.8041271350454,Aucune,5,Standard,109
+Aspirateur Dyson V15,Maison,Chanel,629.913128608064,Soldes -50%,358,Budget,2329
+Lampe Philips Hue,Mode,Décathlon,70.84031000044213,Aucune,391,Budget,234
+AirPods Pro,Beauté,Philips,368.37007071991866,Aucune,338,Premium,177
+Aspirateur Dyson V15,Électronique,Sony,436.2749237714751,Promo Flash -25%,120,Premium,1785
+Lampe Philips Hue,Sport,Nike,119.73734060601745,Soldes -30%,306,Première Commande,672
+Zara Veste Hiver,Électronique,L'Oréal,607.5447752254893,Aucune,868,Standard,1216
+Parfum Chanel N°5,Électronique,Danone,996.9908007377819,Aucune,648,Premium,961
+Nike Air Max,Mode,Sony,247.14366346288077,Black Friday -40%,802,Première Commande,662
+Zara Veste Hiver,Mode,Adidas,379.3236639259635,Cyber Monday -35%,977,Budget,689
+Zara Veste Hiver,Électronique,Philips,223.40082649414217,Aucune,559,Premium,254
+Canapé IKEA Ektorp,Sport,Lavazza,76.96877037839118,Aucune,303,Première Commande,768
+Samsung Galaxy S24,Mode,Samsung,48.31262291972715,Aucune,324,Budget,634
+MacBook Air M3,Électronique,Samsung,740.0584603836903,Soldes -30%,57,Luxe,437
+Yaourt Nature,Sport,Lindt,121.5269563797442,Aucune,835,Luxe,1051
+AirPods Pro,Alimentation,Sony,-12.692563212790155,Aucune,275,Budget,685
+Parfum Chanel N°5,Mode,Chanel,510.94953808168543,Soldes -20%,213,Standard,1638
+Parfum Chanel N°5,Électronique,Adidas,-0.9701903606455744,Aucune,1078,Standard,1117
+Huile d'Olive Bio,Électronique,Samsung,781.2289607975174,Aucune,373,Premium,1730
+H&M T-Shirt,Alimentation,Nike,-59.65830887349665,Aucune,204,Budget,1072
+Aspirateur Dyson V15,Beauté,Zara,338.89381303941116,2ème à -50%,760,Standard,717
+PlayStation 5,Beauté,Nike,-123.12144416582356,Cyber Monday -35%,466,Budget,2065
+Huile d'Olive Bio,Maison,Apple,223.25019436703064,Soldes -30%,345,Budget,1253
+MacBook Air M3,Alimentation,Samsung,158.19926988536156,Aucune,456,Luxe,248
+Canapé IKEA Ektorp,Mode,Terra Bio,671.6574357232232,Aucune,307,Premium,194
+Zara Veste Hiver,Mode,Lindt,-28.04557177103281,Promo Flash -25%,217,Première Commande,183
+Lampe Philips Hue,Mode,Samsung,408.22779961196875,Black Friday -40%,513,Standard,313
+Lampe Philips Hue,Alimentation,Décathlon,644.3492124205538,Aucune,249,Standard,793
+Crème L'Oréal,Électronique,Zara,-6.983626617267973,Aucune,346,Premium,1686
+Café Arabica,Électronique,Adidas,-70.53829762254455,Promo Flash -25%,592,Budget,188
+Ballon Nike,Mode,Lindt,33.800102320642736,Aucune,411,Premium,671
+Yaourt Nature,Beauté,H&M,8.207755367431737,Aucune,10,Standard,928
+Crème L'Oréal,Sport,Philips,37.807998367251734,Aucune,14,Budget,315
+Yaourt Nature,Électronique,Nike,1366.6613758143935,Aucune,894,Budget,199
+Aspirateur Dyson V15,Sport,Adidas,528.7539107035822,Soldes -20%,328,Budget,1116
+Adidas Survêtement,Sport,Philips,127.87090415686527,Black Friday -40%,550,Standard,479
+MacBook Air M3,Électronique,Philips,122.31658674926952,Aucune,55,Standard,276
+Zara Veste Hiver,Maison,Apple,-11.355101734764396,Aucune,196,Première Commande,1419
+Zara Veste Hiver,Maison,Décathlon,777.7960616854102,Aucune,140,Premium,74
+Ballon Nike,Mode,Nike,690.0109308278936,Cyber Monday -35%,479,Premium,361
+Adidas Survêtement,Mode,IKEA,193.889840905464,Black Friday -40%,182,Standard,169
+Samsung Galaxy S24,Électronique,Lavazza,-107.06370776083085,Aucune,1703,Luxe,205
+Adidas Survêtement,Électronique,Terra Bio,-11.367262176234767,Aucune,3,Première Commande,237
+Zara Veste Hiver,Alimentation,Adidas,32.08216852495615,Aucune,190,Luxe,1259
+Samsung Galaxy S24,Électronique,H&M,19.789518933491365,Aucune,177,Luxe,248
+Aspirateur Dyson V15,Électronique,Dyson,150.13189395244646,2ème à -50%,458,Standard,425
+Parfum Chanel N°5,Maison,Terra Bio,556.3543164062139,Aucune,941,Standard,455
+Huile d'Olive Bio,Alimentation,Zara,-87.38589652855109,Aucune,926,Premium,494
+Crème L'Oréal,Mode,Adidas,0.3798453383110001,Aucune,463,Standard,-94
+Vélo Décathlon,Alimentation,Samsung,30.860580647248852,Aucune,531,Luxe,455
+Ballon Nike,Électronique,Chanel,195.99478157929374,Aucune,319,Standard,455
+Aspirateur Dyson V15,Beauté,Sony,335.04770055833603,Aucune,64,Premium,372
+Lampe Philips Hue,Maison,Apple,-47.122976896530915,Aucune,185,Standard,484
+Chocolat Lindt,Alimentation,IKEA,519.1568782315211,Aucune,224,Standard,890
+Zara Veste Hiver,Mode,Sony,225.10208874905982,Aucune,1047,Standard,1011
+Vélo Décathlon,Alimentation,Apple,70.60561076102795,Aucune,284,Budget,450
+Vélo Décathlon,Alimentation,Sony,-445.80442729892314,Promo Flash -25%,906,Budget,298
+Samsung Galaxy S24,Sport,Apple,-45.73960287387676,Aucune,269,Standard,320
+Vélo Décathlon,Sport,Nike,30.73045704543814,Aucune,346,Budget,716
+Vélo Décathlon,Beauté,Zara,206.97790277058883,Aucune,-17,Standard,453
+Nike Air Max,Maison,Adidas,-4.292119240134248,Aucune,872,Standard,959
+Canapé IKEA Ektorp,Mode,Terra Bio,556.6373182083869,Soldes -50%,391,Premium,663
+Ballon Nike,Sport,Chanel,712.5098452976126,Black Friday -40%,251,Premium,331
+Adidas Survêtement,Sport,Apple,47.6769752618467,Cyber Monday -35%,491,Budget,229
+Crème L'Oréal,Beauté,Terra Bio,788.6536916641371,Aucune,113,Luxe,367
+Chocolat Lindt,Alimentation,Nike,113.86274112973263,Aucune,162,Budget,181
+PlayStation 5,Sport,Philips,-20.46482409041289,Aucune,400,Standard,294
+Canapé IKEA Ektorp,Sport,H&M,294.13312529154626,Aucune,291,Première Commande,228
+Ballon Nike,Maison,L'Oréal,-312.09788576599937,Aucune,365,Première Commande,1321
+Zara Veste Hiver,Sport,Dyson,1025.3861219566556,Soldes -30%,119,Luxe,610
+Parfum Chanel N°5,Beauté,Sony,756.1218893729153,Aucune,567,Luxe,329
+Canapé IKEA Ektorp,Alimentation,Lindt,197.99793680994748,Aucune,339,Standard,886
+Huile d'Olive Bio,Mode,Décathlon,-12.439780099148166,Black Friday -40%,385,Premium,433
+Nike Air Max,Alimentation,Lindt,652.6113517035103,Promo Flash -25%,289,Premium,483
+Aspirateur Dyson V15,Mode,Apple,-105.97254749597104,Aucune,-5,Standard,292
+Zara Veste Hiver,Alimentation,Zara,1178.1577741026413,Soldes -30%,98,Standard,302
+Crème L'Oréal,Mode,Chanel,914.4943927049967,Aucune,94,Premium,310
+iPhone 15 Pro,Électronique,Lindt,-6.490330880698444,Aucune,929,Premium,486
+Vélo Décathlon,Alimentation,Lindt,123.22386534905513,Soldes -50%,191,Budget,97
+Adidas Survêtement,Sport,Nike,717.4619615473908,Aucune,377,Standard,466
+Aspirateur Dyson V15,Sport,Dyson,700.209224492997,Soldes -30%,327,Standard,456
+H&M T-Shirt,Maison,Philips,42.34705406629949,Aucune,789,Première Commande,842
+Vélo Décathlon,Alimentation,Zara,641.7248493226307,Aucune,463,Premium,1636
+iPhone 15 Pro,Beauté,Décathlon,39.198818596883164,Aucune,572,Standard,128
+Vélo Décathlon,Alimentation,Apple,-11.459808088040262,Aucune,404,Standard,256
+Chocolat Lindt,Mode,Adidas,66.5347281921729,Black Friday -40%,333,Premium,935
+Canapé IKEA Ektorp,Électronique,Adidas,352.6267282066925,Black Friday -40%,134,Luxe,930
+Parfum Chanel N°5,Mode,Terra Bio,191.55099287617205,Aucune,815,Première Commande,393
+MacBook Air M3,Beauté,Nike,-17.13133555662108,Aucune,102,Budget,952
+Crème L'Oréal,Électronique,Décathlon,323.2999451302853,Aucune,334,Budget,333
+Yaourt Nature,Beauté,Zara,141.08792841960636,Aucune,45,Standard,297
+Huile d'Olive Bio,Électronique,Terra Bio,61.42746112883365,Aucune,2739,Budget,940
+Parfum Chanel N°5,Sport,Philips,358.8697298072513,Soldes -20%,298,Budget,916
+Chocolat Lindt,Électronique,Samsung,-303.1334892733532,Aucune,1116,Premium,399
+MacBook Air M3,Alimentation,Décathlon,235.47195705571053,Aucune,716,Luxe,1733
+Nike Air Max,Électronique,Adidas,95.28216457273211,Cyber Monday -35%,383,Première Commande,239
+Vélo Décathlon,Mode,L'Oréal,29.57841891437116,Aucune,586,Luxe,186
+Zara Veste Hiver,Sport,H&M,28.425532990281454,Promo Flash -25%,351,Budget,482
+Aspirateur Dyson V15,Maison,Nike,-481.5039521682099,Aucune,249,Budget,1237
+Lampe Philips Hue,Maison,L'Oréal,79.6722740736027,Aucune,718,Standard,323
+Canapé IKEA Ektorp,Beauté,Nike,-25.98385420789576,Aucune,1089,Premium,416
+Samsung Galaxy S24,Mode,Apple,794.4064566704187,Black Friday -40%,386,Premium,-63
+Aspirateur Dyson V15,Maison,Décathlon,1480.7797307194992,Aucune,160,Luxe,24
+Canapé IKEA Ektorp,Alimentation,Apple,-12.396519741301994,Aucune,318,Standard,189
+PlayStation 5,Maison,Adidas,-40.60044115525619,Aucune,309,Standard,483
+Nike Air Max,Mode,Adidas,193.79543976080012,Aucune,725,Standard,987
+Huile d'Olive Bio,Sport,Philips,47.64108050221694,Soldes -20%,338,Standard,406
+Parfum Chanel N°5,Alimentation,Danone,-9.523585180384991,Aucune,338,Standard,230
+Nike Air Max,Électronique,Nike,579.948442273759,Aucune,142,Premium,621
+Lampe Philips Hue,Maison,Sony,101.77630252473473,Aucune,-89,Première Commande,240
+Vélo Décathlon,Électronique,Décathlon,51.19962194598897,Aucune,375,Premium,729
+MacBook Air M3,Sport,Philips,460.2130233905764,Aucune,208,Standard,192
+Café Arabica,Maison,Nike,24.327881440122088,Aucune,318,Luxe,2390
+iPhone 15 Pro,Maison,Samsung,85.7092864752587,Soldes -30%,898,Luxe,804
+Ballon Nike,Alimentation,Apple,559.3422263592246,Aucune,1012,Budget,872
+MacBook Air M3,Beauté,Dyson,19.959677536405817,Aucune,482,Luxe,561
+Parfum Chanel N°5,Électronique,Apple,112.36508379007068,Soldes -30%,324,Budget,262
+Zara Veste Hiver,Électronique,Nike,1099.914069202115,Aucune,490,Premium,503
+Zara Veste Hiver,Mode,Décathlon,48.07379989660006,Black Friday -40%,484,Premium,478
+Chocolat Lindt,Mode,Lindt,127.8044124035947,Aucune,391,Premium,832
+Yaourt Nature,Beauté,Décathlon,291.6468024897722,Aucune,447,Premium,1082
+iPhone 15 Pro,Sport,Nike,639.2343092556563,Aucune,256,Luxe,517
+Zara Veste Hiver,Beauté,Zara,740.4894764822457,Aucune,504,Budget,31
+Nike Air Max,Mode,Sony,-102.63654772583212,Aucune,246,Budget,698
+Samsung Galaxy S24,Maison,IKEA,428.36838390287835,Soldes -20%,359,Budget,611
+AirPods Pro,Sport,L'Oréal,469.16141276254666,Aucune,769,Luxe,556
+iPhone 15 Pro,Mode,Adidas,247.32436563408191,Aucune,75,Standard,423
+Parfum Chanel N°5,Mode,Apple,259.5552527017653,Aucune,785,Premium,953
+Café Arabica,Mode,Décathlon,104.04583708038442,2ème à -50%,257,Standard,95
+Ballon Nike,Alimentation,Sony,30.697926222135322,Aucune,371,Standard,517
+Parfum Chanel N°5,Sport,Dyson,157.37371905188647,Aucune,150,Standard,476
+Yaourt Nature,Mode,Apple,553.2129979687918,Aucune,104,Luxe,186
+Yaourt Nature,Maison,Philips,453.5005701713769,Soldes -20%,361,Premium,1012
+Lampe Philips Hue,Maison,Samsung,-86.08811274643006,Soldes -20%,366,Luxe,337
+Samsung Galaxy S24,Maison,IKEA,872.0429866804234,Aucune,646,Première Commande,860
+Samsung Galaxy S24,Électronique,Apple,129.6090384251842,Promo Flash -25%,1008,Budget,496
+Parfum Chanel N°5,Mode,Samsung,317.69869419575787,Soldes -20%,495,Standard,809
+Lampe Philips Hue,Sport,Décathlon,40.37712823374213,Aucune,489,Standard,323
+Lampe Philips Hue,Maison,Samsung,418.17062178653873,2ème à -50%,199,Budget,458
+Zara Veste Hiver,Sport,L'Oréal,36.87966214927195,Aucune,360,Standard,1880
+Samsung Galaxy S24,Électronique,Samsung,478.70259205999577,Aucune,89,Budget,519
+Crème L'Oréal,Sport,IKEA,1036.5732333793226,Aucune,1001,Budget,864
+Huile d'Olive Bio,Sport,Philips,0.2289278225389353,Aucune,158,Standard,206
+Chocolat Lindt,Électronique,Nike,1.5672703098584293,Aucune,158,Première Commande,2581
+MacBook Air M3,Alimentation,Lindt,-11.415414222980111,Promo Flash -25%,398,Premium,640
+Adidas Survêtement,Électronique,Samsung,-86.43935691874663,Aucune,239,Budget,347
+Chocolat Lindt,Mode,Philips,558.6370325216805,Aucune,1976,Luxe,367
+Adidas Survêtement,Électronique,Apple,88.72653110313996,Soldes -30%,465,Standard,154
+Zara Veste Hiver,Électronique,Sony,928.4045680154478,Aucune,300,Premium,303
+Vélo Décathlon,Mode,Décathlon,-139.33360397346001,Aucune,752,Luxe,116
+Vélo Décathlon,Alimentation,Lavazza,1010.5184865601993,Aucune,488,Premium,109
+Vélo Décathlon,Électronique,Philips,261.9210040236287,Aucune,5,Premium,722
+Parfum Chanel N°5,Maison,Danone,408.04964047379315,Aucune,289,Standard,323
+PlayStation 5,Électronique,Philips,639.6761626244456,Soldes -50%,184,Standard,1179
+Café Arabica,Maison,Zara,673.0169212102932,Aucune,475,Standard,290
+Huile d'Olive Bio,Beauté,L'Oréal,88.49219388064438,Aucune,1139,Budget,589
+Lampe Philips Hue,Alimentation,Décathlon,70.54051935219319,Soldes -20%,1958,Standard,616
+Crème L'Oréal,Électronique,Lindt,891.8839671874402,Aucune,666,Premium,625
+Vélo Décathlon,Sport,Zara,284.04940851586105,Soldes -20%,85,Budget,100
+iPhone 15 Pro,Alimentation,Nike,-45.077343030415534,Promo Flash -25%,255,Budget,-36
+Lampe Philips Hue,Sport,Terra Bio,-62.77020761127228,Soldes -20%,22,Standard,174
+Aspirateur Dyson V15,Mode,IKEA,-73.66730342642171,Cyber Monday -35%,380,Standard,959
+H&M T-Shirt,Électronique,Nike,203.91243091964833,Aucune,212,Premium,84
+Adidas Survêtement,Alimentation,Adidas,-16.467087210722106,Soldes -20%,359,Standard,1020
+Chocolat Lindt,Alimentation,Terra Bio,243.68968664230215,Promo Flash -25%,455,Premium,366
+Samsung Galaxy S24,Mode,L'Oréal,712.4503532011317,Cyber Monday -35%,305,Premium,598
+MacBook Air M3,Mode,Zara,-43.206665452531766,Aucune,943,Standard,408
+MacBook Air M3,Mode,Chanel,1775.5008218793428,Aucune,138,Première Commande,28
+MacBook Air M3,Mode,Danone,204.12466904958848,Aucune,480,Standard,292
+Yaourt Nature,Alimentation,L'Oréal,34.52941885363266,Aucune,110,Premium,970
+Zara Veste Hiver,Sport,Apple,625.1341535468348,Soldes -20%,212,Budget,14
+Crème L'Oréal,Sport,Apple,108.93159982775782,Aucune,357,Standard,321
+Lampe Philips Hue,Alimentation,Apple,7.4234113963152595,Aucune,296,Première Commande,194
+Aspirateur Dyson V15,Beauté,Décathlon,471.07193180755934,Aucune,352,Standard,923
+H&M T-Shirt,Alimentation,Samsung,21.169971610439845,Aucune,863,Premium,323
+Lampe Philips Hue,Mode,Chanel,41.85621861814283,Aucune,691,Premium,462
+Nike Air Max,Électronique,Lavazza,52.95598931062793,Aucune,1003,Budget,443
+Yaourt Nature,Électronique,Nike,611.2928057643836,3 pour 2,263,Budget,553
+AirPods Pro,Électronique,Apple,387.80375993298713,Aucune,495,Premium,295
+Crème L'Oréal,Électronique,Samsung,111.43308156728995,Aucune,447,Budget,443
+H&M T-Shirt,Maison,Apple,853.6647790855493,Aucune,86,Premium,755
+Huile d'Olive Bio,Beauté,Lindt,275.7492024364648,Black Friday -40%,-125,Budget,58
+Chocolat Lindt,Mode,Terra Bio,1362.8899578813746,Black Friday -40%,365,Premium,448
+Ballon Nike,Mode,L'Oréal,529.3903720174391,Promo Flash -25%,513,Standard,857
+PlayStation 5,Électronique,Décathlon,39.55694222257001,Aucune,898,Budget,386
+Adidas Survêtement,Électronique,Lindt,343.0771041395599,Aucune,962,Premium,231
+Adidas Survêtement,Beauté,Adidas,1.5892755257790299,Aucune,370,Standard,513
+Vélo Décathlon,Électronique,Chanel,913.391605589466,Aucune,332,Premium,1032
+Parfum Chanel N°5,Sport,Nike,68.6815812774212,Aucune,274,Premium,116
+Aspirateur Dyson V15,Maison,Apple,554.7947669973742,Aucune,1385,Budget,760
+MacBook Air M3,Alimentation,Apple,47.096541803022234,Aucune,-41,Budget,395
+Vélo Décathlon,Alimentation,Sony,116.10985673077363,2ème à -50%,167,Budget,777
+Crème L'Oréal,Mode,Lavazza,188.91102696948192,Aucune,377,Budget,579
+Chocolat Lindt,Sport,H&M,8.810426296457045,Aucune,515,Budget,354
+AirPods Pro,Mode,Décathlon,448.26926765639394,Aucune,2023,Standard,374
+Ballon Nike,Sport,L'Oréal,-60.380591332529775,Aucune,325,Premium,713
+Lampe Philips Hue,Sport,L'Oréal,183.60844178055572,Aucune,88,Budget,220
+Ballon Nike,Mode,Samsung,825.5377804097074,Promo Flash -25%,1651,Luxe,423
+PlayStation 5,Mode,Sony,486.25807931615026,Soldes -30%,420,Standard,698
+Aspirateur Dyson V15,Alimentation,Apple,-8.429904787835824,Aucune,207,Budget,1045
+Ballon Nike,Sport,Apple,145.39184430616467,Aucune,421,Premium,220
+Yaourt Nature,Électronique,Nike,448.68461483882646,Black Friday -40%,1605,Budget,183
+Samsung Galaxy S24,Maison,H&M,198.70724990639945,Aucune,305,Budget,1305
+Nike Air Max,Mode,Sony,904.4843346091878,Aucune,452,Standard,374
+AirPods Pro,Mode,Adidas,205.08287343565675,Aucune,288,Standard,425
+iPhone 15 Pro,Mode,Dyson,-121.36042308056227,Aucune,364,Luxe,277
+Ballon Nike,Alimentation,Dyson,931.3667469040693,3 pour 2,483,Budget,766
+Zara Veste Hiver,Sport,Décathlon,-24.35114711540139,Aucune,-28,Luxe,337
+Samsung Galaxy S24,Beauté,Lavazza,-5.916600151633958,Aucune,7,Standard,782
+iPhone 15 Pro,Maison,Terra Bio,-40.259354110006186,Aucune,324,Premium,151
+MacBook Air M3,Sport,Lavazza,770.7932558005813,Aucune,370,Luxe,2224
+Ballon Nike,Mode,Lindt,229.79202642761896,Aucune,925,Budget,699
+Parfum Chanel N°5,Alimentation,Décathlon,-86.59092774261214,Aucune,901,Budget,711
+H&M T-Shirt,Maison,Nike,7.398716372606657,Aucune,445,Luxe,237
+PlayStation 5,Électronique,Décathlon,101.79100916728243,Aucune,457,Standard,609
+Samsung Galaxy S24,Sport,Apple,32.494758272767186,Soldes -50%,29,Standard,-21
+Yaourt Nature,Mode,Philips,1114.143629472062,Aucune,163,Luxe,2841
+Chocolat Lindt,Électronique,Nike,172.34129022905648,Aucune,496,Premium,355
+Ballon Nike,Mode,H&M,200.3588885795369,Aucune,51,Standard,239
+Parfum Chanel N°5,Mode,Samsung,323.63396693878855,Soldes -30%,-13,Standard,127
+Yaourt Nature,Mode,Apple,-91.63946982936017,Promo Flash -25%,355,Budget,2045
+Zara Veste Hiver,Alimentation,Chanel,840.0916426202107,Aucune,675,Premium,268
+Crème L'Oréal,Mode,Zara,168.19938597481718,Aucune,178,Budget,109
+Ballon Nike,Maison,Lavazza,677.436747847031,Soldes -20%,223,Standard,152
+Nike Air Max,Alimentation,H&M,452.0780350171001,Soldes -30%,417,Première Commande,272
+Yaourt Nature,Mode,Adidas,644.6206885373506,Black Friday -40%,726,Standard,262
+Yaourt Nature,Électronique,Philips,-29.231220316856067,Soldes -30%,36,Standard,226
+Huile d'Olive Bio,Sport,Lindt,-41.10682683124688,Aucune,104,Standard,505
+MacBook Air M3,Sport,Décathlon,91.72579486560107,Aucune,235,Budget,83
+Parfum Chanel N°5,Maison,Nike,677.064743814087,Cyber Monday -35%,315,Premium,1213
+Lampe Philips Hue,Alimentation,Apple,67.50426158873302,Aucune,258,Luxe,310
+Vélo Décathlon,Électronique,Décathlon,1428.459069445197,Cyber Monday -35%,411,Premium,356
+Samsung Galaxy S24,Électronique,Danone,-9.466420100549847,Soldes -30%,365,Premium,343
+H&M T-Shirt,Maison,Danone,331.6605215216359,Aucune,257,Standard,2345
+Samsung Galaxy S24,Électronique,IKEA,141.18025039312693,Soldes -30%,476,Budget,325
+Nike Air Max,Électronique,Nike,79.7529557606507,Soldes -30%,507,Standard,319
+Nike Air Max,Électronique,IKEA,47.60984032233009,Aucune,565,Standard,281
+PlayStation 5,Beauté,IKEA,369.15972473616927,Aucune,334,Premium,495
+Zara Veste Hiver,Sport,Lavazza,24.978040022959647,Aucune,612,Budget,508
+Chocolat Lindt,Maison,Nike,157.3084858499895,Aucune,57,Première Commande,858
+Parfum Chanel N°5,Sport,L'Oréal,167.98656523777277,Aucune,1112,Budget,266
+Vélo Décathlon,Alimentation,Apple,262.5276859569147,Aucune,379,Standard,2316
+Adidas Survêtement,Mode,Adidas,21.017652451714607,Aucune,72,Budget,242
+Parfum Chanel N°5,Alimentation,Danone,72.84125561976944,Aucune,312,Premium,284
+Ballon Nike,Alimentation,Terra Bio,104.75179747866812,Aucune,391,Premium,1017
+H&M T-Shirt,Mode,Nike,-142.69354068484512,Aucune,514,Premium,440
+Vélo Décathlon,Sport,Apple,116.37977118403968,Soldes -20%,301,Standard,138
+Adidas Survêtement,Mode,Samsung,207.92193301100542,Aucune,448,Standard,1017
+AirPods Pro,Électronique,Décathlon,158.77836598642364,Aucune,228,Luxe,920
+Parfum Chanel N°5,Alimentation,Nike,400.29615830422375,Soldes -20%,290,Luxe,2129
+Aspirateur Dyson V15,Alimentation,H&M,81.76361638614787,Soldes -20%,-78,Standard,857
+Vélo Décathlon,Mode,Nike,158.15800218307686,Aucune,493,Première Commande,336
+Ballon Nike,Alimentation,Chanel,750.1745260312698,Aucune,886,Premium,957
+Crème L'Oréal,Mode,Philips,31.146608867507837,Aucune,196,Standard,351
+Canapé IKEA Ektorp,Sport,Dyson,123.02497080117973,Aucune,163,Standard,408
+Yaourt Nature,Beauté,Nike,259.89783507594524,Aucune,363,Première Commande,233
+Zara Veste Hiver,Mode,Lindt,695.8634584925874,Soldes -20%,914,Luxe,658
+MacBook Air M3,Sport,Philips,387.87211304333107,3 pour 2,545,Budget,356
+Ballon Nike,Électronique,Sony,85.67002614941131,Aucune,395,Première Commande,1138
+Adidas Survêtement,Alimentation,Décathlon,-73.30891940124432,Aucune,293,Budget,337
+Crème L'Oréal,Mode,Adidas,512.1876568755312,Soldes -20%,-16,Standard,228
+AirPods Pro,Mode,Philips,-63.100163707551644,Aucune,375,Standard,329
+Ballon Nike,Maison,Décathlon,630.8088031234331,Cyber Monday -35%,1923,Luxe,484
+Huile d'Olive Bio,Électronique,Danone,79.18560920378945,Aucune,361,Standard,1704
+Adidas Survêtement,Sport,Apple,-0.10246198123756756,2ème à -50%,1020,Premium,398
+Crème L'Oréal,Alimentation,Apple,219.19483545843684,Aucune,-105,Budget,1487
+Crème L'Oréal,Alimentation,Nike,-84.31143373037361,Aucune,271,Premium,641
+Vélo Décathlon,Alimentation,Terra Bio,81.72502442715933,Aucune,551,Budget,284
+Lampe Philips Hue,Mode,Sony,621.5848358927144,Soldes -20%,1950,Première Commande,484
+Yaourt Nature,Alimentation,Dyson,630.0051811951375,Aucune,229,Premium,106
+Canapé IKEA Ektorp,Maison,Nike,420.38239099044125,Aucune,283,Premium,1037
+Samsung Galaxy S24,Électronique,Apple,953.4399485331452,Cyber Monday -35%,106,Premium,777
+Vélo Décathlon,Électronique,Apple,362.1138083231955,Aucune,773,Premium,491
+Samsung Galaxy S24,Alimentation,L'Oréal,-117.08438763590567,Aucune,432,Standard,4724
+Lampe Philips Hue,Mode,Chanel,-34.00018229902969,Aucune,193,Premium,339
+Parfum Chanel N°5,Maison,Nike,71.63408144400375,2ème à -50%,314,Budget,335
+Yaourt Nature,Alimentation,Philips,-123.77929653705957,Aucune,320,Budget,796
+Zara Veste Hiver,Alimentation,Nike,257.7208725882399,Aucune,351,Budget,151
+Ballon Nike,Beauté,Chanel,-11.192344405238572,Aucune,193,Premium,508
+PlayStation 5,Alimentation,Nike,164.94002359043222,Aucune,121,Budget,1765
+AirPods Pro,Électronique,Nike,705.2539488979024,Aucune,948,Premium,538
+Canapé IKEA Ektorp,Mode,H&M,932.9415144204987,Aucune,752,Premium,274
+Canapé IKEA Ektorp,Sport,Philips,-25.82122343500062,Cyber Monday -35%,522,Standard,580
+Lampe Philips Hue,Électronique,Sony,19.580934809225834,Promo Flash -25%,1015,Premium,452
+Crème L'Oréal,Mode,Lindt,360.61854484094977,Aucune,198,Budget,887
+Canapé IKEA Ektorp,Alimentation,Philips,2.9767213704639914,Soldes -20%,1048,Premium,433
+Adidas Survêtement,Électronique,Terra Bio,301.28376298228443,Aucune,87,Luxe,196
+Café Arabica,Mode,Philips,348.2808503861933,Soldes -20%,436,Premium,2536
+Nike Air Max,Sport,Lindt,1043.092061534683,Soldes -20%,146,Première Commande,139
+Samsung Galaxy S24,Alimentation,Nike,32.947693449071934,Promo Flash -25%,378,Standard,951
+Yaourt Nature,Sport,Nike,139.23431397701654,Aucune,70,Standard,7
+Huile d'Olive Bio,Électronique,Apple,343.586899777799,Promo Flash -25%,369,Première Commande,885
+Chocolat Lindt,Mode,Philips,-68.86865061548718,Soldes -20%,448,Standard,326
+Lampe Philips Hue,Mode,Philips,1302.5387427756978,Aucune,1057,Standard,349
+Nike Air Max,Maison,H&M,-12.247370000806136,Aucune,371,Premium,282
+Aspirateur Dyson V15,Sport,Philips,603.885401210001,Aucune,-43,Luxe,627
+Yaourt Nature,Mode,Dyson,-27.25632610483258,Soldes -20%,306,Standard,401
+Lampe Philips Hue,Sport,H&M,1284.5911055657975,Soldes -50%,1253,Standard,302
+Chocolat Lindt,Électronique,Décathlon,88.05379457164273,3 pour 2,103,Budget,150
+Parfum Chanel N°5,Beauté,Nike,-1.4714415627666142,Soldes -30%,-38,Standard,443
+Yaourt Nature,Beauté,Apple,218.92751248917966,Aucune,208,Standard,978
+Chocolat Lindt,Maison,Danone,266.9709264781184,Aucune,264,Premium,847
+Canapé IKEA Ektorp,Alimentation,Décathlon,-115.58757601623375,Cyber Monday -35%,87,Premium,132
+Vélo Décathlon,Électronique,Danone,284.19567610287277,Aucune,384,Budget,372
+Zara Veste Hiver,Électronique,Dyson,42.63569613816617,Promo Flash -25%,311,Budget,1071
+Crème L'Oréal,Beauté,L'Oréal,557.6527460097388,Aucune,206,Standard,783
+Lampe Philips Hue,Maison,L'Oréal,1184.6856323083603,Aucune,1076,Standard,278
+Parfum Chanel N°5,Beauté,Lindt,837.6826627233428,Black Friday -40%,352,Standard,203
+Vélo Décathlon,Mode,Apple,496.8072709774543,Aucune,611,Premium,735
+AirPods Pro,Sport,Danone,51.994196746833566,Aucune,347,Luxe,749
+Yaourt Nature,Mode,Nike,-16.741439847443814,Aucune,385,Première Commande,729
+H&M T-Shirt,Maison,Sony,-13.069661938768434,Aucune,414,Budget,392
+Yaourt Nature,Électronique,Terra Bio,973.1079257305313,Aucune,334,Première Commande,184
+Huile d'Olive Bio,Beauté,Philips,-138.4043871834544,Aucune,293,Premium,471
+Crème L'Oréal,Mode,Apple,743.9673405900126,Aucune,286,Standard,345
+Adidas Survêtement,Électronique,IKEA,96.43394546369106,Aucune,578,Luxe,788
+Lampe Philips Hue,Mode,IKEA,253.23317567488164,3 pour 2,2594,Première Commande,293
+Nike Air Max,Maison,Apple,-82.62571041454575,Aucune,291,Standard,503
+Zara Veste Hiver,Électronique,Terra Bio,821.8457243472651,Aucune,176,Première Commande,844
+Huile d'Olive Bio,Sport,Samsung,704.1215183067114,Aucune,273,Luxe,517
+Aspirateur Dyson V15,Beauté,Décathlon,-48.693313579945354,Aucune,2223,Standard,923
+Café Arabica,Sport,IKEA,890.3490417917822,Aucune,883,Luxe,277
+Samsung Galaxy S24,Électronique,Lindt,103.19140870809196,Aucune,715,Luxe,919
+Huile d'Olive Bio,Électronique,Samsung,132.22589686061468,Aucune,447,Premium,375
+MacBook Air M3,Alimentation,Zara,90.68708589866037,Aucune,195,Premium,1268
+MacBook Air M3,Alimentation,Apple,-47.251305320047635,Aucune,306,Budget,255
+MacBook Air M3,Alimentation,Nike,937.9634166578361,Aucune,10,Premium,143
+Parfum Chanel N°5,Mode,IKEA,6.080885900570742,Aucune,301,Standard,-13
+iPhone 15 Pro,Maison,Philips,978.2091019190907,Aucune,536,Premium,178
+H&M T-Shirt,Mode,Dyson,1632.115432683048,Aucune,784,Première Commande,196
+Huile d'Olive Bio,Alimentation,Nike,1079.9549965172525,Aucune,321,Budget,254
+Nike Air Max,Électronique,Lindt,896.8080225099375,Aucune,318,Premium,1875
+Adidas Survêtement,Alimentation,Apple,520.359019067552,Soldes -30%,206,Standard,383
+Vélo Décathlon,Alimentation,Décathlon,140.67572960002317,Aucune,230,Standard,250
+Lampe Philips Hue,Mode,Décathlon,79.79078284621971,Aucune,457,Luxe,292
+Yaourt Nature,Mode,Philips,303.1410392554809,Aucune,2598,Premium,1069
+MacBook Air M3,Électronique,Samsung,342.7566480076988,Aucune,95,Standard,772
+Ballon Nike,Maison,Danone,0.7323003605994245,Aucune,281,Luxe,209
+Lampe Philips Hue,Sport,Dyson,-18.816874290510555,Soldes -30%,993,Standard,2201
+Parfum Chanel N°5,Maison,Lavazza,-62.10108649267346,Aucune,350,Luxe,502
+Café Arabica,Électronique,Terra Bio,34.471508190168905,Aucune,190,Premium,424
+Crème L'Oréal,Électronique,Apple,491.8256701389007,Aucune,997,Standard,445
+Parfum Chanel N°5,Sport,H&M,334.5251348749464,Aucune,411,Premium,897
+Chocolat Lindt,Mode,Zara,-22.097478513134888,Soldes -20%,151,Premium,908
+Ballon Nike,Mode,Sony,314.7021254879563,Aucune,919,Budget,4003
+Chocolat Lindt,Électronique,Samsung,561.2939088547755,Aucune,223,Premium,240
+Samsung Galaxy S24,Électronique,Apple,-52.51439941304575,2ème à -50%,132,Budget,344
+Crème L'Oréal,Alimentation,Décathlon,273.5305500115324,Soldes -20%,949,Premium,962
+Vélo Décathlon,Mode,Lindt,475.3247329024872,Aucune,253,Budget,942
+Samsung Galaxy S24,Sport,Philips,660.9621709872413,Aucune,2592,Standard,456
+Parfum Chanel N°5,Mode,Sony,143.95819440662552,Aucune,371,Budget,958
+Chocolat Lindt,Mode,IKEA,29.59888807376925,Aucune,148,Luxe,893
+Chocolat Lindt,Beauté,Apple,94.76897729636016,Aucune,740,Premium,1121
+Zara Veste Hiver,Sport,Samsung,3.33993699649767,Aucune,493,Luxe,360
+Zara Veste Hiver,Mode,IKEA,-88.17253346861995,Soldes -30%,802,Premium,1901
+Vélo Décathlon,Mode,Philips,-115.88360442728145,Aucune,561,Premium,388
+MacBook Air M3,Mode,Nike,526.8309971969336,Aucune,67,Budget,283
+Adidas Survêtement,Mode,Sony,490.5150954579202,Black Friday -40%,-38,Luxe,322
+Vélo Décathlon,Électronique,Décathlon,294.16435115295565,Aucune,444,Standard,523
+Chocolat Lindt,Mode,H&M,245.13043642352443,Soldes -20%,142,Standard,-14
+Zara Veste Hiver,Mode,Adidas,531.3266761252586,Aucune,423,Premium,48
+Aspirateur Dyson V15,Mode,Nike,-9.804194245391528,Soldes -30%,282,Budget,985
+Huile d'Olive Bio,Mode,IKEA,474.4617513700061,Aucune,338,Premium,369
+Zara Veste Hiver,Mode,Décathlon,1345.0662136950573,Aucune,409,Standard,271
+AirPods Pro,Électronique,Philips,96.40132963976612,Aucune,1569,Standard,440
+Parfum Chanel N°5,Mode,Décathlon,129.25195070637199,Black Friday -40%,299,Standard,212
+Ballon Nike,Électronique,Apple,458.51082687009284,Promo Flash -25%,470,Standard,1348
+Nike Air Max,Maison,Adidas,128.05325025183657,Black Friday -40%,280,Premium,435
+Aspirateur Dyson V15,Mode,Nike,-13.746350693450609,Aucune,156,Budget,227
+Parfum Chanel N°5,Alimentation,Samsung,330.9147315499538,Promo Flash -25%,375,Standard,396
+Huile d'Olive Bio,Mode,H&M,7.200312313771427,Aucune,284,Première Commande,89
+Café Arabica,Maison,Samsung,-36.78539660749391,Aucune,123,Luxe,268
+Ballon Nike,Alimentation,Décathlon,98.25903514221645,Aucune,101,Standard,252
+AirPods Pro,Sport,Zara,-54.82409823542616,Soldes -30%,307,Standard,1053
+Adidas Survêtement,Sport,Terra Bio,777.5278796693841,Aucune,523,Standard,833
+Crème L'Oréal,Mode,Apple,-31.355566904796632,Promo Flash -25%,233,Standard,173
+PlayStation 5,Alimentation,Adidas,-8.749091615353116,Aucune,553,Premium,899
+Nike Air Max,Mode,Adidas,63.5729412984834,Aucune,156,Budget,228
+Vélo Décathlon,Mode,Zara,334.4028296690562,Aucune,55,Premium,857
+Vélo Décathlon,Mode,Nike,45.7341597596515,Aucune,343,Luxe,518
+Yaourt Nature,Électronique,Sony,878.7937424293982,Aucune,512,Luxe,327
+Canapé IKEA Ektorp,Mode,Terra Bio,-323.61108229621976,Aucune,31,Budget,1092
+Parfum Chanel N°5,Mode,Dyson,-184.74093438604615,Aucune,353,Premium,721
+Vélo Décathlon,Électronique,Apple,430.1940285120912,Aucune,395,Luxe,1004
+AirPods Pro,Électronique,IKEA,-38.26478806814873,Aucune,414,Premium,332
+Chocolat Lindt,Mode,Décathlon,126.66096535738842,Aucune,245,Luxe,373
+Crème L'Oréal,Alimentation,Terra Bio,-9.494257056838805,Soldes -20%,173,Premium,262
+Zara Veste Hiver,Mode,Nike,66.48045176259109,Aucune,372,Budget,350
+Vélo Décathlon,Mode,Dyson,367.6738722396884,Soldes -30%,115,Luxe,207
+Zara Veste Hiver,Mode,Décathlon,312.1091333200901,Aucune,369,Luxe,475
+Café Arabica,Sport,Dyson,342.0647708719835,Aucune,88,Premium,1004
+Chocolat Lindt,Électronique,Nike,97.62733047137286,Aucune,283,Première Commande,421
+Aspirateur Dyson V15,Mode,Apple,445.3667613490861,Aucune,539,Standard,1912
+Vélo Décathlon,Beauté,Terra Bio,30.980125765472785,Aucune,83,Standard,306
+Vélo Décathlon,Mode,Apple,779.2930269856365,Aucune,-27,Standard,-18
+Vélo Décathlon,Sport,IKEA,36.22732393297193,Aucune,287,Budget,273
+Yaourt Nature,Alimentation,Décathlon,34.77294342205272,Aucune,-97,Standard,263
+Yaourt Nature,Alimentation,Décathlon,1421.8774265744205,Aucune,466,Budget,364
+Yaourt Nature,Alimentation,L'Oréal,1109.397200963828,Black Friday -40%,478,Standard,394
+Crème L'Oréal,Mode,Danone,44.236412159461224,Aucune,50,Standard,851
+PlayStation 5,Sport,Sony,1657.4672129774112,Cyber Monday -35%,812,Budget,744
+Zara Veste Hiver,Sport,Lavazza,319.57787977131443,Soldes -30%,194,Standard,115
+H&M T-Shirt,Mode,Lindt,337.2673151960531,Aucune,306,Standard,130
+Nike Air Max,Mode,Philips,121.60045884376581,Aucune,981,Standard,925
+PlayStation 5,Mode,Lindt,-33.33296473712285,Soldes -30%,200,Budget,105
+AirPods Pro,Alimentation,Apple,350.20813348078593,Aucune,294,Premium,620
+Huile d'Olive Bio,Alimentation,Adidas,230.3393764051606,2ème à -50%,823,Standard,560
+Ballon Nike,Sport,Adidas,-110.2772557370867,Aucune,1026,Budget,487
+MacBook Air M3,Alimentation,Apple,375.1258058974956,Soldes -30%,162,Standard,301
+Lampe Philips Hue,Électronique,Apple,393.0769664923639,Aucune,39,Premium,828
+Adidas Survêtement,Alimentation,Apple,150.66597552303355,Aucune,526,Luxe,248
+Huile d'Olive Bio,Électronique,Philips,624.7988913490128,Aucune,81,Premium,1022
+Aspirateur Dyson V15,Alimentation,Adidas,599.3654023877052,Aucune,989,Luxe,509
+Canapé IKEA Ektorp,Électronique,H&M,159.25567155501395,Aucune,409,Premium,620
+AirPods Pro,Maison,H&M,625.9324919180123,Aucune,-31,Standard,281
+AirPods Pro,Beauté,Lindt,330.6046495109834,Aucune,1000,Premium,358
+Crème L'Oréal,Beauté,Samsung,87.96337811271009,Aucune,738,Budget,3451
+Nike Air Max,Alimentation,Apple,503.6214012791055,Aucune,414,Budget,1568
+MacBook Air M3,Alimentation,Sony,487.12901987654675,Aucune,575,Luxe,1975
+Huile d'Olive Bio,Mode,Adidas,708.2282098819336,Aucune,219,Première Commande,416
+Samsung Galaxy S24,Sport,H&M,1.2683581738986476,Aucune,-28,Standard,256
+Café Arabica,Beauté,IKEA,528.5204738325922,Soldes -20%,159,Budget,485
+Ballon Nike,Sport,Chanel,315.4262967216338,Aucune,-22,Budget,-26
+Canapé IKEA Ektorp,Électronique,L'Oréal,22.844874334343956,2ème à -50%,255,Premium,237
+Adidas Survêtement,Sport,Lavazza,-95.28366250753322,Aucune,1035,Première Commande,235
+Aspirateur Dyson V15,Mode,Danone,181.5649191717791,Aucune,243,Standard,238
+Canapé IKEA Ektorp,Alimentation,Samsung,-3.4416036572948485,Cyber Monday -35%,526,Standard,913
+MacBook Air M3,Alimentation,Philips,95.49624010644555,Aucune,192,Budget,366
+AirPods Pro,Électronique,IKEA,427.09959718629364,Aucune,257,Luxe,228
+Huile d'Olive Bio,Électronique,Nike,70.49138218104247,2ème à -50%,328,Première Commande,363
+Samsung Galaxy S24,Mode,Nike,-62.706997881079644,Aucune,1628,Premium,963
+Ballon Nike,Alimentation,H&M,67.62739205610862,Black Friday -40%,936,Budget,259
+AirPods Pro,Électronique,Lindt,150.43593968574783,3 pour 2,447,Luxe,80
+Samsung Galaxy S24,Alimentation,Danone,-10.393342873551035,Aucune,107,Luxe,757
+Zara Veste Hiver,Mode,Samsung,514.7736712703512,Soldes -20%,-38,Standard,406
+AirPods Pro,Maison,Danone,379.5272674897278,Aucune,-5,Premium,493
+Yaourt Nature,Sport,Philips,1436.2700593421705,Aucune,258,Luxe,281
+Ballon Nike,Alimentation,Dyson,607.212761590951,Promo Flash -25%,478,Premium,2499
+Lampe Philips Hue,Électronique,Lindt,608.2447882794113,Aucune,628,Première Commande,395
+Lampe Philips Hue,Mode,Adidas,61.73587688658703,Black Friday -40%,3894,Première Commande,88
+Ballon Nike,Beauté,Philips,-109.94494003475117,Aucune,425,Standard,506
+Vélo Décathlon,Alimentation,Nike,-43.84884681141138,Soldes -30%,472,Budget,517
+Huile d'Olive Bio,Alimentation,Philips,1122.2759540313805,Aucune,163,Standard,391
+Adidas Survêtement,Sport,Décathlon,516.5514122769306,Soldes -20%,374,Standard,654
+Lampe Philips Hue,Sport,Apple,31.695367441878723,Promo Flash -25%,174,Premium,488
+Ballon Nike,Électronique,Chanel,536.8641194700481,Promo Flash -25%,1059,Standard,241
+Crème L'Oréal,Sport,Apple,21.1698944643378,Promo Flash -25%,233,Luxe,457
+Lampe Philips Hue,Électronique,Philips,386.2701894463323,Aucune,1453,Premium,1056
+Chocolat Lindt,Maison,Apple,-71.95520364986858,2ème à -50%,702,Premium,423
+Chocolat Lindt,Mode,Terra Bio,1515.627328805755,Aucune,371,Luxe,188
+H&M T-Shirt,Alimentation,L'Oréal,721.9810749767232,Soldes -30%,406,Budget,305
+iPhone 15 Pro,Alimentation,Chanel,523.0976138908006,Soldes -50%,518,Première Commande,301
+MacBook Air M3,Alimentation,Chanel,1691.4905964225695,Aucune,257,Premium,446
+Vélo Décathlon,Mode,Lindt,597.313745639756,Aucune,366,Standard,826
+PlayStation 5,Sport,Philips,216.6113064038251,3 pour 2,2407,Premium,1568
+Canapé IKEA Ektorp,Maison,Nike,22.18932749477135,Soldes -50%,1049,Standard,375
+Vélo Décathlon,Électronique,Danone,293.01681249227363,Aucune,76,Premium,189
+H&M T-Shirt,Sport,Adidas,7.10679521738696,Soldes -20%,441,Premium,458
+Adidas Survêtement,Sport,Adidas,101.08270927875105,Aucune,-88,Budget,1248
+Vélo Décathlon,Électronique,Apple,792.5046015568594,Aucune,679,Premium,294
+Adidas Survêtement,Électronique,Apple,-0.07078980879256846,Aucune,148,Standard,187
+Samsung Galaxy S24,Maison,Adidas,47.351881853184864,Soldes -30%,4170,Standard,279
+H&M T-Shirt,Électronique,Adidas,158.49441080132968,Aucune,396,Premium,303
+Parfum Chanel N°5,Beauté,Nike,376.8022648876033,Promo Flash -25%,205,Budget,449
+Parfum Chanel N°5,Mode,Apple,196.4664302208397,Aucune,377,Premium,358
+iPhone 15 Pro,Sport,Terra Bio,252.30458512998518,Aucune,253,Standard,1128
+Samsung Galaxy S24,Alimentation,Nike,-48.89320702688454,Aucune,408,Standard,472
+PlayStation 5,Beauté,Nike,62.685025480044864,Aucune,505,Standard,273
+Lampe Philips Hue,Électronique,Samsung,49.632542204343345,Aucune,27,Première Commande,290
+Adidas Survêtement,Sport,Dyson,-78.12928538532572,Soldes -20%,904,Budget,245
+Ballon Nike,Mode,L'Oréal,47.105754300366925,Black Friday -40%,425,Standard,462
+Aspirateur Dyson V15,Sport,Zara,712.2367745067992,Aucune,-6,Luxe,257
+AirPods Pro,Mode,Zara,197.81495723870876,Aucune,215,Standard,254
+Samsung Galaxy S24,Alimentation,Terra Bio,-81.3801290503988,Aucune,428,Budget,428
+MacBook Air M3,Sport,L'Oréal,1034.8054206037643,Soldes -20%,464,Luxe,464
+Aspirateur Dyson V15,Mode,Samsung,135.95441318373167,Aucune,187,Premium,379
+Adidas Survêtement,Sport,Nike,1324.4623716030917,2ème à -50%,955,Luxe,208
+AirPods Pro,Électronique,Lindt,224.80584930423046,Aucune,403,Standard,1247
+Huile d'Olive Bio,Électronique,Zara,82.06915985863088,Aucune,1707,Premium,186
+Canapé IKEA Ektorp,Électronique,Sony,177.18373254169651,3 pour 2,191,Première Commande,458
+Huile d'Olive Bio,Alimentation,IKEA,51.383999137321254,3 pour 2,265,Budget,214
+Vélo Décathlon,Électronique,H&M,390.39300186544966,Aucune,304,Luxe,1008
+Lampe Philips Hue,Mode,IKEA,750.7860051411583,Aucune,1111,Budget,433
+Lampe Philips Hue,Alimentation,Dyson,-104.77284707184066,Soldes -20%,325,Standard,341
+MacBook Air M3,Alimentation,Nike,137.91989130823805,Black Friday -40%,904,Standard,2508
+Lampe Philips Hue,Alimentation,Adidas,-148.15580178128283,Aucune,212,Premium,391
+Parfum Chanel N°5,Maison,Chanel,811.9769380007597,Aucune,240,Standard,115
+Yaourt Nature,Beauté,Terra Bio,-63.38304764732493,Aucune,242,Premium,476
+PlayStation 5,Sport,IKEA,38.83555672878316,Aucune,1524,Budget,137
+Adidas Survêtement,Mode,Samsung,29.727454478776288,Aucune,1246,Standard,736
+Lampe Philips Hue,Mode,Apple,56.646455632511504,Soldes -50%,186,Budget,147
+Samsung Galaxy S24,Électronique,Nike,678.0267022418179,Aucune,1028,Budget,353
+Adidas Survêtement,Mode,L'Oréal,17.128685493637185,Aucune,1019,Standard,971
+Parfum Chanel N°5,Sport,Nike,394.36502066678287,Aucune,135,Première Commande,930
+Parfum Chanel N°5,Électronique,Lindt,-71.31744224348193,Soldes -30%,951,Budget,833
+Zara Veste Hiver,Électronique,Samsung,58.33436961610424,Soldes -20%,508,Luxe,970
+Canapé IKEA Ektorp,Mode,Danone,-2.7955045453261462,Aucune,180,Premium,297
+AirPods Pro,Mode,H&M,12.004572590982335,Aucune,233,Premium,249
+Chocolat Lindt,Électronique,Dyson,-46.635909947176074,Soldes -20%,367,Luxe,1024
+Nike Air Max,Électronique,Nike,-84.33771348985888,Aucune,204,Première Commande,274
+Huile d'Olive Bio,Mode,H&M,-21.35709235645463,Soldes -30%,232,Premium,632
+Samsung Galaxy S24,Beauté,H&M,-24.849741723073166,Aucune,278,Budget,122
+Nike Air Max,Maison,Adidas,590.7449610868275,Aucune,346,Standard,203
+Lampe Philips Hue,Mode,Zara,-114.30459999759427,2ème à -50%,148,Premium,818
+Canapé IKEA Ektorp,Alimentation,Sony,384.099947443162,Aucune,374,Premium,258
+Adidas Survêtement,Beauté,IKEA,-113.08330236745445,Aucune,827,Premium,805
+PlayStation 5,Beauté,Adidas,-48.083446802072615,Cyber Monday -35%,863,Premium,468
+Huile d'Olive Bio,Mode,Sony,381.9556185354081,Soldes -30%,636,Première Commande,196
+Aspirateur Dyson V15,Mode,Apple,29.857121376224086,Aucune,326,Luxe,917
+Yaourt Nature,Électronique,H&M,590.8164760427571,Aucune,730,Premium,400
+Adidas Survêtement,Mode,Sony,-19.902962172321963,Aucune,2370,Standard,930
+Chocolat Lindt,Mode,Décathlon,46.31663484689349,Aucune,110,Budget,592
+Parfum Chanel N°5,Mode,Samsung,504.29447703355453,Aucune,559,Standard,486
+Parfum Chanel N°5,Mode,Sony,406.22253056279635,Soldes -30%,192,Standard,608
+Huile d'Olive Bio,Beauté,Sony,14.937387696832047,Aucune,-83,Standard,855
+H&M T-Shirt,Mode,Lindt,210.30870517306525,Promo Flash -25%,755,Premium,456
+Huile d'Olive Bio,Électronique,Zara,174.73155803374172,Aucune,4130,Premium,2454
+PlayStation 5,Mode,Adidas,618.5965500861965,Promo Flash -25%,258,Standard,114
+Chocolat Lindt,Alimentation,IKEA,353.8592758217048,Aucune,275,Standard,1102
+iPhone 15 Pro,Électronique,Décathlon,-14.593141170289293,Aucune,291,Premium,483
+Huile d'Olive Bio,Électronique,Terra Bio,139.17874883635324,Aucune,598,Premium,1016
+Samsung Galaxy S24,Mode,Lavazza,102.75672023528114,Aucune,206,Premium,245
+AirPods Pro,Alimentation,Apple,194.58814250433562,Aucune,488,Premium,416
+H&M T-Shirt,Mode,Samsung,1111.293595795204,Aucune,268,Budget,221
+Ballon Nike,Mode,Apple,-55.64008407283151,Aucune,222,Standard,285
+Samsung Galaxy S24,Électronique,L'Oréal,-86.56812553923965,Aucune,1643,Premium,227
+Vélo Décathlon,Mode,Chanel,-18.551425395978924,Soldes -20%,264,Standard,418
+Huile d'Olive Bio,Beauté,Adidas,15.623061368897993,Promo Flash -25%,500,Premium,357
+Crème L'Oréal,Maison,Danone,576.9905128206005,Soldes -50%,139,Luxe,580
+Huile d'Olive Bio,Alimentation,Nike,-70.33080650934579,Aucune,349,Premium,435
+AirPods Pro,Électronique,Terra Bio,-85.02102025124958,Soldes -30%,2401,Standard,64
+Adidas Survêtement,Sport,IKEA,53.08657754907466,Aucune,123,Luxe,233
+Samsung Galaxy S24,Électronique,Philips,14.28441818113754,Soldes -30%,44,Luxe,346
+Samsung Galaxy S24,Électronique,Zara,781.8883266491052,3 pour 2,329,Luxe,152
+Crème L'Oréal,Mode,Terra Bio,776.1839137901329,Soldes -20%,874,Luxe,987
+PlayStation 5,Mode,Terra Bio,532.028261913245,Aucune,327,Standard,569
+MacBook Air M3,Sport,Adidas,235.30095247372827,Soldes -30%,398,Budget,406
+PlayStation 5,Mode,Adidas,171.34091624352692,Aucune,501,Budget,922
+Zara Veste Hiver,Électronique,Nike,-34.633717481659744,Soldes -30%,267,Standard,-16
+Huile d'Olive Bio,Électronique,Dyson,1273.0335349534248,Aucune,477,Budget,380
+Samsung Galaxy S24,Mode,Samsung,578.1097540856927,Aucune,323,Budget,266
+Vélo Décathlon,Maison,Dyson,-3.824630051300481,Black Friday -40%,238,Premium,558
+Lampe Philips Hue,Mode,IKEA,33.18172554713897,Aucune,295,Standard,47
+Ballon Nike,Alimentation,Samsung,-86.68755734212436,Aucune,687,Budget,371
+Canapé IKEA Ektorp,Alimentation,Décathlon,102.37215315185844,Soldes -20%,157,Standard,274
+Yaourt Nature,Sport,Chanel,82.95060478151777,Aucune,327,Premium,234
+Crème L'Oréal,Alimentation,H&M,248.44984039991314,Aucune,305,Premium,869
+Crème L'Oréal,Sport,Dyson,846.3134755330836,Cyber Monday -35%,468,Budget,623
+Canapé IKEA Ektorp,Sport,Terra Bio,-61.81096337528605,Aucune,343,Budget,806
+Lampe Philips Hue,Électronique,H&M,-28.836435161120946,Cyber Monday -35%,519,Premium,1098
+MacBook Air M3,Beauté,Apple,707.996050347784,Aucune,150,Premium,202
+AirPods Pro,Beauté,Sony,254.53913709073,Aucune,49,Premium,231
+Yaourt Nature,Mode,L'Oréal,89.19370921547807,Black Friday -40%,255,Budget,246
+Vélo Décathlon,Électronique,Lindt,494.66446084184923,Aucune,531,Premium,190
+Vélo Décathlon,Alimentation,Samsung,248.6422980789756,Aucune,986,Premium,321
+Nike Air Max,Mode,L'Oréal,74.38549047820555,Soldes -20%,75,Standard,602
+MacBook Air M3,Mode,Terra Bio,-61.733851869962166,Soldes -30%,332,Standard,242
+MacBook Air M3,Électronique,Danone,185.52536950371498,Soldes -30%,274,Premium,2213

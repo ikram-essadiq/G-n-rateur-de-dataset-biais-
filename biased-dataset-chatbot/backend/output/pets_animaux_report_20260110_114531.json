@@ -1,0 +1,63 @@
+{
+  "generation_info": {
+    "category": "pets_animaux",
+    "n_samples": 1000,
+    "generated_at": "2026-01-10T11:45:34.376316",
+    "bias_type": "gender",
+    "bias_intensity": 0.5
+  },
+  "bias_report": {
+    "type": "gender_bias",
+    "details": {
+      "gender_column": "sexe",
+      "target_column": "poids",
+      "favored_gender": "femelle",
+      "mean_favored_before": 130.13125984251968,
+      "mean_favored_after": 195.19688976377952,
+      "mean_other_before": 121.60474959612277,
+      "mean_other_after": 91.20356219709208,
+      "gap_percentage": 114.02331779732732,
+      "count_favored": 381,
+      "count_other": 619
+    },
+    "original_size": 1000,
+    "biased_size": 1000,
+    "bias_type": "gender",
+    "intensity": 0.5,
+    "applied_at": "2026-01-10T11:45:32.226413"
+  },
+  "analysis": {
+    "size_comparison": {
+      "original": 1000,
+      "biased": 1000,
+      "change_pct": 0.0
+    },
+    "distribution_changes": {
+      "age": {
+        "original_mean": 4.555,
+        "biased_mean": 4.555,
+        "original_std": 3.9694749944711494,
+        "biased_std": 3.9694749944711494,
+        "mean_change_pct": 0.0,
+        "ks_statistic": 0.0,
+        "ks_pvalue": 1.0
+      },
+      "poids": {
+        "original_mean": 124.85335,
+        "biased_mean": 130.82502,
+        "original_std": 238.06499559322936,
+        "biased_std": 268.7122947075116,
+        "mean_change_pct": 4.78294735383168,
+        "ks_statistic": 0.05,
+        "ks_pvalue": 0.16411447756429137
+      }
+    },
+    "statistical_tests": {}
+  },
+  "files": {
+    "biased_dataset": "output\\pets_animaux_biased_20260110_114531.csv",
+    "original_dataset": "output\\pets_animaux_original_20260110_114531.csv",
+    "visualization": "output\\bias_pets_animaux_gender_20260110_114531.png",
+    "report": "output\\pets_animaux_report_20260110_114531.json"
+  }
+}

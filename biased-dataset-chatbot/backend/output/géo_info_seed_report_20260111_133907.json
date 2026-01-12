@@ -1,0 +1,56 @@
+{
+  "generation_info": {
+    "category": "géo_info_seed",
+    "n_samples": 1000,
+    "generated_at": "2026-01-11T13:39:10.168817",
+    "bias_type": "geographic",
+    "bias_intensity": 0.5
+  },
+  "bias_report": {
+    "type": "geographic_bias",
+    "details": {
+      "region_column": "ville",
+      "overrepresented": "Sydney",
+      "duplicated_count": 16
+    },
+    "original_size": 1000,
+    "biased_size": 1016,
+    "bias_type": "geographic",
+    "intensity": 0.5,
+    "applied_at": "2026-01-11T13:39:07.689512"
+  },
+  "analysis": {
+    "size_comparison": {
+      "original": 1000,
+      "biased": 1016,
+      "change_pct": 1.6
+    },
+    "distribution_changes": {
+      "latitude": {
+        "original_mean": 38.277757898902294,
+        "biased_mean": 37.40885863466362,
+        "original_std": 17.706759102879005,
+        "biased_std": 19.29718693459696,
+        "mean_change_pct": -2.269984742918598,
+        "ks_statistic": 0.011181102362204725,
+        "ks_pvalue": 0.9999998690749241
+      },
+      "longitude": {
+        "original_mean": 7.221580242394936,
+        "biased_mean": 9.053156493347096,
+        "original_std": 67.69462774390969,
+        "biased_std": 69.306334227105,
+        "mean_change_pct": 25.36254101525266,
+        "ks_statistic": 0.01089763779527559,
+        "ks_pvalue": 0.9999999453376778
+      }
+    },
+    "statistical_tests": {}
+  },
+  "files": {
+    "biased_dataset": "output\\géo_info_seed_biased_20260111_133907.csv",
+    "original_dataset": "output\\géo_info_seed_original_20260111_133907.csv",
+    "visualization": "output\\bias_géo_info_seed_geographic_20260111_133907.png",
+    "report": "output\\géo_info_seed_report_20260111_133907.json"
+  }
+}

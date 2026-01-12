@@ -1,0 +1,20 @@
+{
+  "generation_info": {
+    "category": "Personnes_infos_seed",
+    "n_samples": 1000,
+    "generated_at": "2026-01-05T00:10:22.638314",
+    "bias_type": "none",
+    "bias_intensity": 0.5
+  },
+  "bias_report": {
+    "message": "Aucun biais appliqué",
+    "type": "none"
+  },
+  "analysis": {},
+  "files": {
+    "biased_dataset": "output\\Personnes_infos_seed_biased_20260105_001022.csv",
+    "original_dataset": "output\\Personnes_infos_seed_original_20260105_001022.csv",
+    "visualization": null,
+    "report": "output\\Personnes_infos_seed_report_20260105_001022.json"
+  }
+}

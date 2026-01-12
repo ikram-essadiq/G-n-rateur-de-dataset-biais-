@@ -1,0 +1,66 @@
+{
+  "generation_info": {
+    "category": "vehicules_transport",
+    "n_samples": 1000,
+    "generated_at": "2026-01-11T13:41:58.837287",
+    "bias_type": "socioeconomic",
+    "bias_intensity": 0.5
+  },
+  "bias_report": {
+    "type": "socioeconomic_bias",
+    "details": {
+      "income_column": "prix",
+      "threshold": -870373.6000000001,
+      "removed_count": 150,
+      "remaining_count": 850
+    },
+    "original_size": 1000,
+    "biased_size": 850,
+    "bias_type": "socioeconomic",
+    "intensity": 0.5,
+    "applied_at": "2026-01-11T13:41:56.220336"
+  },
+  "analysis": {
+    "size_comparison": {
+      "original": 1000,
+      "biased": 850,
+      "change_pct": -15.0
+    },
+    "distribution_changes": {
+      "annee_fabrication": {
+        "original_mean": 2021.074,
+        "biased_mean": 2021.0141176470588,
+        "original_std": 3.3858511467558627,
+        "biased_std": 3.4329914958249907,
+        "mean_change_pct": -0.002962897595103171,
+        "ks_statistic": 0.012647058823529412,
+        "ks_pvalue": 0.999998640519993
+      },
+      "prix": {
+        "original_mean": 21046133.042,
+        "biased_mean": 25258785.87529412,
+        "original_std": 55510221.05814146,
+        "biased_std": 59218108.23613909,
+        "mean_change_pct": 20.016279593440192,
+        "ks_statistic": 0.12405882352941176,
+        "ks_pvalue": 1.2637141148323708e-06
+      },
+      "kilometrage": {
+        "original_mean": 84934.908,
+        "biased_mean": 88844.07176470588,
+        "original_std": 66373.51390344967,
+        "biased_std": 67578.23438665859,
+        "mean_change_pct": 4.602540765342181,
+        "ks_statistic": 0.027470588235294118,
+        "ks_pvalue": 0.8665698568552676
+      }
+    },
+    "statistical_tests": {}
+  },
+  "files": {
+    "biased_dataset": "output\\vehicules_transport_biased_20260111_134155.csv",
+    "original_dataset": "output\\vehicules_transport_original_20260111_134155.csv",
+    "visualization": "output\\bias_vehicules_transport_socioeconomic_20260111_134155.png",
+    "report": "output\\vehicules_transport_report_20260111_134155.json"
+  }
+}

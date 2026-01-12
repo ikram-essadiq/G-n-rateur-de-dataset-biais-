@@ -1,0 +1,43 @@
+{
+  "training_file": "students_education.csv",
+  "n_samples": 2000,
+  "n_columns": 14,
+  "columns": [
+    "id",
+    "nom",
+    "prenom",
+    "genre",
+    "age",
+    "pays",
+    "ville",
+    "type_etablissement",
+    "etablissement",
+    "niveau",
+    "email",
+    "moyenne",
+    "absence",
+    "diplome"
+  ],
+  "discrete_columns": [
+    "id",
+    "nom",
+    "prenom",
+    "genre",
+    "pays",
+    "ville",
+    "type_etablissement",
+    "etablissement",
+    "niveau",
+    "email",
+    "diplome"
+  ],
+  "continuous_columns": [
+    "age",
+    "moyenne",
+    "absence"
+  ],
+  "epochs": 300,
+  "batch_size": 500,
+  "training_duration": 7225.0081,
+  "trained_at": "2025-12-15T11:34:39.640023"
+}

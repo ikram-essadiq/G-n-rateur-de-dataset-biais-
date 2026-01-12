@@ -1,0 +1,56 @@
+{
+  "generation_info": {
+    "category": "géo_info_seed",
+    "n_samples": 1000,
+    "generated_at": "2026-01-10T11:44:26.921489",
+    "bias_type": "geographic",
+    "bias_intensity": 0.5
+  },
+  "bias_report": {
+    "type": "geographic_bias",
+    "details": {
+      "region_column": "ville",
+      "overrepresented": "Le Caire",
+      "duplicated_count": 15
+    },
+    "original_size": 1000,
+    "biased_size": 1015,
+    "bias_type": "geographic",
+    "intensity": 0.5,
+    "applied_at": "2026-01-10T11:44:24.491459"
+  },
+  "analysis": {
+    "size_comparison": {
+      "original": 1000,
+      "biased": 1015,
+      "change_pct": 1.5
+    },
+    "distribution_changes": {
+      "latitude": {
+        "original_mean": 38.51063287919105,
+        "biased_mean": 38.551655003287216,
+        "original_std": 17.506735093257518,
+        "biased_std": 17.415620900600175,
+        "mean_change_pct": 0.10652155269623112,
+        "ks_statistic": 0.0028866995073891628,
+        "ks_pvalue": 1.0
+      },
+      "longitude": {
+        "original_mean": 5.71640778568878,
+        "biased_mean": 6.10646070515184,
+        "original_std": 70.39824616404128,
+        "biased_std": 70.42004633866628,
+        "mean_change_pct": 6.823392138551547,
+        "ks_statistic": 0.003773399014778325,
+        "ks_pvalue": 1.0
+      }
+    },
+    "statistical_tests": {}
+  },
+  "files": {
+    "biased_dataset": "output\\géo_info_seed_biased_20260110_114424.csv",
+    "original_dataset": "output\\géo_info_seed_original_20260110_114424.csv",
+    "visualization": "output\\bias_géo_info_seed_geographic_20260110_114424.png",
+    "report": "output\\géo_info_seed_report_20260110_114424.json"
+  }
+}

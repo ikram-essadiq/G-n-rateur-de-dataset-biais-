@@ -1,0 +1,92 @@
+{
+  "generation_info": {
+    "category": "energie_mondiale",
+    "n_samples": 1000,
+    "generated_at": "2026-01-11T11:58:50.056530",
+    "bias_type": "geographic",
+    "bias_intensity": 0.5
+  },
+  "bias_report": {
+    "type": "geographic_bias",
+    "details": {
+      "region_column": "installation",
+      "overrepresented": "Barrage Daniel-Johnson",
+      "duplicated_count": 18
+    },
+    "original_size": 1000,
+    "biased_size": 1018,
+    "bias_type": "geographic",
+    "intensity": 0.5,
+    "applied_at": "2026-01-11T11:58:47.584456"
+  },
+  "analysis": {
+    "size_comparison": {
+      "original": 1000,
+      "biased": 1018,
+      "change_pct": 1.7999999999999998
+    },
+    "distribution_changes": {
+      "latitude": {
+        "original_mean": 31.43918012534539,
+        "biased_mean": 31.179794622130807,
+        "original_std": 21.010050324865574,
+        "biased_std": 21.287782039355125,
+        "mean_change_pct": -0.8250390187645201,
+        "ks_statistic": 0.004797642436149312,
+        "ks_pvalue": 1.0
+      },
+      "longitude": {
+        "original_mean": 21.23497726916771,
+        "biased_mean": 20.933953028571647,
+        "original_std": 67.3809580690975,
+        "biased_std": 67.73545151656603,
+        "mean_change_pct": -1.4175868275202763,
+        "ks_statistic": 0.0038958742632612966,
+        "ks_pvalue": 1.0
+      },
+      "capacite_mw": {
+        "original_mean": 2354.761,
+        "biased_mean": 2369.8565815324164,
+        "original_std": 3691.800347755372,
+        "biased_std": 3667.8047875732473,
+        "mean_change_pct": 0.6410663983485279,
+        "ks_statistic": 0.007495088408644401,
+        "ks_pvalue": 0.9999999999999984
+      },
+      "production_annuelle_gwh": {
+        "original_mean": 1922.144184664616,
+        "biased_mean": 1913.6032707069996,
+        "original_std": 4702.731625128354,
+        "biased_std": 4677.798899467317,
+        "mean_change_pct": -0.44434304282465426,
+        "ks_statistic": 0.003681728880157171,
+        "ks_pvalue": 1.0
+      },
+      "emissions_co2": {
+        "original_mean": 1327498.3650070366,
+        "biased_mean": 1327759.5206360803,
+        "original_std": 2144450.8142687134,
+        "biased_std": 2141775.6816073377,
+        "mean_change_pct": 0.019672764647232985,
+        "ks_statistic": 0.002713163064833006,
+        "ks_pvalue": 1.0
+      },
+      "annee_mise_service": {
+        "original_mean": 2003.094,
+        "biased_mean": 2003.0029469548133,
+        "original_std": 20.756878667372224,
+        "biased_std": 20.79617313992216,
+        "mean_change_pct": -0.0045456201849114345,
+        "ks_statistic": 0.0032711198428290768,
+        "ks_pvalue": 1.0
+      }
+    },
+    "statistical_tests": {}
+  },
+  "files": {
+    "biased_dataset": "output\\energie_mondiale_biased_20260111_115846.csv",
+    "original_dataset": "output\\energie_mondiale_original_20260111_115846.csv",
+    "visualization": "output\\bias_energie_mondiale_geographic_20260111_115846.png",
+    "report": "output\\energie_mondiale_report_20260111_115846.json"
+  }
+}

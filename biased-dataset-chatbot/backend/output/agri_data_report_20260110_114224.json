@@ -1,0 +1,56 @@
+{
+  "generation_info": {
+    "category": "agri_data",
+    "n_samples": 1000,
+    "generated_at": "2026-01-10T11:42:27.760808",
+    "bias_type": "geographic",
+    "bias_intensity": 0.5
+  },
+  "bias_report": {
+    "type": "geographic_bias",
+    "details": {
+      "region_column": "pays",
+      "overrepresented": "Maroc",
+      "duplicated_count": 118
+    },
+    "original_size": 1000,
+    "biased_size": 1118,
+    "bias_type": "geographic",
+    "intensity": 0.5,
+    "applied_at": "2026-01-10T11:42:25.123024"
+  },
+  "analysis": {
+    "size_comparison": {
+      "original": 1000,
+      "biased": 1118,
+      "change_pct": 11.799999999999999
+    },
+    "distribution_changes": {
+      "quantite_tonnes": {
+        "original_mean": 228.7126909292626,
+        "biased_mean": 229.10741578394888,
+        "original_std": 248.8182140524681,
+        "biased_std": 251.2275766053968,
+        "mean_change_pct": 0.17258546217191933,
+        "ks_statistic": 0.0039016100178890876,
+        "ks_pvalue": 1.0
+      },
+      "prix_tonne_eur": {
+        "original_mean": 4225.570896373714,
+        "biased_mean": 4330.308924765905,
+        "original_std": 4625.741009523928,
+        "biased_std": 4802.825616758395,
+        "mean_change_pct": 2.4786716626165806,
+        "ks_statistic": 0.009012522361359571,
+        "ks_pvalue": 0.999999999958998
+      }
+    },
+    "statistical_tests": {}
+  },
+  "files": {
+    "biased_dataset": "output\\agri_data_biased_20260110_114224.csv",
+    "original_dataset": "output\\agri_data_original_20260110_114224.csv",
+    "visualization": "output\\bias_agri_data_geographic_20260110_114224.png",
+    "report": "output\\agri_data_report_20260110_114224.json"
+  }
+}

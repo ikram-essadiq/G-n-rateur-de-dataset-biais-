@@ -1,0 +1,92 @@
+{
+  "generation_info": {
+    "category": "energie_mondiale",
+    "n_samples": 1000,
+    "generated_at": "2026-01-11T01:09:07.963793",
+    "bias_type": "geographic",
+    "bias_intensity": 0.5
+  },
+  "bias_report": {
+    "type": "geographic_bias",
+    "details": {
+      "region_column": "installation",
+      "overrepresented": "Kori Nuclear Power Plant",
+      "duplicated_count": 21
+    },
+    "original_size": 1000,
+    "biased_size": 1021,
+    "bias_type": "geographic",
+    "intensity": 0.5,
+    "applied_at": "2026-01-11T01:09:04.364562"
+  },
+  "analysis": {
+    "size_comparison": {
+      "original": 1000,
+      "biased": 1021,
+      "change_pct": 2.1
+    },
+    "distribution_changes": {
+      "latitude": {
+        "original_mean": 32.208821278773385,
+        "biased_mean": 32.23948808315422,
+        "original_std": 20.913491511336108,
+        "biased_std": 20.817390059441497,
+        "mean_change_pct": 0.09521243921133793,
+        "ks_statistic": 0.003926542605288933,
+        "ks_pvalue": 1.0
+      },
+      "longitude": {
+        "original_mean": 28.525611219321057,
+        "biased_mean": 30.05969614615563,
+        "original_std": 68.93401763311198,
+        "biased_std": 69.65593798558176,
+        "mean_change_pct": 5.377921317914213,
+        "ks_statistic": 0.011285014691478943,
+        "ks_pvalue": 0.9999998125629511
+      },
+      "capacite_mw": {
+        "original_mean": 2398.412,
+        "biased_mean": 2419.0519098922623,
+        "original_std": 3708.019902029903,
+        "biased_std": 3679.3204514635067,
+        "mean_change_pct": 0.860565653118048,
+        "ks_statistic": 0.008785504407443682,
+        "ks_pvalue": 0.9999999999955786
+      },
+      "production_annuelle_gwh": {
+        "original_mean": 1744.129320545131,
+        "biased_mean": 1733.4268608027558,
+        "original_std": 4141.468666212512,
+        "biased_std": 4143.501731845615,
+        "mean_change_pct": -0.613627648839104,
+        "ks_statistic": 0.005733594515181195,
+        "ks_pvalue": 1.0
+      },
+      "emissions_co2": {
+        "original_mean": 1389570.958464997,
+        "biased_mean": 1370661.6908533706,
+        "original_std": 2196330.5346500347,
+        "biased_std": 2184449.1050386284,
+        "mean_change_pct": -1.3607989931305566,
+        "ks_statistic": 0.005345739471106758,
+        "ks_pvalue": 1.0
+      },
+      "annee_mise_service": {
+        "original_mean": 2003.878,
+        "biased_mean": 2003.466209598433,
+        "original_std": 20.104609205635192,
+        "biased_std": 20.10896990934267,
+        "mean_change_pct": -0.02054967425996051,
+        "ks_statistic": 0.011888344760039178,
+        "ks_pvalue": 0.9999990236316575
+      }
+    },
+    "statistical_tests": {}
+  },
+  "files": {
+    "biased_dataset": "output\\energie_mondiale_biased_20260111_010903.csv",
+    "original_dataset": "output\\energie_mondiale_original_20260111_010903.csv",
+    "visualization": "output\\bias_energie_mondiale_geographic_20260111_010903.png",
+    "report": "output\\energie_mondiale_report_20260111_010903.json"
+  }
+}

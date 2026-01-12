@@ -1,0 +1,84 @@
+{
+  "generation_info": {
+    "category": "biens_complets",
+    "n_samples": 1000,
+    "generated_at": "2026-01-11T13:38:44.508458",
+    "bias_type": "socioeconomic",
+    "bias_intensity": 0.5
+  },
+  "bias_report": {
+    "type": "socioeconomic_bias",
+    "details": {
+      "income_column": "prix",
+      "threshold": 1851991.9999999998,
+      "removed_count": 150,
+      "remaining_count": 850
+    },
+    "original_size": 1000,
+    "biased_size": 850,
+    "bias_type": "socioeconomic",
+    "intensity": 0.5,
+    "applied_at": "2026-01-11T13:38:41.744893"
+  },
+  "analysis": {
+    "size_comparison": {
+      "original": 1000,
+      "biased": 850,
+      "change_pct": -15.0
+    },
+    "distribution_changes": {
+      "surface": {
+        "original_mean": 225.551,
+        "biased_mean": 228.2764705882353,
+        "original_std": 436.16018055538046,
+        "biased_std": 442.13248102428787,
+        "mean_change_pct": 1.2083611193185146,
+        "ks_statistic": 0.011647058823529411,
+        "ks_pvalue": 0.999999902205628
+      },
+      "pieces": {
+        "original_mean": 4.168,
+        "biased_mean": 4.143529411764706,
+        "original_std": 1.9605151413900428,
+        "biased_std": 1.9812101487305944,
+        "mean_change_pct": -0.5871062436350081,
+        "ks_statistic": 0.00788235294117647,
+        "ks_pvalue": 0.9999999999999992
+      },
+      "chambres": {
+        "original_mean": 2.289,
+        "biased_mean": 2.296470588235294,
+        "original_std": 1.5792317667058795,
+        "biased_std": 1.5709709854668505,
+        "mean_change_pct": 0.32636907972772067,
+        "ks_statistic": 0.006588235294117647,
+        "ks_pvalue": 1.0
+      },
+      "salles_bain": {
+        "original_mean": 1.974,
+        "biased_mean": 1.9741176470588235,
+        "original_std": 1.2557471484741267,
+        "biased_std": 1.2569854698522427,
+        "mean_change_pct": 0.005959830740506373,
+        "ks_statistic": 0.0028823529411764704,
+        "ks_pvalue": 1.0
+      },
+      "prix": {
+        "original_mean": 2967793.1,
+        "biased_mean": 3320242.617647059,
+        "original_std": 1718716.208849436,
+        "biased_std": 1607796.9127577487,
+        "mean_change_pct": 11.875811613924794,
+        "ks_statistic": 0.12388235294117647,
+        "ks_pvalue": 1.3159981527491245e-06
+      }
+    },
+    "statistical_tests": {}
+  },
+  "files": {
+    "biased_dataset": "output\\biens_complets_biased_20260111_133841.csv",
+    "original_dataset": "output\\biens_complets_original_20260111_133841.csv",
+    "visualization": "output\\bias_biens_complets_socioeconomic_20260111_133841.png",
+    "report": "output\\biens_complets_report_20260111_133841.json"
+  }
+}

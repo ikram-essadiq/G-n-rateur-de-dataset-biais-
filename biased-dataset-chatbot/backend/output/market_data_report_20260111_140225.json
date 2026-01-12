@@ -1,0 +1,66 @@
+{
+  "generation_info": {
+    "category": "market_data",
+    "n_samples": 1000,
+    "generated_at": "2026-01-11T14:02:28.398800",
+    "bias_type": "socioeconomic",
+    "bias_intensity": 0.5
+  },
+  "bias_report": {
+    "type": "socioeconomic_bias",
+    "details": {
+      "income_column": "prix_unitaire",
+      "threshold": -13.945636151899182,
+      "removed_count": 150,
+      "remaining_count": 850
+    },
+    "original_size": 1000,
+    "biased_size": 850,
+    "bias_type": "socioeconomic",
+    "intensity": 0.5,
+    "applied_at": "2026-01-11T14:02:25.837932"
+  },
+  "analysis": {
+    "size_comparison": {
+      "original": 1000,
+      "biased": 850,
+      "change_pct": -15.0
+    },
+    "distribution_changes": {
+      "prix_unitaire": {
+        "original_mean": 224.54442264252546,
+        "biased_mean": 277.00376499509616,
+        "original_std": 357.0973207324772,
+        "biased_std": 362.2171406078513,
+        "mean_change_pct": 23.362567520130558,
+        "ks_statistic": 0.12352941176470589,
+        "ks_pvalue": 1.426896490543035e-06
+      },
+      "volume_ventes": {
+        "original_mean": 489.798,
+        "biased_mean": 490.3094117647059,
+        "original_std": 545.5356233210736,
+        "biased_std": 552.5110849286459,
+        "mean_change_pct": 0.1044127915397325,
+        "ks_statistic": 0.007294117647058823,
+        "ks_pvalue": 1.0
+      },
+      "canal_vente": {
+        "original_mean": 614.327,
+        "biased_mean": 608.7,
+        "original_std": 573.1757623325724,
+        "biased_std": 579.1448882026096,
+        "mean_change_pct": -0.915961694667341,
+        "ks_statistic": 0.016,
+        "ks_pvalue": 0.9996574840322382
+      }
+    },
+    "statistical_tests": {}
+  },
+  "files": {
+    "biased_dataset": "output\\market_data_biased_20260111_140225.csv",
+    "original_dataset": "output\\market_data_original_20260111_140225.csv",
+    "visualization": "output\\bias_market_data_socioeconomic_20260111_140225.png",
+    "report": "output\\market_data_report_20260111_140225.json"
+  }
+}

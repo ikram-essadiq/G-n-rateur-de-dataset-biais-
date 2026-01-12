@@ -1,0 +1,66 @@
+{
+  "generation_info": {
+    "category": "market_data",
+    "n_samples": 1000,
+    "generated_at": "2026-01-11T13:39:17.840919",
+    "bias_type": "socioeconomic",
+    "bias_intensity": 0.5
+  },
+  "bias_report": {
+    "type": "socioeconomic_bias",
+    "details": {
+      "income_column": "prix_unitaire",
+      "threshold": -5.179686903053973,
+      "removed_count": 150,
+      "remaining_count": 850
+    },
+    "original_size": 1000,
+    "biased_size": 850,
+    "bias_type": "socioeconomic",
+    "intensity": 0.5,
+    "applied_at": "2026-01-11T13:39:15.070727"
+  },
+  "analysis": {
+    "size_comparison": {
+      "original": 1000,
+      "biased": 850,
+      "change_pct": -15.0
+    },
+    "distribution_changes": {
+      "prix_unitaire": {
+        "original_mean": 245.84927456858148,
+        "biased_mean": 300.8016153727832,
+        "original_std": 376.3235231308011,
+        "biased_std": 382.206082833616,
+        "mean_change_pct": 22.352045130338595,
+        "ks_statistic": 0.12352941176470589,
+        "ks_pvalue": 1.426896490543035e-06
+      },
+      "volume_ventes": {
+        "original_mean": 509.558,
+        "biased_mean": 498.9364705882353,
+        "original_std": 572.3507088926946,
+        "biased_std": 562.177711434472,
+        "mean_change_pct": -2.0844593572787815,
+        "ks_statistic": 0.012294117647058823,
+        "ks_pvalue": 0.9999994229222813
+      },
+      "canal_vente": {
+        "original_mean": 571.637,
+        "biased_mean": 562.1011764705883,
+        "original_std": 501.0137523172503,
+        "biased_std": 485.0591324301149,
+        "mean_change_pct": -1.6681606560474598,
+        "ks_statistic": 0.01088235294117647,
+        "ks_pvalue": 0.999999992071988
+      }
+    },
+    "statistical_tests": {}
+  },
+  "files": {
+    "biased_dataset": "output\\market_data_biased_20260111_133914.csv",
+    "original_dataset": "output\\market_data_original_20260111_133914.csv",
+    "visualization": "output\\bias_market_data_socioeconomic_20260111_133914.png",
+    "report": "output\\market_data_report_20260111_133914.json"
+  }
+}

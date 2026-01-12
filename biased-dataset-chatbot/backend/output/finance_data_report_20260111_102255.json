@@ -1,0 +1,56 @@
+{
+  "generation_info": {
+    "category": "finance_data",
+    "n_samples": 500,
+    "generated_at": "2026-01-11T10:22:58.354685",
+    "bias_type": "geographic",
+    "bias_intensity": 0.5
+  },
+  "bias_report": {
+    "type": "geographic_bias",
+    "details": {
+      "region_column": "ville",
+      "overrepresented": "Londres",
+      "duplicated_count": 39
+    },
+    "original_size": 500,
+    "biased_size": 539,
+    "bias_type": "geographic",
+    "intensity": 0.5,
+    "applied_at": "2026-01-11T10:22:55.862137"
+  },
+  "analysis": {
+    "size_comparison": {
+      "original": 500,
+      "biased": 539,
+      "change_pct": 7.8
+    },
+    "distribution_changes": {
+      "montant": {
+        "original_mean": 2753.0118114386255,
+        "biased_mean": 2754.9604323495087,
+        "original_std": 9227.475130042896,
+        "biased_std": 9040.403537552946,
+        "mean_change_pct": 0.07078142210602482,
+        "ks_statistic": 0.015992578849721707,
+        "ks_pvalue": 0.9999995381034015
+      },
+      "frais": {
+        "original_mean": 20.730874007382493,
+        "biased_mean": 20.17382645524326,
+        "original_std": 204.76956074505938,
+        "biased_std": 197.6309667369804,
+        "mean_change_pct": -2.6870432570193463,
+        "ks_statistic": 0.011910946196660482,
+        "ks_pvalue": 0.9999999999978921
+      }
+    },
+    "statistical_tests": {}
+  },
+  "files": {
+    "biased_dataset": "output\\finance_data_biased_20260111_102255.csv",
+    "original_dataset": "output\\finance_data_original_20260111_102255.csv",
+    "visualization": "output\\bias_finance_data_geographic_20260111_102255.png",
+    "report": "output\\finance_data_report_20260111_102255.json"
+  }
+}

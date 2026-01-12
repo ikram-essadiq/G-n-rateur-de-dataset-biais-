@@ -1,0 +1,56 @@
+{
+  "generation_info": {
+    "category": "finance_data",
+    "n_samples": 200,
+    "generated_at": "2026-01-11T14:21:37.449696",
+    "bias_type": "geographic",
+    "bias_intensity": 0.5
+  },
+  "bias_report": {
+    "type": "geographic_bias",
+    "details": {
+      "region_column": "ville",
+      "overrepresented": "Tokyo",
+      "duplicated_count": 15
+    },
+    "original_size": 200,
+    "biased_size": 215,
+    "bias_type": "geographic",
+    "intensity": 0.5,
+    "applied_at": "2026-01-11T14:21:34.919776"
+  },
+  "analysis": {
+    "size_comparison": {
+      "original": 200,
+      "biased": 215,
+      "change_pct": 7.5
+    },
+    "distribution_changes": {
+      "montant": {
+        "original_mean": 2639.4938717859577,
+        "biased_mean": 2710.249544686302,
+        "original_std": 11604.542029598719,
+        "biased_std": 11327.267067510495,
+        "mean_change_pct": 2.6806530470353582,
+        "ks_statistic": 0.015,
+        "ks_pvalue": 0.9999999999999998
+      },
+      "frais": {
+        "original_mean": 9.403229495805,
+        "biased_mean": 9.270066497191024,
+        "original_std": 55.767573846320445,
+        "biased_std": 54.61800498893455,
+        "mean_change_pct": -1.4161411105829858,
+        "ks_statistic": 0.015697674418604653,
+        "ks_pvalue": 0.9999999999999994
+      }
+    },
+    "statistical_tests": {}
+  },
+  "files": {
+    "biased_dataset": "output\\finance_data_biased_20260111_142134.csv",
+    "original_dataset": "output\\finance_data_original_20260111_142134.csv",
+    "visualization": "output\\bias_finance_data_geographic_20260111_142134.png",
+    "report": "output\\finance_data_report_20260111_142134.json"
+  }
+}

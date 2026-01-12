@@ -1,0 +1,31 @@
+{
+  "training_file": "finance_data.csv",
+  "n_samples": 1000,
+  "n_columns": 8,
+  "columns": [
+    "id_transaction",
+    "type_transaction",
+    "montant",
+    "devise",
+    "frais",
+    "statut",
+    "ville",
+    "pays"
+  ],
+  "discrete_columns": [
+    "id_transaction",
+    "type_transaction",
+    "devise",
+    "statut",
+    "ville",
+    "pays"
+  ],
+  "continuous_columns": [
+    "montant",
+    "frais"
+  ],
+  "epochs": 300,
+  "batch_size": 500,
+  "training_duration": 334.508749,
+  "trained_at": "2026-01-01T16:11:53.978626"
+}

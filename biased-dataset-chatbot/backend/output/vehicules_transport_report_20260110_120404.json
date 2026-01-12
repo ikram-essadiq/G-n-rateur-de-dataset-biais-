@@ -1,0 +1,56 @@
+{
+  "generation_info": {
+    "category": "vehicules_transport",
+    "n_samples": 1000,
+    "generated_at": "2026-01-10T12:04:05.593374",
+    "bias_type": "temporal",
+    "bias_intensity": 0.5
+  },
+  "bias_report": {
+    "type": "temporal_bias",
+    "details": {
+      "date_column": "annee_fabrication",
+      "recent_count": 549,
+      "old_count": 226
+    },
+    "original_size": 1000,
+    "biased_size": 775,
+    "bias_type": "temporal",
+    "intensity": 0.5,
+    "applied_at": "2026-01-10T12:04:05.253570"
+  },
+  "analysis": {
+    "size_comparison": {
+      "original": 1000,
+      "biased": 775,
+      "change_pct": -22.5
+    },
+    "distribution_changes": {
+      "prix": {
+        "original_mean": 21617156.925,
+        "biased_mean": 21387181.85548387,
+        "original_std": 59129534.062329814,
+        "biased_std": 59045468.38872818,
+        "mean_change_pct": -1.063854374162248,
+        "ks_statistic": 0.02490322580645161,
+        "ks_pvalue": 0.9413286080206831
+      },
+      "kilometrage": {
+        "original_mean": 88464.355,
+        "biased_mean": 89339.89806451614,
+        "original_std": 71993.63875811953,
+        "biased_std": 72377.13944857402,
+        "mean_change_pct": 0.9897128222052132,
+        "ks_statistic": 0.009516129032258064,
+        "ks_pvalue": 0.9999999999945824
+      }
+    },
+    "statistical_tests": {}
+  },
+  "files": {
+    "biased_dataset": "output\\vehicules_transport_biased_20260110_120404.csv",
+    "original_dataset": "output\\vehicules_transport_original_20260110_120404.csv",
+    "visualization": "output\\bias_vehicules_transport_temporal_20260110_120404.png",
+    "report": "output\\vehicules_transport_report_20260110_120404.json"
+  }
+}

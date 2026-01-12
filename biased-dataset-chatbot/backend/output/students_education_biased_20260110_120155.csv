@@ -1,0 +1,1001 @@
+id,nom,prenom,genre,age,pays,ville,type_etablissement,etablissement,niveau,email,moyenne,absence,diplome
+STU_000445,Wilson,Charlotte,m,6,Canada,Liverpool,Primary School,Oak Elementary,Second Year,lukas.schmidt671@edu,25.657058863920938,8,PhD
+STU_000539,Hoffmann,Lea,f,12,Maroc,Lyon,Université,Lycée Descartes,Klasse 3,sophia.brown328@school.edu,9.149547750186699,8,Certificat Primaire
+STU_000940,Weber,Marwa,m,23,France,London,Gymnasium,École Pasteur,CE2,liam.johnson622@school.edu,20.421328631890137,3,Master
+STU_001268,Brown,William,m,8,UK,Ottawa,Secondary School,King's Primary School,Klasse 1,alexander.smith460@school.edu,23.223604802655046,8,Master's
+STU_001118,Brown,Arthur,m,12,Canada,Montreal,Primary School,Lycée Moulay Youssef,3ème AC,martín.martínez797@edu,24.57955140260814,8,PhD
+STU_000227,Rodriguez,Jules,m,3,USA,Stuttgart,Middle School,Instituto Lope de Vega,Grade 8,john.rodriguez982@edu,18.2373547812812,7,PhD
+STU_000073,Robert,Sophia,m,8,Espagne,New York,Université,University of Oxford,Year 10,emma.anderson705@school.edu,24.811169085365155,6,Bachelor
+STU_000264,Bennani,Charlie,m,8,Canada,London,Secondary School,Maple Elementary,Sophomore,jack.williams437@school.edu,24.99736582282381,10,PhD
+STU_001378,Brown,Ethan,m,5,USA,Granada,Lycée,Stanford University,Year 10,lina.schulz827@school.edu,20.43477386240837,7,A-Level
+STU_001976,González,Sofía,f,21,Espagne,Málaga,Secundaria,Colegio Cervantes,1º Curso,emma.tremblay543@edu,8.72422470504539,10,Bachillerato
+STU_000795,Müller,Emma,m,15,UK,Toulouse,Lycée,Lycée Henri IV,Grade 2,emma.becker765@edu,20.235278054329328,8,Master
+STU_000521,Benjelloun,Laila,m,7,Maroc,Oujda,Lycée,Washington Elementary,Master 2,liam.wilson601@school.edu,19.249550374482595,9,High School Diploma
+STU_001947,Bennani,Daniela,f,10,Espagne,Toulouse,Universidad,Colegio Picasso,2º Curso,mehdi.sqalli405@school.edu,11.316015244623015,7,ESO
+STU_001440,Thomas,Emma,m,9,France,Oujda,École Primaire,Lycée Mohammed V,3ème AC,liam.wilson601@school.edu,20.335102193878427,4,Baccalauréat
+STU_001918,Rodríguez,James,f,12,Espagne,Zaragoza,Secundaria,University of Cambridge,1º Curso,clara.robert889@school.edu,10.442448318620373,9,Certificat Primaire
+STU_001207,Petit,Ikram,f,21,Maroc,Fès,École Primaire,Université Hassan II,Junior,daniel.lópez684@edu,10.301646245924623,9,Doctorat
+STU_001778,Johnson,Amelia,m,4,USA,Winnipeg,Secondary School,Maple Elementary,Graduate,lucas.martin315@school.edu,18.658603212021486,9,Bachelor's Degree
+STU_001800,Schneider,Daniela,m,20,Allemagne,Zaragoza,Gymnasium,École Élémentaire Victor Hugo,1ère Bac,harry.jones509@school.edu,17.760920116998374,5,Doktor
+STU_000192,Davis,Lily,m,10,USA,Berlin,Secundaria,Montreal High School,Year 6,mia.becker793@school.edu,23.987579138412475,0,Brevet
+STU_000899,González,María,f,10,Espagne,Zaragoza,Primaria,TU Berlin,Máster,jules.martin137@edu,12.748162921231197,1,ESO
+STU_001981,Smith,Ava,m,5,Canada,Houston,Primaria,Westminster School,Grade 6,laila.benali235@school.edu,19.444896065584988,19,Bachelor's Degree
+STU_001850,Tremblay,George,f,9,Canada,Ottawa,University,Collège Molière,4º Primaria,emilia.schmidt906@school.edu,12.163178318172413,9,PhD
+STU_000923,Martín,Salma,m,17,Espagne,Málaga,Primaria,Collège Pierre et Marie Curie,Licence 2,felix.schulz950@school.edu,23.973871744219245,8,ESO
+STU_001073,Chakir,Louise,m,6,Canada,Frankfurt,Lycée,Lycée Hassan II,Grade 12,jacob.brown843@school.edu,24.588106114155813,8,Bachelor's Degree
+STU_000207,Martin,Zoé,f,16,France,Oujda,University,Lycée Moulay Youssef,Grade 11,ava.brown103@edu,12.215904678127895,14,Certificat Primaire
+STU_001649,Evans,Jack,m,7,USA,San Francisco,Secondary School,Westminster School,5º Primaria,mateo.lópez165@school.edu,17.25594437242262,8,Master's
+STU_000487,Rodríguez,Sofía,f,19,Espagne,Málaga,Secundaria,Universidad de Salamanca,Grade 3,sofía.garcía18@school.edu,11.066463315005194,9,Grado
+STU_000714,García,Lucía,f,6,Espagne,Zaragoza,Université,Colegio Cervantes,5. Semester,sophia.hoffmann869@school.edu,12.769329487789644,7,ESO
+STU_000032,Martínez,Lucía,m,21,Espagne,Sevilla,Secundaria,Université Paris-Saclay,3º Primaria,noah.johnson491@school.edu,24.246895174013574,6,Bachillerato
+STU_000962,Roy,Ethan,m,10,Allemagne,Lille,Secundaria,Toronto High School,Year 7,lea.simon168@school.edu,18.584946330685234,9,A-Level
+STU_001959,Davies,Karim,m,6,France,Düsseldorf,Université,Université Ibn Tofail,3ème année,felix.schneider936@school.edu,20.94490754260328,4,Licence
+STU_001966,Pérez,Sanae,m,8,Maroc,Valencia,École Primaire,Mozart Grundschule,Year 4,louis.bernard977@school.edu,24.63657156135305,9,Master
+STU_001784,Davis,Omar,m,8,UK,Seattle,University,McGill University,Third Year,arthur.leroy665@school.edu,22.186108784947486,3,High School Diploma
+STU_001371,Wagner,Marie,f,9,Allemagne,Leipzig,Grundschule,Kant-Gymnasium,3. Semester,mia.martinez527@school.edu,12.82794133044419,8,Abitur
+STU_001031,Rodriguez,Paula,m,10,Maroc,Agadir,Collège,UCL,Klasse 4,valeria.perez290@school.edu,19.840615477198426,9,Master's Degree
+STU_000594,Evans,Ahmed,f,9,Allemagne,Leipzig,Secondary School,Einstein Grundschule,Klasse 12,emilia.weber77@school.edu,12.315549662881455,8,Master's Degree
+STU_001260,Leroy,Ahmed,m,16,France,Valencia,Lycée,Lycée Condorcet,6º Primaria,sophia.brown328@school.edu,17.088095286547937,7,Master
+STU_000904,Martin,John,m,6,Canada,New York,Elementary School,King's Primary School,Second Year,manuel.sánchez25@school.edu,18.28097605566451,1,Bachelor's
+STU_000851,Miller,Amelia,m,8,UK,Barcelona,High School,University of Alberta,Sophomore,hannah.wagner265@school.edu,23.520860707851533,2,GCSE
+STU_001010,Bennani,Emily,f,12,Allemagne,Houston,Secondary School,Universität München,Year 10,maría.perez688@school.edu,8.976387985936826,10,Bachelor
+STU_001226,López,Alba,m,5,Espagne,Málaga,Elementary School,Instituto Lope de Vega,Klasse 4,emma.martin121@school.edu,19.65327300587025,4,Bachillerato
+STU_000518,Martín,Emily,m,10,France,Nantes,Elementary School,Washington Elementary,CM2,emma.martín278@school.edu,24.307763246604267,13,ESO
+STU_000830,Taylor,Amine,m,8,Canada,New York,Primaria,Collège Al Ghazali,Grade 2,lukas.schmidt671@edu,24.72320205438566,9,Máster
+STU_001581,Dupont,Lina,f,8,UK,Quebec City,Elementary School,Imperial College London,Grade 4,camille.martin973@school.edu,12.36894466410507,4,Master's
+STU_000265,Johnson,William,f,7,UK,Edinburgh,Secondary School,Kennedy Middle School,Klasse 8,noah.martin293@edu,12.28898871627635,2,High School Diploma
+STU_001389,Meyer,Amelia,f,10,Allemagne,Marseille,Gymnasium,MIT,Grade 7,lucía.martínez214@edu,8.86357988184735,9,Abitur
+STU_001453,Tazi,Liam,m,13,France,Strasbourg,Collège,Université Hassan II,2. Semester,lena.wagner691@edu,20.103069711619124,1,Máster
+STU_001562,Smith,Elias,m,8,USA,Frankfurt,Middle School,UCL,Klasse 2,ava.macdonald760@edu,16.902671717061274,1,PhD
+STU_001516,Garcia,Raphaël,m,10,Maroc,Frankfurt,Université,Colegio Goya,Terminale,marie.hoffmann354@school.edu,25.564220480985362,4,Master
+STU_000005,González,Nour,f,23,Espagne,Sevilla,Secundaria,Universidad Complutense,1º Curso,daniela.rodríguez19@edu,12.454514365459874,2,ESO
+STU_000115,Williams,Charlotte,m,7,Canada,London,Primary School,Victoria Primary,Year 8,sanae.fassi516@school.edu,21.72661766800072,3,Master's
+STU_001371,Chakir,Hugo,m,6,Maroc,Marrakech,Université,Université Mohammed V,1ère année,paul.schneider737@school.edu,18.792973191867723,8,Brevet
+STU_000257,Smith,Noah,m,8,Allemagne,Agadir,École Primaire,UCL,Première,pablo.martín368@edu,19.533247705088286,7,Baccalauréat
+STU_000724,Williams,Emma,m,7,Canada,New York,Primary School,Cambridge High School,Freshman,charlotte.smith28@edu,22.44365748321867,4,High School Diploma
+STU_000909,Martin,Sophia,m,5,Canada,Edinburgh,Primary School,Université Paris-Saclay,Third Year,manuel.martínez346@edu,20.03323890381399,16,Bachelor's Degree
+STU_000584,El Amrani,Manon,m,5,Maroc,Ottawa,Grundschule,Kennedy Middle School,Grade 10,leon.schneider328@school.edu,20.707095509865294,0,Master
+STU_000885,Fernández,Martín,m,14,Maroc,Paris,Lycée,Collège Al Khawarizmi,Grade 5,leon.schneider328@school.edu,18.14919886565033,4,Master
+STU_001525,Smith,Mia,m,9,Allemagne,Toulouse,Gymnasium,Universität Hamburg,Licence 2,leo.gonzález406@school.edu,18.731473669014726,5,Baccalauréat
+STU_001039,Robert,Ali,m,9,Allemagne,Tanger,Université,Universidad de Salamanca,Terminale,william.taylor366@edu,24.94671910102189,1,PhD
+STU_000256,Johnson,Emilia,m,9,Espagne,Málaga,Primaria,Université Mohammed V,3º ESO,william.rodriguez465@school.edu,25.271396557958425,18,Master
+STU_001683,Petit,Sanae,f,16,Maroc,Fès,Université,Stanford University,1ère année,louis.dupont543@school.edu,11.900393364722728,7,Licence
+STU_000284,Thomas,Noah,m,19,Allemagne,Stuttgart,Gymnasium,Collège Averroès,5ème année,alexander.macdonald755@edu,24.233217811592226,4,Abitur
+STU_001910,Brown,Mehdi,m,9,Maroc,San Francisco,High School,Collège Al Khawarizmi,Year 3,mehdi.elamrani944@school.edu,17.409791438096832,6,Bachelor's Degree
+STU_001604,Brown,Amelia,m,6,Allemagne,Marrakech,École Primaire,Oak Elementary,S3,camille.martin569@school.edu,20.24850936728319,7,Master's Degree
+STU_000304,Schulz,Léa,m,8,Allemagne,Leipzig,Grundschule,Universität Heidelberg,Klasse 4,jack.macdonald278@school.edu,25.360947826953698,5,Abitur
+STU_000965,Bennani,Ava,m,13,Canada,Meknès,Lycée,Eton College,3ème AC,emily.roy911@school.edu,20.077445767512465,6,Abitur
+STU_001212,Martin,Emma,f,12,Espagne,Málaga,Primaria,Université Mohammed V,Licence 2,oliver.johnson299@school.edu,12.121456865235668,7,ESO
+STU_000852,Martin,Amina,m,14,France,Málaga,Collège,South High School,2. Semester,mohamed.chakir438@school.edu,25.24030126423968,5,Licence
+STU_001870,López,Luis,f,20,Espagne,Madrid,Primaria,Universidad Complutense,1º Primaria,oliver.tremblay950@school.edu,12.356520693815897,3,Doctorado
+STU_000770,Martínez,Mehdi,f,9,Espagne,Sevilla,Universidad,Colegio Cervantes,1º Curso,mathis.dupont283@school.edu,9.473818482114742,18,Bachillerato
+STU_001798,Gómez,Martina,f,13,Espagne,Sevilla,Universidad,Instituto Lope de Vega,1º Bachillerato,amelia.taylor542@school.edu,10.035182914368827,3,ESO
+STU_001118,Durand,Charlie,m,14,Maroc,Lyon,Grundschule,Universität Hamburg,Grade 7,manon.leroy670@school.edu,19.09249228374645,8,Baccalauréat
+STU_001051,Evans,John,m,14,UK,Seattle,University,Oxford High School,Grade 4,louis.petit76@school.edu,24.527444541021353,8,ESO
+STU_001417,Martin,Matthew,m,11,USA,Quebec City,Middle School,TU Berlin,Freshman,ava.miller195@school.edu,25.405518202977404,4,Master's
+STU_001940,Gómez,Valeria,f,21,Espagne,Granada,Primaria,Jefferson Elementary,4º Primaria,daniel.martínez485@edu,12.295993146770815,2,ESO
+STU_000594,Fernández,Charlotte,m,10,Canada,Houston,Gymnasium,UC Berkeley,2ème AC,elias.schulz114@school.edu,23.84345592057165,17,High School Diploma
+STU_000290,Brown,Sophie,m,14,Maroc,Birmingham,École Primaire,Collège Voltaire,Grade 12,lucía.garcía602@school.edu,18.829463067777947,0,Máster
+STU_001882,Schmidt,Charlotte,m,12,Allemagne,Chicago,Universität,Collège Molière,Klasse 5,james.johnson234@school.edu,18.858662409226945,14,GCSE
+STU_000626,Davis,John,m,10,Allemagne,Valencia,Lycée,North High School,3ème,charlotte.anderson987@edu,18.575865516369642,0,Doctorado
+STU_001967,Moreau,Mohamed,f,15,France,Marseille,École Primaire,South High School,3ème année,felix.meyer399@school.edu,10.010653035024927,9,Brevet
+STU_000541,Rodriguez,Nour,m,14,France,Chicago,Primary School,Lincoln Elementary,4º ESO,mia.smith553@edu,20.00020552291457,4,PhD
+STU_001756,Davies,Benjamin,f,10,UK,Liverpool,University,Imperial College London,Third Year,david.davis576@edu,9.762251703446575,5,High School Diploma
+STU_000257,Weber,Liam,m,8,USA,Manchester,Primary School,Victoria Primary,Grade 4,manon.thomas746@school.edu,19.98891421614615,8,Bachelor's
+STU_000128,Tremblay,Manuel,f,14,UK,Vancouver,Lycée,UCL,Grade 2,rachid.chakir219@school.edu,12.935142346232194,5,Master
+STU_001831,Williams,Oliver,m,10,UK,Winnipeg,Primary School,Victoria Primary,1º Primaria,hugo.thomas478@edu,25.486261724132174,-1,Master's Degree
+STU_001094,Roy,William,m,10,Canada,Köln,Elementary School,UCL,Grade 2,martín.garcía639@school.edu,21.380651009266124,9,Máster
+STU_000631,Tazi,Zoé,f,8,UK,Liverpool,Universität,South High School,2ème Bac,fatima.bennani762@school.edu,8.463725290517107,9,Doktor
+STU_000496,Sqalli,Mateo,f,19,France,Köln,École Primaire,TU Berlin,Première,sophia.schneider112@school.edu,10.51071524513291,0,Brevet
+STU_001481,Leroy,Lucas,m,8,USA,Seattle,Middle School,Humboldt-Gymnasium,5ème année,daniela.martínez542@school.edu,25.26129496196247,7,Bachelor's
+STU_000155,Wilson,Olivia,f,8,UK,Edinburgh,University,St. Mary's Primary,Klasse 1,emily.macdonald707@school.edu,11.973828865157529,8,GCSE
+STU_000807,Pérez,Alejandro,m,11,Espagne,Birmingham,Primary School,University of Toronto,Klasse 5,alexander.tremblay165@school.edu,17.916687140337537,9,ESO
+STU_001999,Fernández,Youssef,m,10,USA,San Francisco,École Primaire,Oak Elementary,4º Primaria,david.brown691@school.edu,21.122787811380768,5,Bachelor's Degree
+STU_001780,Petit,Lucas,f,5,France,Strasbourg,Lycée,Collège Jean Moulin,Doctorat,lucas.martin115@school.edu,12.659642412141853,6,Master
+STU_001055,Schneider,Ahmed,m,14,Allemagne,Stuttgart,Universität,Goethe Grundschule,3. Semester,elias.muller600@school.edu,25.284358369980353,8,Abitur
+STU_001785,Wagner,Hugo,f,9,USA,Düsseldorf,Secondary School,Goethe Grundschule,1ère Bac,sarah.leroy44@school.edu,10.148439457246766,1,GCSE
+STU_000801,Martin,Daniel,m,19,Canada,Paris,Primary School,École Ibn Sina,Year 13,james.martinez193@edu,25.00872254832717,9,Máster
+STU_000516,Miller,Camille,m,9,Canada,Bordeaux,Collège,École Élémentaire Victor Hugo,1ère AC,lea.weber121@school.edu,24.68598127198927,5,PhD
+STU_000438,Becker,Sofía,m,6,Maroc,Edmonton,Lycée,Eton College,Grade 3,omar.chakir932@edu,21.62842946818092,16,Baccalauréat
+STU_000466,Davies,Amelia,m,14,UK,Montreal,Secondary School,Pine Elementary,Third Year,alexander.anderson322@school.edu,16.37356744833539,2,PhD
+STU_001681,Müller,Elias,m,11,Allemagne,Edmonton,Secondary School,Goethe Grundschule,2. Semester,daniel.martín327@school.edu,24.71063214457694,9,Master's Degree
+STU_000463,Moreau,Lucas,f,8,Allemagne,Köln,Collège,Einstein Grundschule,Klasse 1,amelia.rodriguez898@edu,9.238816614369492,9,Master
+STU_001042,Fassi,Salma,f,9,Maroc,Stuttgart,Lycée,University of Toronto,Seconde,emma.smith767@school.edu,8.591425081820713,9,Doktor
+STU_000047,Davis,Martín,m,7,France,Meknès,Gymnasium,Lycée Janson de Sailly,S2,isabella.martin519@school.edu,19.48456771784756,2,Baccalauréat
+STU_000697,Bennani,Sophia,f,9,Maroc,Lille,University,Lycée Henri IV,Klasse 5,martina.rodríguez446@school.edu,10.015134593148204,6,Master
+STU_001185,Thomas,Lukas,m,9,Canada,Zaragoza,Lycée,École Ibn Sina,5º Primaria,maría.fernández932@school.edu,25.120474246242587,3,PhD
+STU_001254,Dupont,Joseph,m,8,USA,Bristol,Gymnasium,Université Cadi Ayyad,3. Semester,oscar.wilson279@school.edu,19.252676208451973,6,Master's Degree
+STU_000439,Johnson,Noah,m,7,USA,Ottawa,Primaria,Université Paris-Saclay,Grade 12,gabriel.dupont125@school.edu,24.445898848901987,6,GCSE
+STU_001751,Simon,Jules,f,8,France,Vancouver,Primary School,Yale University,Première,ali.sqalli931@school.edu,12.27258046428204,6,Brevet
+STU_000023,Williams,Daniel,m,7,Canada,Seattle,Elementary School,Roosevelt Elementary,4º Primaria,charlie.thomas862@school.edu,25.476752324894118,7,PhD
+STU_001022,Fassi,Alba,f,12,Allemagne,Valencia,Secundaria,Sorbonne Université,Terminale,zineb.alaoui967@school.edu,9.416499831630821,8,Grado
+STU_000031,Davies,Oliver,m,13,Canada,Rabat,University,Westminster Primary,Grade 1,matthew.brown256@edu,24.92170511701059,4,Bachelor's
+STU_001554,Leroy,Amelia,m,8,Canada,München,Universität,Cambridge High School,Sophomore,isla.williams581@school.edu,25.56067400174246,6,Licence
+STU_000421,Brown,Olivia,m,9,Canada,New York,Middle School,Imperial College London,Grade 2,amina.chakir581@school.edu,17.910069559443688,6,PhD
+STU_001478,Davies,Emily,m,13,Allemagne,Bordeaux,Secondary School,Kennedy Middle School,1ère année,lucas.perez989@school.edu,25.28920961802303,7,Master's
+STU_000750,Dupont,Ava,m,10,USA,Montreal,Middle School,UBC,Sophomore,amina.benali383@school.edu,20.9972061579336,8,High School Diploma
+STU_001636,Miller,Harper,m,24,Maroc,Montreal,Université,École Al Massira,2ème Bac,daniela.gonzález865@school.edu,22.296089642179165,3,Baccalauréat
+STU_000712,Brown,Mohamed,f,8,USA,Düsseldorf,Lycée,TU Berlin,1º Primaria,sophie.brown421@school.edu,9.280390746797888,9,Bachelor's
+STU_000398,Johnson,Benjamin,m,11,UK,Edmonton,Secondary School,University of Alberta,Second Year,lily.smith665@school.edu,24.269251346213508,9,PhD
+STU_000896,Becker,Thomas,f,12,Maroc,Hamburg,École Primaire,Universität Heidelberg,4º ESO,isla.williams306@school.edu,11.934985994784935,4,Abitur
+STU_000576,Davies,Emily,m,7,Canada,Cambridge,Secondary School,Universidad de Salamanca,First Year,matthew.brown736@school.edu,25.061782732523795,7,Bachelor's Degree
+STU_001713,Martín,Mathis,m,6,Espagne,Sevilla,Primaria,Colegio Velázquez,4º Curso,amelia.brown215@school.edu,23.809518280972178,16,Grado
+STU_000132,Wagner,Ahmed,m,18,Allemagne,Köln,Lycée,Pine Elementary,Klasse 2,lucía.lópez498@edu,19.39836151188878,5,Master
+STU_001180,Jones,Noah,m,5,USA,Montreal,Secondary School,École Ibn Sina,Grade 3,emilia.hoffmann111@edu,25.905922229630843,8,Bachelor's Degree
+STU_000233,Sánchez,Daniela,f,21,Espagne,Nantes,Universidad,King's Primary School,2º Curso,hannah.schneider327@edu,10.341293211229367,17,Bachillerato
+STU_000630,Sqalli,Louis,m,16,Maroc,Cambridge,Université,École Mohammed V,1ère Bac,emily.roy877@school.edu,15.842816436762005,3,Doctorat
+STU_000675,Benali,María,m,10,Maroc,Casablanca,Universität,Lycée Louis le Grand,6ème,lucía.lópez206@edu,24.4558677838891,9,Baccalauréat
+STU_000166,Smith,Amelia,m,9,USA,Houston,Primary School,St. Mary's Primary,Klasse 6,william.rodriguez950@school.edu,21.496312742098368,15,Bachelor's Degree
+STU_000766,Williams,Sanae,m,10,Canada,Casablanca,Elementary School,Yale University,1º ESO,mathis.thomas983@school.edu,25.699167131043424,8,PhD
+STU_001001,Johnson,Amelia,m,7,UK,Winnipeg,Secondary School,Westminster School,Grade 2,sophia.brown512@school.edu,24.91303362902763,9,PhD
+STU_001017,Wilson,Julia,m,10,Espagne,Leipzig,Lycée,Cambridge High School,3º Primaria,sophia.taylor321@school.edu,19.724395356287573,16,Baccalauréat
+STU_000349,Martin,Lucas,f,10,Allemagne,Boston,Gymnasium,Calgary High School,Klasse 9,ava.macdonald760@edu,9.189956130459732,7,Abitur
+STU_000873,Gómez,María,f,23,Espagne,Valencia,Universidad,Schiller Grundschule,Doctorat,emilia.schulz641@school.edu,12.11768044111446,5,Grado
+STU_000389,González,Lucía,f,10,Espagne,Zaragoza,Universidad,Colegio Cervantes,4ème année,fatima.bennani762@school.edu,12.16365758970317,3,Bachillerato
+STU_001829,Durand,Hugo,m,10,Maroc,Fès,Collège,Collège Pierre et Marie Curie,5ème,laila.elamrani62@school.edu,24.087035555904166,8,Doctorat
+STU_000735,Wagner,Ali,m,15,Allemagne,Quebec City,Gymnasium,Collège Averroès,Terminale,louise.petit609@school.edu,21.809004918292104,8,Abitur
+STU_000493,Sqalli,Hugo,m,9,France,Tanger,Primaria,Universität Hamburg,Grade 5,jessica.evans182@school.edu,24.778155276786848,0,Baccalauréat
+STU_000973,García,Harper,f,23,Espagne,Málaga,Universidad,Colegio Cervantes,1º ESO,amelia.garcia301@school.edu,12.555023756440827,15,Doctorado
+STU_001265,Chakir,Jack,m,6,Maroc,Granada,École Primaire,Goethe Grundschule,Klasse 4,amelia.taylor49@school.edu,17.573698255993996,3,Bachelor
+STU_000176,Johnson,Jessica,f,5,UK,Ottawa,University,Stanford University,Sophomore,lucas.martin414@school.edu,9.614048696870567,1,A-Level
+STU_000609,Wilson,Noah,m,15,Maroc,Bordeaux,Lycée,Universidad Complutense,4º Primaria,louise.petit940@school.edu,18.998641492039596,1,Licence
+STU_000611,Anderson,Jack,m,7,Canada,Valencia,Secondary School,Calgary High School,Second Year,thomas.thomas560@edu,20.88234591110136,8,A-Level
+STU_000454,Chakir,Emily,m,20,Maroc,Chicago,Middle School,Lycée Descartes,Grade 9,louis.petit192@school.edu,20.595588549756936,9,Master
+STU_001795,Garcia,Emily,f,9,Espagne,Marrakech,Lycée,Collège Ibn Khaldoun,1º ESO,felix.schmidt227@school.edu,10.407386577842335,5,Baccalauréat
+STU_001389,Williams,Jacob,m,15,UK,Oxford,Secondary School,Calgary High School,Third Year,harry.evans723@school.edu,24.38326163193146,9,GCSE
+STU_000987,Schneider,Alexander,m,6,Allemagne,New York,University,Victoria Primary,Grade 3,matthew.smith630@school.edu,22.654224731892548,8,Máster
+STU_000179,Jones,Lily,f,5,Canada,Nantes,Secondary School,Université Cadi Ayyad,Klasse 8,alejandro.martín449@edu,10.838311517852306,2,Bachelor's
+STU_001116,Fassi,Harper,m,13,Allemagne,Seattle,Universität,Lycée Henri IV,Grade 8,lucía.martínez632@school.edu,20.182775645519122,6,Bachelor's Degree
+STU_000504,Martin,Louis,m,8,Allemagne,Bristol,Secondary School,North High School,6ème,ava.smith825@school.edu,24.023347847409,9,Máster
+STU_000879,Martínez,Lena,f,22,Espagne,Valencia,Universidad,Universidad Complutense,6ème année,ikram.bennani399@school.edu,11.983513382998286,15,ESO
+STU_001301,Martin,George,m,6,Allemagne,Marrakech,École Primaire,Schiller Grundschule,1ère année,alejandro.rodríguez268@school.edu,22.02571733017072,9,Abitur
+STU_000214,Moreau,Amine,m,5,France,Ottawa,Elementary School,École Pasteur,Fourth Year,marie.hoffmann597@school.edu,25.001606755766876,5,A-Level
+STU_000284,Simon,Emma,m,10,Maroc,Frankfurt,Université,École Pasteur,Première,daniel.davis773@edu,23.66439570007785,8,Master
+STU_000475,Jones,Mia,m,8,UK,London,University,Montreal High School,Third Year,charlotte.macdonald764@school.edu,20.987083102907558,10,PhD
+STU_000464,Davis,Manon,m,5,Espagne,Winnipeg,High School,South High School,Junior,alba.gonzález501@school.edu,20.712912588021045,8,Master
+STU_000508,Müller,Daniel,m,8,Canada,Manchester,Primary School,University of Oxford,4º Primaria,álvaro.lópez258@edu,22.57327992264512,10,Master
+STU_000781,Martin,Michael,f,9,USA,Oxford,Secondary School,Collège Molière,Klasse 2,marie.schmidt995@school.edu,9.647175286681,7,Master's Degree
+STU_000516,Thomas,Charlie,m,8,Maroc,Ottawa,Elementary School,Collège Pierre et Marie Curie,2º ESO,lucas.bernard362@edu,24.111944676910355,6,Bachelor's Degree
+STU_001912,Hoffmann,Rachid,f,8,Allemagne,Stuttgart,Universität,Schiller-Gymnasium,1. Semester,ava.williams779@school.edu,11.590003167134878,8,Doktor
+STU_000265,López,Liam,f,20,Espagne,Valencia,Universidad,Instituto Giner de los Ríos,3º Primaria,ava.smith420@school.edu,11.893580960974834,14,Bachelor
+STU_001204,Brown,David,m,9,USA,Vancouver,Middle School,Schiller Grundschule,Grade 3,lily.brown535@school.edu,18.318243811696725,9,High School Diploma
+STU_001953,Schulz,Youssef,f,17,Allemagne,München,Grundschule,Goethe Grundschule,Klasse 12,mia.roy657@school.edu,8.968204936259916,1,Abitur
+STU_001939,Simon,Daniel,f,9,France,Köln,École Primaire,Franklin Middle School,Grade 8,leon.wagner279@edu,9.631026506595873,9,Master
+STU_000357,Jones,Hugo,f,13,Maroc,Manchester,Elementary School,Westminster School,Year 6,lucas.petit580@school.edu,9.878651940456372,9,Master
+STU_001841,Williams,Isabella,m,8,USA,Manchester,University,UBC,5. Semester,charlotte.johnson274@school.edu,25.91363394189596,2,Bachelor's Degree
+STU_001562,Martin,Paula,f,21,Espagne,Málaga,Primaria,Instituto Lope de Vega,3º Curso,anna.schneider44@edu,10.22998514664857,9,ESO
+STU_000638,Anderson,Charlotte,m,7,USA,Chicago,Elementary School,Harvard University,Year 13,louis.petit76@school.edu,21.121574006222815,4,PhD
+STU_001629,Fassi,Amine,m,17,France,Fès,École Primaire,Collège Jean Moulin,Klasse 5,charlotte.smith462@school.edu,20.784553757631365,15,High School Diploma
+STU_000454,Jones,Noah,m,13,Canada,San Francisco,Secondary School,Harvard University,Grade 4,emilia.schulz641@school.edu,23.741729666333587,7,PhD
+STU_001479,Taylor,David,m,7,Canada,Cambridge,Elementary School,Eton College,Year 8,ethan.anderson802@school.edu,21.125099694652363,9,High School Diploma
+STU_001323,Wilson,David,f,6,USA,Quebec City,Elementary School,University of Toronto,Grade 2,emma.garcia778@edu,10.152147440778133,0,Master's
+STU_001909,Taylor,Olivia,m,6,Canada,Tanger,Middle School,Jefferson Elementary,Grade 2,emma.becker51@school.edu,20.08175643376348,10,GCSE
+STU_000571,Martin,Paula,m,9,Maroc,Meknès,Gymnasium,Montreal High School,1ère Bac,james.wilson345@school.edu,25.658078206789618,8,Bachelor's Degree
+STU_001646,Johnson,William,m,8,UK,Montreal,Secondary School,Universidad Complutense,Second Year,hugo.durand166@school.edu,24.55367046835571,8,High School Diploma
+STU_001660,Bernard,Ava,f,13,Maroc,Toulouse,High School,Mozart Grundschule,Junior,karim.tazi573@school.edu,12.355661065370395,5,Baccalauréat
+STU_001685,González,Amine,f,20,Espagne,Valencia,Secondary School,Colegio Picasso,CP,jacob.davies418@school.edu,10.847360493423446,1,Bachillerato
+STU_000997,Anderson,Hugo,m,10,Allemagne,Düsseldorf,Middle School,École Al Massira,Máster,harry.evans981@school.edu,24.71880996979735,7,Máster
+STU_000784,Petit,Julia,m,7,Maroc,Oujda,Lycée,Collège Jean Moulin,4º Primaria,finn.schmidt387@school.edu,18.234278149695726,8,Doctorat
+STU_001587,Brown,Isla,m,7,UK,Barcelona,Secondary School,University of Alberta,3ème,benjamin.roy150@school.edu,24.275877323056406,12,High School Diploma
+STU_000771,López,María,f,21,Espagne,Bilbao,Universidad,Lycée Henri IV,3º Curso,laila.bennani562@edu,10.298525726252272,19,Grado
+STU_001102,Smith,Olivia,m,4,USA,Edmonton,Lycée,Roosevelt Elementary,Grade 2,louis.petit192@school.edu,19.094457220664637,10,PhD
+STU_000389,Thomas,Oliver,m,8,Canada,Ottawa,Elementary School,UCL,1ère Bac,liam.martin754@school.edu,25.837436883528753,8,Bachelor's Degree
+STU_000573,Johnson,Hugo,f,7,France,Marrakech,Primaria,North High School,6ème,ahmed.bennani453@school.edu,9.662386848169552,9,PhD
+STU_000301,Müller,Evelyn,f,9,Allemagne,München,Gymnasium,Schiller-Gymnasium,1º ESO,noah.wagner858@school.edu,7.8918301500135435,9,Abitur
+STU_000800,Martinez,George,m,4,Canada,Bordeaux,Elementary School,Cedar Elementary,Grade 2,sanae.sqalli947@school.edu,17.65050297075755,5,Bachelor's
+STU_001858,Hoffmann,Daniel,f,9,USA,Liverpool,Elementary School,Montreal High School,3º ESO,william.smith44@school.edu,12.094325020815681,9,Bachelor's
+STU_000786,Thomas,Thomas,m,7,Canada,Edmonton,Primary School,Instituto Ramón y Cajal,Year 10,daniel.williams513@school.edu,25.504532458472376,1,Licence
+STU_000227,Johnson,William,m,7,Canada,Bristol,Universität,McGill University,Second Year,james.williams779@school.edu,25.73352248528813,9,PhD
+STU_001332,Roy,Lily,m,10,France,Boston,Lycée,Université Cadi Ayyad,5. Semester,amelia.johnson483@school.edu,19.447653220135663,0,ESO
+STU_001164,Brown,Mia,m,8,UK,Houston,École Primaire,Instituto Ramón y Cajal,Grade 11,oliver.roy344@school.edu,24.752900746613758,5,Licence
+STU_001018,Tremblay,Emma,m,8,France,Leipzig,Secondary School,École Mohammed V,1º ESO,thomas.williams117@school.edu,19.74613622803092,4,Master
+STU_001865,Miller,Olivia,m,8,Espagne,Chicago,Secondary School,Eton College,Year 8,ikram.tazi90@school.edu,19.294215645871734,15,Bachelor's
+STU_000817,Martínez,Matthew,f,5,France,Paris,Elementary School,Colegio Velázquez,Klasse 10,alexander.tremblay165@school.edu,9.937234857863409,2,Doctorado
+STU_000023,Martínez,Olivia,m,10,Canada,Marrakech,Primary School,Calgary High School,Seconde,evelyn.garcia625@school.edu,17.492416369416173,5,Master
+STU_000862,Benjelloun,Daniel,m,9,Maroc,Bordeaux,Université,Stanford University,4º Primaria,laila.benali235@school.edu,24.308226381202022,9,Baccalauréat
+STU_001433,Brown,Joseph,m,14,UK,Montreal,Middle School,Pine Elementary,Tronc Commun,alejandro.perez49@school.edu,25.033167666047987,3,Bachelor's Degree
+STU_001369,Evans,Mia,m,9,Allemagne,Marrakech,Universität,École Mohammed V,Graduate,amelia.roy709@school.edu,21.227044348637335,5,Abitur
+STU_001346,Hoffmann,Hugo,m,23,Maroc,Oujda,Lycée,Université Hassan II,CE1,martín.lópez22@edu,24.623024129779466,14,Doctorat
+STU_001885,Martin,William,m,9,USA,Houston,High School,Cedar Elementary,Grade 3,ava.garcia957@school.edu,22.450373583650094,3,Master
+STU_000753,Chakir,Sophia,m,11,USA,Hamburg,Middle School,Lycée Hassan II,5º Primaria,ines.simon258@school.edu,19.820587817214594,8,Brevet
+STU_001422,Evans,Charlie,m,8,Allemagne,Berlin,Secondary School,Mozart Grundschule,First Year,oscar.johnson919@school.edu,19.82054272787032,8,Grado
+STU_000343,Sqalli,Inès,m,23,Maroc,Marrakech,Collège,Kant-Gymnasium,3ème AC,sarah.durand313@school.edu,20.71136553749868,6,Doctorat
+STU_000588,Chakir,Amine,m,9,France,Miami,Lycée,University of Toronto,2ème AC,mia.jones468@school.edu,17.723170502501574,10,Master's Degree
+STU_000915,Fassi,Daniela,m,6,Espagne,Lyon,Elementary School,LSE,1. Semester,zoe.durand899@school.edu,25.374898950072428,9,Master
+STU_001302,Martin,Noah,m,8,Allemagne,Tanger,Universität,Lycée Descartes,Klasse 9,mohamed.chakir438@school.edu,22.457157514303653,5,Baccalauréat
+STU_000400,Petit,Ikram,m,7,France,Berlin,Université,Collège Al Khawarizmi,4ème,amine.chakir1@school.edu,17.419268937258213,17,Baccalauréat
+STU_001990,Martinez,Laila,m,9,Maroc,Vancouver,Lycée,Colegio Goya,Klasse 4,benjamin.smith243@edu,25.067672434562713,3,Master
+STU_001965,López,Martina,f,16,Espagne,Valencia,Universidad,Universidad de Barcelona,1º Curso,amine.benjelloun843@school.edu,10.597630661075426,6,ESO
+STU_000800,Rodríguez,Léa,m,20,Maroc,Quebec City,Lycée,Westminster School,6ème année,lucas.brown606@edu,22.797195863757487,16,Master's Degree
+STU_001534,Sqalli,Youssef,f,8,France,Leipzig,Grundschule,University of Alberta,Year 5,lucía.fernández337@school.edu,9.592292728993867,9,Bachelor's
+STU_001383,Johnson,Paula,f,14,Maroc,Los Angeles,Université,Universität München,Tronc Commun,noah.taylor662@school.edu,11.843253016841178,7,Certificat Primaire
+STU_000797,Sqalli,Ikram,f,12,Maroc,Oujda,Collège,Schiller Grundschule,5ème année,martín.garcía122@school.edu,10.147706438598355,14,Doctorat
+STU_001623,Robert,Lena,m,5,UK,Lyon,Secondary School,King's Primary School,Second Year,anna.wagner527@school.edu,25.79902848106257,8,Bachelor's Degree
+STU_001938,Evans,Amelia,m,7,USA,Boston,Secondary School,Pine Elementary,Grade 4,sophia.johnson400@school.edu,25.40924487285159,4,PhD
+STU_001114,Fassi,Manon,f,20,UK,Meknès,Université,Lycée Louis le Grand,5º Primaria,zoe.thomas733@edu,10.147049410794445,7,Baccalauréat
+STU_001396,Becker,Amine,m,12,France,Fès,Collège,Collège Averroès,Klasse 1,raphaël.dupont953@school.edu,18.95644051639619,6,Brevet
+STU_000139,MacDonald,Ahmed,m,7,Maroc,Oujda,Lycée,Franklin Middle School,Master 1,matthew.johnson787@school.edu,17.846924287730964,8,Doctorat
+STU_000410,Petit,Mohamed,m,11,France,Lille,École Primaire,Université Paris-Saclay,3ème,emma.schulz381@school.edu,24.57201851589376,9,Master
+STU_001175,Bennani,David,m,4,Maroc,Oxford,University,Cedar Elementary,1ère AC,amina.chakir581@school.edu,21.406343219965635,6,Master
+STU_001609,Davis,Charlotte,f,8,France,Hamburg,Middle School,École Jean Jaurès,Junior,lina.fischer247@school.edu,12.46983181295258,7,Master
+STU_001287,Schneider,Emma,f,11,Allemagne,Quebec City,Gymnasium,Goethe-Gymnasium,1. Semester,paul.becker934@edu,12.3048903694358,8,Doktor
+STU_000972,Rodríguez,Daniel,f,9,Espagne,Zaragoza,Universidad,Colegio Cervantes,1º Curso,alba.gómez47@school.edu,9.232535632894766,6,Bachillerato
+STU_001681,Dupont,Salma,m,9,UK,Vancouver,Primaria,Victoria Primary,Grade 4,emma.robert771@school.edu,19.182079865173737,9,PhD
+STU_001422,Evans,Amelia,f,7,Canada,Quebec City,Secondary School,Kennedy Middle School,Grade 3,noah.hoffmann767@edu,8.72470175738565,2,Bachelor's Degree
+STU_000815,Fischer,Karim,m,14,Allemagne,Rabat,Middle School,Sorbonne Université,Première,mehdi.fassi422@school.edu,19.913036921018197,4,Baccalauréat
+STU_000013,Jones,Leon,m,3,UK,Paris,Primary School,Kennedy Middle School,CM1,lea.simon175@school.edu,25.092509206300278,8,Master's Degree
+STU_001631,Davis,Emma,m,7,Canada,Houston,Elementary School,University of Toronto,Grade 1,jonas.meyer995@edu,25.929638146146843,8,PhD
+STU_001946,Williams,Emily,m,8,UK,Hamburg,University,University of Toronto,Graduate,harry.taylor37@school.edu,24.024853158949924,6,Licence
+STU_001163,Johnson,William,m,7,UK,Edinburgh,University,Imperial College London,Grade 10,alejandro.perez49@school.edu,19.175520012108517,2,Master's
+STU_001974,Hoffmann,Chloé,f,6,Allemagne,Stuttgart,Grundschule,Universität Heidelberg,6. Semester,mia.brown474@school.edu,9.919529123755837,16,Abitur
+STU_000698,Davis,Amelia,m,8,UK,Miami,Secondary School,Calgary High School,Year 9,lena.fischer842@school.edu,19.442497753593123,4,High School Diploma
+STU_001089,Martínez,Emily,m,20,Espagne,Bilbao,Secundaria,Universidad Complutense,5º Primaria,amelia.johnson343@school.edu,21.972680758361236,1,Bachillerato
+STU_000210,Evans,Noah,m,6,UK,Zaragoza,Secondary School,Cambridge High School,Senior,ava.johnson613@edu,24.817320386474826,9,A-Level
+STU_000977,Idrissi,Hugo,m,16,France,Marseille,Université,Université Cadi Ayyad,6ème année,lea.simon175@school.edu,17.818946815237602,11,Brevet
+STU_000117,Martínez,Lucía,f,20,Espagne,Zaragoza,Universidad,Universidad de Barcelona,CE2,lucía.sánchez549@edu,9.257682610389967,1,Master
+STU_001831,Smith,Marie,m,7,USA,Montreal,Primary School,Westminster School,Senior,sophia.johnson400@school.edu,18.494000022839472,5,PhD
+STU_001426,Wilson,Emily,m,8,Canada,Edmonton,Elementary School,Pine Elementary,Grade 3,salma.sqalli64@school.edu,19.369987221910336,9,A-Level
+STU_000520,López,Lukas,m,13,France,Agadir,Middle School,École Mohammed V,Year 5,hugo.durand166@school.edu,16.67558430082551,8,Doctorat
+STU_000606,Schneider,Anna,f,18,Allemagne,Paris,Gymnasium,Goethe Grundschule,Klasse 12,karim.tazi959@edu,12.02246513356961,9,Doktor
+STU_000797,Müller,Lea,m,7,Allemagne,Lyon,Primaria,Westminster School,Grade 7,daniela.lópez320@edu,19.05417821664854,3,Master
+STU_000147,Dupont,Joseph,m,18,Maroc,Paris,Collège,Lycée Henri IV,3ème,leo.garcía882@school.edu,18.156806985692644,6,PhD
+STU_001502,Davies,Evelyn,m,8,UK,Manchester,Secondary School,Maple Elementary,CE2,salma.bennani176@school.edu,19.225291497444232,7,PhD
+STU_000145,Thomas,Aicha,m,9,France,Edmonton,Lycée,Yale University,Postgraduate,sanae.tazi51@school.edu,19.34676224913303,9,Master's
+STU_001544,Benjelloun,Lucas,m,13,Maroc,Fès,Lycée,Collège Molière,Première,finn.schmidt387@school.edu,18.26428011377841,14,Doctorat
+STU_001174,López,Hugo,m,6,Allemagne,Frankfurt,Secondary School,Schiller-Gymnasium,First Year,lucas.rodríguez923@school.edu,20.84282188479839,9,PhD
+STU_000111,Schneider,Clara,m,7,Canada,Manchester,Elementary School,Vancouver High School,4ème,isabella.macdonald371@school.edu,24.48684022035924,5,High School Diploma
+STU_000321,Sqalli,Valeria,m,21,France,Düsseldorf,Lycée,Stanford University,Klasse 5,isla.thomas683@school.edu,18.18073311860737,12,Baccalauréat
+STU_001700,Becker,Benjamin,m,9,Allemagne,Vancouver,École Primaire,Kennedy Middle School,3ème,sophie.evans436@school.edu,24.87724742218054,1,Baccalauréat
+STU_001486,Leroy,Amelia,m,8,USA,Manchester,Secondary School,University of Oxford,Klasse 4,daniel.fernández531@school.edu,19.696970295382066,9,Bachelor's
+STU_001673,Thomas,Mateo,f,9,Espagne,San Francisco,École Primaire,Université Grenoble Alpes,4ème année,noah.petit487@edu,10.39174670825166,13,A-Level
+STU_000745,Chakir,Marie,m,8,Allemagne,Stuttgart,University,Goethe-Gymnasium,Klasse 12,álvaro.gómez480@school.edu,18.41015613325976,2,Abitur
+STU_000182,Wilson,Amelia,m,9,UK,Zaragoza,Secondary School,University of Alberta,5º Primaria,amina.chakir581@school.edu,24.63956555527195,9,Master's Degree
+STU_001130,Leroy,Karim,m,12,Maroc,Edmonton,Lycée,Université Hassan II,Seconde,zoe.martin491@edu,24.709975168542506,8,Licence
+STU_001169,Williams,Álvaro,m,7,Canada,Houston,École Primaire,Collège Molière,Grade 12,amine.fassi822@school.edu,22.600551209515196,7,Bachelor's Degree
+STU_001066,Pérez,Jessica,m,10,Maroc,Oujda,Collège,Collège Pierre et Marie Curie,Première,mia.schulz664@school.edu,17.921128533226288,10,Licence
+STU_000773,Bennani,Chloé,m,10,France,Vancouver,Université,Eton College,S3,lea.schulz706@edu,24.062280813097235,8,Licence
+STU_001567,Chakir,Mia,f,9,France,Barcelona,Grundschule,Lycée Henri IV,4. Semester,ethan.macdonald140@school.edu,8.88284140409919,11,Baccalauréat
+STU_001174,López,Lucía,f,15,Espagne,Valencia,Primaria,Instituto Giner de los Ríos,3º Curso,jules.dupont216@school.edu,12.760149941649342,18,Máster
+STU_001452,García,Sophia,f,22,Espagne,Sevilla,Primaria,Universidad Complutense,3º Curso,jules.leroy979@school.edu,12.262732835315642,12,Master
+STU_000596,Smith,Emily,m,8,Maroc,Leipzig,Lycée,Kant-Gymnasium,Grade 11,martina.fernández723@edu,18.422665406846264,1,PhD
+STU_000098,Müller,Ahmed,m,13,Allemagne,München,Gymnasium,Lycée Louis le Grand,Klasse 3,noah.brown550@school.edu,19.474911680067795,4,Baccalauréat
+STU_000112,Pérez,Mohamed,f,11,Espagne,Sevilla,Primaria,Colegio Cervantes,1º Curso,arthur.leroy665@school.edu,9.650763645283964,6,Doctorado
+STU_000675,Chakir,Pablo,m,9,France,Toronto,Collège,Sorbonne Université,4º Primaria,noah.martin464@school.edu,24.13187969262527,-1,Baccalauréat
+STU_001678,Dupont,Daniel,m,15,Espagne,Lille,École Primaire,École Ibn Sina,Tronc Commun,william.johnson818@school.edu,19.68188246262561,1,Doktor
+STU_000453,Williams,Marie,f,8,Canada,Winnipeg,Primary School,Franklin Middle School,Grade 8,chloe.brown844@school.edu,10.132487010517124,8,PhD
+STU_001301,Sqalli,Sofía,f,9,Espagne,Zaragoza,Universidad,Universidad de Barcelona,2º Primaria,raphaël.petit892@school.edu,9.420820537397667,17,ESO
+STU_000673,Moreau,Jonas,m,16,Maroc,Marrakech,Gymnasium,Maple Elementary,CM1,álvaro.gómez480@school.edu,20.663645232667932,3,Baccalauréat
+STU_001121,Thomas,Amelia,f,8,Espagne,Marseille,Collège,Colegio Velázquez,Klasse 7,martín.martínez797@edu,9.525788784687851,8,Baccalauréat
+STU_000753,Meyer,Lina,f,6,Allemagne,München,Grundschule,Schiller-Gymnasium,Klasse 3,hannah.becker538@school.edu,9.418016786871009,9,Bachelor
+STU_000669,García,Jacob,m,19,Espagne,Birmingham,Primaria,Instituto Lope de Vega,Klasse 1,hannah.becker538@school.edu,17.124055598759547,9,Doctorado
+STU_000540,Fernández,Oliver,m,6,Allemagne,Frankfurt,Lycée,Sorbonne Université,Third Year,liam.wilson683@school.edu,18.061963818315284,11,Bachelor
+STU_001525,Anderson,George,m,15,UK,Chicago,Secondary School,Université Hassan II,Máster,louis.bernard712@school.edu,16.45778970397388,5,Master's Degree
+STU_000516,Müller,Elias,f,24,France,Zaragoza,Collège,Lycée Condorcet,4º Primaria,emilia.schneider240@school.edu,9.594011817699604,9,Certificat Primaire
+STU_000148,Evans,Jessica,m,8,USA,Winnipeg,Primary School,Victoria Primary,Year 13,sophia.davis138@school.edu,20.420426608128892,0,Bachelor's Degree
+STU_000581,Robert,Noah,f,21,Allemagne,Leipzig,Grundschule,Goethe-Gymnasium,Klasse 5,david.jones377@school.edu,9.501319737729174,2,Bachelor
+STU_001300,Simon,Jessica,m,5,Allemagne,Stuttgart,École Primaire,Université Paris-Saclay,4. Semester,sophia.macdonald279@school.edu,21.97407711584613,10,Master
+STU_001566,Gómez,Sanae,f,10,Espagne,Sevilla,Primaria,Instituto Giner de los Ríos,Year 1,emma.petit92@school.edu,10.70027034529601,0,Máster
+STU_001076,Tremblay,Laila,m,4,Canada,Cambridge,High School,Lycée Mohammed V,Klasse 11,sophie.brown421@school.edu,24.67341216312131,1,Master
+STU_001831,Garcia,David,m,11,Canada,Strasbourg,Secondary School,Universität München,Grade 4,raphaël.dupont953@school.edu,20.703179185576364,20,PhD
+STU_001260,Smith,Noah,f,10,Canada,London,Gymnasium,Oxford High School,Postgraduate,emily.macdonald707@school.edu,8.462922534251625,1,Bachelor's Degree
+STU_000223,Rodriguez,George,m,7,Canada,Stuttgart,Middle School,Westminster School,Grade 7,álvaro.rodríguez127@school.edu,25.034749422099146,1,Baccalauréat
+STU_001818,El Amrani,Poppy,m,18,Allemagne,München,Universität,Université Paris-Saclay,1ère AC,emma.jones395@school.edu,19.47670034585785,4,Master
+STU_000426,Rodríguez,Isabella,m,20,USA,Houston,Elementary School,University of Toronto,CP,martín.martínez797@edu,19.640027203993125,8,PhD
+STU_000462,Schmidt,Mia,f,10,USA,Oxford,Primaria,Collège Al Ghazali,3. Semester,daniel.williams513@school.edu,9.510770714204472,9,Abitur
+STU_000970,Johnson,Noah,m,6,USA,San Francisco,Middle School,Westminster School,Year 13,fatima.sqalli808@school.edu,20.90128963097203,12,Master's Degree
+STU_001159,Chakir,Daniela,f,8,Espagne,Nantes,École Primaire,Eton College,2º Curso,felix.muller700@school.edu,10.411298345221411,9,Master's
+STU_000553,Pérez,Daniel,m,18,Allemagne,Marrakech,Lycée,Collège Molière,1º ESO,hugo.sánchez451@edu,20.205428711911,10,PhD
+STU_001741,Martin,Lukas,f,15,Maroc,Fès,Collège,Colegio Velázquez,3ème AC,jack.macdonald278@school.edu,8.292276951537922,5,Doctorat
+STU_001525,Idrissi,Mohamed,f,9,Maroc,Marrakech,Lycée,Universidad de Salamanca,CM1,david.johnson221@school.edu,10.099086174454545,7,Brevet
+STU_001998,Sqalli,Louis,m,10,France,Lyon,Université,École Mohammed V,Grade 11,zineb.chakir720@edu,17.921871948823835,8,Brevet
+STU_001018,Schmidt,Zineb,m,19,Allemagne,Stuttgart,Universität,Goethe Grundschule,6. Semester,jules.dupont262@school.edu,18.130434001483433,8,Doktor
+STU_000405,Davis,Amelia,f,15,UK,Winnipeg,University,Westminster School,Third Year,noah.evans460@edu,9.28661427605338,10,PhD
+STU_000052,Garcia,Isabella,m,7,UK,Manchester,Secondary School,Central High School,Grade 12,jessica.thomas185@school.edu,19.548220384397496,4,High School Diploma
+STU_001612,Chakir,William,m,8,Maroc,Marseille,Lycée,Collège Ibn Khaldoun,Grade 1,jules.petit659@edu,19.267994558850972,7,Baccalauréat
+STU_000271,Petit,Sanae,m,21,Allemagne,Hamburg,Lycée,Lycée Hassan II,Première,mia.becker793@school.edu,18.943942457099777,5,Licence
+STU_001168,Bennani,Anna,m,21,Maroc,Winnipeg,Université,Lycée Mohammed V,Terminale,nour.benali477@school.edu,20.19138490892101,15,Brevet
+STU_000983,Davis,Emily,f,11,Maroc,London,Secondary School,Université Grenoble Alpes,Postgraduate,sarah.martin882@edu,10.479080334754583,9,Bachelor's
+STU_001359,Martín,Amelia,m,9,UK,Ottawa,University,University of Oxford,Sophomore,james.jones420@school.edu,18.750626731368552,8,Bachelor's Degree
+STU_000664,Davies,Fatima,f,5,Maroc,Tanger,Lycée,North High School,2ème Bac,mathis.dupont845@school.edu,12.529233662093421,0,Baccalauréat
+STU_000520,Pérez,Emily,m,8,France,Strasbourg,Secondary School,Goethe Grundschule,Klasse 4,emma.garcía302@school.edu,20.084633596174584,3,Doctorado
+STU_001582,Hoffmann,Alba,f,10,Allemagne,Leipzig,Grundschule,Universität Heidelberg,Klasse 4,felix.schulz950@school.edu,12.768591351512201,2,Bachelor
+STU_000487,Martin,Mehdi,m,8,Allemagne,Toulouse,Collège,Colegio Cervantes,Grade 3,jack.tremblay204@school.edu,24.995400106846215,9,Baccalauréat
+STU_000988,Martin,Mia,f,6,USA,Birmingham,Secondary School,Oxford High School,First Year,amelia.evans358@school.edu,8.674167140169864,10,GCSE
+STU_000671,Bennani,Felix,f,14,Allemagne,Toronto,Grundschule,Imperial College London,4ème,julia.garcía550@school.edu,12.584832896094435,9,Master
+STU_000754,Rodríguez,Daniel,f,10,Espagne,Zaragoza,Universidad,Instituto Lope de Vega,2º Curso,emily.brown297@edu,12.413838440118532,13,Máster
+STU_000896,Anderson,Emily,m,8,Maroc,Boston,Lycée,King's Primary School,Máster,marie.becker762@school.edu,20.449524349332883,2,GCSE
+STU_000550,Hoffmann,Lina,f,5,Allemagne,Stuttgart,Universität,Goethe-Gymnasium,2. Semester,john.garcia343@school.edu,9.99133239102755,4,Doktor
+STU_000527,Gómez,Paul,m,9,France,Chicago,École Primaire,Washington Elementary,Grade 6,evelyn.jones706@school.edu,16.83924591737987,0,Baccalauréat
+STU_000931,Williams,Mohamed,f,20,France,Köln,Secondary School,Université Cadi Ayyad,Grade 11,elias.hoffmann506@school.edu,12.003274893387497,0,ESO
+STU_001387,Meyer,Lina,f,12,Allemagne,Hamburg,Grundschule,Universität Heidelberg,Grade 9,ahmed.bennani603@school.edu,10.001438696095207,7,Bachelor
+STU_000142,Schneider,Fatima,m,11,Allemagne,Rabat,Gymnasium,Goethe Grundschule,Grade 2,álvaro.martín232@school.edu,25.23316536776598,9,Grado
+STU_001507,García,Inès,f,21,Espagne,Málaga,Secundaria,Colegio Velázquez,Year 5,valeria.gonzález319@school.edu,10.430079716753578,7,Doctorado
+STU_001550,Davies,Emily,f,9,Canada,Vancouver,Primary School,Maple Elementary,Grade 10,amina.benali383@school.edu,13.006803614259695,5,PhD
+STU_000182,Tremblay,Laila,m,10,Maroc,Marseille,Lycée,Lycée Descartes,Seconde,emily.brown851@school.edu,18.800024310264146,2,Doctorat
+STU_001033,Benjelloun,Arthur,m,8,France,Miami,École Primaire,UBC,2ème Bac,fatima.sqalli808@school.edu,21.788551078184742,8,Brevet
+STU_000471,Evans,Lucas,m,8,Canada,Winnipeg,Middle School,École Mohammed V,Grade 2,chloe.martin751@school.edu,24.882507449795828,1,Bachelor's
+STU_000601,Jones,Charlotte,m,8,USA,Manchester,Secondary School,École Al Massira,Klasse 6,paul.schneider737@school.edu,25.30677299244705,15,Bachelor's
+STU_001590,Thomas,Marwa,m,5,Allemagne,Vancouver,École Primaire,Schiller-Gymnasium,Tronc Commun,mohamed.alaoui936@school.edu,20.660918036684052,5,Baccalauréat
+STU_001294,Fernández,Olivia,f,16,Maroc,Marseille,École Primaire,Université Paris-Saclay,1ère Bac,liam.wilson683@school.edu,12.121345673220773,6,Master
+STU_001857,Robert,Isabella,m,10,France,Bordeaux,Université,Lycée Moulay Youssef,S6,matthew.miller960@school.edu,24.125306829825192,8,Baccalauréat
+STU_000515,Davis,Liam,m,9,Canada,Winnipeg,Primary School,Montreal High School,Klasse 8,jacob.johnson870@school.edu,24.343555410166438,7,Bachelor's Degree
+STU_001519,Müller,Fatima,m,9,France,Lyon,École Primaire,Montreal High School,Grade 6,amelia.garcia444@school.edu,16.585606088293485,16,Certificat Primaire
+STU_001251,Bernard,Daniel,m,5,USA,Vancouver,Elementary School,Imperial College London,Senior,george.evans420@school.edu,18.246649647718286,5,Master's
+STU_000192,González,Leo,f,20,Espagne,Frankfurt,Universidad,Universidad Complutense,Klasse 5,lina.schulz875@school.edu,12.369852122601428,13,Bachillerato
+STU_001142,Benali,Isla,m,21,France,Toulouse,Université,Université Ibn Tofail,5ème,martín.gómez777@school.edu,24.750711405624074,9,Baccalauréat
+STU_000508,Williams,Oliver,m,8,Canada,Oxford,Secondary School,Lycée Henri IV,Year 2,amine.chakir663@school.edu,24.132999555060984,10,Bachelor's Degree
+STU_000074,Taylor,Emily,m,6,USA,Frankfurt,Secondary School,Victoria Primary,Year 13,hugo.perez368@edu,20.901398572044265,8,Master's Degree
+STU_001739,Sqalli,María,f,6,Canada,Strasbourg,Gymnasium,Cedar Elementary,Terminale,thomas.thomas592@school.edu,9.426484109901427,8,Bachelor's Degree
+STU_001200,Martínez,Sofía,f,21,Espagne,Málaga,Secundaria,Universidad Complutense,3º ESO,laila.alaoui425@school.edu,11.471909946511545,13,ESO
+STU_001847,Martin,Martina,m,9,USA,Quebec City,Lycée,Victoria Primary,3. Semester,noah.wagner858@school.edu,20.695447942532052,3,Master's
+STU_000227,Taylor,Emily,m,7,Canada,Los Angeles,Secondary School,Adams Middle School,1. Semester,john.smith927@school.edu,19.898041011705526,10,PhD
+STU_000023,Schmidt,Emma,m,16,Allemagne,Nantes,Universität,Westminster School,CP,ben.muller232@school.edu,20.20807400503888,6,Abitur
+STU_001605,Bernard,María,m,10,Canada,Marrakech,Primary School,University of Cambridge,Grade 12,mia.weber242@edu,24.473817103811243,8,Abitur
+STU_001184,Petit,Sanae,m,15,Maroc,Bristol,Université,Colegio Velázquez,Klasse 4,elias.hoffmann698@school.edu,21.296004737059377,6,Baccalauréat
+STU_001208,Robert,John,m,16,Allemagne,Agadir,Université,Université Ibn Tofail,2ème AC,louis.martin537@school.edu,24.95747469469473,4,Master's Degree
+STU_001485,Martín,Amelia,m,8,UK,Montreal,University,Collège Al Khawarizmi,Third Year,jules.moreau410@school.edu,24.279582027543718,2,GCSE
+STU_000196,Rodriguez,Léa,m,8,UK,Cambridge,Lycée,Einstein Grundschule,Sophomore,mia.schulz802@school.edu,25.377135696586322,8,Master
+STU_001033,Jones,Léo,m,12,Maroc,Düsseldorf,École Primaire,Colegio Velázquez,S3,james.jones269@school.edu,19.348967014165297,8,High School Diploma
+STU_000445,Jones,Louis,f,4,Canada,Birmingham,Secondary School,Toronto High School,Grade 11,zoe.simon926@school.edu,9.260451383011826,9,Master's Degree
+STU_001426,Benali,Joseph,m,9,France,Lille,Collège,Instituto Ramón y Cajal,3ème AC,zoe.martin491@edu,24.613883922778363,10,Certificat Primaire
+STU_000398,Evans,Alejandro,m,9,Allemagne,Calgary,École Primaire,Harvard University,1º ESO,anna.becker846@school.edu,25.15024317806938,5,Bachelor
+STU_001444,Schulz,Amelia,m,13,France,New York,University,Adams Middle School,Year 13,mohamed.chakir850@edu,25.030596598900026,0,Bachelor
+STU_001547,Sqalli,Noah,m,14,Maroc,Berlin,Lycée,Kant-Gymnasium,Terminale,ava.macdonald948@edu,19.227462139110106,9,Master
+STU_000757,González,Jonas,m,19,Espagne,Granada,Universidad,Universidad de Barcelona,1º ESO,louise.moreau807@school.edu,20.321991422986294,9,Doctorado
+STU_000709,González,Sofía,f,19,Espagne,Sevilla,Secundaria,Instituto Lope de Vega,3º ESO,james.roy583@school.edu,8.585031601435894,2,ESO
+STU_000015,Smith,Oliver,m,8,USA,Edmonton,Primary School,North High School,Graduate,martina.garcía853@edu,19.527651952338868,5,GCSE
+STU_000163,Taylor,Ali,f,8,UK,Manchester,Secondary School,Calgary High School,Grade 7,aicha.alaoui659@school.edu,11.66743846147856,9,Master
+STU_000718,Benali,Lucía,f,12,Espagne,Zaragoza,Universidad,Colegio Goya,Year 6,pablo.martínez29@school.edu,10.995434272131419,10,ESO
+STU_000474,Davies,Lucas,m,9,Allemagne,Hamburg,High School,École Jean Jaurès,3º Primaria,harry.smith467@school.edu,17.70046726122028,5,Master
+STU_001042,Wilson,Olivia,m,8,Allemagne,Edinburgh,Universität,Washington Elementary,Licence 3,ava.johnson971@school.edu,23.535319765029378,9,High School Diploma
+STU_001377,López,Sofía,f,9,Espagne,Paris,Secundaria,Université Grenoble Alpes,5ème,marie.hoffmann597@school.edu,12.036414022920189,9,Bachillerato
+STU_001165,González,Ava,m,8,UK,Seattle,Secondary School,University of Cambridge,Grade 12,salma.bennani176@school.edu,18.334628379594704,0,Master's
+STU_001094,Petit,Louis,m,17,Maroc,Valencia,Lycée,South High School,Master 1,emma.leroy420@school.edu,19.425836377068656,8,Master
+STU_000178,Jones,Sophie,m,7,USA,Köln,High School,Colegio Velázquez,Klasse 2,camille.robert706@school.edu,25.183330248394206,1,Baccalauréat
+STU_000703,Rodríguez,Sofía,f,20,Espagne,Quebec City,Universidad,Université Lyon 1,1º Curso,mateo.fernández495@school.edu,9.95239495184026,8,Doctorado
+STU_000760,Bernard,Emma,f,9,Allemagne,Rabat,Secundaria,Washington Elementary,Master 1,lea.becker647@school.edu,9.323184655779132,10,Master
+STU_000480,Benali,Noah,f,14,Maroc,Toronto,University,Universität Hamburg,Klasse 10,emily.evans507@school.edu,9.621063079217492,7,Master
+STU_001248,Sqalli,Amine,f,9,France,Barcelona,Collège,Sorbonne Université,Klasse 3,sophia.wagner931@edu,12.18775603485296,9,Master
+STU_000377,Jones,Charlie,m,13,UK,Rabat,Middle School,North High School,Fourth Year,felix.schneider936@school.edu,19.47113549038634,1,Máster
+STU_001972,Brown,Thomas,m,9,UK,Houston,Secondary School,King's Primary School,Graduate,isabella.davis958@school.edu,19.503053852041873,9,Bachelor's Degree
+STU_001239,Martin,Isabella,m,6,Canada,Granada,Secondary School,Universität Hamburg,Year 13,daniel.garcia410@school.edu,25.98379560690116,9,PhD
+STU_001601,Petit,Martín,m,6,Maroc,Tanger,Lycée,École Pasteur,5ème année,jack.martin408@edu,21.38382933967454,5,Master
+STU_001557,Martín,Hugo,m,7,Maroc,Lyon,Universität,UBC,CE1,ahmed.benali762@school.edu,23.471168549641764,2,Master
+STU_001565,Fassi,Isla,f,7,France,Liverpool,Secondary School,Universität München,Klasse 4,manon.bernard492@school.edu,9.738148092347037,10,ESO
+STU_000380,Martínez,Lina,f,5,Allemagne,Leipzig,Universität,Universität Heidelberg,CP,noah.weber345@school.edu,12.201538537800854,6,Master
+STU_001013,Fernández,Sofía,f,18,Espagne,Valencia,Secundaria,Instituto Lope de Vega,3º ESO,oliver.anderson688@edu,9.002617811719027,9,Máster
+STU_001028,Meyer,Emma,m,13,France,Stuttgart,École Primaire,Collège Jean Moulin,Klasse 4,ali.sqalli397@school.edu,25.383217502686684,7,Baccalauréat
+STU_000136,Jones,Hugo,m,7,Canada,Oujda,Lycée,Eton College,Grade 12,isabella.johnson531@edu,21.497840738977263,8,Master
+STU_001853,Williams,Charlotte,m,7,Canada,London,Secondary School,University of Oxford,Grade 10,hugo.durand4@school.edu,25.996249360765752,8,PhD
+STU_001798,González,Fatima,m,19,France,Tanger,École Primaire,Central High School,1ère AC,william.martinez552@edu,24.891312467475252,3,Master's Degree
+STU_001159,Miller,Thomas,m,14,France,Seattle,École Primaire,Vancouver High School,Year 5,charlie.taylor749@school.edu,24.1525728244328,8,Doctorat
+STU_000073,Moreau,David,m,8,USA,Seattle,Secondary School,Instituto Lope de Vega,Grade 2,finn.fischer505@school.edu,24.894286605677202,6,Bachelor's
+STU_000830,Taylor,Hugo,m,16,France,Lyon,Universidad,Cambridge High School,Klasse 1,emily.smith143@edu,18.148793868627173,15,Baccalauréat
+STU_000349,Sqalli,Noah,m,8,Espagne,Granada,Elementary School,Colegio Velázquez,4ème,jacob.taylor100@school.edu,25.134881306261676,7,Doctorado
+STU_001225,Martinez,Felix,f,9,Canada,Granada,Primary School,Universität München,1º Curso,amelia.brown215@school.edu,9.41954798247956,5,High School Diploma
+STU_001989,Martin,Marwa,m,11,USA,Bilbao,University,Mozart Grundschule,2ème Bac,charlotte.martin948@school.edu,25.64274686314672,3,Master's Degree
+STU_000043,Martínez,William,f,13,Espagne,Zaragoza,Secundaria,Maple Elementary,3ème,sophia.martin592@school.edu,12.159884130632948,5,Bachillerato
+STU_000126,Smith,Isabella,m,8,Canada,New York,Secondary School,Vancouver High School,Grade 12,liam.martin754@school.edu,25.046202696026157,8,Baccalauréat
+STU_000445,Evans,Lea,f,13,Allemagne,New York,Secondary School,École Élémentaire Victor Hugo,Second Year,ethan.martin109@school.edu,12.693530908841886,7,A-Level
+STU_001297,Petit,Manuel,m,19,Espagne,Düsseldorf,École Primaire,Collège Al Khawarizmi,1ère AC,álvaro.gómez390@school.edu,20.693144166252047,2,Baccalauréat
+STU_000020,Benali,Clara,m,10,Maroc,Madrid,École Primaire,Lycée Condorcet,4º Primaria,clara.martin333@school.edu,19.053494638426404,1,Bachelor
+STU_001476,Williams,William,m,11,USA,Winnipeg,Elementary School,Lincoln Elementary,Senior,manon.dupont637@school.edu,24.28021182606558,12,Master's
+STU_000544,Martínez,Finn,f,19,Allemagne,Marseille,Gymnasium,Kant-Gymnasium,CP,felix.schmidt935@school.edu,9.416256855345576,7,Abitur
+STU_001377,Tremblay,Benjamin,m,7,Canada,Winnipeg,University,North High School,Year 8,harper.smith995@school.edu,25.277848921376282,9,A-Level
+STU_001620,Idrissi,Amina,f,9,Allemagne,Hamburg,Gymnasium,Stanford University,1ère Bac,lily.evans595@school.edu,12.000027180635508,9,Máster
+STU_001870,Brown,Gabriel,m,10,Allemagne,Vancouver,Grundschule,Collège Averroès,Tronc Commun,elias.schulz114@school.edu,17.387832434067267,2,Master
+STU_001170,Müller,Marie,f,12,France,Köln,Lycée,Kennedy Middle School,CE1,valeria.gómez774@school.edu,9.882320081342845,7,Brevet
+STU_001570,Schulz,Ava,m,14,USA,Edmonton,Secondary School,Oxford High School,4º Primaria,david.brown691@school.edu,19.0951555886401,9,Master's
+STU_000073,Wagner,Noah,m,13,Allemagne,Ottawa,University,Universität Hamburg,5ème année,zoe.leroy425@school.edu,25.667985713152426,13,Baccalauréat
+STU_001567,Davies,Olivia,m,4,UK,Seattle,Secondary School,East High School,3ème AC,jules.petit834@school.edu,25.473971283539463,9,High School Diploma
+STU_001280,Thomas,Ava,f,8,Canada,Stuttgart,Gymnasium,École Pasteur,Master 1,sofía.martín825@school.edu,12.085482711617871,8,Licence
+STU_000366,Fernández,Lucía,f,22,Espagne,Zaragoza,Primaria,Instituto Lope de Vega,2º ESO,leon.muller597@school.edu,12.459828889821889,8,Máster
+STU_000024,Rodriguez,Mia,m,8,USA,Liverpool,Middle School,Montreal High School,Klasse 6,poppy.taylor552@school.edu,24.267740326153966,10,PhD
+STU_001376,Jones,Mia,f,8,Allemagne,Frankfurt,Primaria,Colegio Goya,Grade 6,lena.schulz973@school.edu,8.977969556848475,6,Master's
+STU_001167,Fernández,Paula,m,22,Espagne,Valencia,Secundaria,Universidad Complutense,1º ESO,isabella.thomas933@school.edu,25.016415645857652,19,Bachillerato
+STU_000927,El Amrani,Noah,f,8,France,Nantes,High School,Lycée Henri IV,Year 7,amelia.thomas322@school.edu,9.805135860762338,6,Baccalauréat
+STU_000637,Martin,Amelia,f,7,Canada,New York,Secondary School,Collège Molière,Year 8,lucas.fernández123@school.edu,9.541988271731794,6,GCSE
+STU_000606,Meyer,Karim,m,11,Allemagne,Berlin,Secondary School,École Ibn Sina,Year 6,michael.garcia216@school.edu,21.724923301691113,9,Master
+STU_001073,Martínez,Anna,f,14,Canada,Barcelona,Secondary School,Montreal High School,2ème Bac,noah.anderson844@edu,8.84443699966446,6,Máster
+STU_000644,El Amrani,Lucía,m,9,UK,Bordeaux,Lycée,Calgary High School,Klasse 7,raphaël.simon615@school.edu,23.842864964796064,8,Certificat Primaire
+STU_001813,Hoffmann,Ahmed,f,9,Allemagne,Leipzig,Grundschule,North High School,Klasse 4,nour.elamrani708@edu,9.441052006739834,17,Máster
+STU_001842,Schneider,Emilia,m,20,Allemagne,Düsseldorf,Universität,Goethe Grundschule,2º ESO,fatima.bennani157@school.edu,18.77626389963628,2,Master
+STU_001790,El Amrani,Ali,m,15,Canada,Bordeaux,Primaria,King's Primary School,Klasse 7,chloe.roy869@school.edu,23.658267108944433,8,Bachelor's
+STU_000073,Schmidt,Lena,m,20,Allemagne,Leipzig,Universität,Colegio Velázquez,6. Semester,anna.meyer743@edu,19.06172383183647,5,Doktor
+STU_001109,Taylor,Lea,f,8,Maroc,Düsseldorf,Secondary School,Mozart Grundschule,Second Year,lina.hoffmann136@edu,9.637345160397956,7,Master
+STU_000677,Sqalli,Amelia,m,9,UK,Liverpool,Secondary School,King's Primary School,Grade 5,pablo.martínez175@edu,19.564313533847525,16,High School Diploma
+STU_001833,García,Jules,m,12,France,Bordeaux,École Primaire,Lycée Mohammed V,Klasse 2,jonas.schulz116@school.edu,18.282932148264184,13,Licence
+STU_001420,Müller,Gabriel,m,11,Allemagne,Toulouse,Secondary School,Colegio Picasso,Klasse 3,álvaro.perez322@school.edu,22.91924098513593,8,Baccalauréat
+STU_001053,Müller,Marie,m,16,Maroc,Oujda,Lycée,Université Hassan II,Première,hugo.thomas478@edu,18.299757321493203,15,Master
+STU_000967,El Amrani,Amelia,m,10,France,Boston,Collège,Lycée Descartes,2ème AC,sanae.tazi51@school.edu,24.570875695285324,3,Master
+STU_000389,Chakir,Karim,m,15,France,Lille,Middle School,Central High School,2º Bachillerato,leo.gómez908@school.edu,24.793257491305205,1,Baccalauréat
+STU_001334,Benali,Mehdi,m,13,Espagne,Marrakech,École Primaire,McGill University,1ère Bac,ava.tremblay277@school.edu,22.928127790243103,8,Certificat Primaire
+STU_000275,Sqalli,Mia,m,21,France,Marrakech,Lycée,Pine Elementary,5ème,daniel.williams513@school.edu,23.512386660153947,3,Doctorat
+STU_001036,Schneider,Omar,m,9,Espagne,Valencia,Gymnasium,Harvard University,Terminale,george.evans497@school.edu,19.4042025549833,1,Baccalauréat
+STU_000911,Evans,Emma,m,11,USA,Cambridge,École Primaire,Jefferson Elementary,2ème AC,amina.sqalli697@school.edu,23.582204221303602,14,GCSE
+STU_001387,Martín,Chloé,m,8,France,Winnipeg,Lycée,Collège Al Khawarizmi,Grade 8,ikram.sqalli428@school.edu,19.929812771325984,0,Bachelor's Degree
+STU_001664,Wilson,Mehdi,m,10,Canada,Bristol,Middle School,Imperial College London,Grade 4,paul.becker934@edu,20.816833333341332,7,A-Level
+STU_000032,Meyer,Finn,m,8,Canada,Birmingham,Middle School,Victoria Primary,5ème,jessica.evans182@school.edu,25.143835241818188,1,A-Level
+STU_000494,Davis,Oliver,m,14,Allemagne,Oxford,Middle School,Lycée Hassan II,Senior,james.brown691@edu,18.969105188002487,17,Master
+STU_000804,Sqalli,Amine,f,8,France,Berlin,Université,École Ibn Sina,2ème Bac,isla.taylor500@school.edu,9.871176400984861,6,Licence
+STU_001751,Bernard,Karim,m,8,Maroc,Frankfurt,Lycée,Calgary High School,3ème AC,luis.muller485@school.edu,20.295186027641996,9,Master
+STU_000149,Müller,Alexander,m,6,Maroc,Marseille,Primaria,Lycée Janson de Sailly,Grade 11,alba.fernández821@school.edu,16.696189490834982,2,Master
+STU_000471,Martin,Amelia,m,7,Canada,Boston,Elementary School,South High School,Grade 6,luis.muller581@school.edu,22.80083296133659,8,PhD
+STU_001514,Smith,Ethan,m,9,USA,Montreal,Primary School,Kennedy Middle School,Grade 2,marie.hoffmann572@school.edu,20.933845160126122,2,Bachelor's Degree
+STU_000122,Bennani,María,f,22,Espagne,Hamburg,Universidad,Universidad Complutense,Klasse 2,william.smith872@school.edu,12.32648333751565,1,Máster
+STU_001014,Chakir,Jack,m,8,USA,Frankfurt,Secondary School,Montreal High School,Master 1,harry.williams964@school.edu,20.37821885313386,8,A-Level
+STU_000357,Johnson,William,m,4,UK,Valencia,Secondary School,Oxford High School,First Year,lucas.martin414@school.edu,25.07978814484631,9,High School Diploma
+STU_001257,Garcia,Finn,m,7,Allemagne,Hamburg,Secondary School,École Mohammed V,3ème AC,matthew.rodriguez726@school.edu,25.59281147240437,8,Master
+STU_001426,Moreau,Sophie,f,5,Canada,Köln,University,Maple Elementary,Year 1,arthur.bernard374@school.edu,10.486125785029135,9,PhD
+STU_001343,Benjelloun,Sanae,f,9,France,Edmonton,Secondary School,MIT,1ère année,finn.fischer634@edu,12.364428108991156,9,Licence
+STU_000818,Bennani,Louis,f,7,France,Barcelona,Elementary School,Schiller-Gymnasium,4º Primaria,ethan.wilson906@school.edu,9.667840753162121,8,Master
+STU_001177,Williams,Jack,m,8,UK,Oxford,Secondary School,Imperial College London,3ème AC,daniel.johnson889@school.edu,25.14873712193907,2,Master's
+STU_001031,Leroy,Karim,m,21,Maroc,Tanger,Lycée,Lycée Moulay Youssef,Terminale,lucía.rodríguez818@school.edu,25.912013873259802,4,Doctorat
+STU_000523,Weber,Fatima,f,5,Allemagne,München,Grundschule,Universität Hamburg,3. Semester,maría.perez649@school.edu,9.586137157870853,8,Abitur
+STU_000142,Bernard,Daniel,m,9,Allemagne,Edmonton,Lycée,École Ibn Sina,Junior,emma.williams693@school.edu,20.477318240870247,1,Baccalauréat
+STU_000091,Martin,Amelia,m,7,Maroc,Birmingham,Primary School,Cambridge High School,3º Primaria,harry.johnson510@school.edu,19.070949973210368,7,Bachelor's
+STU_001573,Dupont,Pablo,f,7,Canada,Frankfurt,Lycée,Lycée Condorcet,Première,mia.becker793@school.edu,8.314295453606569,8,Master's Degree
+STU_001179,Tazi,Álvaro,f,12,Maroc,Zaragoza,University,Colegio Velázquez,Sophomore,ikram.benali296@school.edu,9.2567695357708,4,Máster
+STU_001851,Thomas,Lucas,m,20,Espagne,Madrid,Primaria,Universität Hamburg,Grade 2,lea.martin647@school.edu,18.733031565313965,7,Brevet
+STU_001577,Hoffmann,Noah,m,9,Allemagne,Leipzig,Grundschule,Goethe-Gymnasium,4º Curso,álvaro.gómez480@school.edu,23.78664862931511,10,Abitur
+STU_001005,Davis,Hannah,f,8,Canada,Birmingham,Gymnasium,Maple Elementary,1º ESO,amine.chakir1@school.edu,9.518402499352753,8,Bachelor
+STU_000487,Garcia,Oliver,m,17,USA,Miami,High School,Universität Hamburg,Second Year,oliver.taylor316@school.edu,24.26843602083644,4,PhD
+STU_001308,Martin,Noah,m,13,Canada,Vancouver,Secondary School,Schiller Grundschule,1ère Bac,zoe.bernard411@edu,24.218573723952098,8,ESO
+STU_000011,Benali,Emma,f,16,USA,Frankfurt,Primaria,Colegio Cervantes,Year 5,martín.martínez797@edu,12.502828164618942,0,Máster
+STU_001490,Chakir,Michael,m,16,Maroc,Bordeaux,Université,Université Mohammed V,Sophomore,daniel.williams513@school.edu,19.8032954529137,5,Brevet
+STU_000295,López,Noah,f,21,Espagne,Valencia,Universidad,Universidad de Barcelona,2º Curso,mehdi.idrissi14@edu,9.426179010009186,7,ESO
+STU_001442,Schneider,Lucas,m,9,Allemagne,Lyon,École Primaire,Kennedy Middle School,CE1,leo.bernard488@school.edu,17.972225644992527,9,Brevet
+STU_000268,Petit,Sanae,m,5,Espagne,Fès,Lycée,Washington Elementary,Master 1,lily.evans595@school.edu,18.521950501126184,5,Master
+STU_000451,Dupont,Zineb,f,21,Espagne,Paris,Primaria,Lycée Henri IV,Máster,james.wilson345@school.edu,12.298296906329401,14,ESO
+STU_001389,Wilson,George,m,11,UK,Los Angeles,Primaria,École Jean Jaurès,3ème,julia.martín991@school.edu,16.99493865265908,3,Master's Degree
+STU_000249,Bernard,Mateo,m,9,USA,Toulouse,High School,Lycée Descartes,Year 12,elias.hoffmann698@school.edu,24.27876484069319,7,Master's Degree
+STU_000680,Martin,Joseph,m,19,France,Düsseldorf,Secundaria,École Pasteur,4. Semester,isla.davies543@school.edu,21.40570640319268,5,ESO
+STU_001515,Pérez,Luis,f,23,Espagne,Zaragoza,Secundaria,Colegio Cervantes,4º Primaria,emma.martinez727@school.edu,10.136865551695,8,Doctorado
+STU_000514,Thomas,Marwa,m,10,Maroc,Agadir,Middle School,Universidad de Salamanca,Seconde,sarah.dupont873@edu,17.608350412366587,6,Doctorado
+STU_001411,Wilson,John,f,9,UK,Edinburgh,Secondary School,Collège Jean Moulin,Grade 3,manuel.martínez346@edu,8.519134440469164,6,Master's
+STU_000942,Tremblay,David,f,11,Maroc,Valencia,University,Universität Heidelberg,1º Curso,thomas.davis746@edu,9.905005029193095,7,Master's Degree
+STU_000141,Fernández,Oscar,m,7,Canada,Bilbao,Primary School,Franklin Middle School,5º Primaria,thomas.smith255@school.edu,23.83702763221059,3,PhD
+STU_000265,Becker,Paula,m,17,USA,Manchester,High School,Cedar Elementary,Second Year,elias.schneider799@edu,24.920553237231296,8,PhD
+STU_000244,Moreau,Sophia,m,5,Allemagne,Granada,Primary School,Colegio Velázquez,Klasse 1,amelia.miller881@school.edu,24.941378409556513,7,Baccalauréat
+STU_000835,García,Alba,f,9,Espagne,Toulouse,Secundaria,Colegio Picasso,Fourth Year,james.brown691@edu,10.517622491564188,6,Baccalauréat
+STU_000031,Becker,Luis,m,14,Allemagne,Leipzig,Grundschule,Kennedy Middle School,6ème,ikram.elamrani618@edu,25.467212645687724,4,Bachelor
+STU_000371,Thomas,John,m,7,USA,Los Angeles,Lycée,Oak Elementary,Grade 3,charlotte.johnson274@school.edu,20.99581833166809,7,GCSE
+STU_001184,Jones,Emma,m,18,France,Oujda,École Primaire,Lycée Janson de Sailly,Terminale,emily.johnson109@school.edu,19.790421281584692,8,Baccalauréat
+STU_001216,Wagner,Olivia,m,5,Allemagne,Leipzig,Grundschule,Universität Heidelberg,2. Semester,hannah.schneider944@school.edu,19.746989582105254,2,Abitur
+STU_000759,Roy,Inès,f,10,Espagne,Málaga,Primaria,Schiller-Gymnasium,Grade 6,karim.elamrani649@school.edu,10.680655307183791,1,Bachelor's Degree
+STU_000875,Gómez,Lucía,f,19,Espagne,Valencia,Universidad,Universidad de Salamanca,1º Curso,amelia.brown746@school.edu,12.237918959701677,5,ESO
+STU_001908,Petit,Martín,f,15,Maroc,Fès,Secundaria,Colegio Goya,Freshman,james.jones269@school.edu,8.7946894298078,8,Doctorat
+STU_001070,Chakir,James,m,8,Canada,Bordeaux,Grundschule,École Pasteur,2. Semester,jonas.schulz397@school.edu,19.957201271804298,1,PhD
+STU_001539,Alaoui,Léo,m,15,France,Marseille,Lycée,Central High School,2. Semester,gabriel.moreau213@school.edu,24.965776301203867,11,Brevet
+STU_000600,Dupont,Amelia,m,20,Maroc,Köln,Lycée,École Jules Ferry,Grade 12,isabella.anderson177@school.edu,23.82445809469656,7,Licence
+STU_000043,Evans,Marie,m,9,Canada,Bordeaux,Secondary School,University of Oxford,Grade 10,clara.moreau284@school.edu,18.160386047473274,6,A-Level
+STU_000486,Martínez,Poppy,f,8,Canada,Marseille,Lycée,Universität Heidelberg,Year 13,john.smith559@school.edu,9.311653161485562,4,A-Level
+STU_001028,Taylor,Ahmed,m,7,Allemagne,Barcelona,Primaria,University of Oxford,3ème,felix.schulz950@school.edu,25.476849121514228,9,PhD
+STU_000106,Simon,Emily,m,10,USA,Casablanca,Gymnasium,LSE,Klasse 3,charlotte.macdonald764@school.edu,19.03117859770063,4,Master
+STU_000184,Moreau,Amine,f,9,France,Marseille,Middle School,Schiller-Gymnasium,1. Semester,zoe.leroy549@edu,12.67138235298226,8,Bachelor
+STU_001972,Pérez,Anna,m,8,Maroc,Sevilla,Grundschule,Université Grenoble Alpes,Klasse 2,chloe.roy869@school.edu,19.54411239413312,1,PhD
+STU_001839,González,Lucía,f,21,Espagne,Sevilla,Secundaria,Universidad Complutense,1º Curso,hugo.bernard180@school.edu,8.927846486278463,15,Máster
+STU_001318,Brown,David,m,5,Maroc,Boston,Middle School,Lycée Mohammed V,Third Year,ethan.roy289@school.edu,25.263882658273374,8,PhD
+STU_000084,Davies,John,m,8,Maroc,Granada,École Primaire,Colegio Cervantes,Sophomore,james.jones420@school.edu,19.09040357771637,17,Master
+STU_001138,Becker,Ali,m,11,USA,München,High School,Toronto High School,Grade 9,emilia.weber77@school.edu,23.45170262523969,8,Bachelor's Degree
+STU_000172,Chakir,Omar,m,13,Maroc,Frankfurt,Lycée,Université Mohammed V,Licence 3,noah.evans602@school.edu,24.463549960775257,4,Baccalauréat
+STU_001387,Wilson,Sophie,m,16,Canada,Boston,Université,Collège Al Khawarizmi,Klasse 5,jack.wilson666@school.edu,25.223344730164804,9,Master
+STU_001736,López,Mateo,f,18,Espagne,Málaga,Primaria,Instituto Lope de Vega,3º Primaria,luis.muller485@school.edu,8.495803010794885,4,Doctorado
+STU_001149,Idrissi,Zineb,m,14,Allemagne,Casablanca,Lycée,Victoria Primary,2ème AC,amelia.wilson806@edu,24.882003610978337,8,Baccalauréat
+STU_001469,Wilson,James,m,8,UK,Winnipeg,Secondary School,Collège Ibn Khaldoun,Second Year,arthur.thomas590@school.edu,24.223020411762008,9,PhD
+STU_000848,García,Benjamin,f,13,UK,Strasbourg,École Primaire,École Hassan II,1. Semester,lina.schulz827@school.edu,8.460705887412004,10,Master
+STU_000924,Hoffmann,Raphaël,f,7,Allemagne,München,École Primaire,Goethe-Gymnasium,Klasse 3,charlotte.davis287@school.edu,10.55550970492963,9,Doktor
+STU_001972,Anderson,Jessica,m,12,Canada,Winnipeg,Lycée,Vancouver High School,Grade 1,charlie.taylor749@school.edu,23.74117882879044,1,PhD
+STU_001841,Becker,Emilia,m,10,Allemagne,Casablanca,Secondary School,Collège Pierre et Marie Curie,CE1,harry.brown135@school.edu,21.32864672864969,7,PhD
+STU_000520,Rodríguez,Lucía,f,10,Espagne,Stuttgart,Lycée,Colegio Velázquez,1º ESO,william.johnson571@school.edu,10.312452711690483,9,A-Level
+STU_000709,Weber,Lea,f,8,Canada,Berlin,Lycée,Montreal High School,5. Semester,lily.smith665@school.edu,12.460691106706882,9,GCSE
+STU_001032,Müller,Pablo,m,8,Espagne,Düsseldorf,Collège,Lycée Janson de Sailly,S6,lucas.petit478@school.edu,19.889002953470527,18,PhD
+STU_001605,Johnson,Alexander,m,7,UK,Bristol,Secondary School,Eton College,Grade 4,fatima.idrissi181@edu,23.101413353698753,8,Master's
+STU_000857,Sqalli,Valeria,m,12,Maroc,Tanger,Université,Lycée Janson de Sailly,Seconde,benjamin.tremblay850@school.edu,20.521339016971417,2,Brevet
+STU_000247,Benjelloun,William,f,5,Espagne,Calgary,High School,TU Berlin,Grade 2,alba.fernández433@school.edu,12.579102784380463,7,GCSE
+STU_001904,Chakir,María,f,22,France,Strasbourg,Université,Collège Al Khawarizmi,2ème Bac,amina.idrissi624@school.edu,12.562590397874011,1,Brevet
+STU_001978,Schneider,Lina,f,7,Allemagne,Ottawa,Grundschule,Université Lyon 1,Master 2,daniel.garcia410@school.edu,10.893408651003037,4,Abitur
+STU_001268,Schulz,Felix,f,8,Allemagne,Köln,Universität,Université Paris-Saclay,Grade 11,john.garcia449@school.edu,10.824954717548875,2,Master
+STU_000531,Williams,Lily,m,13,Maroc,London,Primaria,Calgary High School,Máster,raphaël.bernard583@school.edu,21.924495864315055,5,Master's
+STU_000293,Chakir,Jonas,m,17,France,Lille,Lycée,Collège Voltaire,Senior,joseph.rodriguez694@school.edu,20.822221142391612,2,Brevet
+STU_001785,Robert,Ahmed,m,5,France,New York,Secondary School,Lincoln Elementary,Senior,thomas.martinez552@school.edu,17.757778513732234,8,Master
+STU_000802,Martin,Charlie,m,8,France,Birmingham,École Primaire,Collège Al Khawarizmi,5ème année,martina.martínez970@edu,24.686158980655932,6,Master's
+STU_001322,Sánchez,Mehdi,f,20,France,Berlin,Secundaria,Lycée Janson de Sailly,1º ESO,julia.perez962@school.edu,11.964591985634545,9,Certificat Primaire
+STU_000388,Sqalli,Emma,m,14,Maroc,Hamburg,Lycée,Collège Jean Moulin,S5,george.evans420@school.edu,19.464087220063593,9,Licence
+STU_001951,Rodríguez,Fatima,f,8,Espagne,Manchester,Universidad,Universidad Complutense,Year 3,ava.brown205@school.edu,12.765567946312576,5,ESO
+STU_001608,Benjelloun,Omar,m,8,Allemagne,Barcelona,Secundaria,Mozart Grundschule,4º Curso,lucas.martin414@school.edu,24.555813272508807,3,Baccalauréat
+STU_000599,Rodríguez,Martina,f,23,Espagne,Zaragoza,Secundaria,Colegio Cervantes,1º ESO,poppy.williams485@school.edu,9.443159225248793,16,ESO
+STU_001392,Smith,Ethan,f,9,USA,New York,Primary School,Pine Elementary,Grade 5,george.evans497@school.edu,9.914787226056253,4,A-Level
+STU_001976,González,Lucía,f,24,Espagne,Zaragoza,Universidad,Colegio Picasso,3º Primaria,paula.perez912@edu,10.451314512855918,16,Grado
+STU_001264,Thomas,Emily,f,6,Canada,Strasbourg,Elementary School,Pine Elementary,Grade 2,ines.martin580@school.edu,13.005182022676411,9,PhD
+STU_001157,Becker,Arthur,m,13,France,Paris,Lycée,Kant-Gymnasium,S6,marie.wagner784@edu,25.03038414272871,8,Master
+STU_000821,Wilson,Thomas,m,7,Canada,Toronto,Primary School,Kant-Gymnasium,Grade 10,zoe.bernard411@edu,19.958475030353107,8,Bachelor's
+STU_000593,Rodríguez,Lucía,f,9,Espagne,Valencia,Universidad,Pine Elementary,2º ESO,harry.brown115@school.edu,10.575481317723172,1,ESO
+STU_000732,Gómez,Mia,f,9,Espagne,Málaga,Primaria,Universidad Complutense,4º Primaria,olivia.brown909@school.edu,12.42804843214694,15,Máster
+STU_001013,Schneider,Hugo,m,9,France,Oujda,High School,Calgary High School,Tronc Commun,sophia.meyer798@school.edu,17.857971431495486,8,Baccalauréat
+STU_000551,Garcia,Benjamin,f,8,France,Barcelona,Université,Instituto Ramón y Cajal,Year 3,benjamin.macdonald473@edu,9.783467230921733,4,Master
+STU_001923,Martín,Léa,f,18,France,Toulouse,Lycée,Mozart Grundschule,Tronc Commun,matthew.williams653@school.edu,9.475310950940923,7,High School Diploma
+STU_000592,Chakir,Pablo,f,12,Espagne,Barcelona,Primaria,Mozart Grundschule,S4,jacob.brown411@school.edu,9.19869889536288,8,Máster
+STU_001132,Hoffmann,Leon,m,21,Allemagne,Stuttgart,Universität,Goethe Grundschule,Year 5,álvaro.perez322@school.edu,24.598779182505098,6,Doktor
+STU_000632,Sánchez,Anthony,m,9,UK,Málaga,Primaria,Université Paris-Saclay,Klasse 4,julia.garcía550@school.edu,18.656895435845197,5,Master's
+STU_000674,López,Álvaro,f,20,Espagne,Sevilla,Universidad,Universidad Complutense,4º Primaria,emily.anderson256@school.edu,10.2244910979572,7,Doctorado
+STU_000230,Müller,Louise,m,4,UK,Edmonton,Secondary School,Central High School,Year 4,ben.schneider851@edu,25.19604882788356,7,Master's
+STU_000149,Martin,John,m,7,France,Manchester,Gymnasium,Lycée Moulay Youssef,Year 8,marie.hoffmann597@school.edu,20.406199312813303,4,Bachelor's Degree
+STU_001152,Leroy,Paul,m,15,Maroc,Fès,Université,École Jules Ferry,CM2,marie.weber606@school.edu,18.16656251009728,4,High School Diploma
+STU_000129,López,Ava,m,9,UK,Manchester,Secondary School,École Ibn Sina,1. Semester,emily.roy877@school.edu,24.974886421080583,9,Master's Degree
+STU_001078,Wilson,Mia,m,8,UK,London,Elementary School,UCL,Grade 4,david.brown691@school.edu,16.94105124858873,9,High School Diploma
+STU_000227,Thomas,Lukas,f,7,Canada,Seattle,Secondary School,Universität München,Third Year,jules.martin137@edu,12.190924945228325,16,PhD
+STU_001344,Martínez,Salma,m,15,Espagne,Rabat,Secundaria,Universidad de Salamanca,CP,martín.gómez419@school.edu,24.620603437561655,9,Bachillerato
+STU_001630,Jones,Evelyn,m,7,Canada,Houston,Elementary School,Universidad de Salamanca,Klasse 4,noah.roy750@school.edu,20.033443848026604,7,A-Level
+STU_001237,Smith,Marwa,f,4,France,Granada,Primaria,Toronto High School,Year 13,oscar.williams721@edu,12.436079922272054,3,Master
+STU_000152,Martin,William,f,9,UK,Seattle,University,École Jean Jaurès,Third Year,daniel.martínez367@school.edu,11.703088253345317,5,A-Level
+STU_001624,Becker,Arthur,m,15,France,Oujda,Université,Washington Elementary,2ème Bac,harry.taylor898@school.edu,24.193799645274517,6,Licence
+STU_000556,Tazi,Hannah,f,10,Maroc,Tanger,Lycée,Université Hassan II,2ème Bac,olivia.smith304@school.edu,9.603353881660208,4,Master
+STU_000510,Hoffmann,Jonas,m,21,Allemagne,Leipzig,Gymnasium,Goethe-Gymnasium,3. Semester,louis.petit192@school.edu,19.801622384487146,4,Abitur
+STU_001123,Sánchez,Martina,m,11,France,Málaga,Primaria,Colegio Velázquez,Klasse 6,mathis.simon230@school.edu,18.79033670298569,5,Doctorado
+STU_000383,Simon,Mathis,m,22,UK,Köln,École Primaire,Université Cadi Ayyad,1ère AC,luis.muller910@school.edu,18.136425636473426,5,ESO
+STU_000182,Benali,Amelia,m,7,Canada,Manchester,Secondary School,Oak Elementary,Klasse 4,manuel.martínez886@school.edu,26.231217199364373,6,GCSE
+STU_000701,Weber,María,f,13,Espagne,Valencia,Gymnasium,Universität München,1º Curso,lina.hoffmann136@edu,12.010469462861305,5,Grado
+STU_000858,Meyer,Matthew,m,14,USA,Granada,University,Université Mohammed V,Year 11,aicha.benali143@school.edu,16.34985483971674,9,Baccalauréat
+STU_000150,Smith,Camille,m,13,France,Lille,Secondary School,Collège Pierre et Marie Curie,Year 3,felix.wagner329@school.edu,25.83201513786055,9,Master
+STU_001426,Johnson,Jacob,f,15,USA,Toronto,Grundschule,Goethe-Gymnasium,6. Semester,joseph.johnson56@school.edu,9.428474250670074,8,Bachelor's Degree
+STU_001577,Williams,Arthur,f,7,Allemagne,Köln,Gymnasium,Goethe-Gymnasium,Grade 6,maría.rodríguez806@school.edu,12.92744440887071,0,Doktor
+STU_000020,Schneider,Sofía,m,15,Allemagne,Edinburgh,École Primaire,Universität Hamburg,Máster,sophia.martin465@school.edu,18.45034654689449,3,Master's
+STU_001745,Becker,Noah,m,8,Allemagne,Köln,Grundschule,Kennedy Middle School,1º Primaria,camille.robert706@school.edu,26.05505380387467,8,Bachelor
+STU_001426,Benjelloun,George,m,8,USA,Montreal,Secundaria,Schiller-Gymnasium,Klasse 4,emily.roy911@school.edu,20.664146313857742,2,A-Level
+STU_000659,Fernández,Fatima,m,20,Maroc,Lille,Gymnasium,Goethe Grundschule,Seconde,amine.benali544@school.edu,19.258175053583457,7,High School Diploma
+STU_000253,Bennani,Daniel,m,10,Canada,Toulouse,Collège,Schiller-Gymnasium,4. Semester,ava.johnson571@edu,21.45223127367761,8,Bachelor's Degree
+STU_001686,Brown,Noah,m,8,Espagne,Los Angeles,Secondary School,Colegio Picasso,Klasse 4,emma.bernard252@school.edu,17.245854359416896,6,Bachelor's Degree
+STU_001323,Davis,Manuel,m,7,Canada,Oxford,High School,Stanford University,Grade 8,alexander.johnson590@edu,21.9091874310579,12,Baccalauréat
+STU_000257,Martínez,Benjamin,f,16,Espagne,Valencia,Universidad,Universidad Complutense,3º Primaria,amelia.smith2@school.edu,9.868827845250047,6,Baccalauréat
+STU_000730,Pérez,Camille,m,10,Maroc,Lyon,Secondary School,East High School,First Year,omar.elamrani801@school.edu,19.8847075440914,2,Bachelor's Degree
+STU_000194,Meyer,Isabella,m,12,Allemagne,Barcelona,Lycée,Mozart Grundschule,3º Primaria,ikram.elamrani618@edu,25.51456083651209,3,GCSE
+STU_000813,Petit,Clara,m,10,Maroc,Tanger,École Primaire,King's Primary School,4ème année,john.martinez740@edu,19.987784954934725,3,Master
+STU_001928,Chakir,Raphaël,m,5,Canada,Edmonton,Primary School,Victoria Primary,Grade 3,liam.smith69@school.edu,21.322600148848316,6,Master
+STU_001039,Müller,Harry,m,6,France,Marrakech,Middle School,Universidad Complutense,CM1,ava.evans529@school.edu,21.06787101715981,7,Doctorat
+STU_000885,Evans,Lily,m,7,France,Edmonton,Primary School,Cedar Elementary,4. Semester,ethan.macdonald140@school.edu,24.86654990647977,12,Bachelor's Degree
+STU_001624,Pérez,Youssef,m,5,Espagne,Zaragoza,Primaria,Eton College,3º Curso,emma.martinez727@school.edu,20.125510127757927,8,ESO
+STU_001125,Hoffmann,Luis,f,8,Allemagne,München,Universität,Université Hassan II,Year 8,isabella.tremblay779@school.edu,10.38792550480046,4,Doktor
+STU_000911,Benali,Marie,m,8,Canada,Oxford,Lycée,UBC,Year 13,sofía.perez128@edu,20.68922477508407,9,PhD
+STU_000668,Schneider,Emily,m,9,Allemagne,Marrakech,Gymnasium,Université Lyon 1,2ème Bac,martina.rodríguez775@school.edu,19.0474998398941,2,Master
+STU_001579,Williams,Noah,m,9,Espagne,Sevilla,École Primaire,Central High School,3º Primaria,amelia.smith666@edu,19.986672426156133,9,PhD
+STU_000026,Rodríguez,Camille,f,22,Espagne,Málaga,Primaria,Instituto Giner de los Ríos,Première,john.miller290@school.edu,12.34219594445107,8,ESO
+STU_001450,Durand,Jules,m,22,France,Oujda,Elementary School,École Hassan II,CM2,isla.taylor11@school.edu,16.54468781383064,7,Brevet
+STU_000837,Johnson,Valeria,m,5,UK,London,Secondary School,UBC,First Year,sarah.durand917@edu,17.795220892281538,7,High School Diploma
+STU_000530,Schneider,Leon,m,5,Allemagne,Stuttgart,Universität,Mozart Grundschule,Klasse 3,leon.becker301@edu,18.57369096565263,8,Doktor
+STU_001118,Jones,Mia,f,4,USA,Chicago,Elementary School,University of Oxford,Grade 10,jack.williams437@school.edu,9.551836750907162,10,Master's
+STU_000761,Meyer,Noah,m,7,Canada,Edinburgh,Secondary School,Westminster School,Grade 4,gabriel.dupont125@school.edu,25.789685373453935,7,Master's Degree
+STU_000611,Benali,Daniel,m,15,France,Berlin,Collège,Washington Elementary,3ème année,louis.petit192@school.edu,25.464658207702705,5,Master
+STU_001449,Simon,Noah,m,7,Allemagne,London,Lycée,Schiller Grundschule,Fourth Year,olivia.williams889@school.edu,19.815232631397965,9,Baccalauréat
+STU_001351,El Amrani,William,f,16,France,Manchester,University,Sorbonne Université,1ère année,daniel.williams282@school.edu,10.129669455630163,9,Master
+STU_001042,Wilson,Emma,m,12,Canada,London,Primary School,Cambridge High School,Grade 4,james.brown691@edu,15.618535780443247,8,Master's Degree
+STU_001093,Wagner,Mia,m,21,Maroc,Toulouse,Secundaria,MIT,3ème AC,david.smith268@school.edu,24.93086952316672,7,High School Diploma
+STU_000979,Williams,Jack,m,6,Canada,Winnipeg,Secondary School,Westminster School,Year 1,ikram.sqalli478@school.edu,24.73409167414788,9,Bachelor's Degree
+STU_000343,Fernández,Finn,f,9,France,Bilbao,University,Lycée Descartes,Klasse 10,ali.elamrani602@school.edu,10.258088769610332,6,Máster
+STU_000032,Wilson,Lena,f,9,Canada,Oxford,Primaria,King's Primary School,Grade 2,jules.moreau993@school.edu,10.373034031536331,4,PhD
+STU_001670,Jones,Emma,f,8,Canada,Edmonton,Lycée,Franklin Middle School,3ème,mia.becker793@school.edu,12.931145638607555,8,Bachelor's
+STU_000057,Williams,Liam,m,8,Canada,Los Angeles,Primary School,Cambridge High School,Third Year,noah.martin827@school.edu,19.28021558372192,11,A-Level
+STU_001558,Johnson,Poppy,m,8,Canada,Bilbao,Secondary School,École Mohammed V,Grade 12,benjamin.brown520@edu,24.984880299812104,1,Bachelor's
+STU_000236,Thomas,Ali,m,15,Canada,Rabat,École Primaire,Goethe Grundschule,2º Bachillerato,ben.wagner251@edu,24.622688195868392,4,Bachelor
+STU_001787,Jones,Mia,f,8,UK,Liverpool,Secondary School,École Jules Ferry,First Year,sofía.sánchez796@school.edu,10.173372683040952,3,PhD
+STU_000950,Davies,Paul,f,7,Maroc,Stuttgart,École Primaire,Westminster School,Grade 10,emily.johnson814@school.edu,12.103550421252303,9,Master
+STU_000182,Tremblay,Ethan,m,12,France,New York,Grundschule,North High School,4º Curso,mehdi.elamrani593@school.edu,19.447168084634633,7,Bachelor
+STU_001520,Williams,Alexander,f,10,UK,Boston,University,St. Mary's Primary,Grade 2,marie.schneider712@school.edu,9.177253632874965,1,Licence
+STU_001395,Wilson,Oliver,m,7,USA,Winnipeg,Secondary School,North High School,Third Year,mateo.perez550@edu,24.90568800654369,1,Bachelor's Degree
+STU_000581,Evans,Emily,m,3,Canada,Lille,Primary School,Washington Elementary,Grade 12,charlotte.smith462@school.edu,22.048543713985204,9,PhD
+STU_000682,Sánchez,Ali,f,9,Maroc,Rabat,Secondary School,Washington Elementary,Year 13,jessica.thomas185@school.edu,9.17704650075237,15,GCSE
+STU_001222,Johnson,Amelia,m,13,USA,Toronto,High School,Oak Elementary,Grade 6,emma.rodríguez848@school.edu,23.69421054825008,3,Bachelor's
+STU_001220,Martínez,Mateo,f,11,Espagne,Sevilla,Universidad,Instituto Giner de los Ríos,4º Primaria,isabella.davis295@school.edu,12.191691500000646,14,Bachillerato
+STU_000259,Meyer,Marie,m,14,Allemagne,Düsseldorf,Grundschule,Schiller-Gymnasium,Grade 11,hugo.moreau777@school.edu,20.57254654626875,1,Bachelor
+STU_001777,Davis,Gabriel,m,9,UK,Oxford,Université,Colegio Goya,3ème année,martín.garcía122@school.edu,20.75415351448333,9,Bachelor's Degree
+STU_001053,Roy,Harry,m,9,Canada,Houston,Elementary School,Westminster School,Postgraduate,chloe.anderson440@school.edu,23.79487667529667,9,Bachelor's Degree
+STU_000936,Alaoui,Gabriel,f,14,USA,Paris,École Primaire,Instituto Giner de los Ríos,4º Primaria,noah.meyer50@school.edu,8.91178504180537,5,Master
+STU_001870,Durand,Harper,m,19,Allemagne,Agadir,Secundaria,Collège Voltaire,Year 7,matthew.miller960@school.edu,19.917453679787098,9,Certificat Primaire
+STU_001804,Schmidt,Lina,f,4,Allemagne,München,Universität,Schiller-Gymnasium,S5,charlotte.williams900@school.edu,9.777589311795952,4,Doktor
+STU_001529,Thomas,Daniela,m,7,Canada,Marseille,Lycée,Toronto High School,3ème AC,emma.garcia778@edu,25.269511009438002,2,Certificat Primaire
+STU_001123,Wilson,Thomas,f,8,Canada,Edmonton,Primary School,Westminster School,Grade 12,omar.elamrani101@school.edu,10.106497229016949,16,Baccalauréat
+STU_001401,Becker,Noah,f,6,Allemagne,Fès,Universität,École Pasteur,Klasse 4,mohamed.alaoui936@school.edu,8.824466668777799,17,Doktor
+STU_000513,Smith,Liam,m,7,Canada,Birmingham,Elementary School,Cambridge High School,2ème AC,mateo.gonzález189@school.edu,24.90571952749434,2,GCSE
+STU_001538,Johnson,Emily,m,4,UK,Oxford,Secondary School,Montreal High School,Year 1,mia.schulz802@school.edu,20.151316806091273,10,Bachelor's
+STU_001989,Fernández,Emilia,m,15,USA,Boston,Lycée,Lincoln Elementary,6ème année,ethan.wilson913@school.edu,18.362829566747344,2,Master's
+STU_001533,Müller,Ethan,m,16,Maroc,Frankfurt,Universität,Université Lyon 1,1ère AC,jack.smith420@school.edu,18.942091921230617,3,Baccalauréat
+STU_000385,Tremblay,Clara,m,8,Canada,Frankfurt,Middle School,Pine Elementary,Grade 4,mehdi.fassi142@school.edu,25.119116363399986,6,Bachelor's Degree
+STU_001057,Weber,Daniela,m,9,Allemagne,Miami,Gymnasium,Collège Averroès,2º Curso,isabella.johnson291@edu,17.787835303233123,6,PhD
+STU_000247,Sqalli,Harper,f,21,France,Oujda,Université,Colegio Cervantes,3ème année,lena.schneider650@school.edu,9.91337023416704,7,Master
+STU_001475,Petit,Chloe,m,10,France,Lille,Université,Kennedy Middle School,1ère AC,matthew.rodriguez726@school.edu,18.900152968365145,8,Brevet
+STU_000426,Bennani,Anthony,m,9,Allemagne,Lyon,Elementary School,Yale University,Première,daniela.lópez320@edu,19.752014652092406,9,Master
+STU_001706,Alaoui,Chloe,f,8,Allemagne,Edmonton,Grundschule,École Élémentaire Victor Hugo,2º ESO,ethan.martin67@school.edu,12.749611271684131,8,Bachelor
+STU_000129,Jones,Isla,m,15,USA,Winnipeg,Elementary School,Stanford University,Grade 8,mia.muller367@school.edu,21.912916157923735,14,PhD
+STU_001644,Wagner,Emilia,m,20,Allemagne,Paris,École Primaire,Oxford High School,Première,noah.meyer50@school.edu,19.767260270151098,0,Bachelor's Degree
+STU_000332,Jones,William,m,7,Canada,Nantes,Secondary School,LSE,Year 13,hugo.lópez512@school.edu,25.245860864984383,7,Master's Degree
+STU_001646,Sánchez,Lena,m,9,Canada,Chicago,Gymnasium,Universidad Complutense,Grade 5,lily.jones925@edu,19.913983689524258,3,Licence
+STU_000827,Benali,Chloé,m,21,Maroc,Bordeaux,Lycée,Lycée Hassan II,Grade 9,jacob.thomas486@school.edu,25.282176261053394,7,Master
+STU_000354,Schneider,Lina,m,20,Allemagne,München,Grundschule,Sorbonne Université,S2,jules.leroy979@school.edu,18.007584835654495,4,Doktor
+STU_000661,MacDonald,Oliver,m,8,UK,Cambridge,Secondary School,Instituto Giner de los Ríos,Grade 7,charlotte.smith462@school.edu,19.368736073558175,6,PhD
+STU_001345,Davies,Charlotte,m,14,USA,Marseille,University,Westminster School,Year 2,omar.elamrani101@school.edu,18.298080518118113,8,Master's
+STU_001697,Martin,Noah,m,6,Allemagne,Cambridge,Elementary School,École Jules Ferry,Grade 5,youssef.chakir393@edu,19.774318273036428,8,Baccalauréat
+STU_001975,Schulz,Noah,m,15,Maroc,Casablanca,Collège,École Al Massira,Terminale,harry.williams964@school.edu,22.14395531818753,8,Certificat Primaire
+STU_001250,Jones,Fatima,m,13,Canada,Houston,Lycée,École Jean Jaurès,Third Year,charlotte.rodriguez897@school.edu,19.624818257810535,9,A-Level
+STU_001476,Idrissi,Rachid,m,9,Allemagne,Cambridge,Collège,Sorbonne Université,2ème Bac,emily.roy713@school.edu,18.702763662352055,9,Master
+STU_000413,Moreau,Amelia,m,19,France,Toulouse,Primaria,Universidad de Salamanca,Postgraduate,alexander.taylor583@school.edu,16.52552170204686,1,Baccalauréat
+STU_000349,García,Martina,f,18,Espagne,Zaragoza,Universidad,Universidad Complutense,Doctorat,ethan.wilson906@school.edu,9.05951773831474,9,ESO
+STU_000552,Robert,Isabella,m,7,Maroc,Bordeaux,Université,Collège Al Khawarizmi,1. Semester,daniela.lópez320@edu,23.166599101655535,2,Master
+STU_000174,Wilson,Liam,f,8,UK,Houston,Primary School,Toronto High School,Sophomore,ines.moreau803@edu,12.900503055235163,0,PhD
+STU_000730,Meyer,Oliver,m,5,USA,Chicago,Elementary School,Lycée Louis le Grand,Grade 8,jessica.thomas185@school.edu,20.406433783022724,8,Bachelor's Degree
+STU_001785,Schmidt,Alba,m,10,Maroc,Málaga,Université,Lycée Moulay Youssef,Grade 3,john.williams760@school.edu,23.191932413137643,6,Licence
+STU_000362,Rodríguez,María,f,22,Espagne,Barcelona,Lycée,Colegio Cervantes,2º Curso,aicha.elamrani226@edu,9.905288850373292,15,Master
+STU_000638,Petit,Emma,m,10,France,Marrakech,Elementary School,Lycée Condorcet,S5,james.smith176@school.edu,24.681363576817166,6,Master
+STU_000779,Schneider,Noah,m,7,Maroc,Lille,Secondary School,Toronto High School,6. Semester,emma.wagner141@school.edu,25.94790739130827,9,Master
+STU_001761,Brown,George,m,8,USA,Edinburgh,Primary School,UBC,S6,william.smith201@school.edu,19.967929776003068,9,A-Level
+STU_000666,Fassi,Poppy,f,20,Canada,Montreal,Elementary School,North High School,Grade 2,lukas.fischer365@school.edu,12.01831106938818,9,Master
+STU_000767,Brown,Harry,m,8,Canada,Manchester,Primary School,Yale University,Graduate,lucas.roy930@edu,24.87587588853254,1,Bachelor's
+STU_000670,Durand,María,m,10,France,Lyon,Collège,Université Lyon 1,1º Bachillerato,harry.evans981@school.edu,24.58152841152474,8,Baccalauréat
+STU_001948,Sánchez,Olivia,m,5,France,Rabat,Collège,Lycée Henri IV,Year 4,maría.gonzález656@school.edu,24.413975819983083,8,Baccalauréat
+STU_001392,Smith,Harry,f,7,France,Edmonton,Secondary School,Maple Elementary,Grade 2,leon.becker433@edu,10.732058351612544,9,High School Diploma
+STU_000854,Becker,Noah,m,8,Canada,Montreal,Secondary School,Colegio Goya,Year 5,martín.garcía122@school.edu,19.170305572599524,1,Master's Degree
+STU_000246,Schmidt,Zineb,m,6,Maroc,Miami,Lycée,Instituto Giner de los Ríos,Grade 5,chloe.durand163@edu,24.8098411887796,6,Master
+STU_000354,Jones,Sophia,m,9,USA,Boston,Middle School,Cedar Elementary,5º Primaria,olivia.evans89@school.edu,19.922934200448896,5,Bachelor's
+STU_000390,García,Noah,m,9,Maroc,Toronto,Grundschule,Einstein Grundschule,2º Primaria,pablo.fernández846@school.edu,17.32060876868273,1,A-Level
+STU_001313,Chakir,Sofía,f,23,Espagne,Valencia,Universidad,Universidad Complutense,3º Primaria,amelia.smith343@school.edu,10.147359143718909,12,Bachillerato
+STU_001094,Martin,Noah,f,6,Canada,Lyon,Secondary School,Victoria Primary,Grade 12,chloe.wilson307@school.edu,13.194629637391946,9,PhD
+STU_000059,Tazi,Charlie,m,13,France,Casablanca,Collège,Instituto Lope de Vega,Master 1,william.rodriguez136@school.edu,19.918989735358622,3,Licence
+STU_000350,Müller,Léa,m,8,Canada,Stuttgart,Elementary School,Stanford University,Klasse 4,zineb.benjelloun380@school.edu,25.68013790831591,6,Master
+STU_001489,Martínez,Lucía,f,20,Espagne,Valencia,Universidad,Instituto Ramón y Cajal,1º Curso,valeria.gómez774@school.edu,9.117693737195719,13,Máster
+STU_000172,Anderson,Thomas,m,8,USA,Houston,Université,Vancouver High School,Second Year,noah.brown665@school.edu,25.963058296123428,3,PhD
+STU_000606,Fischer,Emilia,m,12,Allemagne,San Francisco,Grundschule,Université Mohammed V,1º Primaria,ines.petit679@edu,25.364424811187288,3,Baccalauréat
+STU_001611,Wilson,Noah,f,8,Allemagne,Hamburg,Gymnasium,Oxford High School,1º ESO,oliver.taylor316@school.edu,12.554504033049783,8,A-Level
+STU_000911,Roy,Ava,f,7,Canada,Ottawa,Secondary School,Colegio Velázquez,Second Year,jules.dupont262@school.edu,9.411504205175039,8,Bachelor's Degree
+STU_001254,Evans,Sophia,m,9,Espagne,Zaragoza,Universidad,Instituto Lope de Vega,1º Curso,mia.weber242@edu,21.24496664273864,4,Bachillerato
+STU_000007,Becker,Martín,f,4,Allemagne,Zaragoza,High School,Humboldt-Gymnasium,4º ESO,lucas.petit478@school.edu,10.61558220189449,6,PhD
+STU_001786,González,Alba,f,23,Espagne,Zaragoza,Universidad,Instituto Giner de los Ríos,1º Bachillerato,manuel.perez575@school.edu,12.69918792669785,9,Grado
+STU_000193,Chakir,Raphaël,m,15,Canada,Lyon,Collège,Washington Elementary,CE1,alejandro.rodríguez43@school.edu,19.28619048627908,0,PhD
+STU_001511,López,Martina,f,10,Espagne,Birmingham,Primaria,Universidad Complutense,3º Curso,olivia.brown137@edu,9.405187639010087,8,Bachillerato
+STU_001184,Martín,Oliver,f,9,Canada,Strasbourg,Elementary School,Jefferson Elementary,Grade 7,rachid.chakir412@school.edu,9.740352228850131,4,Master's
+STU_001896,Martín,Martina,f,22,Espagne,Zaragoza,Primaria,Colegio Cervantes,3º Primaria,lina.schulz728@school.edu,9.475770558829936,9,Master
+STU_001945,Bennani,Olivia,m,8,Canada,Houston,Secondary School,Universidad de Barcelona,Grade 11,sanae.fassi516@school.edu,20.09980788071342,10,Bachelor's
+STU_001203,Johnson,Jack,m,7,UK,Edmonton,Elementary School,Westminster Primary,Year 13,isla.smith432@school.edu,19.186557036988003,9,PhD
+STU_001390,Schulz,James,m,7,Canada,Liverpool,Secondary School,Universität München,Second Year,lucía.martínez133@school.edu,26.1484404527944,8,PhD
+STU_000063,Martínez,Sofía,f,21,Espagne,Zaragoza,Primary School,Instituto Giner de los Ríos,3º ESO,lina.schulz760@school.edu,12.614457625776911,14,ESO
+STU_001183,Hoffmann,Gabriel,m,14,Allemagne,Stuttgart,Universität,Schiller-Gymnasium,Klasse 4,mehdi.sqalli405@school.edu,19.172172840901517,7,Doktor
+STU_000371,MacDonald,Léa,m,10,France,Málaga,Université,Kant-Gymnasium,Tronc Commun,hannah.schneider810@edu,19.381060278974168,2,Licence
+STU_000227,Martin,Oliver,m,8,USA,Calgary,Secondary School,Maple Elementary,Grade 12,sophie.brown548@school.edu,18.851392879052362,9,Bachelor's Degree
+STU_000813,Schneider,Álvaro,m,8,Allemagne,Edinburgh,Lycée,Einstein Grundschule,Year 10,olivia.jones837@school.edu,21.16154549916728,9,Master
+STU_001226,Davies,Omar,m,8,Canada,Cambridge,Gymnasium,Kant-Gymnasium,2º Bachillerato,amelia.williams880@school.edu,20.995130977075284,8,Master
+STU_000745,Gómez,Luis,m,14,UK,Agadir,Lycée,Schiller Grundschule,4ème année,martina.martínez248@school.edu,24.556859172398898,9,Máster
+STU_000724,Fischer,Isabella,m,13,Maroc,Montreal,École Primaire,Harvard University,S4,ava.evans529@school.edu,18.11510406693284,8,Baccalauréat
+STU_000751,Weber,Valeria,m,11,Allemagne,Marrakech,École Primaire,Colegio Picasso,S3,thomas.davies597@school.edu,21.070463403461872,8,Doctorado
+STU_001620,Martin,Zoé,m,7,UK,Berlin,Lycée,Schiller Grundschule,Grade 2,william.williams729@school.edu,25.95478739722984,12,Abitur
+STU_000863,Jones,Noah,m,9,UK,Lille,University,Collège Molière,S2,james.brown691@edu,23.975602914540417,3,Certificat Primaire
+STU_000223,Hoffmann,Lily,m,9,France,Casablanca,Universidad,École Mohammed V,Seconde,felix.schmidt259@edu,18.694834723558795,1,Baccalauréat
+STU_001857,Williams,Olivia,m,8,Canada,Zaragoza,Gymnasium,Université Cadi Ayyad,Year 8,sophia.garcia709@school.edu,25.265768951383187,16,PhD
+STU_001060,Smith,Sanae,m,9,Maroc,Nantes,Lycée,Université Hassan II,4º Primaria,isabella.wilson125@school.edu,24.372746894155032,3,Doctorat
+STU_000317,El Amrani,Arthur,f,15,Allemagne,Barcelona,Gymnasium,École Jean Jaurès,2ème Bac,amelia.wilson799@school.edu,8.857406237149181,2,Baccalauréat
+STU_001776,López,Marie,m,20,Espagne,Madrid,Universität,Lycée Moulay Youssef,S5,daniel.davis773@edu,24.845421744886536,5,Bachillerato
+STU_001094,Smith,Amelia,m,12,Canada,Liverpool,Secondary School,Oak Elementary,Second Year,thomas.evans665@school.edu,21.610725623388575,9,Bachelor's
+STU_000815,Johnson,Amelia,m,7,UK,Seattle,University,Lycée Mohammed V,Second Year,alba.sánchez355@school.edu,24.915140072399065,9,GCSE
+STU_000279,García,Hugo,m,5,Espagne,Marrakech,Universidad,Universidad Complutense,Klasse 6,anna.becker82@school.edu,25.568446273944254,1,Máster
+STU_000478,Martínez,Alexander,f,21,Espagne,Málaga,Secundaria,Westminster Primary,Year 7,ava.martinez767@school.edu,12.282216443715622,18,Bachillerato
+STU_001426,Tazi,William,m,22,Allemagne,Seattle,Lycée,Lycée Hassan II,Grade 5,james.jones269@school.edu,25.531313849488278,18,Licence
+STU_000132,Smith,Amelia,f,4,USA,Chicago,Secondary School,Lycée Moulay Youssef,Second Year,sophie.brown548@school.edu,12.637839097560613,5,Master's Degree
+STU_000305,López,Mateo,f,15,Espagne,Sevilla,Universidad,Instituto Lope de Vega,Klasse 5,jules.martin137@edu,12.022178890671341,5,ESO
+STU_001552,Williams,Amelia,f,9,Canada,Berlin,École Primaire,Lycée Henri IV,Year 7,emilia.schulz89@school.edu,10.144488467043622,9,Bachelor's Degree
+STU_000999,Moreau,Daniela,f,21,Espagne,Valencia,Universidad,Université Grenoble Alpes,4º Primaria,paula.fernández826@school.edu,10.843356087506113,9,Bachillerato
+STU_001318,Simon,Lea,m,10,France,Berlin,Université,Westminster Primary,CE1,william.smith872@school.edu,24.006053269753128,2,Licence
+STU_000820,García,Sofía,f,21,Espagne,Zaragoza,Primaria,Instituto Lope de Vega,1º Curso,olivia.brown909@school.edu,12.44913346616768,1,Bachillerato
+STU_001167,Pérez,María,f,21,Espagne,Zaragoza,Secundaria,Jefferson Elementary,3º Primaria,mia.roy657@school.edu,12.297800637503997,2,Grado
+STU_000331,Taylor,Noah,m,7,Canada,Oxford,Elementary School,Harvard University,Grade 2,leo.rodríguez441@edu,20.6033448140704,8,PhD
+STU_000995,Thomas,Martín,m,9,Canada,Quebec City,École Primaire,Kant-Gymnasium,Year 1,sanae.fassi548@school.edu,25.62758876063417,4,Bachelor
+STU_001156,Roy,Daniela,f,9,Allemagne,Boston,Lycée,Collège Pierre et Marie Curie,Sophomore,jessica.brown400@school.edu,10.115305651658542,9,Doctorado
+STU_001870,Johnson,Chloé,m,7,France,Ottawa,Secondary School,Oak Elementary,Year 10,karim.bennani833@edu,25.436320376674743,9,A-Level
+STU_000508,Anderson,William,m,10,USA,Edmonton,Secondary School,University of Oxford,Graduate,daniela.martínez132@edu,15.657368883200999,1,Master's
+STU_001337,MacDonald,Hassan,f,9,Maroc,Calgary,Lycée,University of Toronto,5. Semester,finn.fischer634@edu,9.312407010985936,17,Máster
+STU_001454,Wagner,Elias,f,21,Allemagne,Leipzig,Grundschule,Goethe Grundschule,3. Semester,harry.davies986@school.edu,9.773480276918573,4,Doktor
+STU_001118,Williams,Emma,f,8,Allemagne,Leipzig,École Primaire,Colegio Goya,Licence 2,liam.tremblay643@school.edu,10.339736147593182,1,Master
+STU_000177,Hoffmann,Nour,f,5,Allemagne,Leipzig,Universität,École Hassan II,1º ESO,raphaël.simon615@school.edu,12.697687827282628,5,Doktor
+STU_000112,García,Manon,m,19,Maroc,Marrakech,Lycée,Université Paris-Saclay,1ère année,gabriel.durand589@school.edu,20.988686803159368,3,Master
+STU_001611,González,Sofía,f,21,Espagne,München,Primaria,Mozart Grundschule,3º Curso,evelyn.brown120@school.edu,9.086852303397865,7,Doctorado
+STU_001785,Evans,Mia,m,13,Allemagne,Houston,École Primaire,École Jean Jaurès,Klasse 7,lily.davies403@school.edu,18.533714469433328,7,High School Diploma
+STU_000878,López,Lucía,f,21,Espagne,Valencia,Universidad,Colegio Velázquez,Licence 2,jules.martin137@edu,9.62510449575976,18,Grado
+STU_000265,El Amrani,Marwa,f,10,UK,Nantes,École Primaire,École Pasteur,Klasse 9,noah.petit487@edu,10.060070872934517,2,Master
+STU_001248,Benali,Emma,m,16,Maroc,Manchester,Elementary School,Yale University,Première,isabella.smith30@school.edu,25.62843014663973,10,Doctorado
+STU_001417,Smith,Olivia,m,6,USA,Vancouver,Primary School,King's Primary School,Second Year,sofía.fernández391@school.edu,25.78573433397827,10,PhD
+STU_001364,Williams,Charlie,m,7,USA,Chicago,Middle School,École Ibn Sina,Grade 2,mateo.gómez126@school.edu,26.007800424098715,8,PhD
+STU_001573,Petit,Daniel,m,9,Allemagne,Hamburg,Collège,South High School,3º Curso,noah.smith646@school.edu,25.559030455027717,7,Master
+STU_000376,Thomas,Liam,f,10,Allemagne,Miami,Lycée,Goethe-Gymnasium,Seconde,amine.bennani929@school.edu,8.55019885939196,5,Master
+STU_001229,Robert,Marwa,f,11,Allemagne,Vancouver,Primaria,Universität München,4ème année,liam.smith69@school.edu,12.536028412530355,9,GCSE
+STU_001419,Chakir,Karim,m,19,Maroc,Fès,Lycée,Collège Averroès,Terminale,lea.meyer391@school.edu,24.80746276760084,3,Master
+STU_001102,Robert,Mohamed,m,9,France,Paris,Lycée,Lycée Descartes,1. Semester,manon.simon623@edu,25.1891837137497,4,ESO
+STU_000848,Taylor,John,f,5,Espagne,Manchester,Secundaria,Eton College,1º Primaria,manuel.perez319@edu,11.294657574499558,15,Master
+STU_001517,Hoffmann,Inès,m,18,Allemagne,München,Universität,Goethe Grundschule,Klasse 5,charlotte.martinez65@school.edu,18.43230969632213,8,Doktor
+STU_000759,Taylor,Lina,f,8,Canada,London,Primary School,Eton College,Grade 2,leo.bernard488@school.edu,9.529655756717636,14,Bachelor's Degree
+STU_001694,Anderson,Charlotte,m,20,Allemagne,Seattle,Secondary School,Washington Elementary,2ème Bac,charlotte.tremblay977@school.edu,24.17786131373087,9,Master's
+STU_000402,González,Jonas,f,20,Maroc,Madrid,Primary School,Collège Jean Moulin,1º Primaria,zoe.petit823@edu,12.616749596003562,1,ESO
+STU_001343,García,Léa,m,20,Espagne,Stuttgart,Secondary School,Universidad Complutense,Junior,mehdi.chakir638@school.edu,23.85708687025464,10,Grado
+STU_000099,Idrissi,Amelia,m,8,France,Nantes,Elementary School,Victoria Primary,Grade 9,martina.fernández723@edu,19.53758354124652,8,Brevet
+STU_001819,Sqalli,Jonas,m,6,Allemagne,Edmonton,Grundschule,Colegio Goya,2ème Bac,valeria.martínez361@school.edu,19.878699270196716,2,PhD
+STU_001510,Bernard,Ali,m,22,Maroc,Vancouver,École Primaire,Collège Pierre et Marie Curie,2ème année,mohamed.tazi828@school.edu,21.948092908465796,4,Brevet
+STU_001363,Taylor,Ava,m,8,Canada,Toronto,Primary School,Lincoln Elementary,1º ESO,valeria.gonzález319@school.edu,24.788543495905916,1,GCSE
+STU_001570,Petit,Louis,m,8,Espagne,Manchester,Universität,Adams Middle School,3ème,alexander.johnson715@edu,25.06681144103667,12,Master
+STU_000940,Müller,Mathis,f,9,Espagne,Valencia,Secundaria,Lycée Descartes,2. Semester,martín.gómez419@school.edu,10.256708772825485,9,Bachillerato
+STU_000179,Dupont,Noah,m,22,Espagne,Hamburg,Primaria,Université Cadi Ayyad,S3,lina.weber692@school.edu,24.085030004394454,3,Grado
+STU_000650,Johnson,Jacob,m,5,USA,Marrakech,Middle School,École Hassan II,Senior,charlotte.brown624@edu,25.392406232096075,16,GCSE
+STU_000809,Thomas,Sarah,m,21,Allemagne,Toronto,École Primaire,École Mohammed V,Klasse 10,david.rodriguez680@school.edu,19.232788392888192,3,A-Level
+STU_001074,Johnson,William,m,8,UK,London,Primary School,Schiller Grundschule,Year 6,liam.martin754@school.edu,25.7416186538726,7,Bachelor's Degree
+STU_000105,Rodriguez,Álvaro,f,18,Allemagne,Düsseldorf,Universität,Colegio Goya,Klasse 6,fatima.chakir442@school.edu,8.650174700539935,10,Máster
+STU_001229,Johnson,Oliver,f,10,USA,London,High School,Cambridge High School,Grade 1,harry.johnson510@school.edu,9.317998669629446,7,GCSE
+STU_001885,Martínez,Amelia,f,18,Espagne,Stuttgart,Secundaria,University of Toronto,Fourth Year,manon.dupont792@edu,10.07100611221733,3,Master
+STU_001930,Johnson,Amelia,m,8,UK,Birmingham,University,King's Primary School,Year 13,hugo.dupont199@school.edu,20.530929506562572,2,PhD
+STU_000701,Martín,Evelyn,m,10,Allemagne,München,Universität,Université Paris-Saclay,1. Semester,leo.rodríguez441@edu,19.11611741087484,5,Abitur
+STU_000581,Martin,Emily,f,7,Canada,Boston,Primary School,Imperial College London,Year 1,sarah.martin882@edu,9.412960032064245,6,Bachelor's Degree
+STU_000306,Chakir,Emma,m,9,Espagne,Marrakech,Secondary School,University of Alberta,Première,arthur.bernard135@edu,24.03862069699975,0,Master
+STU_001190,Wagner,Noah,m,9,Canada,Edmonton,Lycée,Schiller-Gymnasium,Grade 8,paula.rodríguez758@school.edu,19.15009172571321,8,Master
+STU_001447,Tremblay,Charlie,m,4,France,Seattle,Lycée,Imperial College London,Première,thomas.martinez552@school.edu,24.432938153764134,5,Bachelor
+STU_001889,Becker,Ava,m,10,Allemagne,Toulouse,École Primaire,Toronto High School,Year 11,mohamed.alaoui936@school.edu,20.515637107820925,2,Master
+STU_000883,Fischer,Youssef,m,7,Canada,Berlin,Universität,Washington Elementary,Terminale,sophia.muller299@school.edu,22.592322447942596,9,Licence
+STU_001531,Martínez,Valeria,f,9,Espagne,Zaragoza,Universität,Colegio Cervantes,Grade 6,poppy.brown66@school.edu,10.011140318909764,2,ESO
+STU_000519,López,Mohamed,f,9,France,Lille,Primaria,École Ibn Sina,3º Curso,olivia.brown286@school.edu,12.480927929319362,9,Baccalauréat
+STU_001371,Evans,Zoé,m,8,Maroc,Marseille,Gymnasium,Mozart Grundschule,Klasse 4,marie.hoffmann572@school.edu,25.354271590327276,1,Doktor
+STU_001116,Wilson,Arthur,m,7,USA,New York,Secondary School,UCL,2. Semester,emily.johnson814@school.edu,25.322747661318974,8,PhD
+STU_000065,Hoffmann,Lina,f,9,Allemagne,Leipzig,Grundschule,Universität Heidelberg,Klasse 5,thomas.garcia758@school.edu,10.411186967001303,3,Abitur
+STU_001798,El Amrani,Olivia,m,14,Maroc,Málaga,Primaria,Instituto Ramón y Cajal,Licence 1,álvaro.perez322@school.edu,25.218300633471298,5,ESO
+STU_001374,Wilson,Alexander,m,14,Allemagne,London,Secondary School,Schiller Grundschule,Grade 1,clara.simon747@edu,25.01127549713342,8,Master's
+STU_001298,Martin,William,m,7,UK,Rabat,University,McGill University,Grade 4,sofía.sánchez167@school.edu,20.08943034928089,9,High School Diploma
+STU_001557,Leroy,Amine,m,7,France,Málaga,Université,École Jules Ferry,3ème année,ikram.tazi179@school.edu,19.243245131709358,13,Master's
+STU_000921,Tazi,Fatima,m,21,Maroc,Bordeaux,Lycée,Collège Pierre et Marie Curie,Grade 2,emilia.hoffmann111@edu,18.298137123582364,2,Baccalauréat
+STU_000496,Fassi,Ava,m,8,France,Düsseldorf,Lycée,École Pasteur,2. Semester,daniel.williams282@school.edu,17.63878012151406,4,Grado
+STU_001419,Wilson,Mia,m,8,UK,Ottawa,University,Imperial College London,Year 1,daniela.sánchez583@edu,18.641882527495348,9,Bachelor's Degree
+STU_000244,Smith,Noah,m,11,Canada,Houston,Primary School,Universität München,Second Year,harry.brown23@edu,21.046130522526404,7,PhD
+STU_001738,Benali,Lena,m,5,Maroc,Oujda,Lycée,Université Lyon 1,1º ESO,daniela.gonzález865@school.edu,20.07583208451402,9,Master
+STU_001749,González,Amine,m,21,USA,Liverpool,Université,École Mohammed V,Licence 2,mia.tremblay126@edu,17.94020777876304,5,Licence
+STU_000647,Rodríguez,Emily,f,15,Espagne,Sevilla,Secundaria,Universidad Complutense,1º ESO,laila.benjelloun909@school.edu,9.969407101009601,5,Bachillerato
+STU_000386,Gómez,John,m,8,Canada,Lyon,École Primaire,South High School,2º Bachillerato,charlotte.wilson112@school.edu,25.461254689621803,14,Bachelor's Degree
+STU_000081,Martin,Olivia,f,15,Canada,New York,Elementary School,Vancouver High School,Grade 1,david.jones377@school.edu,12.621269129475017,8,GCSE
+STU_001269,Müller,Julia,m,9,USA,Lyon,Université,North High School,Year 6,noah.weber302@school.edu,19.42039064973255,6,Master
+STU_000839,Petit,Mehdi,m,16,France,Meknès,University,École Pasteur,1ère Bac,harper.martinez385@school.edu,25.32557510497257,17,Abitur
+STU_000074,Jones,Louise,m,8,Canada,London,Secondary School,Vancouver High School,Year 1,chloe.leroy239@edu,18.76391073608799,4,PhD
+STU_001547,Rodríguez,Lucía,f,22,Espagne,Tanger,Primary School,Universidad de Salamanca,CE2,noah.johnson491@school.edu,9.593775082395606,15,ESO
+STU_000487,Rodríguez,Manuel,f,4,Espagne,Madrid,Secundaria,Universität Heidelberg,2º ESO,finn.fischer951@school.edu,12.4457044008332,15,Doctorado
+STU_000493,Becker,Matthew,m,9,Allemagne,Barcelona,Gymnasium,Goethe-Gymnasium,Grade 10,julia.perez524@school.edu,25.47715142480472,1,Master
+STU_000832,Durand,Daniel,m,7,France,Barcelona,Primaria,Schiller-Gymnasium,6ème,thomas.garcia758@school.edu,25.694691156051015,8,PhD
+STU_001346,Tremblay,Evelyn,m,9,Allemagne,Strasbourg,Gymnasium,Université Ibn Tofail,Klasse 5,ava.smith822@school.edu,17.989324233294177,13,Doktor
+STU_000392,Thomas,Emma,m,9,Maroc,Houston,Secondary School,Université Paris-Saclay,Year 8,camille.dupont244@school.edu,24.14527100862437,3,Bachelor
+STU_001489,Robert,Mateo,f,22,Espagne,Valencia,Universidad,Instituto Giner de los Ríos,4º Primaria,james.jones269@school.edu,8.988408013867653,9,Bachillerato
+STU_000862,Petit,Clara,m,8,Maroc,Oujda,Lycée,McGill University,Licence 2,mia.martinez527@school.edu,23.776242084943448,7,Master's
+STU_001601,Leroy,Hugo,m,22,France,Fès,Lycée,Universität Hamburg,Tronc Commun,martina.gómez783@school.edu,24.217371957025918,9,Baccalauréat
+STU_000661,Leroy,Daniel,m,13,USA,Boston,High School,Maple Elementary,Graduate,amelia.williams880@school.edu,19.587252488577526,3,High School Diploma
+STU_001512,Martin,Luis,m,9,France,Barcelona,Université,Lycée Janson de Sailly,Tronc Commun,mehdi.benali910@school.edu,23.73966723383894,8,Baccalauréat
+STU_001432,Sqalli,Chloé,m,10,Maroc,Lille,Collège,Université Paris-Saclay,Year 1,james.wilson239@school.edu,23.923441822026724,6,Baccalauréat
+STU_000861,Becker,Paul,m,21,France,Hamburg,École Primaire,Schiller Grundschule,S3,william.martin628@school.edu,19.582592403420303,8,Master
+STU_001135,Benali,Mathis,m,9,Maroc,Rabat,Lycée,Madison Middle School,Grade 10,jack.martin301@edu,25.436517196468966,3,Bachelor's
+STU_001785,Brown,Inès,m,7,Canada,Birmingham,Secondary School,Vancouver High School,4º Primaria,clara.leroy140@school.edu,23.998039998786908,9,Bachelor's
+STU_001370,Miller,Emily,m,12,USA,Boston,Elementary School,Schiller Grundschule,Year 3,emily.wilson982@school.edu,21.452990124287698,7,A-Level
+STU_001130,Hoffmann,Ahmed,m,11,Espagne,Rabat,Lycée,École Ibn Sina,3ème,george.davies367@school.edu,20.853815890796735,0,ESO
+STU_001662,Johnson,Hannah,m,9,Maroc,Birmingham,Lycée,Mozart Grundschule,Klasse 9,david.rodriguez812@school.edu,18.74499720144856,7,Master
+STU_000424,Roy,Jacob,f,11,France,Seattle,Université,Kennedy Middle School,1º ESO,finn.wagner714@school.edu,11.789368979228565,3,Grado
+STU_000171,García,Ali,m,6,Maroc,Lille,Université,Adams Middle School,Tronc Commun,matthew.brown304@school.edu,17.980750558539246,8,PhD
+STU_001625,Meyer,Marie,f,19,Allemagne,München,Grundschule,Universität Heidelberg,Klasse 3,mia.becker793@school.edu,8.631225220359914,6,Doktor
+STU_000379,Williams,John,f,7,Allemagne,Barcelona,Secundaria,Jefferson Elementary,Klasse 10,thomas.smith271@school.edu,12.844063924407362,2,Master
+STU_000599,Bennani,Martín,f,8,Maroc,Miami,École Primaire,TU Berlin,Première,ali.chakir744@school.edu,12.726057179261236,8,Baccalauréat
+STU_001103,Fassi,Lukas,f,8,Allemagne,Strasbourg,Lycée,Lycée Janson de Sailly,2ème Bac,julia.garcía550@school.edu,10.09820112202771,8,Master
+STU_000034,Tazi,Clara,m,8,Maroc,Strasbourg,Lycée,Collège Averroès,Doctorat,thomas.brown576@school.edu,20.75408492722747,5,Abitur
+STU_000365,Williams,Jessica,m,15,USA,Toronto,Middle School,University of Toronto,Year 2,michael.jones987@school.edu,21.246967028664514,9,A-Level
+STU_000404,Thomas,Ben,m,5,Maroc,Lille,Lycée,Oak Elementary,1ère AC,louise.simon695@school.edu,25.472969562619564,3,Máster
+STU_000422,Dupont,Joseph,m,22,France,Lyon,Lycée,Lycée Descartes,Master 1,pablo.fernández278@school.edu,19.468181724029744,4,Baccalauréat
+STU_000167,Sqalli,Amine,m,4,Maroc,Oujda,Lycée,Lycée Henri IV,3ème AC,paul.weber503@school.edu,25.145270313760413,9,Certificat Primaire
+STU_000724,MacDonald,Harry,m,13,Canada,Vancouver,Primaria,Humboldt-Gymnasium,Fourth Year,isabella.smith924@school.edu,25.09678041921169,9,PhD
+STU_000368,Gómez,Sofía,f,20,Allemagne,Leipzig,Primaria,Université Mohammed V,4º Curso,joseph.brown47@school.edu,10.085044599977728,3,Baccalauréat
+STU_000212,Becker,Álvaro,m,8,Allemagne,Köln,Gymnasium,University of Cambridge,Première,ava.jones935@school.edu,20.359529415119713,8,Abitur
+STU_001395,Martin,Harry,f,5,Canada,Bordeaux,École Primaire,Roosevelt Elementary,Grade 2,jacob.thomas486@school.edu,9.07792519447383,1,Brevet
+STU_001520,Schneider,Fatima,m,11,Allemagne,Fès,Gymnasium,Colegio Velázquez,Klasse 8,mateo.martín306@school.edu,25.458900049788546,5,Doktor
+STU_001853,Leroy,Hugo,m,9,USA,Toulouse,Lycée,Collège Pierre et Marie Curie,Junior,ahmed.benali762@school.edu,17.81868011911846,8,Master's Degree
+STU_001829,Martin,Ava,m,9,USA,Marrakech,Elementary School,Lycée Louis le Grand,Fourth Year,zineb.bennani171@school.edu,23.614013864854215,5,GCSE
+STU_001432,Durand,Lena,f,22,Espagne,Madrid,Universidad,Colegio Cervantes,1º ESO,omar.elamrani801@school.edu,9.106066387422585,6,Máster
+STU_000601,Taylor,Sophia,f,15,USA,Quebec City,University,Collège Voltaire,Year 1,marie.wagner462@school.edu,9.14321301132139,5,GCSE
+STU_001674,Johnson,Ava,m,3,Canada,Manchester,Primary School,Central High School,5ème année,aicha.benali199@school.edu,18.91705592960637,8,Bachelor's Degree
+STU_000349,López,Martina,f,22,Espagne,Madrid,Universidad,Colegio Cervantes,2º ESO,fatima.chakir442@school.edu,8.889591160700066,4,Doctorado
+STU_000857,Martin,Jessica,m,9,Canada,San Francisco,Elementary School,University of Oxford,Postgraduate,jules.petit18@school.edu,25.082267627499863,8,Bachelor's
+STU_000098,Petit,Harper,m,10,Maroc,Tanger,Lycée,Kant-Gymnasium,CE1,leo.petit747@edu,25.31264457614425,8,Certificat Primaire
+STU_001809,Schmidt,Louis,m,10,Maroc,Rabat,Universität,Universität Heidelberg,1º Bachillerato,clara.leroy140@school.edu,19.39066744086064,8,Master
+STU_001597,Davis,Oscar,f,6,UK,Granada,University,Collège Molière,Graduate,felix.schulz403@school.edu,9.392106513589805,2,GCSE
+STU_000675,Fernández,Amine,f,14,France,Barcelona,Collège,Collège Molière,Première,martín.garcía639@school.edu,10.945604380539294,7,Brevet
+STU_000320,Jones,Clara,f,8,USA,Boston,University,Imperial College London,Grade 6,emma.davis414@school.edu,10.38105058161458,8,GCSE
+STU_000595,Wagner,Amelia,f,11,USA,Casablanca,Grundschule,Schiller Grundschule,5. Semester,liam.smith470@edu,12.385069864131093,3,Master's
+STU_001315,López,Charlie,m,11,France,Tanger,Lycée,École Hassan II,Klasse 4,felix.schmidt935@school.edu,20.477494326915647,13,Baccalauréat
+STU_000214,Leroy,Liam,m,8,Maroc,Houston,Universität,North High School,Klasse 6,emily.roy911@school.edu,25.48996282977079,13,High School Diploma
+STU_001551,Robert,Marwa,m,9,Maroc,Tanger,Collège,Collège Voltaire,2ème Bac,isabella.davis958@school.edu,20.790620239283264,2,Baccalauréat
+STU_000159,Chakir,Leon,f,8,Maroc,Frankfurt,Lycée,Université Hassan II,1ère Bac,elias.schulz114@school.edu,12.547808188902884,6,Master
+STU_000492,Alaoui,Jack,m,13,UK,Ottawa,Secondary School,St. Mary's Primary,Year 7,chloe.martin751@school.edu,24.719209814297333,2,A-Level
+STU_001904,Johnson,William,f,4,UK,Birmingham,Lycée,King's Primary School,First Year,isla.davies543@school.edu,9.494448581987978,5,Master's
+STU_001013,Williams,Noah,f,8,Canada,Manchester,University,Universität Hamburg,Third Year,anna.meyer423@school.edu,10.311975490297641,3,GCSE
+STU_000130,Wilson,Harry,m,9,UK,Edmonton,Secondary School,MIT,Postgraduate,jonas.hoffmann708@school.edu,19.653394525492374,6,GCSE
+STU_001909,Sqalli,Manuel,m,10,France,Barcelona,École Primaire,Lycée Janson de Sailly,6ème,isla.taylor11@school.edu,25.066877709491976,3,Baccalauréat
+STU_000643,Dupont,Noah,m,4,Espagne,Stuttgart,École Primaire,École Pasteur,1ère Bac,sophia.garcia765@school.edu,20.86962342586791,4,ESO
+STU_000643,Brown,Mia,m,4,Canada,Boston,Secondary School,Central High School,Grade 2,álvaro.gómez390@school.edu,23.554911649135825,2,Master's
+STU_000544,Martin,Lily,f,8,Canada,Los Angeles,Elementary School,Imperial College London,Year 1,mia.tremblay544@school.edu,9.421852786099597,2,GCSE
+STU_001652,Moreau,Arthur,m,10,France,Barcelona,Lycée,École Jules Ferry,Doctorat,noah.taylor662@school.edu,22.250414631010806,4,Certificat Primaire
+STU_000963,Simon,Evelyn,m,9,Canada,Manchester,Middle School,Harvard University,Second Year,lea.simon168@school.edu,20.157586088743393,7,Bachelor's Degree
+STU_000516,Gómez,Olivia,m,21,Maroc,Toulouse,Grundschule,Washington Elementary,S1,jacob.evans832@school.edu,23.434726023580335,5,Master
+STU_000910,Fernández,Lucía,f,10,Espagne,Málaga,Primaria,Universidad de Barcelona,Klasse 1,noah.brown550@school.edu,12.447522422934028,8,Bachillerato
+STU_000607,Becker,Elias,m,17,Allemagne,München,Gymnasium,Goethe-Gymnasium,5º Primaria,omar.chakir932@edu,24.62155927426182,1,Abitur
+STU_001165,Martin,Chloé,m,7,Maroc,Boston,University,Cedar Elementary,Grade 10,karim.sqalli492@edu,24.822242122312655,5,High School Diploma
+STU_001747,Thomas,Ikram,f,11,Maroc,Birmingham,École Primaire,Oak Elementary,1ère AC,paul.wagner809@edu,9.547155033384184,6,Master's Degree
+STU_001221,Meyer,Leon,m,10,Allemagne,London,Lycée,Colegio Picasso,3ème année,mateo.lópez165@school.edu,18.19391471558535,6,Master
+STU_000639,El Amrani,Amelia,m,9,UK,Los Angeles,Secondary School,UBC,2º ESO,mathis.petit23@school.edu,19.6855127412983,8,Baccalauréat
+STU_001053,Hoffmann,Felix,f,9,Allemagne,Stuttgart,Universität,Instituto Giner de los Ríos,Klasse 4,aicha.sqalli213@school.edu,12.398796741746574,9,Doktor
+STU_000446,El Amrani,Amelia,m,14,Maroc,Tanger,Grundschule,Oak Elementary,CE1,thomas.evans780@school.edu,24.75362994781858,2,Baccalauréat
+STU_000457,Fassi,Karim,m,12,France,Bordeaux,Université,Lycée Condorcet,Master 1,hugo.durand166@school.edu,24.120816831732693,13,Baccalauréat
+STU_001551,Schmidt,Louise,f,18,Allemagne,München,Grundschule,Kant-Gymnasium,2º ESO,noah.petit487@edu,9.318111702553352,6,Doktor
+STU_000668,Jones,Daniel,f,10,Maroc,Boston,Elementary School,Lycée Hassan II,Year 12,charlie.johnson886@school.edu,11.987815294222955,1,PhD
+STU_001445,Thomas,Karim,m,17,France,Stuttgart,École Primaire,Kant-Gymnasium,Grade 6,lily.davies625@school.edu,24.086029739742656,1,High School Diploma
+STU_000227,Evans,Emma,m,10,USA,Edinburgh,Middle School,Université Lyon 1,Klasse 8,jules.martin137@edu,20.768382266235985,10,ESO
+STU_001225,Gómez,Sofía,f,22,Espagne,Zaragoza,Universidad,Colegio Cervantes,1º Curso,isabella.tremblay779@school.edu,9.778612335003935,6,Bachillerato
+STU_001652,Evans,Jack,f,8,USA,Frankfurt,University,Calgary High School,Third Year,clara.simon862@school.edu,9.668625375546089,4,Master's
+STU_000147,Becker,Jules,m,9,UK,Chicago,Gymnasium,LSE,Second Year,mia.weber644@edu,18.354679040193346,8,Doctorat
+STU_001690,Martinez,Ikram,m,15,France,Berlin,Lycée,Collège Jean Moulin,Klasse 2,laila.alaoui425@school.edu,16.815743969437847,4,Master
+STU_001585,Gómez,Sofía,f,5,Espagne,Zaragoza,Primaria,Colegio Picasso,3º Primaria,ava.smith822@school.edu,12.255272670164578,2,Grado
+STU_001486,Wilson,Matthew,m,3,Canada,Seattle,Elementary School,King's Primary School,Second Year,aicha.bennani375@school.edu,26.309266299729657,9,Master's Degree
+STU_000819,Johnson,Sophia,m,15,USA,Winnipeg,Elementary School,Schiller Grundschule,5º Primaria,martina.sánchez545@school.edu,24.994119413103242,9,Master
+STU_001161,Schulz,Sophie,f,8,Canada,San Francisco,Secondary School,Calgary High School,Grade 9,manon.dupont792@edu,12.75064538224229,7,PhD
+STU_001183,Bennani,Finn,m,8,Allemagne,Valencia,Universität,Eton College,4. Semester,daniel.garcia935@school.edu,25.625733988475012,10,Master
+STU_000569,Sánchez,Daniela,f,15,Allemagne,Bilbao,Primaria,Mozart Grundschule,1ère AC,isabella.williams299@school.edu,10.634717289245692,7,Licence
+STU_001153,Davis,Daniela,m,8,Canada,Houston,Université,Université Mohammed V,Terminale,martina.rodríguez446@school.edu,19.70691255740364,3,Bachelor's Degree
+STU_001752,Robert,Mateo,f,10,Espagne,Zaragoza,Primaria,Instituto Giner de los Ríos,3º Curso,oliver.thomas286@school.edu,11.652086926270009,9,ESO
+STU_001293,Davies,John,m,11,Canada,Winnipeg,Elementary School,North High School,Grade 10,mehdi.fassi142@school.edu,20.981946307234487,9,PhD
+STU_001409,Bennani,Alexander,m,12,Allemagne,Barcelona,Secondary School,Kant-Gymnasium,S3,ava.johnson613@edu,21.108923518190213,14,Licence
+STU_001035,Müller,Sarah,f,9,Allemagne,Lyon,Secondary School,Kant-Gymnasium,Grade 9,louise.petit609@school.edu,11.909614731966848,10,Abitur
+STU_001098,Hoffmann,Leon,f,5,Allemagne,Stuttgart,Universität,Universität Heidelberg,4ème,mathis.robert577@school.edu,9.159429319800463,3,Doktor
+STU_000874,Bernard,Karim,m,22,Maroc,Marseille,Lycée,Lycée Descartes,4º Primaria,nour.tazi146@school.edu,19.053963543095428,4,Doctorat
+STU_000703,Chakir,Mia,f,8,Canada,San Francisco,École Primaire,Colegio Velázquez,CP,amelia.smith2@school.edu,8.572619963375004,5,Baccalauréat
+STU_000790,Garcia,Jack,m,4,Maroc,Zaragoza,Lycée,Universidad de Salamanca,Grade 4,chloe.taylor241@school.edu,21.748273552846157,3,GCSE
+STU_000603,Müller,Jules,m,14,Allemagne,Stuttgart,Universität,Collège Voltaire,6ème année,harry.jones509@school.edu,19.59133752650947,5,Doktor
+STU_001239,Johnson,Inès,m,6,France,Houston,University,University of Alberta,Grade 7,ikram.bennani227@school.edu,20.820833045345864,2,Grado
+STU_000646,Hoffmann,Finn,f,14,Allemagne,München,Universität,Goethe-Gymnasium,Klasse 6,hugo.thomas478@edu,10.178562073550825,3,Doktor
+STU_000330,Martin,James,m,7,Canada,New York,Primary School,Harvard University,Grade 11,emilia.schmidt327@edu,25.76108693614107,7,PhD
+STU_000888,Williams,Ali,m,9,France,London,Secondary School,Lycée Henri IV,Year 2,lukas.schulz499@school.edu,24.35387864560279,9,A-Level
+STU_000960,Tremblay,Ali,m,9,Maroc,Berlin,Lycée,Collège Pierre et Marie Curie,5ème année,hugo.perez123@edu,19.691938997816166,2,Doktor
+STU_000926,Hoffmann,Julia,m,21,Allemagne,Edmonton,Gymnasium,UCL,Klasse 5,jessica.brown400@school.edu,17.899690726678912,5,Abitur
+STU_000983,Martin,Inès,m,7,Allemagne,Houston,Gymnasium,Colegio Velázquez,Grade 8,maría.martínez325@edu,25.61356938348844,15,Master
+STU_000192,Sqalli,Lucas,f,10,Maroc,Tanger,Collège,Université Lyon 1,1ère AC,gabriel.martin234@school.edu,9.48171059366765,5,Doctorat
+STU_001506,González,Rachid,f,20,Espagne,Rabat,Primaria,Colegio Cervantes,Year 5,harry.evans879@school.edu,10.75140586262814,9,Grado
+STU_000291,Meyer,Amine,f,23,France,Meknès,Primaria,École Mohammed V,6ème année,martina.martínez970@edu,12.055666808610681,1,Brevet
+STU_000265,Hoffmann,Ali,m,9,Allemagne,Leipzig,Universität,Colegio Velázquez,Year 11,clara.petit1@school.edu,18.925787411469976,5,Abitur
+STU_000501,Fernández,Michael,m,11,Maroc,Tanger,Lycée,Calgary High School,Première,emilia.schmidt184@school.edu,25.096305361523136,9,Doktor
+STU_001590,Chakir,Matthew,m,10,Maroc,Hamburg,High School,Universidad de Barcelona,Klasse 3,raphaël.thomas186@edu,19.14388402678805,6,Brevet
+STU_001250,González,Martina,f,21,Espagne,Zaragoza,Secondary School,Instituto Lope de Vega,Year 1,anthony.brown562@school.edu,12.08184775033633,9,ESO
+STU_000557,Davis,Emily,f,8,UK,Agadir,University,Schiller-Gymnasium,1º ESO,daniel.williams720@school.edu,12.30116109349877,3,Certificat Primaire
+STU_001188,Fernández,Noah,f,14,France,Edinburgh,École Primaire,Einstein Grundschule,5. Semester,paula.rodríguez899@edu,11.247326805169356,7,Baccalauréat
+STU_000982,Johnson,Aicha,m,4,Allemagne,Toronto,High School,UC Berkeley,Klasse 8,john.martinez501@school.edu,20.026469983628566,9,PhD
+STU_000576,Johnson,Noah,m,7,Canada,Ottawa,Secondary School,Collège Al Ghazali,Grade 3,mia.johnson489@edu,25.506740662393156,10,Bachelor's
+STU_000398,El Amrani,Mia,f,22,Espagne,Valencia,Universidad,Universidad de Barcelona,3º ESO,charlotte.rodriguez897@school.edu,9.628382361074383,3,ESO
+STU_001963,Martínez,Daniela,f,23,Espagne,Zaragoza,Secundaria,Instituto Giner de los Ríos,Máster,emma.jones395@school.edu,10.702360989362482,13,Doctorado
+STU_001181,García,Gabriel,m,9,France,Düsseldorf,Université,Colegio Picasso,1ère Bac,leon.hoffmann290@school.edu,22.250427225111693,8,Máster
+STU_000861,El Amrani,Lucía,f,9,Allemagne,Barcelona,Gymnasium,École Al Massira,Klasse 3,salma.tazi28@edu,10.30577679137561,8,Master
+STU_000750,Bernard,María,f,16,Espagne,Rabat,Middle School,Toronto High School,2º Primaria,sophie.johnson146@school.edu,10.32522259641372,15,Bachelor
+STU_001352,Wagner,Emily,f,22,Allemagne,Paris,Secondary School,Goethe-Gymnasium,4º Primaria,elias.meyer865@school.edu,9.816281646418602,2,Bachelor
+STU_000720,Evans,Ahmed,m,7,UK,Madrid,École Primaire,Instituto Ramón y Cajal,Doctorat,olivia.smith553@edu,23.138299244384733,7,Máster
+STU_001721,Miller,Emilia,m,8,Allemagne,Berlin,Secondary School,Lycée Henri IV,Senior,mathis.robert896@school.edu,19.204326720596022,7,Bachelor's Degree
+STU_000300,Johnson,Oliver,m,8,USA,Chicago,Secondary School,Westminster School,Year 1,raphaël.durand314@edu,24.752320215089572,1,Master's
+STU_000381,Meyer,Alba,f,9,Allemagne,Lille,Secundaria,École Élémentaire Victor Hugo,3. Semester,lucía.lópez206@edu,10.30814363089933,2,Master
+STU_000047,Thomas,Alexander,m,8,USA,New York,Secondary School,Oxford High School,Year 9,ava.williams43@school.edu,21.41314350254774,8,High School Diploma
+STU_000765,Brown,Alexander,m,7,UK,Vancouver,Secondary School,Maple Elementary,Year 1,sanae.fassi516@school.edu,23.613680972445398,9,PhD
+STU_001232,Petit,Chloé,m,7,Canada,Cambridge,Secondary School,Instituto Ramón y Cajal,Year 5,david.davis780@edu,19.366222780532787,9,Doctorado
+STU_001407,Davies,Emilia,m,9,Maroc,Valencia,Secondary School,UCL,Klasse 11,amelia.taylor49@school.edu,19.165473103594525,19,Master
+STU_000244,Martin,Karim,f,9,USA,Edmonton,Elementary School,Eton College,Grade 12,rachid.tazi635@school.edu,10.4168479784222,6,GCSE
+STU_000118,Brown,Amelia,m,5,Canada,London,Primary School,Roosevelt Elementary,Third Year,anna.meyer423@school.edu,23.875943348244725,7,Bachelor's
+STU_001322,Tazi,Elias,m,8,France,Toulouse,Université,École Jules Ferry,Licence 2,jonas.becker880@school.edu,18.511024934506583,3,Master's Degree
+STU_001760,Becker,Alexander,m,7,Allemagne,Nantes,Secondary School,Schiller-Gymnasium,5. Semester,oliver.davies903@school.edu,25.921349377108005,9,PhD
+STU_001874,Tremblay,Arthur,m,8,Maroc,Berlin,École Primaire,Collège Jean Moulin,5ème,emma.petit92@school.edu,24.73617826180238,3,Bachelor
+STU_001916,Brown,Sophia,f,10,Canada,London,Secondary School,Collège Molière,Year 1,ava.williams779@school.edu,8.87563686213376,8,Bachelor's
+STU_000151,Benjelloun,Pablo,m,13,Maroc,Frankfurt,Elementary School,MIT,5º Primaria,liam.anderson995@school.edu,24.495135318407858,9,GCSE
+STU_001469,Simon,David,m,9,Espagne,Winnipeg,Université,Colegio Velázquez,Grade 12,leon.muller222@school.edu,23.988335268933398,5,PhD
+STU_000255,López,Nour,m,14,Espagne,Los Angeles,Elementary School,Madison Middle School,Klasse 4,mia.jones197@school.edu,24.001776968814255,1,Bachelor's Degree
+STU_000703,Johnson,Oliver,m,6,USA,Bristol,Secondary School,École Pasteur,1ère Bac,noah.evans460@edu,20.052633371515917,8,PhD
+STU_001593,Gómez,Hugo,m,9,France,Bilbao,Gymnasium,Universidad de Barcelona,Doctorat,emilia.schmidt906@school.edu,20.6863258005438,7,Brevet
+STU_000490,Davies,Chloe,f,10,Canada,Boston,Secondary School,Goethe-Gymnasium,1º Primaria,rachid.chakir252@school.edu,9.230909916841183,1,Master's Degree
+STU_000088,Müller,Alejandro,m,6,France,Oujda,École Primaire,Université Ibn Tofail,Klasse 3,daniela.lópez320@edu,18.254266653902153,5,Licence
+STU_001073,El Amrani,William,m,15,Maroc,New York,Secondary School,St. Mary's Primary,Seconde,amelia.evans604@school.edu,21.299921537464172,7,Master
+STU_000196,Dupont,Emily,f,22,Espagne,Valencia,Middle School,Collège Averroès,Klasse 1,luis.schulz665@school.edu,8.41794037016519,8,Bachillerato
+STU_000938,El Amrani,Emily,m,13,Maroc,Valencia,Secondary School,Westminster Primary,4º Primaria,julia.perez524@school.edu,20.265989398653026,2,GCSE
+STU_001678,Rodriguez,Laila,m,9,Canada,Berlin,Secondary School,Collège Pierre et Marie Curie,1ère Bac,daniel.gómez164@edu,20.93195863207311,4,PhD
+STU_001401,Becker,Emilia,m,11,France,Nantes,Middle School,Colegio Velázquez,Tronc Commun,evelyn.jones472@school.edu,19.03482960570735,5,Brevet
+STU_001002,Jones,Sarah,f,22,Maroc,Granada,Universität,Lycée Descartes,Grade 4,isabella.anderson177@school.edu,11.279665086967658,9,Master
+STU_000031,Schneider,Noah,m,10,UK,Ottawa,Secondary School,Goethe Grundschule,Klasse 4,manon.simon623@edu,18.519906118242638,8,High School Diploma
+STU_001273,Martinez,Lily,m,13,Allemagne,Köln,Lycée,Université Mohammed V,Klasse 12,daniel.martínez367@school.edu,22.30251112200488,7,Master's Degree
+STU_001263,Wilson,Ethan,m,8,USA,Lille,Secondary School,Central High School,Tronc Commun,amina.chakir581@school.edu,21.081374683209884,6,Bachelor's
+STU_000038,Sqalli,Sofía,f,7,Maroc,Oxford,Elementary School,Universidad de Salamanca,Year 1,james.garcia85@edu,9.227177160283247,6,Baccalauréat
+STU_000165,Johnson,Harry,m,8,Canada,Nantes,Secondary School,Université Cadi Ayyad,Grade 3,ethan.macdonald140@school.edu,25.840211386915932,4,High School Diploma
+STU_001170,Alaoui,Paula,m,21,Maroc,Valencia,Lycée,Humboldt-Gymnasium,Klasse 11,joseph.garcia258@school.edu,17.686050134281945,8,PhD
+STU_000949,Schneider,Marie,f,8,Allemagne,Los Angeles,Lycée,Sorbonne Université,Year 5,noah.martin827@school.edu,10.257836432410002,9,Master
+STU_000405,Tremblay,Noah,m,7,Canada,New York,Lycée,UBC,Grade 6,clara.moreau501@school.edu,22.21282972324002,0,High School Diploma
+STU_001690,Taylor,Noah,m,9,USA,Oxford,Secondary School,Harvard University,Grade 2,george.davies223@school.edu,24.927395020897745,7,PhD
+STU_000140,Petit,Lucas,m,10,France,Oujda,École Primaire,Lycée Janson de Sailly,Klasse 4,evelyn.johnson691@school.edu,19.226444664790357,17,Licence
+STU_000629,Müller,Leon,m,17,Allemagne,Hamburg,Secondary School,Instituto Giner de los Ríos,Klasse 5,amine.chakir663@school.edu,25.036518814675443,2,Doktor
+STU_000510,Williams,Jessica,m,6,UK,Oxford,Secondary School,King's Primary School,Grade 2,lina.muller815@edu,20.7484282197966,16,PhD
+STU_001715,Jones,Lena,m,7,France,Hamburg,Lycée,École Élémentaire Victor Hugo,Grade 4,lucas.simon602@school.edu,25.92603309253895,2,PhD
+STU_000411,Chakir,Fatima,f,9,France,Marrakech,Collège,Lycée Mohammed V,1ère année,liam.macdonald408@edu,12.461935563766431,10,Doctorat
+STU_001791,Brown,Olivia,m,7,UK,Manchester,Primary School,Collège Pierre et Marie Curie,6ème,ben.schulz500@school.edu,24.989694318385503,8,Bachelor's Degree
+STU_000325,Brown,Sophia,m,9,USA,Frankfurt,Elementary School,St. Mary's Primary,6ème année,amine.chakir200@school.edu,24.489582046672936,6,Bachelor's Degree
+STU_000540,Martin,Louis,f,8,Allemagne,Toulouse,Elementary School,Instituto Ramón y Cajal,4ème année,martín.perez766@school.edu,9.429529412676494,8,PhD
+STU_000557,Thomas,Emily,f,8,USA,Barcelona,University,St. Mary's Primary,First Year,oliver.johnson333@school.edu,9.218313153991534,9,Bachelor
+STU_000903,Thomas,Evelyn,m,11,France,Bordeaux,Lycée,Maple Elementary,2º Bachillerato,salma.benali830@edu,24.880628106186947,5,Brevet
+STU_001252,Smith,Emilia,m,17,Maroc,Berlin,Gymnasium,Schiller-Gymnasium,Grade 8,elias.schulz114@school.edu,19.217678939735563,1,Licence
+STU_001173,Jones,Ikram,m,10,Maroc,Marseille,Secondary School,Montreal High School,Tronc Commun,lily.evans839@school.edu,18.033602479523797,5,Bachelor
+STU_001591,Johnson,Julia,m,10,USA,Barcelona,Middle School,École Jules Ferry,Year 8,hugo.martin652@school.edu,24.293175747757438,9,Bachelor
+STU_000349,Schulz,Lukas,m,10,Maroc,Barcelona,Collège,Kennedy Middle School,3ème année,ines.dupont658@school.edu,24.878286124373247,4,Master
+STU_000314,Williams,Lea,f,6,Allemagne,Ottawa,Elementary School,Instituto Ramón y Cajal,Year 2,thomas.smith271@school.edu,10.728216976891105,10,PhD
+STU_000475,Simon,Charlotte,f,9,Allemagne,Bristol,Gymnasium,Lycée Mohammed V,4º Curso,joseph.brown47@school.edu,12.045570052445735,4,PhD
+STU_000599,Gómez,William,f,10,Canada,Bilbao,Middle School,École Al Massira,Postgraduate,zineb.idrissi590@school.edu,10.563294639256615,4,Master's Degree
+STU_000266,Alaoui,Mehdi,f,9,France,Manchester,Secondary School,North High School,2ème Bac,amelia.wilson799@school.edu,12.301723941025056,7,Bachillerato
+STU_000384,Anderson,Jack,m,8,Canada,Seattle,Middle School,École Jean Jaurès,Grade 3,amelia.smith666@edu,18.585845253938338,4,Bachelor's Degree
+STU_000246,Evans,Amelia,m,8,Canada,Edinburgh,Secondary School,South High School,Grade 1,william.tremblay9@school.edu,16.505255432804496,7,A-Level
+STU_001181,Wilson,Emma,m,8,Canada,Seattle,Lycée,Université Paris-Saclay,Master 1,charlotte.smith28@edu,20.146921783443094,7,Master
+STU_000059,Schmidt,Ava,m,10,France,Meknès,École Primaire,Lycée Janson de Sailly,5ème année,ali.alaoui527@school.edu,20.657391128699032,6,PhD
+STU_001608,Tremblay,Emily,f,5,UK,Liverpool,Collège,MIT,Grade 6,ali.sqalli397@school.edu,9.768368173656532,1,Doctorat
+STU_001285,Jones,Zineb,m,7,Canada,Miami,Elementary School,Collège Voltaire,3º ESO,mateo.fernández925@edu,26.025554661601873,2,PhD
+STU_000672,Davies,Noah,f,14,France,Cambridge,Lycée,TU Berlin,2ème Bac,ikram.elamrani736@school.edu,9.757250842085647,13,Brevet
+STU_000749,Robert,Noah,m,19,Maroc,Barcelona,École Primaire,École Mohammed V,Terminale,olivia.jones837@school.edu,21.315023149660114,8,Master's
+STU_001447,Moreau,María,m,16,France,Toulouse,Lycée,Collège Voltaire,1ère AC,zineb.chakir720@edu,19.066011706155596,4,Brevet
+STU_001238,Schulz,Zoé,m,19,Maroc,Barcelona,École Primaire,TU Berlin,6. Semester,james.brown691@edu,20.688469770880527,8,Máster
+STU_000494,Anderson,Noah,m,3,USA,Manchester,Secondary School,Collège Molière,Grade 4,sophia.anderson229@school.edu,25.413854377540453,5,Bachelor's Degree
+STU_000214,Dupont,Sofía,m,15,USA,Düsseldorf,Lycée,King's Primary School,5. Semester,isabella.johnson956@school.edu,18.708423496759117,5,Abitur
+STU_001417,Benali,Amelia,m,10,Espagne,Oxford,Secondary School,Université Mohammed V,Licence 2,william.smith44@school.edu,19.213987029580558,9,Certificat Primaire
+STU_000016,Johnson,Mia,m,10,USA,Casablanca,High School,École Élémentaire Victor Hugo,Klasse 7,jules.dupont262@school.edu,19.408425678266905,6,A-Level
+STU_000795,Rodríguez,Mateo,f,21,Espagne,Valencia,Primaria,Universidad de Barcelona,3º Primaria,sofía.martínez66@school.edu,10.501974907196384,9,ESO
+STU_000695,Hoffmann,Daniela,f,13,Maroc,Berlin,Gymnasium,Westminster School,Grade 9,jules.moreau993@school.edu,10.349677318141438,9,Master's
+STU_000105,Thomas,Amelia,m,8,France,Bordeaux,Collège,Lycée Mohammed V,Postgraduate,anthony.garcia768@school.edu,20.83599493463861,4,Licence
+STU_000829,Alaoui,Gabriel,m,21,Espagne,Sevilla,Primaria,Instituto Giner de los Ríos,6º Primaria,emily.johnson109@school.edu,20.585216302851837,8,Doctorado
+STU_001724,Jones,Leon,m,18,Maroc,Birmingham,Lycée,École Hassan II,Tronc Commun,lina.schulz760@school.edu,24.091595421300667,9,Baccalauréat
+STU_000323,Davis,Ikram,m,11,Maroc,New York,Collège,Sorbonne Université,3ème AC,daniel.williams282@school.edu,24.110088479813083,3,Doctorat
+STU_000519,Davis,Nour,m,6,Maroc,Edmonton,Elementary School,Calgary High School,5ème année,amine.sqalli493@school.edu,19.020937778302088,6,Abitur
+STU_001931,Brown,Sophie,m,9,UK,Montreal,Secondary School,Westminster School,Grade 8,sophia.garcia709@school.edu,21.24041232782414,1,A-Level
+STU_000414,Bernard,Oliver,m,9,Canada,Frankfurt,Secondary School,Goethe Grundschule,Première,alexander.taylor511@school.edu,21.97943410485214,3,A-Level
+STU_000745,Chakir,Chloé,m,9,Maroc,Toulouse,Primary School,Colegio Goya,1ère Bac,lina.muller423@school.edu,23.566925226575385,1,Master
+STU_000263,Rodríguez,Sofía,f,14,Espagne,Zaragoza,Secundaria,Collège Al Khawarizmi,Grade 3,luis.wagner343@edu,8.661447713460754,9,Bachillerato
+STU_001241,Dupont,George,m,20,Maroc,Lille,Lycée,Lycée Mohammed V,3ème AC,clara.simon862@school.edu,17.583915008278176,1,Master
+STU_001664,Müller,Hugo,f,9,Maroc,Barcelona,Gymnasium,Central High School,1ère AC,charlotte.wilson112@school.edu,10.697381816022364,7,Máster
+STU_001541,Weber,María,m,10,Espagne,Hamburg,University,Université Mohammed V,Grade 7,elias.weber654@school.edu,18.32687365293112,9,Máster
+STU_001270,Tremblay,Manon,m,10,France,Barcelona,Lycée,Sorbonne Université,1ère année,ethan.taylor443@school.edu,23.675729715604955,17,Doktor
+STU_000129,Benali,Liam,m,7,Maroc,Agadir,École Primaire,Colegio Picasso,Fourth Year,harry.taylor689@edu,18.79586291861839,8,Master
+STU_000889,Gómez,Amina,m,16,USA,Zaragoza,Middle School,Collège Al Ghazali,2ème AC,jonas.schmidt116@school.edu,18.855441609226325,7,High School Diploma
+STU_001929,Taylor,Ava,m,6,USA,Casablanca,Primary School,Victoria Primary,Graduate,lukas.wagner866@edu,25.98924699398851,7,PhD
+STU_001355,López,Daniel,f,11,Espagne,Marseille,Primaria,Colegio Goya,1º ESO,amelia.thomas61@school.edu,11.138014055101241,17,Grado
+STU_001130,González,Camille,f,10,Espagne,Valencia,Secundaria,Universidad de Barcelona,1º Curso,liam.wilson601@school.edu,9.547223565156946,9,Máster
+STU_001301,Thomas,Noah,m,5,Canada,Meknès,Primaria,Universidad de Salamanca,Klasse 8,emily.roy911@school.edu,23.986161316124345,4,Licence
+STU_000533,El Amrani,Louise,f,15,France,Berlin,Université,Université Ibn Tofail,Klasse 6,mia.roy199@school.edu,12.412613962874158,17,Licence
+STU_001378,Schmidt,Hannah,m,7,Allemagne,Houston,Universität,Goethe-Gymnasium,4º Primaria,david.davis780@edu,18.883133236103323,3,Doktor
+STU_001886,Wilson,William,m,9,UK,Edinburgh,University,St. Mary's Primary,5º Primaria,ikram.elamrani83@school.edu,19.162857903315082,1,High School Diploma
+STU_000996,Idrissi,Emma,m,7,Canada,Miami,Collège,Oxford High School,Tronc Commun,amine.benjelloun639@edu,17.96835190878777,5,Master's
+STU_000252,Simon,Noah,f,9,Maroc,Köln,Elementary School,Université Paris-Saclay,Grade 8,sarah.leroy44@school.edu,9.023286503094964,3,PhD
+STU_000249,Roy,Ava,m,15,Canada,Cambridge,High School,Toronto High School,Grade 2,daniela.garcía625@edu,23.676873280802777,9,Bachelor's
+STU_001760,Benali,Inès,f,10,Allemagne,Chicago,Gymnasium,École Pasteur,Second Year,amina.alaoui551@edu,9.326017955070151,10,Baccalauréat
+STU_000494,Becker,Sarah,m,19,Maroc,Oujda,High School,Universidad Complutense,Year 5,paul.hoffmann876@edu,18.036226488549012,5,Master
+STU_000151,Evans,Mateo,m,14,UK,Birmingham,Middle School,Pine Elementary,2º ESO,leon.meyer632@school.edu,24.581524812676044,3,Master
+STU_001110,Martín,Noah,f,10,Espagne,Frankfurt,Secondary School,Kant-Gymnasium,Year 3,lukas.schmidt671@edu,11.876723488650395,2,PhD
+STU_001840,El Amrani,Emily,m,8,UK,Köln,Grundschule,UBC,6ème,karim.tazi573@school.edu,21.813441438758346,5,Baccalauréat
+STU_000757,Benali,Noah,m,9,USA,Stuttgart,Middle School,Lycée Moulay Youssef,4º Primaria,manon.petit107@edu,20.215058216724035,4,PhD
+STU_001738,Meyer,Sanae,m,19,Allemagne,Edmonton,Grundschule,Schiller-Gymnasium,CM1,sophia.meyer454@edu,19.773155546959345,8,Abitur
+STU_000144,Fischer,Benjamin,m,20,Allemagne,Köln,Universität,Goethe-Gymnasium,Master 1,lucas.durand95@edu,20.11741574018876,9,Doktor
+STU_000208,Hoffmann,Daniela,f,6,Allemagne,Rabat,Secondary School,Goethe Grundschule,6. Semester,nour.sqalli687@school.edu,8.03817949486375,1,Doktor
+STU_001848,Jones,Marie,m,7,Canada,Nantes,Secondary School,South High School,Grade 9,benjamin.martin97@school.edu,25.798278679551423,8,A-Level
+STU_000821,Becker,Jacob,m,5,UK,Edmonton,Secondary School,Cedar Elementary,6ème,youssef.bennani739@school.edu,19.179019254002675,9,Master's
+STU_000682,Taylor,Daniel,f,10,Maroc,Casablanca,Secondary School,Lycée Louis le Grand,5º Primaria,george.davies223@school.edu,11.632023525513794,10,Certificat Primaire
+STU_001117,Petit,Fatima,m,15,France,Fès,Collège,Lycée Janson de Sailly,Tronc Commun,zineb.bennani671@edu,24.590153486769346,4,Baccalauréat
+STU_001222,Simon,Emilia,m,11,Espagne,Boston,Gymnasium,Instituto Ramón y Cajal,Terminale,ava.brown205@school.edu,23.713883840796004,6,Certificat Primaire
+STU_000784,Davies,Olivia,m,9,USA,Boston,High School,Oak Elementary,Grade 2,karim.elamrani649@school.edu,20.103186405068826,9,Master's
+STU_001974,Becker,Gabriel,f,8,Espagne,Valencia,Universidad,Instituto Ramón y Cajal,1º Curso,mia.martinez527@school.edu,12.641682295673618,3,Master's Degree
+STU_000185,Martin,Noah,m,8,Maroc,Düsseldorf,Primaria,Lycée Hassan II,Terminale,ali.sqalli931@school.edu,25.88718736790705,4,Master
+STU_000586,Wagner,Inès,m,8,Canada,Stuttgart,Secondary School,Instituto Lope de Vega,S4,david.williams98@edu,17.506389196861488,8,Doctorado
+STU_001481,Taylor,Oscar,m,11,Canada,Barcelona,University,Oxford High School,S3,elias.weber654@school.edu,24.9293882866826,4,Licence
+STU_001313,Johnson,Mia,m,8,UK,Birmingham,Secondary School,Oak Elementary,Klasse 3,martina.martínez624@edu,18.770464509619227,8,GCSE
+STU_000870,López,Ali,m,7,France,Oujda,Lycée,Université Hassan II,Master 1,noah.schulz631@school.edu,20.478792661086537,5,Baccalauréat
+STU_000723,Johnson,Emily,m,6,Canada,Lille,Secondary School,Westminster School,Year 4,alexander.johnson73@edu,20.65911230823052,9,Master's Degree
+STU_001821,Garcia,Ava,m,14,USA,Calgary,University,Colegio Picasso,1º ESO,amelia.miller503@school.edu,16.796723643425207,1,Bachelor's Degree
+STU_001668,Davies,Ava,m,8,USA,Manchester,Primary School,Université Hassan II,Postgraduate,matthew.smith838@edu,25.298186387654027,9,Master's
+STU_000144,Alaoui,Mehdi,m,18,Maroc,Bordeaux,Collège,Université Hassan II,Klasse 7,martín.lópez22@edu,16.84147400101533,15,PhD
+STU_001000,Brown,Amelia,m,6,USA,Bristol,Primary School,St. Mary's Primary,Graduate,clara.leroy140@school.edu,21.908987876966904,10,Bachelor's
+STU_001827,Martin,Noah,m,3,Canada,Boston,Secondary School,Einstein Grundschule,Second Year,marie.schulz688@school.edu,25.37592573883496,6,Master
+STU_001327,Martín,Marie,f,11,Canada,Miami,Secondary School,Université Hassan II,Year 11,ben.wagner638@school.edu,10.041677641728738,0,High School Diploma
+STU_000864,Wagner,Pablo,m,23,Maroc,Fès,Collège,Instituto Giner de los Ríos,Doctorat,ikram.elamrani83@school.edu,18.268044021142142,5,Master
+STU_000688,Wilson,Matthew,m,8,Canada,Marrakech,Secondary School,École Mohammed V,Grade 3,sanae.tazi51@school.edu,24.569216501938076,9,Master
+STU_000719,Tazi,Hassan,m,9,Maroc,Vancouver,Collège,Sorbonne Université,Master 1,noah.martin827@school.edu,18.25528287104017,15,Bachelor's
+STU_001689,Davis,Lily,m,10,Espagne,Calgary,Lycée,Cambridge High School,1º ESO,amina.chakir581@school.edu,16.276588893220396,17,A-Level

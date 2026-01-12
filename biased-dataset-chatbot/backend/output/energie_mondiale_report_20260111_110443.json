@@ -1,0 +1,92 @@
+{
+  "generation_info": {
+    "category": "energie_mondiale",
+    "n_samples": 1000,
+    "generated_at": "2026-01-11T11:04:46.823988",
+    "bias_type": "geographic",
+    "bias_intensity": 0.5
+  },
+  "bias_report": {
+    "type": "geographic_bias",
+    "details": {
+      "region_column": "installation",
+      "overrepresented": "Lake Turkana Wind Power",
+      "duplicated_count": 20
+    },
+    "original_size": 1000,
+    "biased_size": 1020,
+    "bias_type": "geographic",
+    "intensity": 0.5,
+    "applied_at": "2026-01-11T11:04:44.197163"
+  },
+  "analysis": {
+    "size_comparison": {
+      "original": 1000,
+      "biased": 1020,
+      "change_pct": 2.0
+    },
+    "distribution_changes": {
+      "latitude": {
+        "original_mean": 33.40271596130401,
+        "biased_mean": 33.49418034905759,
+        "original_std": 19.8733078291638,
+        "biased_std": 19.81088714712691,
+        "mean_change_pct": 0.2738232060508493,
+        "ks_statistic": 0.0055294117647058825,
+        "ks_pvalue": 1.0
+      },
+      "longitude": {
+        "original_mean": 23.507134161849933,
+        "biased_mean": 23.053582389404376,
+        "original_std": 67.70597634902767,
+        "biased_std": 67.2854707501313,
+        "mean_change_pct": -1.9294218058265207,
+        "ks_statistic": 0.0059019607843137254,
+        "ks_pvalue": 1.0
+      },
+      "capacite_mw": {
+        "original_mean": 2189.411,
+        "biased_mean": 2158.1725490196077,
+        "original_std": 3439.876895636839,
+        "biased_std": 3420.2955022196256,
+        "mean_change_pct": -1.4267970235095624,
+        "ks_statistic": 0.0065490196078431375,
+        "ks_pvalue": 0.9999999999999994
+      },
+      "production_annuelle_gwh": {
+        "original_mean": 1631.1213653769187,
+        "biased_mean": 1645.3824150426722,
+        "original_std": 4018.3993283797868,
+        "biased_std": 4052.657716571348,
+        "mean_change_pct": 0.8743095375038005,
+        "ks_statistic": 0.0028627450980392155,
+        "ks_pvalue": 1.0
+      },
+      "emissions_co2": {
+        "original_mean": 1409218.9233080738,
+        "biased_mean": 1434661.818529522,
+        "original_std": 2252455.7900003367,
+        "biased_std": 2274904.723696665,
+        "mean_change_pct": 1.8054607982216344,
+        "ks_statistic": 0.0059019607843137254,
+        "ks_pvalue": 1.0
+      },
+      "annee_mise_service": {
+        "original_mean": 2003.884,
+        "biased_mean": 2004.1088235294117,
+        "original_std": 20.117237565014914,
+        "biased_std": 20.09474419951155,
+        "mean_change_pct": 0.011219388418273711,
+        "ks_statistic": 0.007196078431372549,
+        "ks_pvalue": 0.9999999999999991
+      }
+    },
+    "statistical_tests": {}
+  },
+  "files": {
+    "biased_dataset": "output\\energie_mondiale_biased_20260111_110443.csv",
+    "original_dataset": "output\\energie_mondiale_original_20260111_110443.csv",
+    "visualization": "output\\bias_energie_mondiale_geographic_20260111_110443.png",
+    "report": "output\\energie_mondiale_report_20260111_110443.json"
+  }
+}

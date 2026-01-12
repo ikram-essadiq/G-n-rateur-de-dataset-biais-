@@ -1,0 +1,31 @@
+{
+  "training_file": "market_data.csv",
+  "n_samples": 1000,
+  "n_columns": 8,
+  "columns": [
+    "produit",
+    "categorie",
+    "marque",
+    "prix_unitaire",
+    "promotion",
+    "volume_ventes",
+    "segment_client",
+    "canal_vente"
+  ],
+  "discrete_columns": [
+    "produit",
+    "categorie",
+    "marque",
+    "promotion",
+    "segment_client"
+  ],
+  "continuous_columns": [
+    "prix_unitaire",
+    "volume_ventes",
+    "canal_vente"
+  ],
+  "epochs": 300,
+  "batch_size": 500,
+  "training_duration": 66.638672,
+  "trained_at": "2026-01-01T16:13:37.302480"
+}

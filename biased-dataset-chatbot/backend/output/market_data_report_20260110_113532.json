@@ -1,0 +1,65 @@
+{
+  "generation_info": {
+    "category": "market_data",
+    "n_samples": 1000,
+    "generated_at": "2026-01-10T11:35:35.414261",
+    "bias_type": "socioeconomic",
+    "bias_intensity": 0.5
+  },
+  "bias_report": {
+    "type": "socioeconomic_bias",
+    "details": {
+      "income_column": "prix_unitaire",
+      "threshold": -3.8231317308424018,
+      "removed_count": 150
+    },
+    "original_size": 1000,
+    "biased_size": 850,
+    "bias_type": "socioeconomic",
+    "intensity": 0.5,
+    "applied_at": "2026-01-10T11:35:32.669364"
+  },
+  "analysis": {
+    "size_comparison": {
+      "original": 1000,
+      "biased": 850,
+      "change_pct": -15.0
+    },
+    "distribution_changes": {
+      "prix_unitaire": {
+        "original_mean": 240.1142411988916,
+        "biased_mean": 294.1667625641681,
+        "original_std": 362.3207002689384,
+        "biased_std": 366.723951659082,
+        "mean_change_pct": 22.51116847354388,
+        "ks_statistic": 0.12352941176470589,
+        "ks_pvalue": 1.426896490543035e-06
+      },
+      "volume_ventes": {
+        "original_mean": 502.76,
+        "biased_mean": 507.52,
+        "original_std": 569.9748535977124,
+        "biased_std": 575.131023285841,
+        "mean_change_pct": 0.9467738085764668,
+        "ks_statistic": 0.007176470588235294,
+        "ks_pvalue": 1.0
+      },
+      "canal_vente": {
+        "original_mean": 617.407,
+        "biased_mean": 609.3752941176471,
+        "original_std": 593.9405447700314,
+        "biased_std": 590.4188959133696,
+        "mean_change_pct": -1.3008770361125932,
+        "ks_statistic": 0.014352941176470587,
+        "ks_pvalue": 0.9999633490083195
+      }
+    },
+    "statistical_tests": {}
+  },
+  "files": {
+    "biased_dataset": "output\\market_data_biased_20260110_113532.csv",
+    "original_dataset": "output\\market_data_original_20260110_113532.csv",
+    "visualization": "output\\bias_market_data_socioeconomic_20260110_113532.png",
+    "report": "output\\market_data_report_20260110_113532.json"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "generation_info": {
+    "category": "agri_data",
+    "n_samples": 1000,
+    "generated_at": "2026-01-10T11:23:40.641046",
+    "bias_type": "geographic",
+    "bias_intensity": 0.5
+  },
+  "bias_report": {
+    "type": "geographic_bias",
+    "details": {
+      "region_column": "region",
+      "overrepresented": "Souss-Massa",
+      "original_distribution": {
+        "Souss-Massa": 106,
+        "São Paulo": 93,
+        "Provence": 83,
+        "Sfax": 82,
+        "Catalogne": 80,
+        "Californie": 78,
+        "Canterbury": 78,
+        "Kansas": 78,
+        "Toscane": 75,
+        "Île-de-France": 71,
+        "Meknès-Fès": 61,
+        "Marrakech-Safi": 60,
+        "Andalousie": 55
+      },
+      "biased_distribution": {
+        "Souss-Massa": 159,
+        "São Paulo": 93,
+        "Provence": 83,
+        "Sfax": 82,
+        "Catalogne": 80,
+        "Californie": 78,
+        "Canterbury": 78,
+        "Kansas": 78,
+        "Toscane": 75,
+        "Île-de-France": 71,
+        "Meknès-Fès": 61,
+        "Marrakech-Safi": 60,
+        "Andalousie": 55
+      },
+      "duplicated_count": 53
+    },
+    "original_size": 1000,
+    "biased_size": 1053,
+    "bias_type": "geographic",
+    "intensity": 0.5,
+    "applied_at": "2026-01-10T11:23:37.690590"
+  },
+  "analysis": {
+    "size_comparison": {
+      "original": 1000,
+      "biased": 1053,
+      "change_pct": 5.3
+    },
+    "distribution_changes": {
+      "quantite_tonnes": {
+        "original_mean": 218.46439106107056,
+        "biased_mean": 216.97327555749982,
+        "original_std": 235.40217298373872,
+        "biased_std": 232.1481131731403,
+        "mean_change_pct": -0.682543958916043,
+        "ks_statistic": 0.002969610636277303,
+        "ks_pvalue": 1.0
+      },
+      "prix_tonne_eur": {
+        "original_mean": 3813.605012374077,
+        "biased_mean": 3818.8255683178513,
+        "original_std": 3994.555164531161,
+        "biased_std": 3974.7704596023395,
+        "mean_change_pct": 0.13689293796381558,
+        "ks_statistic": 0.0053599240265906935,
+        "ks_pvalue": 1.0
+      }
+    },
+    "statistical_tests": {}
+  },
+  "files": {
+    "biased_dataset": "output\\agri_data_biased_20260110_112337.csv",
+    "original_dataset": "output\\agri_data_original_20260110_112337.csv",
+    "visualization": "output\\bias_agri_data_geographic_20260110_112337.png",
+    "report": "output\\agri_data_report_20260110_112337.json"
+  }
+}

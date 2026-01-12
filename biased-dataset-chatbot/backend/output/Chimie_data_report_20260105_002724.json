@@ -1,0 +1,56 @@
+{
+  "generation_info": {
+    "category": "Chimie_data",
+    "n_samples": 1000,
+    "generated_at": "2026-01-05T00:27:26.738013",
+    "bias_type": "sampling",
+    "bias_intensity": 0.5
+  },
+  "bias_report": {
+    "type": "sampling_bias",
+    "details": {
+      "original_size": 1000,
+      "sampled_size": 750,
+      "sampling_method": "exponential"
+    },
+    "original_size": 1000,
+    "biased_size": 750,
+    "bias_type": "sampling",
+    "intensity": 0.5,
+    "applied_at": "2026-01-05T00:27:24.310974"
+  },
+  "analysis": {
+    "size_comparison": {
+      "original": 1000,
+      "biased": 750,
+      "change_pct": -25.0
+    },
+    "distribution_changes": {
+      "id": {
+        "original_mean": 4934.569,
+        "biased_mean": 4959.898666666667,
+        "original_std": 2862.544453451682,
+        "biased_std": 2857.671764265669,
+        "mean_change_pct": 0.5133106187524383,
+        "ks_statistic": 0.010666666666666666,
+        "ks_pvalue": 0.9999999995254797
+      },
+      "valeur": {
+        "original_mean": 48.69788027425479,
+        "biased_mean": 48.932344833816856,
+        "original_std": 28.10873375162616,
+        "biased_std": 28.342105269094283,
+        "mean_change_pct": 0.48146769066976564,
+        "ks_statistic": 0.017666666666666667,
+        "ks_pvalue": 0.9990760387306954
+      }
+    },
+    "statistical_tests": {}
+  },
+  "files": {
+    "biased_dataset": "output\\Chimie_data_biased_20260105_002724.csv",
+    "original_dataset": "output\\Chimie_data_original_20260105_002724.csv",
+    "visualization": "output\\bias_Chimie_data_sampling_20260105_002724.png",
+    "report": "output\\Chimie_data_report_20260105_002724.json"
+  }
+}

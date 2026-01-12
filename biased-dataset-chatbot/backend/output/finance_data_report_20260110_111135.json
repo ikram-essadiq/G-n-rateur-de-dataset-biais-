@@ -1,0 +1,78 @@
+{
+  "generation_info": {
+    "category": "finance_data",
+    "n_samples": 1000,
+    "generated_at": "2026-01-10T11:11:42.140846",
+    "bias_type": "geographic",
+    "bias_intensity": 0.5
+  },
+  "bias_report": {
+    "type": "geographic_bias",
+    "details": {
+      "region_column": "pays",
+      "overrepresented": "USA",
+      "original_distribution": {
+        "USA": 214,
+        "Maroc": 194,
+        "Royaume-Uni": 170,
+        "Japon": 120,
+        "France": 84,
+        "Chine": 78,
+        "Afrique du Sud": 55,
+        "Allemagne": 46,
+        "UE": 39
+      },
+      "biased_distribution": {
+        "USA": 321,
+        "Maroc": 194,
+        "Royaume-Uni": 170,
+        "Japon": 120,
+        "France": 84,
+        "Chine": 78,
+        "Afrique du Sud": 55,
+        "Allemagne": 46,
+        "UE": 39
+      },
+      "duplicated_count": 107
+    },
+    "original_size": 1000,
+    "biased_size": 1107,
+    "bias_type": "geographic",
+    "intensity": 0.5,
+    "applied_at": "2026-01-10T11:11:36.379964"
+  },
+  "analysis": {
+    "size_comparison": {
+      "original": 1000,
+      "biased": 1107,
+      "change_pct": 10.7
+    },
+    "distribution_changes": {
+      "montant": {
+        "original_mean": 3373.4115039503117,
+        "biased_mean": 3561.5325974427724,
+        "original_std": 13033.486975756578,
+        "biased_std": 13485.947369895775,
+        "mean_change_pct": 5.576583030921744,
+        "ks_statistic": 0.012094850948509485,
+        "ks_pvalue": 0.9999973614285144
+      },
+      "frais": {
+        "original_mean": 7.290083837028466,
+        "biased_mean": 7.191599422046947,
+        "original_std": 65.44293830825215,
+        "biased_std": 62.677221356380024,
+        "mean_change_pct": -1.3509366583678686,
+        "ks_statistic": 0.010139114724480577,
+        "ks_pvalue": 0.9999999929527389
+      }
+    },
+    "statistical_tests": {}
+  },
+  "files": {
+    "biased_dataset": "output\\finance_data_biased_20260110_111135.csv",
+    "original_dataset": "output\\finance_data_original_20260110_111135.csv",
+    "visualization": "output\\bias_finance_data_geographic_20260110_111135.png",
+    "report": "output\\finance_data_report_20260110_111135.json"
+  }
+}

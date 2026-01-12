@@ -1,0 +1,1506 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DataBias Gen - Générateur de Datasets IA</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --bg-primary: #0a0e27;
+            --bg-secondary: #141b3a;
+            --bg-chat: #1a2138;
+            --accent-purple: #6366f1;
+            --accent-blue: #3b82f6;
+            --text-primary: #ffffff;
+            --text-secondary: #94a3b8;
+            --border-color: #2d3548;
+        }
+
+        body.light-mode {
+            --bg-primary: #ffffff;
+            --bg-secondary: #f8fafc;
+            --bg-chat: #ffffff;
+            --accent-purple: #6366f1;
+            --accent-blue: #3b82f6;
+            --text-primary: #0f172a;
+            --text-secondary: #64748b;
+            --border-color: #e2e8f0;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            transition: background 0.3s, color 0.3s;
+            overflow-x: hidden;
+        }
+
+        /* ==================== PAGE D'ACCUEIL ==================== */
+        .landing-page {
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .landing-page.hidden {
+            display: none;
+        }
+
+        /* Navbar */
+        .navbar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 1.5rem 3rem;
+            position: relative;
+            z-index: 100;
+        }
+
+        .logo {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: var(--text-primary);
+        }
+
+        .logo-icon {
+            width: 40px;
+            height: 40px;
+            background: linear-gradient(135deg, var(--accent-purple), var(--accent-blue));
+            border-radius: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5rem;
+        }
+
+
+        .nav-actions {
+            display: flex;
+            gap: 1rem;
+            align-items: center;
+        }
+        
+
+        /* Bouton de thème circulaire */
+.theme-toggle {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: var(--bg-secondary);
+    border: 1px solid var(--border-color);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s;
+    color: var(--text-secondary);
+}
+
+.theme-toggle:hover {
+    transform: scale(1.1);
+    background: var(--accent-purple);
+    color: white;
+}
+
+/* Icônes SVG pour thème */
+.theme-icon {
+    width: 20px;
+    height: 20px;
+    transition: all 0.3s;
+    fill: currentColor;
+}
+
+.theme-icon.sun {
+    display: none;
+}
+
+.light-mode .theme-icon.moon {
+    display: none;
+}
+
+.light-mode .theme-icon.sun {
+    display: block;
+}
+
+/* Bouton de thème dans la sidebar */
+.sidebar-btn .theme-icon {
+    width: 16px;
+    height: 16px;
+}       
+        /* Styles pour les icônes SVG */
+.icon {
+    width: 1em;
+    height: 1em;
+    fill: currentColor;
+    vertical-align: middle;
+}
+
+.icon-sm {
+    width: 0.875em;
+    height: 0.875em;
+}
+
+.icon-md {
+    width: 1.25em;
+    height: 1.25em;
+}
+
+.icon-lg {
+    width: 1.5em;
+    height: 1.5em;
+}
+
+.icon-xl {
+    width: 2em;
+    height: 2em;
+}
+
+/* Icônes spécifiques */
+.icon-robot {
+    /* Robot icon */
+}
+
+.icon-rocket {
+    /* Rocket icon */
+}
+
+.icon-hospital {
+    /* Hospital icon */
+}
+
+.icon-finance {
+    /* Finance icon */
+}
+
+.icon-graduation {
+    /* Graduation cap icon */
+}
+
+.icon-home {
+    /* Home icon */
+}
+
+.icon-message {
+    /* Message icon */
+}
+
+.icon-delete {
+    /* Delete icon */
+}
+
+.icon-download {
+    /* Download icon */
+}
+
+.icon-eye {
+    /* Eye icon */
+}
+
+.icon-error {
+    /* Error icon */
+}
+
+.icon-success {
+    /* Success icon */
+}
+
+.icon-warning {
+    /* Warning icon */
+}
+
+.icon-info {
+    /* Info icon */
+}
+
+/* Couleur grise pour les icônes */
+.icon-gray {
+    color: var(--text-secondary);
+}
+/* ==================== BOUTONS CIRCULAIRES ==================== */
+.circle-btn {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: var(--bg-secondary);
+    border: 1px solid var(--border-color);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s;
+    color: var(--text-secondary);
+}
+
+.circle-btn:hover {
+    transform: scale(1.1);
+    background: var(--accent-purple);
+    color: white;
+}
+
+/* Barre de navigation basse */
+.bottom-nav {
+    position: fixed;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    gap: 1rem;
+    background: var(--bg-secondary);
+    padding: 0.75rem;
+    border-radius: 50px;
+    border: 1px solid var(--border-color);
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
+    z-index: 100;
+}
+
+/* Conteneur pour le bouton circulaire + logo en haut */
+.top-nav-left {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+/* Logo du chat pour la navbar */
+.chat-logo {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: var(--text-primary);
+}
+
+.chat-logo-icon {
+    width: 32px;
+    height: 32px;
+    background: linear-gradient(135deg, var(--accent-purple), var(--accent-blue));
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+        .btn-start {
+            padding: 0.75rem 2rem;
+            background: linear-gradient(135deg, var(--accent-purple), var(--accent-blue));
+            border: none;
+            border-radius: 25px;
+            color: white;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s;
+            font-size: 1rem;
+        }
+
+        .btn-start:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 30px rgba(99, 102, 241, 0.4);
+        }
+
+        /* Hero Section */
+        .hero-section {
+            flex: 1;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 3rem;
+            gap: 4rem;
+            position: relative;
+        }
+
+        .hero-content {
+            flex: 1;
+            max-width: 600px;
+            animation: fadeInUp 0.8s ease;
+        }
+
+        .hero-title {
+            font-size: 3.5rem;
+            font-weight: 900;
+            line-height: 1.2;
+            margin-bottom: 1.5rem;
+            background: linear-gradient(135deg, var(--accent-purple), var(--accent-blue));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .hero-subtitle {
+            font-size: 1.25rem;
+            color: var(--text-secondary);
+            margin-bottom: 2rem;
+            line-height: 1.6;
+        }
+
+        .hero-features {
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+            margin-bottom: 2rem;
+        }
+
+        .feature-item {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            color: var(--text-secondary);
+        }
+
+        .feature-icon {
+            width: 24px;
+            height: 24px;
+            background: linear-gradient(135deg, var(--accent-purple), var(--accent-blue));
+            border-radius: 6px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 0.875rem;
+        }
+
+        .hero-visual {
+            flex: 1;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+        }
+
+        .bot-container {
+            position: relative;
+            width: 400px;
+            height: 400px;
+        }
+
+        .bot-circle {
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(135deg, rgba(99, 102, 241, 0.1), rgba(59, 130, 246, 0.1));
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+            animation: float 3s ease-in-out infinite;
+            border: 2px solid rgba(99, 102, 241, 0.2);
+        }
+
+        .bot-icon {
+            font-size: 150px;
+            filter: drop-shadow(0 10px 30px rgba(99, 102, 241, 0.3));
+        }
+
+        .floating-card {
+            position: absolute;
+            background: var(--bg-secondary);
+            padding: 1rem 1.5rem;
+            border-radius: 15px;
+            border: 1px solid var(--border-color);
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+            animation: floatCard 4s ease-in-out infinite;
+        }
+
+        .floating-card:nth-child(1) {
+            top: 10%;
+            right: -10%;
+            animation-delay: 0s;
+        }
+
+        .floating-card:nth-child(2) {
+            bottom: 20%;
+            left: -10%;
+            animation-delay: 1s;
+        }
+
+        .floating-card:nth-child(3) {
+            top: 50%;
+            right: -15%;
+            animation-delay: 2s;
+        }
+
+        @keyframes float {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-20px); }
+        }
+
+        @keyframes floatCard {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-15px); }
+        }
+
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        /* ==================== PAGE CHATBOT ==================== */
+        .chat-page {
+            display: none;
+            min-height: 100vh;
+            position: relative;
+        }
+
+        .chat-page.active {
+            display: flex;
+        }
+
+        /* Sidebar - version épurée */
+        .sidebar {
+            width: 280px;
+            background: var(--bg-secondary);
+            border-right: 1px solid var(--border-color);
+            display: flex;
+            flex-direction: column;
+            transition: transform 0.3s;
+            position: relative;
+            z-index: 10;
+            overflow-y: auto;
+        }
+
+        .sidebar.hidden {
+            transform: translateX(-100%);
+            position: absolute;
+            height: 100vh;
+        }
+
+        .sidebar-header {
+            padding: 1.5rem;
+            border-bottom: 1px solid var(--border-color);
+            display: flex;
+            flex-direction: column;
+            gap: 0.75rem;
+        }
+
+        .new-chat-btn {
+            width: 100%;
+            padding: 0.75rem;
+            background: linear-gradient(135deg, var(--accent-purple), var(--accent-blue));
+            border: none;
+            border-radius: 10px;
+            color: white;
+            font-weight: 600;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.5rem;
+            transition: all 0.3s;
+        }
+
+        .new-chat-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(99, 102, 241, 0.3);
+        }
+
+        .close-sidebar {
+            width: 100%;
+            padding: 0.5rem;
+            background: var(--bg-chat);
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 0.875rem;
+            transition: all 0.3s;
+            color: var(--text-primary);
+        }
+
+        .close-sidebar:hover {
+            background: var(--accent-purple);
+            color: white;
+        }
+
+        /* On supprime la section historique */
+        .history-section {
+            display: none;
+        }
+
+        .sidebar-footer {
+            padding: 1.5rem;
+            border-top: 1px solid var(--border-color);
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+            margin-top: auto;
+        }
+
+        .sidebar-btn {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            padding: 0.75rem;
+            background: var(--bg-chat);
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.2s;
+            color: var(--text-primary);
+            font-size: 0.875rem;
+        }
+
+        .sidebar-btn:hover {
+            background: var(--accent-purple);
+            color: white;
+        }
+
+        /* Main Chat Area */
+        .chat-main {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            background: var(--bg-primary);
+            position: relative;
+            height: 100vh;
+            overflow: hidden;
+        }
+
+        .toggle-sidebar-btn {
+            position: fixed;
+            top: 1.5rem;
+            left: calc(280px + 1.5rem);
+            width: 40px;
+            height: 40px;
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 10px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.25rem;
+            transition: all 0.3s;
+            z-index: 5;
+        }
+
+        .sidebar.hidden ~ .chat-main .toggle-sidebar-btn {
+            left: 1.5rem;
+        }
+
+        .toggle-sidebar-btn:hover {
+            background: var(--accent-purple);
+            color: white;
+        }
+
+        .chat-container {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 4rem 2rem 0;
+            transition: all 0.3s;
+            overflow-y: auto;
+            overflow-x: hidden;
+        }
+
+        .chat-container.has-messages {
+            justify-content: flex-start;
+            padding-top: 6rem;
+        }
+
+        .welcome-screen {
+            text-align: center;
+            max-width: 600px;
+            animation: fadeInUp 0.6s ease;
+        }
+
+        .welcome-screen.hidden {
+            display: none;
+        }
+
+        .bot-avatar {
+            width: 80px;
+            height: 80px;
+            background: linear-gradient(135deg, var(--accent-purple), var(--accent-blue));
+            border-radius: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 2.5rem;
+            margin: 0 auto 1.5rem;
+            box-shadow: 0 10px 30px rgba(99, 102, 241, 0.3);
+        }
+
+        .welcome-title {
+            font-size: 2rem;
+            font-weight: 700;
+            margin-bottom: 0.75rem;
+        }
+
+        .welcome-subtitle {
+            font-size: 1rem;
+            color: var(--text-secondary);
+            margin-bottom: 2rem;
+        }
+
+        .quick-prompts {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1rem;
+            margin-top: 2rem;
+        }
+
+        .quick-prompt {
+            padding: 1rem 1.5rem;
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            cursor: pointer;
+            transition: all 0.3s;
+            text-align: left;
+        }
+
+        .quick-prompt:hover {
+            border-color: var(--accent-purple);
+            transform: translateY(-3px);
+            box-shadow: 0 5px 20px rgba(99, 102, 241, 0.2);
+        }
+
+        .quick-prompt-title {
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .quick-prompt-desc {
+            font-size: 0.875rem;
+            color: var(--text-secondary);
+        }
+
+        /* Messages Area */
+        .messages-area {
+            width: 100%;
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 2rem;
+            display: none;
+        }
+
+        .messages-area.active {
+            display: block;
+        }
+
+        .message {
+            margin-bottom: 1.5rem;
+            animation: messageSlide 0.3s ease;
+        }
+
+        @keyframes messageSlide {
+            from {
+                opacity: 0;
+                transform: translateY(10px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .message.user {
+            display: flex;
+            justify-content: flex-end;
+        }
+
+        .message.bot {
+            display: flex;
+            gap: 0.75rem;
+        }
+
+        .message-avatar {
+            width: 36px;
+            height: 36px;
+            background: linear-gradient(135deg, var(--accent-purple), var(--accent-blue));
+            border-radius: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.25rem;
+            flex-shrink: 0;
+        }
+
+        .message-content {
+            max-width: 70%;
+            padding: 1rem 1.25rem;
+            border-radius: 18px;
+            line-height: 1.6;
+        }
+
+        .message.user .message-content {
+            background: linear-gradient(135deg, var(--accent-purple), var(--accent-blue));
+            color: white;
+            border-bottom-right-radius: 4px;
+        }
+
+        .message.bot .message-content {
+            background: var(--bg-secondary);
+            color: var(--text-primary);
+            border-bottom-left-radius: 4px;
+            border: 1px solid var(--border-color);
+        }
+
+        /* Style pour les réponses compactes (comme DeepSeek) */
+        .compact-response {
+            line-height: 1.6;
+        }
+
+        .compact-response .section {
+            margin-bottom: 0.75rem;
+        }
+
+        .compact-response .highlight {
+            color: var(--accent-purple);
+            font-weight: 600;
+        }
+
+        .compact-response .details {
+            background: rgba(99, 102, 241, 0.1);
+            padding: 0.75rem;
+            border-radius: 8px;
+            margin: 0.5rem 0;
+            border-left: 3px solid var(--accent-purple);
+        }
+
+        .compact-response .download-section {
+            margin-top: 1rem;
+            padding-top: 1rem;
+            border-top: 1px solid var(--border-color);
+        }
+
+        .download-btn-compact {
+            display: inline-block;
+            padding: 0.5rem 1rem;
+            background: var(--bg-chat);
+            border: 1px solid var(--border-color);
+            border-radius: 6px;
+            color: var(--text-primary);
+            text-decoration: none;
+            font-size: 0.875rem;
+            margin-right: 0.5rem;
+            margin-bottom: 0.5rem;
+            transition: all 0.2s;
+        }
+
+        .download-btn-compact:hover {
+            background: var(--accent-purple);
+            color: white;
+            border-color: var(--accent-purple);
+            transform: translateY(-2px);
+        }
+
+        /* Input Area */
+        .input-area {
+            padding: 2rem;
+            background: var(--bg-primary);
+            border-top: 1px solid var(--border-color);
+            position: sticky;
+            bottom: 0;
+            z-index: 10;
+        }
+
+        .input-container {
+            max-width: 900px;
+            margin: 0 auto;
+            position: relative;
+        }
+
+        .chat-input {
+            width: 100%;
+            padding: 1.25rem 5rem 1.25rem 1.5rem;
+            background: var(--bg-secondary);
+            border: 2px solid var(--border-color);
+            border-radius: 25px;
+            color: var(--text-primary);
+            font-size: 1rem;
+            outline: none;
+            transition: all 0.3s;
+            font-family: inherit;
+        }
+
+        .chat-input:focus {
+            border-color: var(--accent-purple);
+            box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.1);
+        }
+
+        .send-btn {
+            position: absolute;
+            right: 0.5rem;
+            top: 50%;
+            transform: translateY(-50%);
+            width: 48px;
+            height: 48px;
+            background: linear-gradient(135deg, var(--accent-purple), var(--accent-blue));
+            border: none;
+            border-radius: 50%;
+            color: white;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.25rem;
+            transition: all 0.3s;
+        }
+
+        .send-btn:hover:not(:disabled) {
+            transform: translateY(-50%) scale(1.05);
+            box-shadow: 0 5px 20px rgba(99, 102, 241, 0.4);
+        }
+
+        .send-btn:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+
+        /* Typing Indicator */
+        .typing-indicator {
+            display: none;
+            padding: 1rem 1.25rem;
+            background: var(--bg-secondary);
+            border-radius: 18px;
+            width: fit-content;
+            border: 1px solid var(--border-color);
+        }
+
+        .typing-indicator.active {
+            display: flex;
+            gap: 0.4rem;
+            align-items: center;
+        }
+
+        .typing-dot {
+            width: 8px;
+            height: 8px;
+            background: var(--accent-purple);
+            border-radius: 50%;
+            animation: typingBounce 1.4s infinite ease-in-out;
+        }
+
+        .typing-dot:nth-child(1) { animation-delay: -0.32s; }
+        .typing-dot:nth-child(2) { animation-delay: -0.16s; }
+
+        @keyframes typingBounce {
+            0%, 80%, 100% { transform: scale(0); }
+            40% { transform: scale(1); }
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .navbar {
+                padding: 1rem 1.5rem;
+            }
+
+            .hero-section {
+                flex-direction: column;
+                text-align: center;
+                padding: 2rem 1.5rem;
+            }
+
+            .hero-title {
+                font-size: 2.5rem;
+            }
+
+            .bot-container {
+                width: 300px;
+                height: 300px;
+            }
+
+            .sidebar {
+                position: absolute;
+                height: 100vh;
+                z-index: 100;
+            }
+
+            .quick-prompts {
+                grid-template-columns: 1fr;
+            }
+
+            .toggle-sidebar-btn {
+                top: 1rem;
+                left: 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- ==================== PAGE D'ACCUEIL ==================== -->
+    <div class="landing-page" id="landingPage">
+        <nav class="navbar">
+            <div class="logo">
+    <div class="logo-icon">
+        <svg class="icon icon-xl icon-robot" viewBox="0 0 24 24">
+            <path d="M12,2A2,2 0 0,1 14,4C14,4.74 13.6,5.39 13,5.73V7H14A7,7 0 0,1 21,14H22A1,1 0 0,1 23,15V18A1,1 0 0,1 22,19H21V20A2,2 0 0,1 19,22H5A2,2 0 0,1 3,20V19H2A1,1 0 0,1 1,18V15A1,1 0 0,1 2,14H3A7,7 0 0,1 10,7H11V5.73C10.4,5.39 10,4.74 10,4A2,2 0 0,1 12,2M7.5,13A2.5,2.5 0 0,0 5,15.5A2.5,2.5 0 0,0 7.5,18A2.5,2.5 0 0,0 10,15.5A2.5,2.5 0 0,0 7.5,13M16.5,13A2.5,2.5 0 0,0 14,15.5A2.5,2.5 0 0,0 16.5,18A2.5,2.5 0 0,0 19,15.5A2.5,2.5 0 0,0 16.5,13Z"/>
+        </svg>
+    </div>
+    <span>DataBias Gen</span>
+</div>
+            <div class="nav-actions">
+                <button class="theme-toggle" onclick="toggleTheme()">
+    <!-- Icône Lune -->
+    <svg class="theme-icon moon" viewBox="0 0 24 24" width="20" height="20">
+        <path d="M21.4,13.7C20.6,13.9,19.8,14,19,14c-5,0-9-4-9-9c0-0.8,0.1-1.6,0.3-2.4c0.1-0.3,0-0.7-0.3-1 c-0.3-0.3-0.6-0.4-1-0.3C4.3,2.7,1,7.1,1,12c0,6.1,4.9,11,11,11c4.9,0,9.3-3.3,10.6-8.1c0.1-0.3,0-0.7-0.3-1 C22.1,13.7,21.7,13.6,21.4,13.7z"/>
+    </svg>
+    <!-- Icône Soleil -->
+    <svg class="theme-icon sun" viewBox="0 0 24 24" width="20" height="20">
+        <path d="M12,7c-2.8,0-5,2.2-5,5s2.2,5,5,5s5-2.2,5-5S14.8,7,12,7z M12,9c1.7,0,3,1.3,3,3s-1.3,3-3,3s-3-1.3-3-3S10.3,9,12,9z M12,1 L13,5h-2L12,1z M12,23l-1-4h2L12,23z M5.6,5.6L8.1,8.1L6.7,9.5L4.2,7L5.6,5.6z M17.4,18.4l-2.5-2.5l1.4-1.4l2.5,2.5L17.4,18.4z M23,12 l-4,1v-2l4,1z M1,12l4-1v2L1,12z M6.7,14.5l1.4,1.4l-2.5,2.5l-1.4-1.4L6.7,14.5z M19.8,17l-1.4,1.4l-2.5-2.5l1.4-1.4L19.8,17z"/>
+    </svg>
+</button>
+               <button class="btn-start" onclick="showChatPage()">
+    <svg class="icon icon-md" viewBox="0 0 24 24" style="margin-right: 8px;">
+        <path d="M12,2C12,2 7,4 7,12C7,15.1 7.76,17.75 8.67,19.83C9.58,21.91 10.5,22 11.35,21.94C12.2,21.88 12.71,21.14 13.25,20.5C13.79,19.86 14.62,19 15.5,18.5C16.38,18 17.34,17.94 18.25,18.29C19.16,18.64 20,19.38 20,19.38C20,19.38 22,14.25 22,12C22,9.75 20,4.62 20,4.62C20,4.62 19.16,5.36 18.25,5.71C17.34,6.06 16.38,6 15.5,6.5C14.62,7 13.79,7.86 13.25,8.5C12.71,9.14 12.2,9.88 11.35,9.94C10.5,10 9.58,10.09 8.67,12.17C7.76,14.25 7,16.9 7,20C7,21.1 7.9,22 9,22H15C16.1,22 17,21.1 17,20C17,16.9 16.24,14.25 15.33,12.17C14.42,10.09 13.5,10 12.65,9.94C11.8,9.88 11.29,9.14 10.75,8.5C10.21,7.86 9.38,7 8.5,6.5C7.62,6 6.66,6.06 5.75,5.71C4.84,5.36 4,4.62 4,4.62C4,4.62 2,9.75 2,12C2,14.25 4,19.38 4,19.38C4,19.38 4.84,18.64 5.75,18.29C6.66,17.94 7.62,18 8.5,18.5C9.38,19 10.21,19.86 10.75,20.5C11.29,21.14 11.8,21.88 12.65,21.94C13.5,22 14.42,21.91 15.33,19.83C16.24,17.75 17,15.1 17,12C17,4 12,2 12,2Z"/>
+    </svg>
+    Commencer
+</button>
+            </div>
+        </nav>
+
+        <section class="hero-section">
+            <div class="hero-content">
+                <h1 class="hero-title">Générez des Datasets Biaisés avec l'IA</h1>
+                <p class="hero-subtitle">
+                    Créez, analysez et comprenez les biais dans vos données avec notre assistant intelligent.
+                </p>
+                <div class="hero-features">
+                    <div class="feature-item">
+                        <div class="feature-icon">✓</div>
+                        <span>15+ catégories de datasets disponibles</span>
+                    </div>
+                    <div class="feature-item">
+                        <div class="feature-icon">✓</div>
+                        <span>7 types de biais configurables</span>
+                    </div>
+                    <div class="feature-item">
+                        <div class="feature-icon">✓</div>
+                        <span>Visualisations et rapports automatiques</span>
+                    </div>
+                    <div class="feature-item">
+                        <div class="feature-icon">✓</div>
+                        <span>Interface conversationnelle intuitive</span>
+                    </div>
+                </div>
+                <button class="btn-start" onclick="showChatPage()" style="margin-top: 1rem;">
+                     Lancer le Chatbot
+                </button>
+            </div>
+
+            <div class="hero-visual">
+                <div class="bot-container">
+                    <div class="floating-card">
+    <div style="font-size: 0.875rem; color: var(--text-secondary); display: flex; align-items: center; gap: 8px;">
+        <svg class="icon icon-sm icon-hospital" viewBox="0 0 24 24">
+            <path d="M18,14H14V18H10V14H6V10H10V6H14V10H18M19,3H5C3.89,3 3,3.89 3,5V19A2,2 0 0,0 5,21H19A2,2 0 0,0 21,19V5C21,3.89 20.1,3 19,3Z"/>
+        </svg>
+        Patients
+    </div>
+</div>
+                    <div class="floating-card">
+    <div style="font-size: 0.875rem; color: var(--text-secondary); display: flex; align-items: center; gap: 8px;">
+        <svg class="icon icon-sm icon-finance" viewBox="0 0 24 24">
+            <path d="M3,6H21V18H3V6M12,9A3,3 0 0,1 15,12A3,3 0 0,1 12,15A3,3 0 0,1 9,12A3,3 0 0,1 12,9M7,8A2,2 0 0,1 5,10V14A2,2 0 0,1 7,16H17A2,2 0 0,1 19,14V10A2,2 0 0,1 17,8H7Z"/>
+        </svg>
+        Finance
+    </div>
+</div>
+                    
+<div class="floating-card">
+    <div style="font-size: 0.875rem; color: var(--text-secondary); display: flex; align-items: center; gap: 8px;">
+        <svg class="icon icon-sm icon-graduation" viewBox="0 0 24 24">
+            <path d="M12,3L1,9L12,15L21,10.09V17H23V9M5,13.18V17.18L12,21L19,17.18V13.18L12,17L5,13.18Z"/>
+        </svg>
+        Étudiants
+    </div>
+</div>
+                    <div class="bot-circle">
+                        <div class="bot-icon">🤖</div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <!-- ==================== PAGE CHATBOT ==================== -->
+    <div class="chat-page" id="chatPage">
+        <!-- Sidebar -->
+        <div class="sidebar" id="sidebar">
+            <div class="sidebar-header">
+                
+                <button class="new-chat-btn" onclick="newChat()">
+                    ➕ Nouveau Chat
+                </button>
+                
+            </div>
+
+            <!-- Supprimé la section historique -->
+            
+            <div class="sidebar-footer">
+                <button class="sidebar-btn" onclick="toggleTheme()">
+    <svg class="theme-icon moon" viewBox="0 0 24 24" width="16" height="16" style="fill: currentColor;">
+        <path d="M21.4,13.7C20.6,13.9,19.8,14,19,14c-5,0-9-4-9-9c0-0.8,0.1-1.6,0.3-2.4c0.1-0.3,0-0.7-0.3-1 c-0.3-0.3-0.6-0.4-1-0.3C4.3,2.7,1,7.1,1,12c0,6.1,4.9,11,11,11c4.9,0,9.3-3.3,10.6-8.1c0.1-0.3,0-0.7-0.3-1 C22.1,13.7,21.7,13.6,21.4,13.7z"/>
+    </svg>
+    <svg class="theme-icon sun" viewBox="0 0 24 24" width="16" height="16" style="fill: currentColor;">
+        <path d="M12,7c-2.8,0-5,2.2-5,5s2.2,5,5,5s5-2.2,5-5S14.8,7,12,7z M12,9c1.7,0,3,1.3,3,3s-1.3,3-3,3s-3-1.3,3-3S10.3,9,12,9z M12,1 L13,5h-2L12,1z M12,23l-1-4h2L12,23z M5.6,5.6L8.1,8.1L6.7,9.5L4.2,7L5.6,5.6z M17.4,18.4l-2.5-2.5l1.4-1.4l2.5,2.5L17.4,18.4z M23,12 l-4,1v-2l4,1z M1,12l4-1v2L1,12z M6.7,14.5l1.4,1.4l-2.5,2.5l-1.4-1.4L6.7,14.5z M19.8,17l-1.4,1.4l-2.5-2.5l1.4-1.4L19.8,17z"/>
+    </svg>
+    <span id="sidebarThemeText">Mode Sombre</span>
+</button>
+                <button class="sidebar-btn" onclick="showLandingPage()">
+                    <span>🏠</span>
+                    <span>Accueil</span>
+                </button>
+            </div>
+        </div>
+
+        <!-- Main Chat -->
+        <div class="chat-main">
+            <button class="toggle-sidebar-btn" id="toggleSidebarBtn" onclick="toggleSidebar()">
+                ☰
+            </button>
+
+            <div class="chat-container" id="chatContainer">
+                <!-- Welcome Screen -->
+                <div class="welcome-screen" id="welcomeScreen">
+                    <div class="bot-avatar">🤖</div>
+                    <h1 class="welcome-title">Bonjour</h1>
+                    <p class="welcome-subtitle">Comment puis-je vous aider aujourd'hui ?</p>
+
+                    <div class="quick-prompts">
+    <div class="quick-prompt" onclick="sendQuickPrompt('Dataset Médical')">
+        <div class="quick-prompt-title">
+            <svg class="icon icon-md icon-hospital" viewBox="0 0 24 24">
+                <path d="M18,14H14V18H10V14H6V10H10V6H14V10H18M19,3H5C3.89,3 3,3.89 3,5V19A2,2 0 0,0 5,21H19A2,2 0 0,0 21,19V5C21,3.89 20.1,3 19,3Z"/>
+            </svg>
+            <span>Dataset Médical</span>
+        </div>
+        <div class="quick-prompt-desc">Générer des données de patients</div>
+    </div>
+    <div class="quick-prompt" onclick="sendQuickPrompt('Scores de Crédit')">
+        <div class="quick-prompt-title">
+            <svg class="icon icon-md icon-finance" viewBox="0 0 24 24">
+                <path d="M3,6H21V18H3V6M12,9A3,3 0 0,1 15,12A3,3 0 0,1 12,15A3,3 0 0,1 9,12A3,3 0 0,1 12,9M7,8A2,2 0 0,1 5,10V14A2,2 0 0,1 7,16H17A2,2 0 0,1 19,14V10A2,2 0 0,1 17,8H7Z"/>
+            </svg>
+            <span>Scores de Crédit</span>
+        </div>
+        <div class="quick-prompt-desc">Données finance avec biais</div>
+    </div>
+    <div class="quick-prompt" onclick="sendQuickPrompt('Candidatures Tech')">
+        <div class="quick-prompt-title">
+            <svg class="icon icon-md" viewBox="0 0 24 24">
+                <path d="M21,16.5C21,16.88 20.79,17.21 20.47,17.38L12.57,21.82C12.41,21.94 12.21,22 12,22C11.79,22 11.59,21.94 11.43,21.82L3.53,17.38C3.21,17.21 3,16.88 3,16.5V7.5C3,7.12 3.21,6.79 3.53,6.62L11.43,2.18C11.59,2.06 11.79,2 12,2C12.21,2 12.41,2.06 12.57,2.18L20.47,6.62C20.79,6.79 21,7.12 21,7.5V16.5M12,4.15L5,8.09V15.91L12,19.85L19,15.91V8.09L12,4.15Z"/>
+            </svg>
+            <span>Sport</span>
+        </div>
+        <div class="quick-prompt-desc">générer des données de sport</div>
+    </div>
+</div>
+                </div>
+
+                <!-- Messages Area -->
+                <div class="messages-area" id="messagesArea"></div>
+            </div>
+
+            <!-- Input Area -->
+            <div class="input-area" id="inputArea">
+                <div class="input-container">
+                    <input 
+                        type="text" 
+                        class="chat-input" 
+                        id="chatInput"
+                        placeholder="Posez une question sur vos données..."
+                        onkeypress="if(event.key==='Enter') sendMessage()"
+                    >
+                    <button class="send-btn" id="sendBtn" onclick="sendMessage()">
+                        ↑
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const API_URL = 'http://localhost:5000';
+        let conversationStarted = false;
+        let conversationHistory = [];
+
+        // Theme Toggle
+        function toggleTheme() {
+            document.body.classList.toggle('light-mode');
+            const isDark = !document.body.classList.contains('light-mode');
+            const icon = isDark ? '🌙' : '☀️';
+            const text = isDark ? 'Mode Sombre' : 'Mode Clair';
+            
+            document.getElementById('themeIcon').textContent = icon;
+            document.getElementById('sidebarThemeIcon').textContent = icon;
+            document.getElementById('sidebarThemeText').textContent = text;
+        }
+
+        // Navigation
+        function showChatPage() {
+            document.getElementById('landingPage').classList.add('hidden');
+            document.getElementById('chatPage').classList.add('active');
+        }
+
+        function showLandingPage() {
+            document.getElementById('landingPage').classList.remove('hidden');
+            document.getElementById('chatPage').classList.remove('active');
+            newChat();
+        }
+
+        // Sidebar Toggle
+        function toggleSidebar() {
+            const sidebar = document.getElementById('sidebar');
+            const toggleBtn = document.getElementById('toggleSidebarBtn');
+            sidebar.classList.toggle('hidden');
+            
+            if (sidebar.classList.contains('hidden')) {
+                toggleBtn.textContent = '☰';
+            } else {
+                toggleBtn.textContent = '✕';
+            }
+        }
+
+        // New Chat
+        function newChat() {
+            conversationStarted = false;
+            conversationHistory = [];
+            document.getElementById('messagesArea').innerHTML = '';
+            document.getElementById('messagesArea').classList.remove('active');
+            document.getElementById('welcomeScreen').classList.remove('hidden');
+            document.getElementById('chatContainer').classList.remove('has-messages');
+            document.getElementById('chatInput').value = '';
+            
+            // Message de bienvenue
+            addBotMessage("👋 Bonjour ! Je suis votre assistant IA pour générer des datasets biaisés. Décrivez-moi ce que vous voulez créer.<br><br> <strong>Exemples :</strong><br>• \"Génère 1000 données étudiants\"<br>• \"Dataset patients avec biais de genre\"<br>• \"500 données finance avec biais socio-économique\"");
+        }
+
+        // Quick Prompts
+        function sendQuickPrompt(prompt) {
+            document.getElementById('chatInput').value = `Génère 1000 données ${prompt}`;
+            sendMessage();
+        }
+
+        // Send Message - Version compacte (une seule réponse)
+        async function sendMessage() {
+            const input = document.getElementById('chatInput');
+            const message = input.value.trim();
+            
+            if (!message) return;
+
+            // First message - animate UI
+            if (!conversationStarted) {
+                conversationStarted = true;
+                document.getElementById('welcomeScreen').classList.add('hidden');
+                document.getElementById('messagesArea').classList.add('active');
+                document.getElementById('chatContainer').classList.add('has-messages');
+            }
+
+            addUserMessage(message);
+            input.value = '';
+
+            const sendBtn = document.getElementById('sendBtn');
+            sendBtn.disabled = true;
+
+            showTypingIndicator();
+
+            try {
+                // Parse prompt
+                const parseResponse = await fetch(`${API_URL}/parse-prompt`, {
+                    method: 'POST',
+                    headers: { 
+                        'Content-Type': 'application/json',
+                        'Accept': 'application/json'
+                    },
+                    body: JSON.stringify({ prompt: message })
+                });
+
+                if (!parseResponse.ok) {
+                    throw new Error(`HTTP error! status: ${parseResponse.status}`);
+                }
+
+                const parseData = await parseResponse.json();
+
+                // Gérer les conversations normales
+                if (parseData.success && parseData.parsed.is_conversational) {
+                    hideTypingIndicator();
+                    const botResponse = parseData.parsed.bot_response || 
+                        "👋 Bonjour ! Comment puis-je vous aider aujourd'hui ?";
+                    addBotMessage(botResponse);
+                    sendBtn.disabled = false;
+                    return;
+                }
+
+                if (!parseData.success || !parseData.parsed.category) {
+                    hideTypingIndicator();
+                    addBotMessage(" Je n'ai pas compris la catégorie demandée.<br><br> <strong>Exemples :</strong><br>• \"Génère 500 données étudiants\"<br>• \"Dataset patients avec biais\"<br>• \"1000 données finance\"<br>• \"Données agriculture avec biais géographique\"");
+                    sendBtn.disabled = false;
+                    return;
+                }
+
+                const parsed = parseData.parsed;
+                
+                // Get available biases
+                const biasesResponse = await fetch(`${API_URL}/biases/${parsed.category}`, {
+                    headers: {
+                        'Accept': 'application/json'
+                    }
+                });
+
+                if (!biasesResponse.ok) {
+                    throw new Error(`HTTP error! status: ${biasesResponse.status}`);
+                }
+
+                const biasesData = await biasesResponse.json();
+
+                // Sélectionner un biais si pas spécifié
+                let biasType = parsed.bias_type;
+                let biasName = "Aucun";
+                let biasDescription = "";
+                
+                if (biasesData.success && biasesData.available_biases) {
+                    const availableBiases = biasesData.available_biases.filter(b => b.available);
+                    
+                    if (availableBiases.length > 0 && !biasType) {
+                        const suggested = availableBiases[0];
+                        biasType = suggested.type;
+                        biasName = suggested.name;
+                        biasDescription = suggested.description;
+                    } else if (biasType) {
+                        const biasObj = availableBiases.find(b => b.type === biasType);
+                        if (biasObj) {
+                            biasName = biasObj.name;
+                            biasDescription = biasObj.description;
+                        }
+                    }
+                }
+
+                // Generate dataset
+                const genResponse = await fetch(`${API_URL}/generate`, {
+                    method: 'POST',
+                    headers: { 
+                        'Content-Type': 'application/json',
+                        'Accept': 'application/json'
+                    },
+                    body: JSON.stringify({
+                        category: parsed.category,
+                        n_samples: parsed.n_samples,
+                        bias_type: biasType,
+                        bias_intensity: parsed.bias_intensity || 0.5,
+                        bias_params: {}
+                    })
+                });
+
+                if (!genResponse.ok) {
+                    throw new Error(`HTTP error! status: ${genResponse.status}`);
+                }
+
+                const genData = await genResponse.json();
+                hideTypingIndicator();
+
+                if (genData.success) {
+                    // Construire une réponse compacte en un seul message
+                    const responseHTML = buildCompactResponse(parsed, biasName, biasDescription, genData);
+                    addBotMessage(responseHTML);
+                    
+                    // Afficher l'aperçu si disponible
+                    if (genData.preview && genData.preview.length > 0) {
+                        setTimeout(() => {
+                            addPreviewTable(genData.preview);
+                        }, 100);
+                    }
+                } else {
+                    addBotMessage(` <strong>Erreur lors de la génération</strong><br><br>${genData.error || 'Erreur inconnue'}`);
+                }
+
+            } catch (error) {
+                hideTypingIndicator();
+                console.error(' Erreur complète:', error);
+                addBotMessage(` <strong>Erreur de connexion</strong><br><br>Vérifiez que :<br>• Le backend Flask tourne sur ${API_URL}<br>• Le serveur est accessible<br>• CORS est activé`);
+            } finally {
+                sendBtn.disabled = false;
+            }
+        }
+
+        // Construire une réponse compacte (tout en un)
+        function buildCompactResponse(parsed, biasName, biasDescription, genData) {
+            const getFilename = (path) => {
+                if (!path) return '';
+                return path.split('/').pop().split('\\').pop();
+            };
+            
+            let html = `
+                <div class="compact-response">
+                    <div class="section">
+                         <strong>Dataset généré avec succès !</strong>
+                    </div>
+                    
+                    <div class="details">
+                        
+                        <div><span class="highlight">Échantillons :</span> ${parsed.n_samples} lignes</div>
+                        <div><span class="highlight">Biais appliqué :</span> ${biasName}</div>
+                        ${biasDescription ? `<div><span class="highlight">Description :</span> ${biasDescription}</div>` : ''}
+                        ${genData.generation_time ? `<div><span class="highlight">Temps :</span> ${genData.generation_time}s</div>` : ''}
+                    </div>
+                    
+                    <div class="download-section">
+                        <strong> Téléchargements :</strong><br>
+            `;
+            
+            // Ajouter les liens de téléchargement
+            if (genData.biased_dataset_path) {
+                html += `<a href="${API_URL}/download/${getFilename(genData.biased_dataset_path)}" class="download-btn-compact">Dataset Biaisé (CSV)</a>`;
+            }
+            
+            if (genData.original_dataset_path) {
+                html += `<a href="${API_URL}/download/${getFilename(genData.original_dataset_path)}" class="download-btn-compact">Dataset Original (CSV)</a>`;
+            }
+            
+            if (genData.visualization_path) {
+                html += `<a href="${API_URL}/download/${getFilename(genData.visualization_path)}" class="download-btn-compact">Visualisations (PNG)</a>`;
+            }
+            
+            if (genData.report_path) {
+                html += `<a href="${API_URL}/download/${getFilename(genData.report_path)}" class="download-btn-compact">Rapport (JSON)</a>`;
+            }
+            
+            html += `
+                    </div>
+                </div>
+            `;
+            
+            return html;
+        }
+
+        // Add User Message
+        function addUserMessage(text) {
+            const messagesArea = document.getElementById('messagesArea');
+            const messageDiv = document.createElement('div');
+            messageDiv.className = 'message user';
+            messageDiv.innerHTML = `
+                <div class="message-content">${escapeHtml(text)}</div>
+            `;
+            messagesArea.appendChild(messageDiv);
+            messagesArea.scrollTop = messagesArea.scrollHeight;
+        }
+
+        // Add Bot Message
+        function addBotMessage(html) {
+            const messagesArea = document.getElementById('messagesArea');
+            const messageDiv = document.createElement('div');
+            messageDiv.className = 'message bot';
+            messageDiv.innerHTML = `
+                <div class="message-avatar">🤖</div>
+                <div class="message-content">${html}</div>
+            `;
+            messagesArea.appendChild(messageDiv);
+            messagesArea.scrollTop = messagesArea.scrollHeight;
+        }
+
+        // Typing Indicator
+        function showTypingIndicator() {
+            const messagesArea = document.getElementById('messagesArea');
+            const indicator = document.createElement('div');
+            indicator.className = 'message bot';
+            indicator.id = 'typingIndicator';
+            indicator.innerHTML = `
+                <div class="message-avatar">🤖</div>
+                <div class="typing-indicator active">
+                    <div class="typing-dot"></div>
+                    <div class="typing-dot"></div>
+                    <div class="typing-dot"></div>
+                </div>
+            `;
+            messagesArea.appendChild(indicator);
+            messagesArea.scrollTop = messagesArea.scrollHeight;
+        }
+
+        function hideTypingIndicator() {
+            const indicator = document.getElementById('typingIndicator');
+            if (indicator) indicator.remove();
+        }
+
+        // Add Preview Table
+        function addPreviewTable(preview) {
+            if (!preview || preview.length === 0) return;
+            
+            const messagesArea = document.getElementById('messagesArea');
+            const messageDiv = document.createElement('div');
+            messageDiv.className = 'message bot';
+            
+            const headers = Object.keys(preview[0]);
+            const previewData = preview.slice(0, 5);
+            
+            let tableHTML = `
+                <div class="message-avatar">🤖</div>
+                <div class="message-content">
+                    <strong> Aperçu des données (5 premières lignes)</strong>
+                    <div style="overflow-x: auto; margin-top: 1rem; border-radius: 8px; border: 1px solid var(--border-color);">
+                        <table style="width: 100%; border-collapse: collapse; font-size: 0.875rem;">
+                            <thead>
+                                <tr style="background: var(--accent-purple); color: white;">
+                                    ${headers.map(h => `<th style="padding: 0.75rem; text-align: left; font-weight: 600;">${h}</th>`).join('')}
+                                </tr>
+                            </thead>
+                            <tbody>
+                                ${previewData.map((row, idx) => `
+                                    <tr style="background: ${idx % 2 === 0 ? 'var(--bg-chat)' : 'var(--bg-secondary)'}; border-bottom: 1px solid var(--border-color);">
+                                        ${headers.map(h => `<td style="padding: 0.75rem;">${escapeHtml(String(row[h]))}</td>`).join('')}
+                                    </tr>
+                                `).join('')}
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            `;
+            
+            messageDiv.innerHTML = tableHTML;
+            messagesArea.appendChild(messageDiv);
+            messagesArea.scrollTop = messagesArea.scrollHeight;
+        }
+
+        // Escape HTML
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+
+        // Test connection on load
+        async function testConnection() {
+            try {
+                const response = await fetch(`${API_URL}/health`);
+                const data = await response.json();
+                console.log(' Backend connecté:', data);
+            } catch (error) {
+                console.error(' Backend non accessible:', error);
+                console.warn(' Démarrez le backend avec: python api.py');
+            }
+        }
+
+        // Initialize
+        testConnection();
+        
+        // Ajouter un message de bienvenue initial
+        setTimeout(() => {
+            if (!conversationStarted) {
+                addBotMessage("👋 Bonjour ! Je suis votre assistant IA pour générer des datasets biaisés. Décrivez-moi ce que vous voulez créer.<br><br> <strong>Exemples :</strong><br>• \"Génère 1000 données étudiants\"<br>• \"Dataset patients avec biais de genre\"<br>• \"500 données finance avec biais socio-économique\"");
+            }
+        }, 500);
+    </script>
+</body>
+</html>

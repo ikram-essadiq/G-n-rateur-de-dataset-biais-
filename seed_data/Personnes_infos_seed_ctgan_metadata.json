@@ -1,0 +1,33 @@
+{
+  "training_file": "Personnes_infos_seed.csv",
+  "n_samples": 3000,
+  "n_columns": 9,
+  "columns": [
+    "nom",
+    "prenom",
+    "genre",
+    "Date_de_naissance",
+    "Lieu_de_naissance",
+    "nationalite",
+    "ville",
+    "pays",
+    "age"
+  ],
+  "discrete_columns": [
+    "nom",
+    "prenom",
+    "genre",
+    "Date_de_naissance",
+    "Lieu_de_naissance",
+    "nationalite",
+    "ville",
+    "pays"
+  ],
+  "continuous_columns": [
+    "age"
+  ],
+  "epochs": 300,
+  "batch_size": 500,
+  "training_duration": 8920.899568,
+  "trained_at": "2025-12-07T14:18:26.364061"
+}

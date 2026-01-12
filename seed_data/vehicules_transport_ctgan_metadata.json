@@ -1,0 +1,29 @@
+{
+  "training_file": "vehicules_transport.csv",
+  "n_samples": 1000,
+  "n_columns": 7,
+  "columns": [
+    "id",
+    "type_vehicule",
+    "marque_voiture",
+    "modele",
+    "annee_fabrication",
+    "prix",
+    "kilometrage"
+  ],
+  "discrete_columns": [
+    "id",
+    "type_vehicule",
+    "marque_voiture",
+    "modele"
+  ],
+  "continuous_columns": [
+    "annee_fabrication",
+    "prix",
+    "kilometrage"
+  ],
+  "epochs": 300,
+  "batch_size": 500,
+  "training_duration": 640.954087,
+  "trained_at": "2025-12-15T00:36:51.670714"
+}

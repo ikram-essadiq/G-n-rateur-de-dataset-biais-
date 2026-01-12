@@ -1,0 +1,851 @@
+id,type_logement,surface,pieces,chambres,salles_bain,chauffage,standing,classe_energie,prix,parking,jardin
+BIEN_000437,Terrain,4584,3,1,1,Aucun,Haut standing,E,3267447,Non,Oui
+BIEN_000038,Appartement,175,1,4,4,Fioul,Haut standing,D,632937,Oui,Non
+BIEN_000180,Villa,172,2,3,3,Fioul,Haut standing,B,2932618,Oui,Non
+BIEN_000703,Loft,399,8,5,2,Électrique,Luxe,A,3731980,Oui,Oui
+BIEN_000679,Villa,109,1,5,5,Aucun,Haut standing,G,4847677,Oui,Non
+BIEN_000306,Appartement,283,7,4,1,Autre,Haut standing,F,2899472,Non,Non
+BIEN_000562,Duplex,3706,7,1,1,Gaz,Moyen,E,2345999,Non,Non
+BIEN_000052,Appartement,97,3,1,1,Climatisation réversible,Haut standing,G,2984518,Non,Non
+BIEN_000105,Appartement,225,4,2,2,Autre,Standard,E,4589170,Oui,Non
+BIEN_000307,Appartement,120,4,2,1,Pompe à chaleur,Standard,E,4383515,Oui,Non
+BIEN_000609,Villa,265,5,3,4,Chauffage central,Moyen,E,3326428,Non,Oui
+BIEN_000785,Penthouse,195,8,2,4,Pompe à chaleur,Haut standing,E,1831172,Oui,Non
+BIEN_000716,Appartement,157,7,0,3,Gaz,Standard,A,263864,Non,Non
+BIEN_000308,Appartement,128,3,0,1,Gaz,Haut standing,G,1446337,Non,Non
+BIEN_000247,Villa,138,4,3,3,Pompe à chaleur,Moyen,F,2092000,Non,Non
+BIEN_000582,Appartement,196,3,2,2,Chauffage central,Standard,G,3497257,Oui,Non
+BIEN_000483,Appartement,106,3,0,1,Gaz,Moyen,G,3013468,Non,Non
+BIEN_000513,Appartement,143,3,3,3,Électrique,Moyen,D,7198778,Oui,Non
+BIEN_000848,Maison,91,4,3,1,Électrique,Moyen,D,5124238,Oui,Oui
+BIEN_000382,Villa,234,7,1,1,Électrique,Standard,G,3198794,Oui,Non
+BIEN_000104,Villa,292,7,2,1,Chauffage central,Standard,A,5401658,Oui,Non
+BIEN_000045,Maison,263,8,0,1,Électrique,Moyen,A,2653102,Oui,Non
+BIEN_000131,Villa,220,6,2,1,Électrique,Haut standing,D,3642988,Non,Non
+BIEN_000134,Appartement,274,3,0,3,Gaz,Haut standing,E,3656386,Non,Non
+BIEN_000176,Villa,196,7,2,3,Électrique,Haut standing,E,3437537,Non,Non
+BIEN_000615,Duplex,411,7,2,1,Électrique,Haut standing,E,141521,Non,Oui
+BIEN_000960,Appartement,6233,2,1,1,Climatisation réversible,Moyen,C,4646269,Non,Oui
+BIEN_000767,Villa,258,3,2,1,Électrique,Luxe,E,4125641,Oui,Oui
+BIEN_000650,Duplex,252,6,5,4,Chauffage central,Moyen,G,3119005,Oui,Non
+BIEN_000341,Villa,119,3,1,3,Fioul,Luxe,B,2007128,Non,Non
+BIEN_000493,Loft,329,1,2,1,Autre,Haut standing,B,7030917,Oui,Non
+BIEN_000826,Appartement,57,4,3,3,Chauffage central,Standard,G,4261690,Non,Non
+BIEN_000811,Penthouse,235,4,0,3,Climatisation réversible,Haut standing,E,3964212,Oui,Non
+BIEN_000365,Maison,202,5,1,2,Électrique,Luxe,D,2132331,Oui,Oui
+BIEN_000028,Appartement,396,3,5,3,Aucun,Luxe,B,4101570,Non,Oui
+BIEN_000846,Appartement,73,4,0,1,Gaz,Haut standing,E,5975349,Non,Non
+BIEN_000943,Appartement,126,4,2,5,Gaz,Standard,E,3330714,Non,Non
+BIEN_000365,Appartement,64,5,0,1,Autre,Haut standing,B,1346718,Non,Non
+BIEN_000852,Appartement,70,4,2,1,Climatisation réversible,Haut standing,G,2451791,Non,Non
+BIEN_000996,Maison,84,7,3,3,Pompe à chaleur,Haut standing,A,2054031,Non,Non
+BIEN_000481,Appartement,131,2,0,1,Pompe à chaleur,Moyen,B,3173658,Non,Non
+BIEN_000302,Villa,136,4,3,1,Pompe à chaleur,Moyen,F,4533056,Non,Non
+BIEN_000969,Appartement,241,7,3,1,Fioul,Haut standing,G,3830484,Oui,Non
+BIEN_000183,Villa,150,7,4,2,Électrique,Luxe,A,3067866,Oui,Oui
+BIEN_000964,Villa,129,7,4,3,Aucun,Standard,G,4541832,Non,Non
+BIEN_000772,Villa,142,1,0,1,Pompe à chaleur,Standard,G,4263959,Non,Non
+BIEN_000440,Appartement,142,1,1,1,Pompe à chaleur,Standard,E,4133934,Non,Non
+BIEN_000764,Studio,202,4,1,1,Électrique,Haut standing,D,3617144,Non,Oui
+BIEN_000857,Appartement,79,1,3,3,Électrique,Haut standing,D,2195124,Oui,Oui
+BIEN_000427,Appartement,146,1,1,1,Chauffage central,Luxe,B,1853173,Non,Non
+BIEN_000701,Maison,465,7,5,1,Pompe à chaleur,Standard,E,2537694,Oui,Oui
+BIEN_000618,Appartement,251,4,1,2,Gaz,Standard,C,2495133,Non,Oui
+BIEN_000316,Villa,129,7,1,1,Gaz,Haut standing,D,6013442,Non,Non
+BIEN_000186,Maison,121,5,3,2,Gaz,Haut standing,G,3335995,Non,Non
+BIEN_000665,Studio,48,4,0,2,Gaz,Standard,D,4611469,Oui,Non
+BIEN_000216,Maison,55,3,1,3,Climatisation réversible,Haut standing,G,3517175,Oui,Non
+BIEN_000871,Appartement,303,1,3,2,Gaz,Standard,F,242028,Oui,Non
+BIEN_000991,Appartement,55,1,1,1,Pompe à chaleur,Standard,G,5062595,Non,Non
+BIEN_000728,Maison,6365,1,3,5,Électrique,Haut standing,F,3749999,Oui,Non
+BIEN_000581,Maison,205,0,1,3,Gaz,Haut standing,B,2453069,Oui,Oui
+BIEN_000658,Maison,235,3,2,4,Fioul,Luxe,F,4636943,Non,Oui
+BIEN_000855,Villa,224,5,2,3,Chauffage central,Standard,E,3631721,Oui,Oui
+BIEN_000540,Villa,163,4,5,2,Électrique,Moyen,D,1835792,Oui,Oui
+BIEN_000558,Appartement,-44,7,4,1,Électrique,Haut standing,F,2528926,Non,Non
+BIEN_000451,Maison,129,3,2,2,Gaz,Standard,D,347157,Oui,Non
+BIEN_000272,Appartement,201,4,3,1,Gaz,Haut standing,E,1838887,Oui,Non
+BIEN_000008,Appartement,417,1,0,1,Fioul,Moyen,B,4764606,Oui,Non
+BIEN_000861,Duplex,171,8,2,3,Électrique,Moyen,C,3556787,Oui,Oui
+BIEN_000980,Maison,275,5,3,1,Électrique,Haut standing,B,5957341,Non,Non
+BIEN_000980,Villa,204,4,0,1,Gaz,Standard,C,4372602,Oui,Oui
+BIEN_000453,Penthouse,154,5,1,4,Pompe à chaleur,Standard,F,3608257,Oui,Non
+BIEN_000027,Villa,110,5,4,0,Fioul,Luxe,E,5869662,Oui,Oui
+BIEN_000577,Appartement,132,1,5,5,Fioul,Haut standing,G,518337,Oui,Non
+BIEN_000019,Appartement,245,8,2,1,Chauffage central,Standard,C,4603455,Non,Non
+BIEN_000436,Appartement,188,5,2,3,Chauffage central,Luxe,F,4509281,Oui,Non
+BIEN_000325,Maison,233,3,2,3,Gaz,Luxe,B,2288723,Oui,Non
+BIEN_000095,Penthouse,210,6,0,3,Chauffage central,Standard,F,4699794,Non,Non
+BIEN_000363,Maison,158,3,2,1,Chauffage central,Haut standing,G,2653971,Non,Oui
+BIEN_000611,Loft,96,1,4,1,Pompe à chaleur,Haut standing,C,1845295,Oui,Non
+BIEN_000043,Appartement,228,4,3,1,Électrique,Haut standing,G,3551042,Oui,Non
+BIEN_000639,Villa,188,7,5,3,Gaz,Haut standing,D,2737933,Oui,Oui
+BIEN_000793,Maison,364,8,5,4,Électrique,Haut standing,D,3204241,Oui,Oui
+BIEN_000849,Studio,40,3,1,1,Gaz,Haut standing,B,3846225,Non,Non
+BIEN_000440,Maison,203,7,5,0,Aucun,Moyen,F,1432024,Oui,Oui
+BIEN_000033,Villa,37,7,4,2,Fioul,Haut standing,E,3238726,Non,Oui
+BIEN_000852,Appartement,156,5,5,3,Chauffage central,Haut standing,G,933933,Oui,Oui
+BIEN_000841,Loft,289,1,2,1,Pompe à chaleur,Haut standing,C,2857922,Non,Non
+BIEN_000622,Appartement,170,4,2,1,Pompe à chaleur,Standard,B,3992466,Non,Non
+BIEN_000865,Appartement,110,5,2,1,Gaz,Moyen,Non renseigné,4586501,Oui,Non
+BIEN_000368,Appartement,165,3,1,1,Fioul,Moyen,G,1705143,Non,Non
+BIEN_000140,Appartement,449,5,1,0,Électrique,Standard,E,3285850,Oui,Non
+BIEN_000142,Maison,157,1,0,3,Gaz,Haut standing,C,631820,Non,Non
+BIEN_000451,Villa,135,4,3,1,Fioul,Haut standing,B,1367245,Non,Non
+BIEN_000283,Maison,236,6,4,2,Pompe à chaleur,Standard,F,3078170,Oui,Oui
+BIEN_000714,Appartement,230,3,4,1,Pompe à chaleur,Haut standing,C,3765744,Oui,Non
+BIEN_000247,Maison,213,4,5,2,Gaz,Moyen,G,4058699,Oui,Non
+BIEN_000224,Appartement,225,5,2,0,Électrique,Haut standing,B,4215268,Oui,Non
+BIEN_000400,Appartement,169,1,0,1,Fioul,Standard,F,5322897,Oui,Non
+BIEN_000242,Villa,50,5,3,1,Gaz,Haut standing,D,4463539,Non,Non
+BIEN_000252,Appartement,135,3,4,1,Climatisation réversible,Haut standing,G,5790380,Oui,Non
+BIEN_000227,Maison,273,2,3,4,Chauffage central,Standard,C,4835734,Oui,Oui
+BIEN_000608,Villa,108,7,4,1,Pompe à chaleur,Moyen,A,2415099,Non,Oui
+BIEN_000302,Maison,238,7,5,3,Électrique,Haut standing,B,1160665,Oui,Non
+BIEN_000417,Villa,256,3,4,2,Électrique,Moyen,G,2176977,Non,Oui
+BIEN_000171,Appartement,296,5,1,2,Chauffage central,Standard,F,2050452,Oui,Oui
+BIEN_000916,Villa,69,4,2,0,Chauffage central,Standard,E,4472053,Oui,Oui
+BIEN_000824,Appartement,52,7,1,3,Gaz,Luxe,G,5463732,Oui,Non
+BIEN_000240,Terrain,223,6,3,2,Chauffage central,Haut standing,B,4719502,Oui,Oui
+BIEN_000344,Appartement,117,2,2,2,Électrique,Luxe,C,-693964,Oui,Oui
+BIEN_000070,Villa,134,3,3,3,Pompe à chaleur,Luxe,E,5863244,Non,Non
+BIEN_000678,Appartement,256,5,0,0,Aucun,Haut standing,B,2261407,Oui,Non
+BIEN_000475,Terrain,252,8,5,1,Chauffage central,Luxe,G,4153007,Non,Oui
+BIEN_000638,Appartement,241,4,5,5,Pompe à chaleur,Haut standing,F,7484427,Oui,Oui
+BIEN_000009,Appartement,190,6,1,1,Fioul,Haut standing,E,5041186,Non,Oui
+BIEN_000789,Studio,242,0,3,1,Climatisation réversible,Standard,A,2409037,Oui,Oui
+BIEN_000112,Appartement,234,4,2,3,Fioul,Haut standing,B,858992,Non,Oui
+BIEN_000413,Duplex,469,7,2,1,Gaz,Standard,C,4997753,Oui,Oui
+BIEN_000535,Villa,111,1,0,1,Climatisation réversible,Moyen,G,6748821,Non,Non
+BIEN_000860,Villa,223,2,3,3,Pompe à chaleur,Moyen,G,869429,Oui,Oui
+BIEN_000388,Appartement,122,5,2,1,Électrique,Moyen,D,2074259,Non,Oui
+BIEN_000279,Appartement,169,8,3,1,Pompe à chaleur,Standard,G,1586088,Oui,Non
+BIEN_000353,Appartement,115,6,0,1,Aucun,Moyen,G,2675873,Non,Non
+BIEN_000022,Maison,116,5,3,1,Fioul,Haut standing,C,1563395,Oui,Oui
+BIEN_000260,Villa,220,5,4,1,Fioul,Standard,B,6098257,Non,Non
+BIEN_000018,Villa,220,5,2,1,Pompe à chaleur,Standard,F,4544078,Non,Non
+BIEN_000176,Appartement,59,3,1,1,Gaz,Haut standing,C,1501643,Non,Non
+BIEN_000022,Villa,89,4,3,3,Électrique,Luxe,D,2351418,Oui,Non
+BIEN_000698,Appartement,240,8,0,2,Gaz,Standard,F,6146715,Oui,Non
+BIEN_000758,Duplex,139,7,2,1,Chauffage central,Standard,F,2122763,Non,Oui
+BIEN_000230,Villa,199,4,3,1,Électrique,Haut standing,C,3565037,Non,Oui
+BIEN_000786,Appartement,253,4,5,1,Climatisation réversible,Moyen,D,1920659,Oui,Non
+BIEN_000374,Studio,115,1,0,1,Climatisation réversible,Haut standing,B,6435189,Non,Non
+BIEN_000694,Terrain,254,6,5,2,Électrique,Luxe,C,3565673,Oui,Oui
+BIEN_000373,Maison,66,4,3,3,Gaz,Standard,B,1246791,Non,Non
+BIEN_000963,Appartement,139,5,2,0,Chauffage central,Moyen,E,2017251,Non,Non
+BIEN_000447,Terrain,2994,4,4,3,Pompe à chaleur,Haut standing,A,3195480,Oui,Oui
+BIEN_000089,Villa,260,8,3,3,Chauffage central,Haut standing,D,3248078,Oui,Oui
+BIEN_000543,Appartement,182,7,0,1,Fioul,Standard,C,2688919,Non,Non
+BIEN_000652,Appartement,139,8,2,1,Électrique,Moyen,B,2118674,Non,Non
+BIEN_000199,Loft,175,4,0,3,Électrique,Moyen,G,3651920,Non,Non
+BIEN_000270,Appartement,115,8,1,1,Autre,Haut standing,Non renseigné,4394351,Non,Oui
+BIEN_000996,Appartement,114,0,1,4,Pompe à chaleur,Haut standing,B,972640,Oui,Non
+BIEN_000077,Appartement,241,8,1,1,Fioul,Haut standing,G,3367879,Oui,Oui
+BIEN_000618,Appartement,167,8,2,4,Gaz,Haut standing,E,3513208,Non,Non
+BIEN_000258,Appartement,266,7,2,4,Pompe à chaleur,Moyen,E,3694930,Non,Oui
+BIEN_000066,Villa,202,8,1,4,Fioul,Moyen,G,2758585,Oui,Oui
+BIEN_000405,Appartement,221,3,1,3,Gaz,Standard,E,2801404,Non,Non
+BIEN_000710,Villa,191,3,0,1,Gaz,Luxe,B,2574379,Non,Non
+BIEN_000762,Appartement,229,6,1,1,Chauffage central,Haut standing,D,3669527,Non,Oui
+BIEN_000773,Terrain,429,4,3,1,Gaz,Moyen,E,2780437,Oui,Non
+BIEN_000868,Appartement,159,5,0,1,Pompe à chaleur,Luxe,G,4114360,Oui,Non
+BIEN_000547,Appartement,122,3,1,4,Aucun,Moyen,E,1755410,Non,Non
+BIEN_000379,Appartement,194,3,2,1,Électrique,Standard,A,3395683,Oui,Non
+BIEN_000612,Maison,176,4,2,4,Électrique,Haut standing,B,417091,Oui,Non
+BIEN_000437,Appartement,148,3,3,1,Pompe à chaleur,Moyen,G,2925865,Oui,Non
+BIEN_000907,Appartement,159,1,0,1,Électrique,Haut standing,E,2724217,Non,Non
+BIEN_000217,Villa,133,6,0,1,Pompe à chaleur,Haut standing,F,5072463,Oui,Non
+BIEN_000056,Duplex,150,8,3,3,Électrique,Haut standing,E,2971859,Oui,Oui
+BIEN_000794,Appartement,180,3,0,1,Chauffage central,Haut standing,C,4005511,Non,Non
+BIEN_000102,Villa,115,4,1,2,Chauffage central,Moyen,Non renseigné,4457790,Non,Oui
+BIEN_000803,Villa,232,3,0,1,Gaz,Haut standing,A,3877418,Non,Oui
+BIEN_000276,Duplex,131,2,3,1,Fioul,Haut standing,B,2343340,Oui,Non
+BIEN_000510,Maison,175,3,2,1,Électrique,Standard,C,4815941,Oui,Non
+BIEN_000417,Maison,228,7,3,1,Chauffage central,Moyen,A,2744400,Oui,Oui
+BIEN_000855,Studio,232,6,3,1,Gaz,Haut standing,D,4649377,Oui,Non
+BIEN_000549,Villa,347,4,1,4,Électrique,Standard,C,5321599,Oui,Non
+BIEN_000362,Terrain,73,3,0,1,Fioul,Haut standing,F,984097,Non,Non
+BIEN_000860,Appartement,76,4,1,1,Pompe à chaleur,Moyen,C,3344137,Non,Oui
+BIEN_000014,Studio,133,6,3,1,Climatisation réversible,Moyen,C,2731525,Non,Non
+BIEN_000446,Appartement,172,1,2,1,Électrique,Moyen,E,5323707,Oui,Non
+BIEN_000543,Villa,236,7,3,1,Pompe à chaleur,Haut standing,E,5541739,Oui,Non
+BIEN_000167,Terrain,20,6,2,1,Pompe à chaleur,Haut standing,E,2092568,Oui,Non
+BIEN_000321,Villa,352,6,3,3,Fioul,Standard,E,4125426,Non,Non
+BIEN_000704,Appartement,-3,3,0,1,Électrique,Haut standing,E,1018484,Non,Non
+BIEN_000491,Appartement,286,5,1,1,Chauffage central,Standard,E,4956358,Oui,Non
+BIEN_000418,Studio,12,1,0,1,Électrique,Haut standing,G,270940,Non,Non
+BIEN_000904,Appartement,508,1,5,3,Fioul,Haut standing,E,6464553,Oui,Non
+BIEN_000927,Appartement,165,6,5,2,Électrique,Moyen,C,2141207,Oui,Oui
+BIEN_000465,Studio,132,2,2,1,Climatisation réversible,Haut standing,Non renseigné,1462909,Oui,Oui
+BIEN_000130,Appartement,199,1,4,2,Pompe à chaleur,Moyen,G,2163283,Non,Oui
+BIEN_000166,Appartement,218,4,2,1,Pompe à chaleur,Standard,G,5953834,Oui,Oui
+BIEN_000912,Appartement,60,4,5,3,Pompe à chaleur,Standard,B,175585,Oui,Non
+BIEN_000081,Appartement,208,4,1,3,Aucun,Haut standing,G,731450,Oui,Non
+BIEN_000036,Appartement,150,8,2,1,Gaz,Standard,G,531404,Non,Non
+BIEN_000843,Duplex,270,5,5,4,Pompe à chaleur,Haut standing,G,979750,Oui,Non
+BIEN_000746,Maison,35,1,3,3,Pompe à chaleur,Moyen,B,2458773,Non,Non
+BIEN_000126,Studio,196,4,3,3,Chauffage central,Standard,E,600651,Oui,Oui
+BIEN_000980,Maison,415,7,3,1,Chauffage central,Luxe,G,4747392,Oui,Oui
+BIEN_000993,Appartement,331,5,4,1,Électrique,Haut standing,F,4599397,Oui,Non
+BIEN_000657,Appartement,192,5,3,1,Gaz,Haut standing,E,420461,Non,Non
+BIEN_000292,Appartement,189,1,3,1,Électrique,Haut standing,C,1206259,Oui,Non
+BIEN_000787,Maison,177,0,0,4,Pompe à chaleur,Standard,C,5111568,Non,Oui
+BIEN_000134,Duplex,251,2,0,2,Pompe à chaleur,Luxe,B,2997835,Oui,Oui
+BIEN_000830,Villa,137,5,4,0,Électrique,Haut standing,D,4672722,Non,Non
+BIEN_000315,Appartement,204,7,2,1,Pompe à chaleur,Haut standing,C,6470306,Oui,Non
+BIEN_000420,Duplex,197,4,3,3,Pompe à chaleur,Haut standing,G,3244981,Non,Non
+BIEN_000937,Appartement,209,4,0,1,Gaz,Luxe,G,3070850,Oui,Non
+BIEN_000660,Appartement,245,4,4,1,Gaz,Standard,B,3777676,Oui,Non
+BIEN_000755,Appartement,145,3,2,1,Gaz,Standard,G,3463164,Oui,Non
+BIEN_000066,Villa,544,4,4,1,Chauffage central,Haut standing,B,4207073,Oui,Non
+BIEN_000453,Appartement,68,2,0,2,Pompe à chaleur,Moyen,E,839430,Non,Oui
+BIEN_000876,Maison,230,1,1,1,Pompe à chaleur,Standard,F,2332567,Oui,Non
+BIEN_000989,Appartement,102,4,1,0,Chauffage central,Haut standing,E,2398907,Oui,Non
+BIEN_000239,Appartement,111,6,4,4,Gaz,Standard,F,1439885,Non,Non
+BIEN_000278,Duplex,34,7,3,3,Gaz,Haut standing,C,5464418,Non,Oui
+BIEN_000504,Appartement,175,2,3,3,Électrique,Moyen,E,4504610,Oui,Oui
+BIEN_000820,Appartement,243,3,1,1,Gaz,Haut standing,Non renseigné,1166855,Non,Non
+BIEN_000227,Studio,130,8,3,1,Autre,Haut standing,B,2265984,Non,Non
+BIEN_000986,Terrain,168,7,2,0,Chauffage central,Standard,C,1078907,Non,Non
+BIEN_000302,Appartement,126,4,2,2,Électrique,Haut standing,B,2770403,Non,Non
+BIEN_000197,Appartement,274,3,5,1,Pompe à chaleur,Haut standing,G,3582547,Oui,Non
+BIEN_000372,Appartement,121,3,1,1,Gaz,Haut standing,B,3052297,Non,Non
+BIEN_000911,Villa,96,6,4,2,Électrique,Moyen,G,3194080,Oui,Non
+BIEN_000372,Appartement,198,1,3,4,Chauffage central,Moyen,B,4292513,Oui,Oui
+BIEN_000087,Appartement,143,4,2,1,Électrique,Standard,G,5512023,Oui,Non
+BIEN_000974,Appartement,448,4,0,2,Chauffage central,Standard,F,3228713,Oui,Oui
+BIEN_000839,Maison,75,8,1,4,Pompe à chaleur,Moyen,F,1061636,Non,Non
+BIEN_000087,Appartement,222,6,5,2,Électrique,Haut standing,E,3233069,Oui,Oui
+BIEN_000737,Villa,152,5,4,4,Électrique,Haut standing,B,3194460,Oui,Non
+BIEN_000813,Loft,145,5,2,1,Autre,Moyen,F,3079464,Non,Non
+BIEN_000893,Appartement,183,5,5,5,Pompe à chaleur,Standard,E,6035823,Oui,Oui
+BIEN_000175,Villa,243,5,4,0,Chauffage central,Standard,C,3628758,Non,Non
+BIEN_000570,Villa,158,4,4,2,Climatisation réversible,Moyen,B,1182243,Oui,Non
+BIEN_000686,Loft,153,6,0,1,Gaz,Moyen,F,2129273,Non,Non
+BIEN_000008,Appartement,186,3,5,3,Électrique,Haut standing,G,4085970,Oui,Oui
+BIEN_000910,Villa,272,0,4,3,Aucun,Moyen,C,2453193,Non,Oui
+BIEN_000783,Appartement,249,6,0,2,Électrique,Standard,B,6109915,Oui,Non
+BIEN_000237,Terrain,209,7,4,4,Fioul,Moyen,D,4346305,Oui,Non
+BIEN_000831,Penthouse,133,6,4,2,Chauffage central,Moyen,A,5784157,Oui,Non
+BIEN_000270,Appartement,170,8,3,2,Chauffage central,Standard,A,3749868,Oui,Non
+BIEN_000713,Appartement,101,4,0,1,Gaz,Standard,B,4034294,Non,Non
+BIEN_000400,Appartement,94,4,3,0,Électrique,Moyen,F,4769419,Oui,Oui
+BIEN_000265,Appartement,212,0,3,3,Électrique,Standard,F,2064641,Oui,Non
+BIEN_000029,Appartement,468,5,2,2,Électrique,Luxe,F,2373060,Oui,Non
+BIEN_000640,Appartement,355,5,2,2,Pompe à chaleur,Haut standing,A,3341664,Oui,Oui
+BIEN_000849,Villa,238,7,0,2,Autre,Luxe,D,4215019,Oui,Oui
+BIEN_000863,Villa,162,3,3,2,Électrique,Haut standing,G,3303327,Oui,Non
+BIEN_000705,Appartement,33,4,1,1,Climatisation réversible,Moyen,F,4585186,Oui,Non
+BIEN_000280,Villa,255,3,0,3,Gaz,Standard,G,6279906,Oui,Non
+BIEN_000851,Appartement,163,6,3,5,Pompe à chaleur,Standard,F,3939180,Oui,Non
+BIEN_000356,Appartement,190,4,2,1,Climatisation réversible,Haut standing,G,4618023,Oui,Oui
+BIEN_000782,Maison,484,5,3,5,Chauffage central,Standard,G,7483157,Oui,Oui
+BIEN_000660,Appartement,159,3,1,1,Électrique,Haut standing,Non renseigné,5076830,Non,Non
+BIEN_000969,Studio,-3,3,4,4,Aucun,Haut standing,B,2019705,Non,Non
+BIEN_000073,Maison,156,8,2,1,Fioul,Luxe,C,2863592,Oui,Oui
+BIEN_000263,Duplex,179,6,3,1,Pompe à chaleur,Moyen,F,1994964,Non,Oui
+BIEN_000310,Villa,354,6,5,2,Pompe à chaleur,Luxe,A,2667186,Oui,Non
+BIEN_000045,Appartement,117,3,2,3,Gaz,Haut standing,G,1474686,Non,Non
+BIEN_000088,Penthouse,177,4,1,1,Gaz,Luxe,E,3945313,Non,Non
+BIEN_000476,Appartement,42,3,2,1,Autre,Moyen,C,341103,Non,Non
+BIEN_000088,Maison,218,3,3,3,Électrique,Haut standing,B,2978552,Oui,Non
+BIEN_000346,Appartement,232,3,3,3,Pompe à chaleur,Haut standing,A,4560125,Oui,Oui
+BIEN_000612,Appartement,72,2,4,3,Électrique,Haut standing,D,578169,Oui,Non
+BIEN_000809,Appartement,158,3,3,1,Gaz,Haut standing,F,3629754,Non,Non
+BIEN_000338,Villa,102,6,3,1,Gaz,Standard,G,803206,Non,Non
+BIEN_000465,Villa,210,7,4,1,Pompe à chaleur,Standard,C,2997353,Oui,Non
+BIEN_000865,Appartement,196,2,5,0,Gaz,Standard,E,779729,Oui,Non
+BIEN_000941,Appartement,297,3,3,4,Gaz,Haut standing,A,6106381,Non,Non
+BIEN_000345,Villa,147,3,2,2,Pompe à chaleur,Moyen,E,2413269,Oui,Non
+BIEN_000682,Appartement,91,7,2,2,Pompe à chaleur,Haut standing,C,5448564,Oui,Non
+BIEN_000384,Studio,85,1,0,1,Pompe à chaleur,Haut standing,G,376662,Oui,Non
+BIEN_000103,Appartement,185,0,1,3,Climatisation réversible,Haut standing,F,3200101,Non,Non
+BIEN_000698,Appartement,238,8,2,1,Gaz,Standard,G,3801006,Oui,Non
+BIEN_000477,Villa,231,7,1,1,Gaz,Luxe,E,5070055,Oui,Non
+BIEN_000607,Maison,116,8,3,2,Pompe à chaleur,Standard,B,2343107,Non,Non
+BIEN_000512,Villa,235,5,1,4,Gaz,Moyen,E,1346947,Oui,Oui
+BIEN_000260,Villa,258,5,5,0,Chauffage central,Standard,C,4373649,Non,Oui
+BIEN_000340,Appartement,235,4,1,3,Pompe à chaleur,Standard,D,1818391,Non,Oui
+BIEN_000670,Appartement,260,3,1,3,Pompe à chaleur,Standard,G,2630745,Oui,Non
+BIEN_000231,Appartement,134,6,0,1,Électrique,Haut standing,G,6740110,Oui,Non
+BIEN_000837,Maison,191,5,1,3,Électrique,Luxe,C,3543871,Oui,Oui
+BIEN_000643,Villa,243,6,4,5,Chauffage central,Haut standing,C,5277610,Oui,Oui
+BIEN_000502,Villa,4902,4,3,1,Électrique,Haut standing,F,2557689,Oui,Non
+BIEN_000370,Villa,199,6,1,2,Fioul,Moyen,B,1940696,Non,Non
+BIEN_000931,Appartement,294,4,3,1,Pompe à chaleur,Standard,G,1969383,Oui,Oui
+BIEN_000876,Studio,137,0,2,1,Chauffage central,Standard,F,2236801,Non,Non
+BIEN_000115,Appartement,163,5,2,4,Chauffage central,Luxe,E,5398549,Oui,Oui
+BIEN_000462,Appartement,380,5,4,1,Électrique,Haut standing,Non renseigné,3240986,Oui,Non
+BIEN_000784,Appartement,407,3,2,4,Gaz,Standard,E,1993399,Non,Non
+BIEN_000428,Appartement,225,1,2,1,Gaz,Standard,F,3953842,Non,Non
+BIEN_000469,Duplex,76,5,2,2,Électrique,Moyen,G,4165548,Oui,Oui
+BIEN_000065,Appartement,124,5,4,1,Électrique,Moyen,F,5852336,Oui,Non
+BIEN_000036,Appartement,141,1,0,1,Gaz,Standard,F,2654930,Non,Non
+BIEN_000075,Appartement,218,7,3,1,Pompe à chaleur,Haut standing,E,5282901,Oui,Oui
+BIEN_000660,Appartement,221,5,2,3,Électrique,Standard,G,6283517,Oui,Non
+BIEN_000080,Maison,224,7,1,1,Électrique,Haut standing,B,1817224,Oui,Non
+BIEN_000858,Appartement,168,8,0,2,Gaz,Moyen,F,1036297,Non,Non
+BIEN_000612,Appartement,174,7,1,1,Électrique,Luxe,E,1467237,Oui,Non
+BIEN_000865,Appartement,165,3,3,1,Gaz,Moyen,B,5572056,Non,Non
+BIEN_000720,Appartement,192,5,1,1,Électrique,Luxe,F,4951260,Oui,Non
+BIEN_000220,Appartement,222,4,2,3,Aucun,Standard,B,4171074,Oui,Non
+BIEN_000735,Maison,212,2,3,2,Climatisation réversible,Luxe,C,4432205,Oui,Non
+BIEN_000509,Appartement,283,5,2,1,Électrique,Standard,E,5296839,Non,Non
+BIEN_000085,Villa,439,4,4,3,Électrique,Moyen,B,934316,Non,Oui
+BIEN_000414,Appartement,400,3,3,2,Fioul,Luxe,A,913799,Oui,Oui
+BIEN_000008,Appartement,127,1,0,1,Électrique,Moyen,F,5308088,Non,Non
+BIEN_000409,Loft,168,4,0,3,Pompe à chaleur,Haut standing,E,768070,Non,Oui
+BIEN_000699,Appartement,137,5,3,1,Électrique,Haut standing,A,1865440,Oui,Non
+BIEN_000883,Maison,189,5,4,1,Pompe à chaleur,Luxe,E,2484324,Oui,Oui
+BIEN_000185,Appartement,175,3,1,1,Chauffage central,Moyen,C,4481630,Non,Oui
+BIEN_000038,Villa,225,6,1,1,Chauffage central,Moyen,A,2739605,Oui,Oui
+BIEN_000793,Maison,110,3,2,2,Aucun,Standard,C,3133050,Oui,Non
+BIEN_000478,Duplex,155,1,0,1,Pompe à chaleur,Moyen,F,1151482,Non,Non
+BIEN_000807,Appartement,220,2,2,3,Pompe à chaleur,Luxe,G,2961033,Oui,Non
+BIEN_000196,Appartement,165,1,0,2,Gaz,Moyen,C,3909301,Non,Oui
+BIEN_000502,Studio,194,3,3,1,Climatisation réversible,Moyen,F,4211368,Oui,Non
+BIEN_000555,Appartement,112,5,3,1,Pompe à chaleur,Haut standing,D,2863149,Non,Oui
+BIEN_000087,Maison,418,4,5,5,Climatisation réversible,Moyen,C,2506217,Non,Non
+BIEN_000090,Appartement,109,3,3,1,Pompe à chaleur,Haut standing,G,3676346,Non,Non
+BIEN_000738,Appartement,85,7,0,1,Fioul,Haut standing,G,1102938,Non,Oui
+BIEN_000730,Villa,125,1,0,4,Électrique,Luxe,B,3161157,Oui,Non
+BIEN_000586,Penthouse,187,4,1,2,Gaz,Standard,E,5261835,Oui,Non
+BIEN_000425,Villa,184,8,1,1,Climatisation réversible,Moyen,A,2022042,Oui,Non
+BIEN_000242,Appartement,80,5,2,0,Chauffage central,Luxe,A,2213609,Oui,Oui
+BIEN_000146,Villa,143,4,3,2,Fioul,Haut standing,G,2317645,Oui,Non
+BIEN_000566,Maison,222,7,2,1,Fioul,Haut standing,B,2157525,Oui,Non
+BIEN_000068,Appartement,213,3,2,1,Gaz,Haut standing,G,4781703,Oui,Non
+BIEN_000241,Appartement,75,4,0,1,Pompe à chaleur,Standard,F,1202115,Non,Non
+BIEN_000343,Appartement,152,1,3,2,Électrique,Haut standing,A,6068036,Non,Non
+BIEN_000001,Appartement,141,7,3,1,Chauffage central,Standard,C,1420875,Oui,Oui
+BIEN_000634,Villa,234,5,3,1,Chauffage central,Standard,E,3918706,Non,Oui
+BIEN_000494,Appartement,92,8,2,1,Gaz,Luxe,G,3945837,Non,Non
+BIEN_000218,Appartement,99,1,3,1,Gaz,Haut standing,E,1838975,Oui,Non
+BIEN_000121,Appartement,90,4,0,1,Pompe à chaleur,Standard,G,1753048,Non,Non
+BIEN_000466,Appartement,243,5,0,2,Gaz,Standard,E,3366209,Non,Non
+BIEN_000782,Appartement,59,8,4,2,Électrique,Moyen,A,7031348,Non,Non
+BIEN_000552,Maison,76,5,5,3,Pompe à chaleur,Haut standing,B,3001325,Oui,Non
+BIEN_000543,Appartement,225,1,0,1,Électrique,Moyen,D,1451534,Non,Oui
+BIEN_000674,Maison,219,1,2,1,Gaz,Moyen,E,2282611,Oui,Oui
+BIEN_000103,Loft,179,5,5,0,Pompe à chaleur,Haut standing,D,3622265,Oui,Oui
+BIEN_000279,Appartement,269,3,0,2,Fioul,Moyen,E,4338055,Oui,Oui
+BIEN_000432,Appartement,129,4,3,1,Électrique,Haut standing,F,3341896,Oui,Non
+BIEN_000280,Studio,73,6,3,1,Gaz,Moyen,G,2241926,Oui,Non
+BIEN_000208,Maison,1402,3,1,1,Fioul,Moyen,F,4453164,Oui,Non
+BIEN_000620,Appartement,177,1,3,1,Fioul,Moyen,B,4099079,Oui,Non
+BIEN_000664,Maison,163,5,1,0,Gaz,Haut standing,F,4463971,Oui,Non
+BIEN_000721,Appartement,105,5,1,4,Fioul,Moyen,C,3741281,Oui,Non
+BIEN_000335,Appartement,255,8,3,3,Fioul,Standard,F,2176888,Oui,Non
+BIEN_000388,Villa,180,4,3,0,Chauffage central,Moyen,B,1353776,Oui,Oui
+BIEN_000255,Appartement,161,6,3,5,Électrique,Luxe,Non renseigné,3455512,Oui,Non
+BIEN_000586,Villa,171,5,4,1,Aucun,Haut standing,E,2067566,Oui,Oui
+BIEN_000893,Maison,275,4,3,4,Pompe à chaleur,Moyen,G,6680069,Oui,Oui
+BIEN_000734,Appartement,203,2,2,2,Électrique,Luxe,E,3057970,Oui,Non
+BIEN_000095,Villa,203,3,2,4,Pompe à chaleur,Standard,E,3128360,Oui,Non
+BIEN_000812,Villa,205,6,4,2,Gaz,Haut standing,D,3679444,Oui,Non
+BIEN_000661,Duplex,154,1,3,3,Gaz,Haut standing,E,507118,Non,Non
+BIEN_000764,Villa,243,5,3,3,Pompe à chaleur,Standard,B,6915083,Oui,Non
+BIEN_000194,Penthouse,185,4,5,1,Autre,Haut standing,G,4358892,Oui,Non
+BIEN_000027,Appartement,69,5,5,5,Fioul,Haut standing,G,3207741,Oui,Oui
+BIEN_000378,Appartement,152,4,2,1,Aucun,Standard,F,854806,Oui,Non
+BIEN_000984,Duplex,132,3,2,1,Climatisation réversible,Haut standing,G,250669,Non,Non
+BIEN_000539,Appartement,192,5,4,1,Chauffage central,Standard,B,1242810,Non,Non
+BIEN_000354,Loft,262,5,0,3,Électrique,Moyen,E,1350129,Oui,Non
+BIEN_000263,Appartement,37,1,5,0,Chauffage central,Haut standing,B,4524405,Oui,Non
+BIEN_000034,Maison,398,3,3,2,Chauffage central,Standard,D,4060842,Oui,Oui
+BIEN_000763,Terrain,288,6,1,1,Fioul,Haut standing,E,3080149,Oui,Non
+BIEN_000495,Villa,286,5,5,2,Électrique,Moyen,B,2290999,Oui,Non
+BIEN_000227,Appartement,175,3,2,1,Pompe à chaleur,Luxe,E,7153510,Non,Non
+BIEN_000157,Appartement,46,1,3,1,Électrique,Moyen,B,1118565,Oui,Non
+BIEN_000163,Studio,41,0,0,1,Gaz,Standard,G,3434271,Non,Non
+BIEN_000962,Appartement,160,5,2,1,Électrique,Haut standing,Non renseigné,3030483,Oui,Oui
+BIEN_000628,Appartement,188,7,0,1,Autre,Moyen,D,3689724,Non,Oui
+BIEN_000186,Villa,197,5,3,4,Fioul,Standard,A,3397542,Oui,Non
+BIEN_000594,Studio,119,4,1,3,Gaz,Haut standing,G,2832603,Oui,Non
+BIEN_000241,Appartement,173,0,1,3,Électrique,Haut standing,G,4420433,Oui,Non
+BIEN_000856,Appartement,171,6,3,2,Gaz,Haut standing,D,4776624,Oui,Oui
+BIEN_000127,Studio,218,4,3,2,Pompe à chaleur,Luxe,F,5065954,Oui,Oui
+BIEN_000873,Appartement,174,7,1,1,Gaz,Haut standing,D,653979,Non,Non
+BIEN_000520,Appartement,179,2,0,2,Fioul,Standard,F,283558,Non,Non
+BIEN_000769,Appartement,134,1,3,4,Électrique,Haut standing,F,5441320,Oui,Non
+BIEN_000017,Appartement,243,1,0,1,Pompe à chaleur,Moyen,B,1259777,Non,Non
+BIEN_000912,Maison,213,3,2,3,Électrique,Luxe,E,1690577,Oui,Oui
+BIEN_000225,Villa,187,5,4,2,Pompe à chaleur,Haut standing,F,2302604,Oui,Non
+BIEN_000453,Studio,134,2,4,3,Aucun,Haut standing,E,4220357,Non,Non
+BIEN_000127,Studio,181,0,5,1,Autre,Moyen,F,5739967,Non,Oui
+BIEN_000553,Appartement,185,5,1,1,Gaz,Haut standing,G,2906845,Non,Non
+BIEN_000347,Villa,225,6,4,1,Gaz,Haut standing,D,516728,Oui,Oui
+BIEN_000550,Appartement,213,0,1,2,Pompe à chaleur,Haut standing,G,4962346,Non,Oui
+BIEN_000504,Maison,204,5,5,1,Chauffage central,Moyen,G,95034,Non,Non
+BIEN_000229,Appartement,89,1,2,3,Gaz,Haut standing,G,4594622,Oui,Non
+BIEN_000599,Maison,26,3,2,1,Gaz,Haut standing,B,4025423,Non,Non
+BIEN_000036,Loft,103,6,4,5,Électrique,Standard,B,3747994,Non,Non
+BIEN_000833,Appartement,149,1,2,1,Pompe à chaleur,Standard,F,2602495,Oui,Non
+BIEN_000754,Studio,239,3,1,2,Électrique,Haut standing,G,3488929,Oui,Non
+BIEN_000487,Maison,260,4,3,5,Chauffage central,Moyen,C,1240621,Oui,Oui
+BIEN_000951,Appartement,136,3,2,1,Climatisation réversible,Standard,F,3017214,Non,Oui
+BIEN_000822,Villa,225,7,0,1,Pompe à chaleur,Haut standing,B,2210778,Oui,Non
+BIEN_000290,Maison,233,7,2,2,Pompe à chaleur,Haut standing,E,1682592,Non,Oui
+BIEN_000661,Appartement,161,2,1,2,Aucun,Haut standing,G,2557274,Oui,Oui
+BIEN_000372,Maison,108,1,0,1,Gaz,Haut standing,E,4263953,Non,Non
+BIEN_000408,Appartement,219,5,3,1,Électrique,Luxe,E,7389098,Oui,Non
+BIEN_000280,Studio,268,5,3,4,Climatisation réversible,Standard,F,1184144,Oui,Non
+BIEN_000173,Appartement,252,7,5,5,Électrique,Haut standing,B,6674136,Oui,Non
+BIEN_000369,Appartement,212,3,3,1,Pompe à chaleur,Standard,C,4101143,Non,Non
+BIEN_000008,Appartement,86,3,1,1,Gaz,Haut standing,B,6196577,Non,Non
+BIEN_000029,Villa,218,5,3,0,Chauffage central,Standard,B,6350257,Oui,Oui
+BIEN_000933,Loft,108,4,3,1,Pompe à chaleur,Standard,Non renseigné,3602654,Non,Non
+BIEN_000121,Appartement,40,4,2,2,Fioul,Standard,D,1983382,Non,Non
+BIEN_000247,Appartement,57,4,2,1,Électrique,Moyen,D,3281178,Non,Oui
+BIEN_000395,Duplex,286,5,3,3,Électrique,Luxe,F,5490355,Non,Non
+BIEN_000217,Maison,124,4,3,2,Pompe à chaleur,Standard,C,3710387,Oui,Non
+BIEN_000355,Appartement,236,8,1,1,Électrique,Luxe,D,4246313,Oui,Oui
+BIEN_000374,Maison,132,1,3,3,Pompe à chaleur,Luxe,E,1647516,Non,Oui
+BIEN_000339,Appartement,52,4,0,3,Pompe à chaleur,Standard,C,6829467,Non,Non
+BIEN_000301,Appartement,177,6,1,3,Électrique,Standard,E,5671041,Oui,Non
+BIEN_000528,Appartement,366,4,3,1,Gaz,Moyen,B,1917997,Oui,Non
+BIEN_000185,Appartement,428,4,0,1,Gaz,Luxe,D,3231280,Non,Non
+BIEN_000128,Studio,282,7,4,3,Chauffage central,Haut standing,E,3109540,Non,Oui
+BIEN_000422,Appartement,245,5,2,2,Gaz,Haut standing,C,3593671,Non,Oui
+BIEN_000720,Loft,238,5,3,5,Aucun,Standard,B,2885382,Oui,Oui
+BIEN_000627,Maison,218,4,3,0,Gaz,Luxe,C,6094246,Non,Oui
+BIEN_000616,Appartement,107,2,5,2,Climatisation réversible,Moyen,B,3828176,Oui,Non
+BIEN_000079,Duplex,234,3,3,1,Électrique,Moyen,Non renseigné,6489319,Oui,Non
+BIEN_000793,Appartement,177,4,2,1,Gaz,Standard,Non renseigné,2234091,Non,Non
+BIEN_000094,Villa,93,3,0,1,Électrique,Haut standing,F,3757028,Non,Non
+BIEN_000146,Appartement,127,3,1,1,Gaz,Standard,F,938862,Non,Non
+BIEN_000279,Appartement,193,4,5,2,Autre,Haut standing,A,5839627,Non,Non
+BIEN_000815,Penthouse,215,5,4,4,Gaz,Haut standing,G,6090102,Oui,Oui
+BIEN_000097,Appartement,136,7,0,2,Gaz,Moyen,D,2841591,Non,Non
+BIEN_000372,Appartement,115,1,0,1,Électrique,Haut standing,G,1931835,Non,Non
+BIEN_000794,Maison,192,2,2,3,Pompe à chaleur,Haut standing,D,2857558,Oui,Oui
+BIEN_000861,Appartement,213,7,3,1,Pompe à chaleur,Moyen,F,1855501,Oui,Non
+BIEN_000714,Appartement,460,5,2,2,Électrique,Standard,G,3566415,Oui,Non
+BIEN_000227,Villa,250,5,5,3,Chauffage central,Moyen,G,6616533,Oui,Oui
+BIEN_000512,Appartement,-23,0,3,1,Électrique,Luxe,E,3850794,Non,Non
+BIEN_000216,Duplex,233,6,1,3,Électrique,Haut standing,E,2653286,Oui,Oui
+BIEN_000578,Villa,6715,5,4,5,Fioul,Luxe,D,2099172,Oui,Oui
+BIEN_000150,Appartement,180,7,5,1,Autre,Moyen,E,5381252,Oui,Non
+BIEN_000112,Villa,167,8,0,3,Gaz,Haut standing,D,2341099,Oui,Non
+BIEN_000400,Maison,434,1,2,1,Pompe à chaleur,Standard,B,5354479,Oui,Non
+BIEN_000782,Appartement,272,4,3,2,Électrique,Luxe,G,2950021,Oui,Non
+BIEN_000540,Appartement,180,2,4,3,Pompe à chaleur,Luxe,E,422906,Oui,Non
+BIEN_000347,Villa,202,5,0,0,Électrique,Moyen,C,1367021,Oui,Oui
+BIEN_000964,Appartement,96,6,0,1,Pompe à chaleur,Haut standing,A,3520840,Non,Oui
+BIEN_000202,Maison,284,5,3,5,Chauffage central,Luxe,A,3692998,Oui,Oui
+BIEN_000251,Appartement,193,5,1,2,Gaz,Standard,B,3358019,Oui,Non
+BIEN_000510,Villa,88,4,2,3,Électrique,Moyen,D,3551173,Oui,Non
+BIEN_000756,Villa,182,4,4,2,Climatisation réversible,Moyen,Non renseigné,545625,Oui,Oui
+BIEN_000818,Appartement,81,5,2,2,Chauffage central,Haut standing,A,56213,Non,Non
+BIEN_000356,Appartement,242,4,2,4,Électrique,Standard,E,3168156,Oui,Non
+BIEN_000716,Appartement,147,4,2,1,Aucun,Haut standing,E,2253008,Non,Non
+BIEN_000452,Appartement,42,3,1,2,Pompe à chaleur,Moyen,B,7101597,Oui,Non
+BIEN_000993,Appartement,157,5,3,3,Pompe à chaleur,Haut standing,G,4689090,Oui,Non
+BIEN_000218,Maison,50,3,3,5,Fioul,Standard,A,1868140,Non,Non
+BIEN_000089,Appartement,196,4,0,1,Pompe à chaleur,Haut standing,G,2035044,Non,Non
+BIEN_000541,Loft,115,6,2,2,Pompe à chaleur,Haut standing,G,3885313,Oui,Non
+BIEN_000681,Studio,238,5,5,5,Fioul,Moyen,C,4112811,Oui,Oui
+BIEN_000342,Maison,231,7,1,0,Électrique,Luxe,E,5041318,Oui,Oui
+BIEN_000969,Appartement,211,5,0,1,Électrique,Moyen,G,4274103,Oui,Oui
+BIEN_000070,Studio,261,3,3,1,Gaz,Moyen,F,4197347,Non,Non
+BIEN_000780,Studio,189,5,1,1,Aucun,Haut standing,E,5885904,Oui,Oui
+BIEN_000730,Maison,3953,5,1,0,Électrique,Standard,D,2856580,Oui,Non
+BIEN_000654,Appartement,200,5,5,1,Chauffage central,Haut standing,E,4188970,Oui,Oui
+BIEN_000215,Villa,249,3,3,4,Gaz,Haut standing,D,6576107,Non,Oui
+BIEN_000935,Appartement,203,3,1,5,Gaz,Moyen,A,3583648,Oui,Oui
+BIEN_000237,Appartement,219,4,2,1,Gaz,Moyen,C,3645826,Non,Non
+BIEN_000019,Studio,143,1,0,2,Électrique,Moyen,D,2740159,Non,Non
+BIEN_000983,Penthouse,236,4,5,1,Électrique,Standard,G,1876599,Oui,Oui
+BIEN_000452,Appartement,109,1,4,1,Climatisation réversible,Haut standing,F,3845692,Non,Non
+BIEN_000266,Villa,88,3,5,4,Gaz,Moyen,A,1686450,Oui,Non
+BIEN_000153,Loft,183,1,3,1,Électrique,Moyen,B,2055313,Non,Non
+BIEN_000440,Appartement,203,1,4,1,Gaz,Standard,E,4321895,Non,Non
+BIEN_000991,Maison,189,2,0,2,Chauffage central,Standard,G,2205900,Oui,Oui
+BIEN_000656,Appartement,201,3,1,1,Gaz,Moyen,Non renseigné,3351338,Oui,Non
+BIEN_000898,Penthouse,225,4,1,2,Pompe à chaleur,Haut standing,E,2716616,Non,Non
+BIEN_000325,Appartement,189,3,1,3,Fioul,Moyen,F,2274179,Oui,Non
+BIEN_000271,Appartement,256,3,4,1,Électrique,Haut standing,Non renseigné,3100902,Non,Non
+BIEN_000152,Appartement,145,2,4,1,Chauffage central,Haut standing,B,2187680,Non,Non
+BIEN_000884,Terrain,244,5,3,2,Pompe à chaleur,Luxe,A,1673452,Oui,Oui
+BIEN_000219,Maison,114,5,2,2,Électrique,Standard,B,2624978,Oui,Non
+BIEN_000774,Maison,171,5,4,0,Gaz,Luxe,B,3268178,Non,Oui
+BIEN_000981,Appartement,214,3,5,1,Électrique,Haut standing,G,549295,Non,Oui
+BIEN_000093,Maison,210,4,0,2,Pompe à chaleur,Standard,B,6261216,Oui,Oui
+BIEN_000937,Appartement,266,5,1,3,Électrique,Haut standing,D,3216293,Oui,Oui
+BIEN_000297,Appartement,62,3,1,1,Fioul,Haut standing,B,6331175,Oui,Non
+BIEN_000819,Villa,177,6,0,2,Pompe à chaleur,Moyen,D,2875227,Non,Oui
+BIEN_000883,Villa,210,4,3,2,Électrique,Moyen,F,4174749,Oui,Non
+BIEN_000534,Appartement,97,3,0,1,Gaz,Moyen,D,5509331,Non,Non
+BIEN_000785,Studio,148,1,2,0,Pompe à chaleur,Standard,D,5262315,Oui,Non
+BIEN_000011,Appartement,131,5,3,1,Fioul,Moyen,E,1775212,Non,Non
+BIEN_000964,Studio,262,7,4,1,Chauffage central,Moyen,A,3316526,Oui,Oui
+BIEN_000676,Appartement,261,4,1,3,Pompe à chaleur,Standard,D,6797697,Non,Non
+BIEN_000322,Appartement,253,4,3,3,Climatisation réversible,Moyen,G,2229668,Oui,Non
+BIEN_000142,Maison,205,4,2,1,Pompe à chaleur,Haut standing,B,3945649,Oui,Oui
+BIEN_000925,Duplex,218,4,0,1,Électrique,Haut standing,Non renseigné,2913651,Non,Non
+BIEN_000731,Villa,128,7,1,3,Gaz,Standard,F,5167906,Non,Non
+BIEN_000142,Appartement,113,7,2,3,Gaz,Haut standing,G,2431644,Non,Non
+BIEN_000161,Villa,158,4,3,1,Fioul,Haut standing,B,2862410,Oui,Non
+BIEN_000248,Appartement,102,5,3,3,Gaz,Haut standing,E,2340080,Non,Non
+BIEN_000208,Villa,182,5,3,4,Chauffage central,Haut standing,E,4528735,Oui,Oui
+BIEN_000064,Appartement,1755,5,1,5,Électrique,Standard,A,3470679,Oui,Non
+BIEN_000046,Appartement,67,3,5,3,Gaz,Moyen,F,2967007,Oui,Non
+BIEN_000967,Appartement,186,6,4,5,Climatisation réversible,Haut standing,B,4155127,Non,Non
+BIEN_000843,Maison,260,4,2,2,Chauffage central,Haut standing,Non renseigné,1421921,Non,Oui
+BIEN_000995,Terrain,203,7,5,3,Fioul,Haut standing,B,1422890,Oui,Non
+BIEN_000612,Studio,243,4,2,2,Pompe à chaleur,Moyen,E,3237178,Oui,Oui
+BIEN_000643,Appartement,129,5,3,3,Électrique,Moyen,E,3677042,Oui,Non
+BIEN_000112,Maison,219,1,2,1,Électrique,Standard,E,3605381,Oui,Oui
+BIEN_000993,Duplex,159,7,2,1,Chauffage central,Moyen,G,151173,Oui,Non
+BIEN_000871,Villa,98,7,1,4,Électrique,Moyen,F,5218611,Oui,Non
+BIEN_000185,Appartement,172,4,1,1,Électrique,Moyen,G,4305594,Oui,Non
+BIEN_000005,Villa,39,6,1,3,Pompe à chaleur,Luxe,G,2927513,Oui,Non
+BIEN_000662,Loft,188,3,1,4,Gaz,Haut standing,F,422558,Oui,Non
+BIEN_000464,Appartement,232,6,1,1,Électrique,Moyen,F,3355865,Oui,Non
+BIEN_000311,Appartement,19,5,1,5,Pompe à chaleur,Haut standing,C,3461764,Oui,Non
+BIEN_000090,Appartement,88,3,0,1,Gaz,Haut standing,C,3682510,Non,Non
+BIEN_000963,Appartement,84,2,0,4,Fioul,Moyen,E,6888169,Non,Non
+BIEN_000909,Villa,156,3,5,3,Pompe à chaleur,Luxe,G,5338127,Oui,Non
+BIEN_000868,Appartement,174,6,1,4,Pompe à chaleur,Haut standing,F,4236809,Oui,Non
+BIEN_000800,Penthouse,486,5,4,1,Électrique,Luxe,A,2829123,Non,Non
+BIEN_000649,Appartement,106,5,5,3,Chauffage central,Standard,C,3400968,Non,Non
+BIEN_000533,Studio,81,1,5,2,Électrique,Moyen,B,6132329,Non,Non
+BIEN_000096,Appartement,42,3,5,1,Électrique,Moyen,E,2174104,Non,Non
+BIEN_000732,Appartement,249,4,0,3,Fioul,Haut standing,B,2597492,Oui,Non
+BIEN_000998,Villa,184,6,3,1,Pompe à chaleur,Haut standing,A,4645501,Oui,Oui
+BIEN_000033,Appartement,478,5,1,2,Pompe à chaleur,Standard,D,3079555,Oui,Oui
+BIEN_000723,Villa,187,6,4,2,Pompe à chaleur,Haut standing,G,3048334,Oui,Oui
+BIEN_000055,Appartement,145,5,3,3,Gaz,Haut standing,E,3792808,Non,Non
+BIEN_000265,Villa,252,6,3,4,Pompe à chaleur,Moyen,G,1907891,Oui,Non
+BIEN_000566,Appartement,173,7,2,4,Gaz,Haut standing,E,5761616,Non,Non
+BIEN_000013,Appartement,157,4,0,5,Chauffage central,Haut standing,A,6372339,Oui,Oui
+BIEN_000393,Appartement,151,3,1,2,Électrique,Standard,E,5950311,Non,Non
+BIEN_000029,Appartement,211,3,0,1,Électrique,Standard,F,3931794,Non,Non
+BIEN_000121,Villa,181,7,0,1,Pompe à chaleur,Moyen,Non renseigné,4180445,Non,Non
+BIEN_000838,Maison,167,2,3,5,Chauffage central,Moyen,C,1394361,Non,Non
+BIEN_000442,Villa,393,4,0,3,Chauffage central,Luxe,D,-38498,Oui,Oui
+BIEN_000553,Villa,142,5,0,3,Gaz,Standard,F,1629510,Non,Oui
+BIEN_000839,Villa,239,3,2,4,Gaz,Standard,E,5022852,Oui,Non
+BIEN_000059,Maison,172,2,4,1,Fioul,Haut standing,C,2937420,Non,Non
+BIEN_000236,Duplex,97,7,2,3,Gaz,Moyen,F,4457013,Non,Non
+BIEN_000454,Duplex,204,3,3,1,Climatisation réversible,Haut standing,F,6106401,Oui,Non
+BIEN_000576,Maison,206,3,3,1,Gaz,Haut standing,B,1274701,Non,Non
+BIEN_000050,Appartement,264,7,3,2,Gaz,Standard,E,3082909,Non,Non
+BIEN_000983,Appartement,54,6,4,2,Chauffage central,Haut standing,E,719815,Oui,Non
+BIEN_000735,Villa,91,0,1,1,Gaz,Haut standing,E,3271603,Non,Oui
+BIEN_000847,Maison,135,6,5,3,Électrique,Haut standing,B,5086305,Non,Non
+BIEN_000907,Appartement,202,2,5,3,Climatisation réversible,Haut standing,G,3984109,Oui,Non
+BIEN_000850,Loft,180,7,3,4,Électrique,Standard,E,4269985,Non,Non
+BIEN_000428,Villa,81,4,3,1,Électrique,Moyen,G,4681400,Non,Non
+BIEN_000788,Appartement,171,8,2,4,Pompe à chaleur,Standard,D,3668301,Non,Non
+BIEN_000552,Maison,135,3,1,1,Chauffage central,Standard,B,4242137,Oui,Non
+BIEN_000442,Appartement,197,1,2,4,Gaz,Standard,B,3252492,Oui,Non
+BIEN_000294,Appartement,124,2,2,1,Électrique,Moyen,C,2608620,Non,Non
+BIEN_000378,Appartement,115,4,3,1,Pompe à chaleur,Standard,F,5268289,Non,Non
+BIEN_000665,Maison,105,7,5,1,Chauffage central,Standard,F,4100131,Non,Oui
+BIEN_000485,Appartement,209,6,3,4,Pompe à chaleur,Moyen,B,4055624,Non,Non
+BIEN_000588,Appartement,143,7,2,1,Électrique,Standard,D,3719557,Oui,Non
+BIEN_000352,Villa,272,6,2,3,Chauffage central,Standard,B,2885524,Oui,Non
+BIEN_000827,Duplex,35,5,5,1,Gaz,Haut standing,F,4150331,Oui,Non
+BIEN_000779,Appartement,151,4,3,3,Fioul,Haut standing,G,3855722,Oui,Non
+BIEN_000561,Studio,108,4,1,1,Électrique,Standard,F,2093962,Non,Non
+BIEN_000471,Loft,195,7,3,2,Pompe à chaleur,Haut standing,G,4193748,Oui,Non
+BIEN_000474,Appartement,468,4,5,5,Chauffage central,Moyen,G,6870538,Oui,Oui
+BIEN_000434,Studio,126,7,0,1,Pompe à chaleur,Standard,C,1745445,Non,Non
+BIEN_000224,Maison,97,5,3,2,Électrique,Haut standing,B,3251033,Non,Non
+BIEN_000516,Maison,225,6,2,2,Climatisation réversible,Luxe,G,3131522,Oui,Oui
+BIEN_000442,Appartement,108,7,2,1,Gaz,Standard,E,2828058,Non,Non
+BIEN_000563,Appartement,216,4,4,4,Chauffage central,Moyen,E,2427278,Oui,Oui
+BIEN_000466,Villa,237,2,4,3,Autre,Haut standing,A,5692470,Oui,Oui
+BIEN_000431,Appartement,143,6,0,3,Chauffage central,Haut standing,A,2282393,Non,Non
+BIEN_000759,Appartement,114,5,2,1,Fioul,Standard,C,4193065,Non,Non
+BIEN_000182,Appartement,134,3,1,1,Gaz,Luxe,D,4832544,Oui,Oui
+BIEN_000335,Villa,208,6,2,1,Pompe à chaleur,Moyen,D,-215793,Non,Non
+BIEN_000228,Appartement,190,6,5,2,Pompe à chaleur,Moyen,C,3857433,Oui,Non
+BIEN_000620,Villa,502,5,3,5,Chauffage central,Moyen,E,6303867,Oui,Oui
+BIEN_000083,Loft,197,3,3,2,Électrique,Haut standing,C,1564601,Non,Non
+BIEN_000296,Appartement,275,8,0,4,Climatisation réversible,Standard,A,2597018,Oui,Non
+BIEN_000916,Appartement,92,1,1,2,Pompe à chaleur,Moyen,A,5938934,Non,Oui
+BIEN_000921,Loft,221,6,1,0,Gaz,Moyen,D,4318941,Non,Oui
+BIEN_000411,Penthouse,57,5,4,2,Climatisation réversible,Haut standing,F,2503593,Non,Non
+BIEN_000482,Appartement,428,7,1,3,Gaz,Luxe,D,4887191,Oui,Non
+BIEN_000277,Maison,67,5,5,4,Fioul,Haut standing,E,5210153,Oui,Non
+BIEN_000420,Appartement,43,3,0,1,Gaz,Moyen,F,5209223,Non,Non
+BIEN_000475,Appartement,135,1,1,1,Électrique,Moyen,B,2749510,Oui,Non
+BIEN_000823,Maison,3395,4,2,1,Climatisation réversible,Haut standing,E,3807553,Non,Non
+BIEN_000482,Studio,187,1,5,1,Pompe à chaleur,Moyen,D,820941,Oui,Non
+BIEN_000306,Maison,135,7,0,1,Électrique,Luxe,G,1911264,Oui,Oui
+BIEN_000030,Appartement,279,3,3,3,Fioul,Standard,E,4992364,Non,Oui
+BIEN_000585,Appartement,102,3,3,2,Électrique,Standard,F,2178678,Oui,Oui
+BIEN_000351,Appartement,59,4,3,1,Gaz,Moyen,D,4216637,Non,Non
+BIEN_000541,Villa,260,3,0,5,Aucun,Haut standing,B,178997,Non,Non
+BIEN_000488,Villa,187,5,4,0,Électrique,Standard,E,2453388,Oui,Oui
+BIEN_000488,Appartement,185,3,1,1,Aucun,Moyen,B,6219260,Non,Non
+BIEN_000152,Villa,174,4,4,4,Électrique,Luxe,A,3714845,Oui,Non
+BIEN_000759,Maison,173,7,4,1,Climatisation réversible,Luxe,B,2496365,Oui,Oui
+BIEN_000964,Appartement,358,8,1,5,Pompe à chaleur,Standard,A,2598171,Oui,Oui
+BIEN_000530,Appartement,235,5,4,3,Électrique,Standard,Non renseigné,1519631,Oui,Oui
+BIEN_000006,Appartement,163,3,5,1,Gaz,Haut standing,F,4253057,Oui,Oui
+BIEN_000185,Villa,140,4,2,2,Électrique,Haut standing,B,549763,Non,Oui
+BIEN_000130,Appartement,146,3,1,3,Électrique,Haut standing,D,3132284,Oui,Non
+BIEN_001000,Appartement,221,8,4,2,Fioul,Haut standing,G,5256459,Oui,Non
+BIEN_000311,Maison,15,3,1,1,Aucun,Standard,B,3468585,Non,Non
+BIEN_000155,Villa,302,4,4,1,Climatisation réversible,Haut standing,C,4719341,Non,Oui
+BIEN_000887,Maison,152,6,3,1,Climatisation réversible,Haut standing,B,3347806,Non,Non
+BIEN_000851,Terrain,191,7,1,2,Chauffage central,Haut standing,E,1843858,Non,Oui
+BIEN_000902,Terrain,298,3,5,1,Électrique,Haut standing,F,1450528,Oui,Oui
+BIEN_000221,Appartement,101,4,0,1,Pompe à chaleur,Haut standing,Non renseigné,416460,Non,Non
+BIEN_000283,Villa,400,8,3,3,Pompe à chaleur,Haut standing,F,3563026,Oui,Non
+BIEN_000993,Appartement,181,2,4,4,Gaz,Haut standing,B,1761880,Oui,Non
+BIEN_000318,Studio,138,2,2,3,Chauffage central,Standard,A,-159930,Oui,Non
+BIEN_000288,Villa,122,5,1,3,Climatisation réversible,Moyen,B,3762290,Oui,Oui
+BIEN_000288,Appartement,138,5,3,2,Gaz,Standard,E,3288954,Non,Non
+BIEN_000565,Maison,148,0,0,2,Aucun,Standard,G,2678916,Non,Non
+BIEN_000202,Appartement,197,5,2,1,Gaz,Standard,G,3096418,Oui,Non
+BIEN_000384,Terrain,182,5,3,3,Autre,Standard,E,2691457,Oui,Non
+BIEN_000764,Appartement,169,8,2,2,Électrique,Standard,F,3050304,Oui,Non
+BIEN_000681,Villa,107,5,5,2,Gaz,Haut standing,Non renseigné,2374131,Non,Oui
+BIEN_000702,Maison,194,3,0,3,Électrique,Haut standing,G,3387303,Oui,Non
+BIEN_000136,Appartement,114,5,0,1,Électrique,Moyen,F,3293685,Non,Non
+BIEN_000955,Appartement,217,7,1,3,Gaz,Haut standing,F,6974573,Oui,Oui
+BIEN_000796,Appartement,134,3,2,3,Chauffage central,Standard,G,3865309,Oui,Non
+BIEN_000316,Studio,-66,3,2,1,Gaz,Haut standing,C,2166753,Non,Non
+BIEN_000999,Appartement,184,4,3,3,Pompe à chaleur,Moyen,F,6661504,Oui,Non
+BIEN_000210,Duplex,498,5,3,3,Pompe à chaleur,Haut standing,C,6459094,Oui,Oui
+BIEN_000236,Loft,121,4,2,2,Pompe à chaleur,Standard,E,3676726,Oui,Oui
+BIEN_000094,Appartement,37,4,0,1,Gaz,Haut standing,C,1585430,Non,Oui
+BIEN_000855,Appartement,110,3,2,1,Pompe à chaleur,Standard,G,3656308,Non,Non
+BIEN_000676,Appartement,178,5,2,2,Gaz,Haut standing,B,2489353,Oui,Non
+BIEN_000378,Appartement,167,7,3,1,Électrique,Luxe,Non renseigné,5114387,Non,Non
+BIEN_000408,Appartement,178,0,4,2,Pompe à chaleur,Haut standing,B,4365314,Non,Oui
+BIEN_000693,Appartement,166,5,1,1,Électrique,Haut standing,Non renseigné,4301309,Non,Non
+BIEN_000866,Maison,168,4,3,3,Pompe à chaleur,Haut standing,E,3096140,Non,Non
+BIEN_000277,Villa,219,7,3,1,Électrique,Haut standing,G,2790896,Oui,Oui
+BIEN_000269,Duplex,244,7,3,2,Gaz,Luxe,B,2420704,Oui,Non
+BIEN_000465,Appartement,177,4,0,1,Climatisation réversible,Standard,F,3966528,Non,Non
+BIEN_000933,Appartement,125,5,2,1,Électrique,Haut standing,Non renseigné,4166153,Non,Non
+BIEN_000536,Villa,242,5,2,4,Pompe à chaleur,Haut standing,E,2533042,Oui,Non
+BIEN_000737,Studio,213,1,0,1,Gaz,Standard,F,4329298,Oui,Oui
+BIEN_000638,Appartement,354,4,1,1,Gaz,Standard,E,2042955,Non,Non
+BIEN_000335,Appartement,177,4,5,4,Chauffage central,Haut standing,D,5818029,Oui,Oui
+BIEN_000993,Villa,55,4,5,1,Pompe à chaleur,Haut standing,C,453666,Oui,Oui
+BIEN_000336,Duplex,231,4,4,3,Autre,Standard,G,1502219,Non,Non
+BIEN_000960,Penthouse,50,6,1,0,Climatisation réversible,Haut standing,G,4345271,Non,Non
+BIEN_000175,Appartement,159,1,2,3,Électrique,Haut standing,B,645419,Oui,Non
+BIEN_000466,Appartement,153,6,2,2,Gaz,Haut standing,B,2273689,Oui,Non
+BIEN_000666,Appartement,76,1,1,1,Électrique,Moyen,B,1401820,Non,Non
+BIEN_000133,Maison,132,6,1,2,Pompe à chaleur,Haut standing,E,3261384,Oui,Non
+BIEN_000449,Maison,521,5,5,1,Climatisation réversible,Haut standing,C,2183079,Oui,Oui
+BIEN_000340,Appartement,119,2,0,1,Gaz,Standard,E,3790975,Oui,Non
+BIEN_000304,Studio,86,4,2,2,Climatisation réversible,Haut standing,G,4523237,Non,Non
+BIEN_000220,Appartement,189,5,2,1,Électrique,Moyen,G,4912071,Non,Non
+BIEN_000227,Studio,215,3,2,1,Électrique,Standard,B,4794260,Non,Non
+BIEN_000115,Villa,184,6,3,2,Pompe à chaleur,Haut standing,A,3346847,Non,Non
+BIEN_000081,Villa,368,2,5,2,Chauffage central,Haut standing,A,4949993,Oui,Non
+BIEN_000767,Appartement,38,3,1,1,Gaz,Standard,F,2382102,Non,Non
+BIEN_000763,Appartement,180,4,0,1,Pompe à chaleur,Standard,G,2427718,Non,Non
+BIEN_000405,Terrain,178,7,4,1,Gaz,Moyen,F,3179070,Oui,Non
+BIEN_000259,Appartement,193,4,4,3,Aucun,Moyen,E,4266078,Non,Non
+BIEN_000375,Appartement,171,3,0,1,Gaz,Haut standing,G,-11566,Non,Non
+BIEN_000047,Appartement,269,4,0,1,Gaz,Moyen,G,3416890,Non,Non
+BIEN_000473,Maison,211,5,5,1,Chauffage central,Moyen,A,224215,Oui,Oui
+BIEN_000324,Appartement,2,3,1,1,Électrique,Haut standing,D,4896697,Non,Non
+BIEN_000449,Appartement,191,7,3,3,Gaz,Haut standing,D,2538101,Non,Non
+BIEN_000197,Appartement,244,1,2,1,Gaz,Standard,C,6630720,Non,Non
+BIEN_000597,Villa,206,0,5,2,Électrique,Luxe,E,3287090,Oui,Non
+BIEN_000871,Studio,336,5,2,3,Climatisation réversible,Standard,G,1969630,Oui,Non
+BIEN_000753,Loft,140,3,0,1,Gaz,Moyen,B,1310522,Non,Non
+BIEN_000587,Appartement,216,3,1,3,Gaz,Moyen,E,2471882,Non,Non
+BIEN_000462,Appartement,217,6,2,2,Gaz,Standard,G,3465115,Non,Oui
+BIEN_000706,Villa,258,4,5,3,Électrique,Luxe,G,5572391,Oui,Oui
+BIEN_000040,Appartement,167,6,2,1,Fioul,Haut standing,E,2689135,Non,Non
+BIEN_000006,Terrain,105,3,0,1,Électrique,Haut standing,G,1613316,Non,Non
+BIEN_000692,Villa,264,4,3,1,Chauffage central,Haut standing,E,4979674,Non,Non
+BIEN_000683,Appartement,243,3,2,2,Pompe à chaleur,Haut standing,G,4248073,Oui,Non
+BIEN_000541,Appartement,168,5,3,1,Électrique,Standard,D,2300837,Non,Non
+BIEN_000692,Loft,209,7,1,1,Fioul,Moyen,C,5153404,Oui,Non
+BIEN_000196,Maison,191,6,5,4,Chauffage central,Moyen,E,1109263,Oui,Oui
+BIEN_000655,Duplex,220,6,5,1,Chauffage central,Haut standing,B,5615348,Oui,Non
+BIEN_000960,Appartement,253,5,2,2,Gaz,Standard,E,5753726,Oui,Non
+BIEN_000304,Villa,89,1,3,1,Gaz,Moyen,F,3001469,Non,Non
+BIEN_000631,Maison,298,3,3,5,Climatisation réversible,Haut standing,B,2041506,Oui,Oui
+BIEN_000815,Duplex,182,3,4,1,Fioul,Moyen,D,6755574,Oui,Non
+BIEN_000835,Terrain,432,0,0,1,Aucun,Haut standing,B,3566706,Non,Non
+BIEN_000511,Villa,414,5,2,1,Gaz,Haut standing,G,4590168,Oui,Non
+BIEN_000785,Appartement,168,8,3,2,Pompe à chaleur,Standard,C,-176781,Non,Non
+BIEN_000437,Appartement,263,4,1,1,Gaz,Standard,E,6534246,Oui,Non
+BIEN_000032,Studio,5,3,0,1,Électrique,Haut standing,F,2343125,Non,Non
+BIEN_000959,Appartement,99,5,2,1,Pompe à chaleur,Moyen,G,2296721,Oui,Oui
+BIEN_000235,Villa,335,4,2,1,Chauffage central,Moyen,D,4782985,Non,Oui
+BIEN_000066,Villa,242,1,0,1,Électrique,Moyen,F,2591541,Oui,Oui
+BIEN_000517,Appartement,114,2,1,0,Aucun,Moyen,E,2750441,Non,Non
+BIEN_000693,Appartement,6,4,3,1,Gaz,Standard,G,1919681,Non,Non
+BIEN_000471,Maison,164,3,1,1,Électrique,Standard,E,5088857,Non,Non
+BIEN_000906,Maison,208,3,5,4,Aucun,Haut standing,G,4165594,Oui,Non
+BIEN_000696,Appartement,244,5,2,2,Électrique,Standard,C,3951873,Oui,Oui
+BIEN_000883,Appartement,219,5,3,4,Électrique,Moyen,B,2568955,Oui,Oui
+BIEN_000191,Duplex,184,5,2,4,Électrique,Haut standing,G,4184427,Oui,Oui
+BIEN_000276,Appartement,495,5,4,4,Pompe à chaleur,Haut standing,C,1060924,Oui,Oui
+BIEN_000388,Studio,170,1,5,2,Gaz,Moyen,E,2364792,Non,Non
+BIEN_000972,Appartement,250,4,0,1,Pompe à chaleur,Standard,D,3780845,Oui,Non
+BIEN_000988,Terrain,102,7,0,2,Gaz,Standard,E,4740050,Non,Oui
+BIEN_000259,Terrain,191,3,1,5,Électrique,Luxe,F,2226832,Non,Oui
+BIEN_000745,Villa,98,5,5,3,Gaz,Moyen,G,6212073,Non,Oui
+BIEN_000452,Maison,204,7,0,2,Chauffage central,Standard,A,5643704,Oui,Oui
+BIEN_000643,Terrain,188,4,5,3,Électrique,Moyen,F,1734569,Oui,Oui
+BIEN_000260,Villa,109,6,2,2,Fioul,Standard,A,4473103,Oui,Non
+BIEN_000835,Loft,118,6,1,1,Pompe à chaleur,Standard,A,1138000,Non,Non
+BIEN_000301,Appartement,218,3,2,2,Chauffage central,Haut standing,B,5053176,Non,Non
+BIEN_000455,Villa,109,3,5,1,Électrique,Standard,F,1171313,Non,Non
+BIEN_000137,Appartement,264,4,3,3,Électrique,Moyen,E,2363143,Oui,Oui
+BIEN_000232,Studio,91,6,3,3,Électrique,Haut standing,C,3543777,Oui,Oui
+BIEN_000106,Appartement,143,4,2,3,Électrique,Haut standing,G,2111595,Non,Non
+BIEN_000824,Maison,103,5,4,4,Pompe à chaleur,Moyen,G,2532098,Non,Oui
+BIEN_000348,Loft,178,4,3,2,Électrique,Luxe,E,4501769,Non,Non
+BIEN_000232,Appartement,294,4,4,2,Gaz,Haut standing,E,5121928,Non,Non
+BIEN_000024,Appartement,121,3,1,2,Électrique,Moyen,Non renseigné,5834164,Non,Non
+BIEN_000238,Villa,274,5,2,0,Chauffage central,Moyen,C,6251773,Oui,Oui
+BIEN_000495,Appartement,201,5,0,1,Fioul,Standard,E,3342418,Oui,Oui
+BIEN_000110,Villa,158,5,3,1,Pompe à chaleur,Standard,C,2323163,Non,Non
+BIEN_000598,Villa,206,5,5,4,Pompe à chaleur,Moyen,E,4361608,Non,Non
+BIEN_000451,Penthouse,253,8,0,3,Électrique,Moyen,A,3993231,Oui,Non
+BIEN_000044,Maison,130,3,5,2,Électrique,Haut standing,G,2342009,Oui,Non
+BIEN_000847,Studio,185,5,2,1,Fioul,Haut standing,F,262801,Oui,Oui
+BIEN_000806,Appartement,369,8,2,1,Chauffage central,Moyen,B,4305770,Non,Non
+BIEN_000892,Appartement,-51,0,1,1,Gaz,Standard,G,5419475,Non,Non
+BIEN_000801,Appartement,207,0,1,1,Pompe à chaleur,Haut standing,B,3435784,Non,Non
+BIEN_000241,Villa,209,5,1,1,Chauffage central,Haut standing,G,1157965,Oui,Oui
+BIEN_000840,Appartement,86,4,5,2,Fioul,Haut standing,A,1963968,Oui,Oui
+BIEN_000905,Appartement,129,5,1,1,Gaz,Moyen,C,1051221,Non,Non
+BIEN_000126,Appartement,251,3,2,1,Électrique,Haut standing,Non renseigné,4087272,Oui,Oui
+BIEN_000594,Maison,244,5,5,1,Électrique,Luxe,B,2190997,Oui,Oui
+BIEN_000907,Appartement,88,2,1,4,Pompe à chaleur,Moyen,B,3898283,Non,Non
+BIEN_000450,Appartement,169,2,2,1,Gaz,Standard,F,2466567,Oui,Oui
+BIEN_000603,Duplex,232,5,3,5,Chauffage central,Haut standing,E,3196235,Oui,Oui
+BIEN_000209,Studio,95,0,0,3,Autre,Haut standing,A,4035469,Oui,Non
+BIEN_000893,Appartement,380,4,1,1,Fioul,Haut standing,F,5677423,Non,Non
+BIEN_000596,Villa,280,1,5,2,Chauffage central,Standard,D,7237188,Oui,Oui
+BIEN_000709,Appartement,172,3,1,3,Fioul,Luxe,A,5112841,Non,Non
+BIEN_000907,Villa,248,4,2,3,Fioul,Luxe,B,1881114,Oui,Oui
+BIEN_000880,Appartement,258,5,2,2,Pompe à chaleur,Haut standing,D,5443293,Oui,Oui
+BIEN_000692,Appartement,160,3,0,1,Gaz,Standard,D,3367334,Non,Non
+BIEN_000399,Appartement,269,4,5,2,Pompe à chaleur,Standard,A,6730067,Oui,Non
+BIEN_000543,Appartement,181,3,2,1,Électrique,Haut standing,B,3163801,Non,Oui
+BIEN_000719,Appartement,135,7,1,2,Électrique,Haut standing,F,2579004,Oui,Oui
+BIEN_000514,Terrain,485,7,2,1,Électrique,Standard,G,2921236,Oui,Oui
+BIEN_000374,Villa,128,5,3,3,Chauffage central,Haut standing,D,4021075,Oui,Non
+BIEN_000582,Appartement,189,5,5,1,Électrique,Moyen,C,1742898,Non,Oui
+BIEN_000793,Maison,75,4,1,1,Pompe à chaleur,Haut standing,E,3257975,Non,Oui
+BIEN_000586,Penthouse,238,3,2,4,Électrique,Haut standing,G,5694838,Oui,Oui
+BIEN_000232,Maison,410,6,3,2,Électrique,Luxe,C,1302145,Oui,Oui
+BIEN_000947,Appartement,173,3,0,0,Électrique,Standard,Non renseigné,4732427,Oui,Non
+BIEN_000529,Appartement,210,4,3,3,Pompe à chaleur,Haut standing,A,3952392,Oui,Non
+BIEN_000765,Maison,257,3,1,1,Gaz,Haut standing,B,2485680,Oui,Non
+BIEN_000790,Villa,104,0,3,1,Gaz,Haut standing,C,6641642,Non,Oui
+BIEN_000259,Villa,248,5,0,2,Pompe à chaleur,Haut standing,B,2501215,Oui,Non
+BIEN_000428,Maison,237,3,5,1,Électrique,Luxe,B,2006143,Oui,Non
+BIEN_000816,Villa,227,3,2,1,Climatisation réversible,Standard,Non renseigné,1164186,Oui,Non
+BIEN_000277,Appartement,145,4,0,1,Gaz,Moyen,F,2593913,Non,Non
+BIEN_000214,Villa,141,0,3,2,Climatisation réversible,Standard,G,780704,Non,Oui
+BIEN_000362,Villa,152,6,1,2,Pompe à chaleur,Haut standing,F,5594579,Oui,Non
+BIEN_000047,Appartement,96,1,1,1,Électrique,Moyen,E,1426445,Non,Non
+BIEN_000761,Maison,56,1,0,1,Électrique,Haut standing,F,2475337,Non,Oui
+BIEN_000938,Studio,191,6,2,1,Gaz,Haut standing,G,1916640,Oui,Non
+BIEN_000487,Villa,239,5,5,2,Fioul,Haut standing,Non renseigné,1094331,Oui,Non
+BIEN_000008,Appartement,224,4,3,4,Gaz,Standard,B,4054434,Oui,Non
+BIEN_000635,Appartement,247,2,4,1,Électrique,Haut standing,C,2277359,Oui,Non
+BIEN_000132,Villa,195,2,1,3,Fioul,Moyen,A,5341200,Oui,Non
+BIEN_000090,Appartement,94,7,5,1,Gaz,Haut standing,B,4026356,Non,Non
+BIEN_000753,Studio,173,5,0,1,Gaz,Haut standing,B,2530072,Oui,Non
+BIEN_000534,Appartement,202,5,2,1,Chauffage central,Moyen,C,3106172,Oui,Oui
+BIEN_000932,Studio,62,3,0,1,Gaz,Haut standing,G,1588855,Non,Non
+BIEN_000393,Appartement,92,4,4,1,Fioul,Moyen,F,4583107,Oui,Oui
+BIEN_000483,Maison,77,5,3,1,Chauffage central,Haut standing,G,6904679,Non,Oui
+BIEN_000200,Duplex,215,4,0,3,Gaz,Standard,D,286543,Oui,Oui
+BIEN_000052,Studio,-5,5,2,1,Chauffage central,Moyen,F,5332809,Non,Non
+BIEN_000247,Villa,77,4,2,4,Électrique,Standard,Non renseigné,743324,Non,Non
+BIEN_000498,Appartement,252,5,2,3,Électrique,Haut standing,C,2476533,Non,Non
+BIEN_000709,Terrain,117,4,3,1,Gaz,Moyen,F,2342362,Non,Non
+BIEN_000991,Maison,242,6,4,1,Chauffage central,Standard,A,5167280,Oui,Oui
+BIEN_000670,Maison,407,6,1,2,Fioul,Haut standing,C,1919300,Oui,Oui
+BIEN_000753,Appartement,118,3,1,1,Électrique,Luxe,Non renseigné,4667549,Oui,Non
+BIEN_000347,Appartement,101,8,2,2,Pompe à chaleur,Haut standing,E,4224467,Oui,Oui
+BIEN_000307,Maison,273,4,3,2,Pompe à chaleur,Moyen,F,3308136,Oui,Oui
+BIEN_000068,Appartement,288,7,2,3,Électrique,Haut standing,G,2809017,Oui,Oui
+BIEN_000891,Appartement,222,1,0,1,Fioul,Standard,F,696082,Non,Non
+BIEN_000646,Maison,273,1,0,1,Gaz,Haut standing,E,3619367,Oui,Non
+BIEN_000657,Loft,422,7,0,1,Gaz,Haut standing,G,3912805,Oui,Oui
+BIEN_000093,Appartement,116,5,0,1,Électrique,Moyen,F,2417476,Oui,Non
+BIEN_000868,Villa,205,7,2,2,Gaz,Haut standing,E,6292944,Oui,Oui
+BIEN_000338,Villa,414,0,4,3,Pompe à chaleur,Luxe,G,1382958,Non,Non
+BIEN_000646,Maison,319,3,0,0,Électrique,Standard,E,541406,Oui,Non
+BIEN_000208,Villa,174,5,1,4,Gaz,Haut standing,C,5556478,Oui,Oui
+BIEN_000017,Villa,81,4,0,1,Pompe à chaleur,Moyen,F,4251000,Oui,Non
+BIEN_000598,Maison,254,3,5,2,Pompe à chaleur,Standard,F,4286044,Oui,Oui
+BIEN_000472,Villa,145,4,0,2,Électrique,Luxe,E,3137453,Oui,Non
+BIEN_000158,Villa,247,1,0,2,Électrique,Haut standing,D,1355690,Oui,Oui
+BIEN_000382,Appartement,323,4,1,0,Fioul,Haut standing,E,3061400,Non,Non
+BIEN_000307,Duplex,402,7,1,2,Électrique,Haut standing,G,3775291,Oui,Non
+BIEN_000855,Studio,4357,5,2,4,Climatisation réversible,Haut standing,G,3941889,Oui,Non
+BIEN_000606,Loft,64,3,1,5,Électrique,Moyen,G,3741417,Oui,Non
+BIEN_000614,Appartement,206,5,3,2,Fioul,Haut standing,C,-53384,Oui,Non
+BIEN_000295,Villa,161,6,4,1,Électrique,Luxe,G,2297584,Oui,Non
+BIEN_000487,Appartement,184,4,5,1,Climatisation réversible,Haut standing,E,3773713,Non,Oui
+BIEN_000371,Villa,208,2,0,5,Pompe à chaleur,Standard,E,3674502,Oui,Oui
+BIEN_000852,Appartement,126,1,2,1,Gaz,Haut standing,E,3826817,Non,Non
+BIEN_000815,Appartement,189,5,1,2,Fioul,Luxe,D,3166408,Oui,Non
+BIEN_000255,Appartement,446,3,2,3,Pompe à chaleur,Standard,C,2110029,Oui,Non
+BIEN_000475,Maison,187,4,1,3,Fioul,Haut standing,E,5226937,Oui,Non
+BIEN_000968,Appartement,154,2,4,3,Électrique,Moyen,E,4048006,Non,Oui
+BIEN_000636,Appartement,190,6,5,1,Pompe à chaleur,Moyen,B,2710883,Oui,Oui
+BIEN_000828,Terrain,117,6,5,2,Électrique,Standard,C,2970291,Oui,Non
+BIEN_000321,Appartement,145,6,1,2,Électrique,Haut standing,B,3523677,Non,Oui
+BIEN_000039,Maison,259,7,0,1,Climatisation réversible,Standard,G,5719851,Oui,Non
+BIEN_000491,Appartement,232,4,3,1,Gaz,Haut standing,E,6457123,Non,Non
+BIEN_000043,Appartement,43,3,2,2,Fioul,Haut standing,G,4306214,Oui,Non
+BIEN_000095,Maison,471,5,5,1,Gaz,Moyen,E,2578026,Oui,Oui
+BIEN_000652,Villa,487,5,0,2,Gaz,Moyen,E,2566317,Non,Oui
+BIEN_000730,Villa,170,1,2,2,Chauffage central,Haut standing,C,901098,Oui,Oui
+BIEN_000903,Loft,129,5,4,2,Fioul,Standard,B,1016094,Non,Non
+BIEN_000002,Appartement,261,7,1,3,Électrique,Moyen,F,192650,Non,Non
+BIEN_000547,Appartement,153,4,2,1,Électrique,Moyen,G,2555573,Oui,Non
+BIEN_000561,Appartement,44,6,0,1,Électrique,Standard,D,2931283,Non,Oui
+BIEN_000190,Loft,383,1,0,2,Pompe à chaleur,Standard,E,3149266,Non,Non
+BIEN_000357,Appartement,144,8,4,3,Électrique,Haut standing,G,212618,Oui,Oui
+BIEN_000013,Maison,207,5,3,4,Gaz,Standard,E,5210108,Non,Non
+BIEN_000240,Villa,114,6,3,1,Électrique,Haut standing,E,4271029,Oui,Oui
+BIEN_000508,Studio,202,1,1,4,Fioul,Haut standing,C,1330677,Non,Non
+BIEN_000054,Maison,266,4,3,2,Pompe à chaleur,Moyen,B,2021073,Oui,Non
+BIEN_000532,Studio,429,7,5,2,Pompe à chaleur,Haut standing,F,3237454,Oui,Oui
+BIEN_000217,Appartement,-25,3,1,4,Climatisation réversible,Standard,F,4755619,Oui,Non
+BIEN_000701,Appartement,87,4,0,1,Gaz,Haut standing,F,3787091,Non,Non
+BIEN_000328,Terrain,210,4,3,1,Chauffage central,Haut standing,E,2435725,Oui,Oui
+BIEN_000255,Maison,175,5,2,1,Électrique,Moyen,A,3285000,Oui,Oui
+BIEN_000327,Appartement,169,2,0,1,Électrique,Standard,D,3600272,Oui,Non
+BIEN_000017,Appartement,214,6,5,1,Électrique,Standard,F,-445536,Oui,Non
+BIEN_000250,Maison,76,3,2,2,Gaz,Standard,E,4606233,Non,Non
+BIEN_000206,Appartement,86,3,1,1,Gaz,Standard,D,1292159,Non,Non
+BIEN_000871,Appartement,194,2,1,2,Gaz,Haut standing,F,1816668,Oui,Oui
+BIEN_000283,Loft,189,5,0,1,Gaz,Haut standing,B,1962426,Oui,Non
+BIEN_000757,Appartement,97,4,2,3,Gaz,Moyen,D,4119655,Oui,Oui
+BIEN_000914,Duplex,84,5,1,1,Pompe à chaleur,Moyen,F,2745008,Oui,Non
+BIEN_000728,Appartement,39,4,3,1,Électrique,Haut standing,D,3378956,Non,Non
+BIEN_000967,Terrain,442,4,3,2,Fioul,Haut standing,F,2639410,Oui,Non
+BIEN_000462,Appartement,157,7,3,1,Aucun,Haut standing,E,4511180,Oui,Oui
+BIEN_000955,Appartement,370,5,3,1,Fioul,Moyen,E,1690118,Non,Non
+BIEN_000320,Terrain,154,3,2,1,Gaz,Moyen,B,4347906,Non,Non
+BIEN_000554,Villa,142,2,1,2,Électrique,Haut standing,E,5114127,Non,Oui
+BIEN_000065,Studio,215,3,1,4,Gaz,Moyen,G,3770838,Non,Non
+BIEN_000953,Studio,92,5,5,1,Autre,Luxe,G,2897680,Non,Non
+BIEN_000102,Appartement,245,3,0,1,Pompe à chaleur,Moyen,B,3872460,Non,Non
+BIEN_000024,Maison,23,2,0,1,Gaz,Standard,E,5204313,Non,Non
+BIEN_000681,Terrain,96,1,0,1,Fioul,Haut standing,G,807910,Oui,Non
+BIEN_000694,Maison,3,4,2,3,Pompe à chaleur,Moyen,E,6491794,Oui,Non
+BIEN_000051,Villa,218,7,0,1,Gaz,Haut standing,B,2613078,Oui,Non
+BIEN_000032,Loft,225,4,4,1,Pompe à chaleur,Haut standing,D,3691530,Oui,Oui
+BIEN_000461,Maison,4920,4,0,2,Pompe à chaleur,Haut standing,B,3971438,Non,Non
+BIEN_000936,Penthouse,283,2,0,1,Pompe à chaleur,Haut standing,F,1834495,Non,Non
+BIEN_000012,Duplex,47,1,0,1,Électrique,Standard,B,2988261,Non,Non
+BIEN_000300,Villa,232,3,5,3,Gaz,Standard,F,1926184,Oui,Non
+BIEN_000424,Appartement,245,1,2,1,Électrique,Moyen,B,6885435,Non,Non

@@ -1,0 +1,57 @@
+{
+  "generation_info": {
+    "category": "sport_data",
+    "n_samples": 1000,
+    "generated_at": "2026-01-10T11:03:31.144154",
+    "bias_type": "geographic",
+    "bias_intensity": 0.5
+  },
+  "bias_report": {
+    "type": "geographic_bias",
+    "details": {
+      "region_column": "pays",
+      "overrepresented": "USA",
+      "original_distribution": {
+        "USA": 352,
+        "Espagne": 217,
+        "France": 118,
+        "Angleterre": 83,
+        "Nouvelle-Zélande": 65,
+        "Maroc": 59,
+        "Afrique du Sud": 56,
+        "Allemagne": 50
+      },
+      "biased_distribution": {
+        "USA": 528,
+        "Espagne": 217,
+        "France": 118,
+        "Angleterre": 83,
+        "Nouvelle-Zélande": 65,
+        "Maroc": 59,
+        "Afrique du Sud": 56,
+        "Allemagne": 50
+      },
+      "duplicated_count": 176
+    },
+    "original_size": 1000,
+    "biased_size": 1176,
+    "bias_type": "geographic",
+    "intensity": 0.5,
+    "applied_at": "2026-01-10T11:03:29.370136"
+  },
+  "analysis": {
+    "size_comparison": {
+      "original": 1000,
+      "biased": 1176,
+      "change_pct": 17.599999999999998
+    },
+    "distribution_changes": {},
+    "statistical_tests": {}
+  },
+  "files": {
+    "biased_dataset": "output\\sport_data_biased_20260110_110328.csv",
+    "original_dataset": "output\\sport_data_original_20260110_110328.csv",
+    "visualization": "output\\bias_sport_data_geographic_20260110_110328.png",
+    "report": "output\\sport_data_report_20260110_110328.json"
+  }
+}

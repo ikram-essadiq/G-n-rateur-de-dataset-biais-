@@ -1,0 +1,56 @@
+{
+  "generation_info": {
+    "category": "energie_mondiale",
+    "n_samples": 1000,
+    "generated_at": "2026-01-05T00:28:34.692730",
+    "bias_type": "sampling",
+    "bias_intensity": 0.5
+  },
+  "bias_report": {
+    "type": "sampling_bias",
+    "details": {
+      "original_size": 1000,
+      "sampled_size": 750,
+      "sampling_method": "exponential"
+    },
+    "original_size": 1000,
+    "biased_size": 750,
+    "bias_type": "sampling",
+    "intensity": 0.5,
+    "applied_at": "2026-01-05T00:28:32.275878"
+  },
+  "analysis": {
+    "size_comparison": {
+      "original": 1000,
+      "biased": 750,
+      "change_pct": -25.0
+    },
+    "distribution_changes": {
+      "id": {
+        "original_mean": 5069.078,
+        "biased_mean": 5038.376,
+        "original_std": 2837.8787870389965,
+        "biased_std": 2836.1542852008747,
+        "mean_change_pct": -0.6056722741295284,
+        "ks_statistic": 0.012333333333333333,
+        "ks_pvalue": 0.9999998519118027
+      },
+      "valeur": {
+        "original_mean": 50.37573741463806,
+        "biased_mean": 51.15020054766447,
+        "original_std": 29.255668388484633,
+        "biased_std": 29.410781954337242,
+        "mean_change_pct": 1.537373292722916,
+        "ks_statistic": 0.018666666666666668,
+        "ks_pvalue": 0.9978199372716522
+      }
+    },
+    "statistical_tests": {}
+  },
+  "files": {
+    "biased_dataset": "output\\energie_mondiale_biased_20260105_002832.csv",
+    "original_dataset": "output\\energie_mondiale_original_20260105_002832.csv",
+    "visualization": "output\\bias_energie_mondiale_sampling_20260105_002832.png",
+    "report": "output\\energie_mondiale_report_20260105_002832.json"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "generation_info": {
+    "category": "biens_complets",
+    "n_samples": 1000,
+    "generated_at": "2026-01-05T00:31:42.080075",
+    "bias_type": "sampling",
+    "bias_intensity": 0.5
+  },
+  "bias_report": {
+    "type": "sampling_bias",
+    "details": {
+      "original_size": 1000,
+      "sampled_size": 750,
+      "sampling_method": "exponential"
+    },
+    "original_size": 1000,
+    "biased_size": 750,
+    "bias_type": "sampling",
+    "intensity": 0.5,
+    "applied_at": "2026-01-05T00:31:39.741570"
+  },
+  "analysis": {
+    "size_comparison": {
+      "original": 1000,
+      "biased": 750,
+      "change_pct": -25.0
+    },
+    "distribution_changes": {
+      "id": {
+        "original_mean": 4992.204,
+        "biased_mean": 5009.933333333333,
+        "original_std": 2836.7234317451907,
+        "biased_std": 2843.035719970632,
+        "mean_change_pct": 0.3551404015808111,
+        "ks_statistic": 0.009666666666666667,
+        "ks_pvalue": 0.9999999999966057
+      },
+      "valeur": {
+        "original_mean": 50.85111237422438,
+        "biased_mean": 51.184298136197576,
+        "original_std": 29.14343757535534,
+        "biased_std": 28.983048191646134,
+        "mean_change_pct": 0.6552182369592155,
+        "ks_statistic": 0.014333333333333333,
+        "ks_pvalue": 0.9999875349437071
+      }
+    },
+    "statistical_tests": {}
+  },
+  "files": {
+    "biased_dataset": "output\\biens_complets_biased_20260105_003139.csv",
+    "original_dataset": "output\\biens_complets_original_20260105_003139.csv",
+    "visualization": "output\\bias_biens_complets_sampling_20260105_003139.png",
+    "report": "output\\biens_complets_report_20260105_003139.json"
+  }
+}

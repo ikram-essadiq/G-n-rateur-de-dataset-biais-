@@ -1,0 +1,72 @@
+{
+  "generation_info": {
+    "category": "students_education",
+    "n_samples": 1000,
+    "generated_at": "2026-01-11T13:42:09.611752",
+    "bias_type": "gender",
+    "bias_intensity": 0.5
+  },
+  "bias_report": {
+    "type": "gender_bias",
+    "details": {
+      "gender_column": "genre",
+      "target_column": "moyenne",
+      "favored_gender": "f",
+      "mean_favored_before": 14.550338981390002,
+      "mean_favored_after": 21.825508472085,
+      "mean_other_before": 14.43208074390082,
+      "mean_other_after": 10.824060557925614,
+      "gap_percentage": 101.63882449922075,
+      "count_favored": 314,
+      "count_other": 686
+    },
+    "original_size": 1000,
+    "biased_size": 1000,
+    "bias_type": "gender",
+    "intensity": 0.5,
+    "applied_at": "2026-01-11T13:42:07.248692"
+  },
+  "analysis": {
+    "size_comparison": {
+      "original": 1000,
+      "biased": 1000,
+      "change_pct": 0.0
+    },
+    "distribution_changes": {
+      "age": {
+        "original_mean": 11.107,
+        "biased_mean": 11.107,
+        "original_std": 5.227320142852921,
+        "biased_std": 5.227320142852921,
+        "mean_change_pct": 0.0,
+        "ks_statistic": 0.0,
+        "ks_pvalue": 1.0
+      },
+      "moyenne": {
+        "original_mean": 14.469213830472421,
+        "biased_mean": 14.278515202971663,
+        "original_std": 1.8415932377488122,
+        "biased_std": 5.455813718571195,
+        "mean_change_pct": -1.317961222591276,
+        "ks_statistic": 0.449,
+        "ks_pvalue": 3.866163455650273e-91
+      },
+      "absence": {
+        "original_mean": 6.713,
+        "biased_mean": 6.713,
+        "original_std": 3.8391887646181675,
+        "biased_std": 3.8391887646181675,
+        "mean_change_pct": 0.0,
+        "ks_statistic": 0.0,
+        "ks_pvalue": 1.0
+      }
+    },
+    "statistical_tests": {}
+  },
+  "files": {
+    "biased_dataset": "output\\students_education_biased_20260111_134205.csv",
+    "original_dataset": "output\\students_education_original_20260111_134205.csv",
+    "visualization": "output\\bias_students_education_gender_20260111_134205.png",
+    "report": "output\\students_education_report_20260111_134205.json"
+  }
+}

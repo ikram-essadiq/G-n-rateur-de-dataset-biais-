@@ -1,0 +1,56 @@
+{
+  "generation_info": {
+    "category": "finance_data",
+    "n_samples": 1000,
+    "generated_at": "2026-01-11T13:52:48.352005",
+    "bias_type": "geographic",
+    "bias_intensity": 0.5
+  },
+  "bias_report": {
+    "type": "geographic_bias",
+    "details": {
+      "region_column": "ville",
+      "overrepresented": "New York",
+      "duplicated_count": 64
+    },
+    "original_size": 1000,
+    "biased_size": 1064,
+    "bias_type": "geographic",
+    "intensity": 0.5,
+    "applied_at": "2026-01-11T13:52:46.197269"
+  },
+  "analysis": {
+    "size_comparison": {
+      "original": 1000,
+      "biased": 1064,
+      "change_pct": 6.4
+    },
+    "distribution_changes": {
+      "montant": {
+        "original_mean": 3606.9918419933756,
+        "biased_mean": 3497.750293020919,
+        "original_std": 14342.900078047116,
+        "biased_std": 13949.047910476882,
+        "mean_change_pct": -3.0286053797139227,
+        "ks_statistic": 0.005879699248120301,
+        "ks_pvalue": 1.0
+      },
+      "frais": {
+        "original_mean": 5.396174240273912,
+        "biased_mean": 5.157540789061261,
+        "original_std": 118.6413713988847,
+        "biased_std": 115.09339217029304,
+        "mean_change_pct": -4.422271049500357,
+        "ks_statistic": 0.006977443609022556,
+        "ks_pvalue": 0.9999999999999996
+      }
+    },
+    "statistical_tests": {}
+  },
+  "files": {
+    "biased_dataset": "output\\finance_data_biased_20260111_135245.csv",
+    "original_dataset": "output\\finance_data_original_20260111_135245.csv",
+    "visualization": "output\\bias_finance_data_geographic_20260111_135245.png",
+    "report": "output\\finance_data_report_20260111_135245.json"
+  }
+}

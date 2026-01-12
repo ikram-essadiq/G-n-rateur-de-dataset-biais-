@@ -1,0 +1,92 @@
+{
+  "generation_info": {
+    "category": "energie_mondiale",
+    "n_samples": 1000,
+    "generated_at": "2026-01-10T23:04:44.808259",
+    "bias_type": "geographic",
+    "bias_intensity": 0.5
+  },
+  "bias_report": {
+    "type": "geographic_bias",
+    "details": {
+      "region_column": "installation",
+      "overrepresented": "Centrale Solaire Weesow-Willmersdorf",
+      "duplicated_count": 19
+    },
+    "original_size": 1000,
+    "biased_size": 1019,
+    "bias_type": "geographic",
+    "intensity": 0.5,
+    "applied_at": "2026-01-10T23:04:39.397537"
+  },
+  "analysis": {
+    "size_comparison": {
+      "original": 1000,
+      "biased": 1019,
+      "change_pct": 1.9
+    },
+    "distribution_changes": {
+      "latitude": {
+        "original_mean": 33.19714016592191,
+        "biased_mean": 33.143401689453555,
+        "original_std": 19.11781587289402,
+        "biased_std": 19.158297374704446,
+        "mean_change_pct": -0.1618768249301076,
+        "ks_statistic": 0.003438665358194308,
+        "ks_pvalue": 1.0
+      },
+      "longitude": {
+        "original_mean": 23.51076769158453,
+        "biased_mean": 23.45289875576951,
+        "original_std": 69.01186885383918,
+        "biased_std": 68.57532413141122,
+        "mean_change_pct": -0.2461380103529619,
+        "ks_statistic": 0.0037105004906771346,
+        "ks_pvalue": 1.0
+      },
+      "capacite_mw": {
+        "original_mean": 2591.632,
+        "biased_mean": 2568.1422963689893,
+        "original_std": 4152.889015824256,
+        "biased_std": 4164.403403801597,
+        "mean_change_pct": -0.9063672477809308,
+        "ks_statistic": 0.006970559371933268,
+        "ks_pvalue": 0.9999999999999991
+      },
+      "production_annuelle_gwh": {
+        "original_mean": 1509.5675419825618,
+        "biased_mean": 1536.1928140213913,
+        "original_std": 3903.4150924307824,
+        "biased_std": 3976.601095735392,
+        "mean_change_pct": 1.7637681851492348,
+        "ks_statistic": 0.004685966633954858,
+        "ks_pvalue": 1.0
+      },
+      "emissions_co2": {
+        "original_mean": 1408909.775344244,
+        "biased_mean": 1410769.0622069284,
+        "original_std": 2168017.847095185,
+        "biased_std": 2172599.627549277,
+        "mean_change_pct": 0.13196635407190127,
+        "ks_statistic": 0.002469087340529931,
+        "ks_pvalue": 1.0
+      },
+      "annee_mise_service": {
+        "original_mean": 2004.09,
+        "biased_mean": 2004.306182531894,
+        "original_std": 20.416678004532,
+        "biased_std": 20.39613755978352,
+        "mean_change_pct": 0.01078706704259694,
+        "ks_statistic": 0.005782139352306183,
+        "ks_pvalue": 1.0
+      }
+    },
+    "statistical_tests": {}
+  },
+  "files": {
+    "biased_dataset": "output\\energie_mondiale_biased_20260110_230438.csv",
+    "original_dataset": "output\\energie_mondiale_original_20260110_230438.csv",
+    "visualization": "output\\bias_energie_mondiale_geographic_20260110_230438.png",
+    "report": "output\\energie_mondiale_report_20260110_230438.json"
+  }
+}

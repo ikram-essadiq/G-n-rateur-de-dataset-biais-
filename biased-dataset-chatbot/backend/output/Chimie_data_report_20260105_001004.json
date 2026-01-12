@@ -1,0 +1,20 @@
+{
+  "generation_info": {
+    "category": "Chimie_data",
+    "n_samples": 1000,
+    "generated_at": "2026-01-05T00:10:04.358829",
+    "bias_type": "none",
+    "bias_intensity": 0.5
+  },
+  "bias_report": {
+    "message": "Aucun biais appliqué",
+    "type": "none"
+  },
+  "analysis": {},
+  "files": {
+    "biased_dataset": "output\\Chimie_data_biased_20260105_001004.csv",
+    "original_dataset": "output\\Chimie_data_original_20260105_001004.csv",
+    "visualization": null,
+    "report": "output\\Chimie_data_report_20260105_001004.json"
+  }
+}

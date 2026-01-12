@@ -1,0 +1,54 @@
+{
+  "generation_info": {
+    "category": "Personnes_infos_seed",
+    "n_samples": 1000,
+    "generated_at": "2026-01-11T13:38:32.376280",
+    "bias_type": "gender",
+    "bias_intensity": 0.5
+  },
+  "bias_report": {
+    "type": "gender_bias",
+    "details": {
+      "gender_column": "genre",
+      "target_column": "age",
+      "favored_gender": "m",
+      "mean_favored_before": 41.80167014613779,
+      "mean_favored_after": 62.70250521920668,
+      "mean_other_before": 41.98272552783109,
+      "mean_other_after": 31.48704414587332,
+      "gap_percentage": 99.13747676256376,
+      "count_favored": 479,
+      "count_other": 521
+    },
+    "original_size": 1000,
+    "biased_size": 1000,
+    "bias_type": "gender",
+    "intensity": 0.5,
+    "applied_at": "2026-01-11T13:38:29.827389"
+  },
+  "analysis": {
+    "size_comparison": {
+      "original": 1000,
+      "biased": 1000,
+      "change_pct": 0.0
+    },
+    "distribution_changes": {
+      "age": {
+        "original_mean": 41.896,
+        "biased_mean": 46.43925,
+        "original_std": 13.300002784739336,
+        "biased_std": 21.996601383166215,
+        "mean_change_pct": 10.844113996537034,
+        "ks_statistic": 0.206,
+        "ks_pvalue": 5.599003563551554e-19
+      }
+    },
+    "statistical_tests": {}
+  },
+  "files": {
+    "biased_dataset": "output\\Personnes_infos_seed_biased_20260111_133828.csv",
+    "original_dataset": "output\\Personnes_infos_seed_original_20260111_133828.csv",
+    "visualization": "output\\bias_Personnes_infos_seed_gender_20260111_133828.png",
+    "report": "output\\Personnes_infos_seed_report_20260111_133828.json"
+  }
+}

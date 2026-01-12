@@ -1,0 +1,66 @@
+{
+  "generation_info": {
+    "category": "vehicules_transport",
+    "n_samples": 1000,
+    "generated_at": "2026-01-11T12:53:36.383084",
+    "bias_type": "socioeconomic",
+    "bias_intensity": 0.5
+  },
+  "bias_report": {
+    "type": "socioeconomic_bias",
+    "details": {
+      "income_column": "prix",
+      "threshold": -1265982.0000000002,
+      "removed_count": 150,
+      "remaining_count": 850
+    },
+    "original_size": 1000,
+    "biased_size": 850,
+    "bias_type": "socioeconomic",
+    "intensity": 0.5,
+    "applied_at": "2026-01-11T12:53:34.069050"
+  },
+  "analysis": {
+    "size_comparison": {
+      "original": 1000,
+      "biased": 850,
+      "change_pct": -15.0
+    },
+    "distribution_changes": {
+      "annee_fabrication": {
+        "original_mean": 2021.088,
+        "biased_mean": 2021.0129411764706,
+        "original_std": 3.3255548883329706,
+        "biased_std": 3.3116238240851454,
+        "mean_change_pct": -0.003713783048011035,
+        "ks_statistic": 0.016,
+        "ks_pvalue": 0.9996574840322382
+      },
+      "prix": {
+        "original_mean": 17349635.596,
+        "biased_mean": 20895948.204705883,
+        "original_std": 50703633.215422176,
+        "biased_std": 54229791.14114001,
+        "mean_change_pct": 20.440271434424208,
+        "ks_statistic": 0.12352941176470589,
+        "ks_pvalue": 1.426896490543035e-06
+      },
+      "kilometrage": {
+        "original_mean": 86481.755,
+        "biased_mean": 88123.01764705882,
+        "original_std": 69318.83476065903,
+        "biased_std": 69245.81884893672,
+        "mean_change_pct": 1.8978137609011434,
+        "ks_statistic": 0.01835294117647059,
+        "ks_pvalue": 0.9969036016388471
+      }
+    },
+    "statistical_tests": {}
+  },
+  "files": {
+    "biased_dataset": "output\\vehicules_transport_biased_20260111_125333.csv",
+    "original_dataset": "output\\vehicules_transport_original_20260111_125333.csv",
+    "visualization": "output\\bias_vehicules_transport_socioeconomic_20260111_125333.png",
+    "report": "output\\vehicules_transport_report_20260111_125333.json"
+  }
+}

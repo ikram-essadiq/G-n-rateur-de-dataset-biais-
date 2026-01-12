@@ -1,0 +1,56 @@
+{
+  "generation_info": {
+    "category": "géo_info_seed",
+    "n_samples": 1000,
+    "generated_at": "2026-01-05T00:28:13.206293",
+    "bias_type": "sampling",
+    "bias_intensity": 0.5
+  },
+  "bias_report": {
+    "type": "sampling_bias",
+    "details": {
+      "original_size": 1000,
+      "sampled_size": 750,
+      "sampling_method": "exponential"
+    },
+    "original_size": 1000,
+    "biased_size": 750,
+    "bias_type": "sampling",
+    "intensity": 0.5,
+    "applied_at": "2026-01-05T00:28:10.839072"
+  },
+  "analysis": {
+    "size_comparison": {
+      "original": 1000,
+      "biased": 750,
+      "change_pct": -25.0
+    },
+    "distribution_changes": {
+      "id": {
+        "original_mean": 5054.35,
+        "biased_mean": 5044.590666666667,
+        "original_std": 2892.688895222669,
+        "biased_std": 2900.404399623386,
+        "mean_change_pct": -0.1930878022561402,
+        "ks_statistic": 0.009,
+        "ks_pvalue": 0.9999999999999504
+      },
+      "valeur": {
+        "original_mean": 50.1716204733828,
+        "biased_mean": 49.73516477336451,
+        "original_std": 28.744573319941416,
+        "biased_std": 28.30818566302856,
+        "mean_change_pct": -0.8699254596509844,
+        "ks_statistic": 0.017,
+        "ks_pvalue": 0.9995226669081496
+      }
+    },
+    "statistical_tests": {}
+  },
+  "files": {
+    "biased_dataset": "output\\géo_info_seed_biased_20260105_002810.csv",
+    "original_dataset": "output\\géo_info_seed_original_20260105_002810.csv",
+    "visualization": "output\\bias_géo_info_seed_sampling_20260105_002810.png",
+    "report": "output\\géo_info_seed_report_20260105_002810.json"
+  }
+}

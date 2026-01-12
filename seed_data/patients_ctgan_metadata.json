@@ -1,0 +1,39 @@
+{
+  "training_file": "patients.csv",
+  "n_samples": 1000,
+  "n_columns": 12,
+  "columns": [
+    "id",
+    "nom",
+    "prenom",
+    "age",
+    "sexe",
+    "groupe_sanguin",
+    "poids",
+    "taille",
+    "imc",
+    "tension",
+    "allergies",
+    "maladies_chroniques"
+  ],
+  "discrete_columns": [
+    "id",
+    "nom",
+    "prenom",
+    "sexe",
+    "groupe_sanguin",
+    "poids",
+    "tension",
+    "allergies",
+    "maladies_chroniques"
+  ],
+  "continuous_columns": [
+    "age",
+    "taille",
+    "imc"
+  ],
+  "epochs": 300,
+  "batch_size": 500,
+  "training_duration": 1274.135318,
+  "trained_at": "2025-12-15T01:41:53.002864"
+}

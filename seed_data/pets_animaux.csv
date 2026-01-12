@@ -1,0 +1,2001 @@
+﻿id,nom,espece,race,age,poids,sexe,couleur_pelage
+ANI_000001,Bunny,Lapin,Géant des Flandres,7,3.99,Femelle,Beige
+ANI_000002,Shadow,Chat,Siamois,10,5.3,Femelle,Tacheté
+ANI_000003,Pepper,Oiseau,Cacatoès,7,0.99,Femelle,Marron
+ANI_000004,Pepper,Oiseau,Canari,11,1.41,Mâle,Rayé
+ANI_000005,Minou,Chat,Européen,11,6.06,Mâle,Tacheté
+ANI_000006,Angel,Oiseau,Cacatoès,0,0.81,Femelle,Noir
+ANI_000007,Cleo,Chat,Siamois,6,7.92,Mâle,Beige
+ANI_000008,Charlie,Chien,Golden Retriever,2,35.61,Mâle,Tacheté
+ANI_000009,Coco,Chien,Yorkshire,3,47.4,Mâle,Gris
+ANI_000010,Goldie,Poisson,Betta,0,0.02,Femelle,Blanc
+ANI_000011,Cleo,Chat,Bengal,14,6.42,Femelle,Tricolore
+ANI_000012,Peter,Lapin,Géant des Flandres,2,5.55,Femelle,Tacheté
+ANI_000013,Peter,Lapin,Bélier,3,2.56,Femelle,Noir
+ANI_000014,Goldie,Poisson,Carpe Koï,3,0.1,Femelle,Rayé
+ANI_000015,Cleo,Chat,Scottish Fold,1,4.98,Mâle,Marron
+ANI_000016,Clover,Lapin,Rex,7,5.22,Mâle,Gris
+ANI_000017,Sunny,Oiseau,Canari,7,0.57,Mâle,Roux
+ANI_000018,Marshmallow,Lapin,Rex,8,2.48,Mâle,Noir
+ANI_000019,Angel,Oiseau,Perroquet Ara,6,0.66,Mâle,Beige
+ANI_000020,Zeus,Chien,Caniche,2,36.81,Mâle,Beige
+ANI_000021,Spirit,Cheval,Quarter Horse,4,770.52,Femelle,Blanc
+ANI_000022,Cleo,Chat,Chartreux,6,7.25,Femelle,Beige
+ANI_000023,Fluffy,Lapin,Bélier,6,2.55,Mâle,Rayé
+ANI_000024,Mango,Oiseau,Perruche,7,0.45,Femelle,Beige
+ANI_000025,Shadow,Cheval,Pur-sang Arabe,4,788.68,Mâle,Gris
+ANI_000026,Storm,Cheval,Pur-sang Arabe,25,494.39,Mâle,Gris
+ANI_000027,Nemo,Poisson,Guppy,1,0.02,Femelle,Tricolore
+ANI_000028,Coco,Oiseau,Perruche,0,0.51,Femelle,Beige
+ANI_000029,Oreo,Lapin,Géant des Flandres,6,3.05,Mâle,Rayé
+ANI_000030,Blaze,Cheval,Mustang,12,430.79,Femelle,Rayé
+ANI_000031,Star,Cheval,Quarter Horse,1,649.74,Mâle,Tacheté
+ANI_000032,Splash,Poisson,Poisson Rouge,5,0.23,Mâle,Marron
+ANI_000033,Cotton,Lapin,Rex,6,5.48,Mâle,Noir
+ANI_000034,Nemo,Poisson,Poisson Rouge,0,0.33,Mâle,Roux
+ANI_000035,Duke,Chien,Bulldog Français,8,18.72,Mâle,Blanc
+ANI_000036,Nemo,Poisson,Guppy,5,0.12,Femelle,Blanc
+ANI_000037,Maximus,Cheval,Frison,23,777.16,Mâle,Tacheté
+ANI_000038,Flash,Poisson,Poisson Rouge,0,0.04,Femelle,Marron
+ANI_000039,Cleo,Chat,Bengal,13,6.48,Mâle,Rayé
+ANI_000040,Storm,Cheval,Pur-sang Arabe,16,799.1,Femelle,Tricolore
+ANI_000041,Thunder,Cheval,Pur-sang Arabe,1,564.41,Mâle,Rayé
+ANI_000042,Tweety,Oiseau,Perroquet Ara,2,1.04,Femelle,Beige
+ANI_000043,Buddy,Oiseau,Cacatoès,15,0.85,Mâle,Roux
+ANI_000044,Peter,Lapin,Angora,0,4.64,Mâle,Marron
+ANI_000045,Kiwi,Oiseau,Cacatoès,5,0.63,Femelle,Marron
+ANI_000046,Daisy,Chien,Husky,12,43.63,Femelle,Tacheté
+ANI_000047,Cotton,Lapin,Angora,2,4.56,Femelle,Roux
+ANI_000048,Flash,Cheval,Appaloosa,19,776.21,Femelle,Beige
+ANI_000049,Minou,Chat,Sphynx,10,4.71,Femelle,Beige
+ANI_000050,Lola,Chien,Labrador,2,15.28,Femelle,Tricolore
+ANI_000051,Simba,Chat,Chartreux,11,4.3,Mâle,Noir
+ANI_000052,Charlie,Chien,Beagle,10,13.49,Mâle,Rayé
+ANI_000053,Thor,Chien,Golden Retriever,2,43.53,Mâle,Roux
+ANI_000054,Rainbow,Poisson,Poisson Rouge,3,0.05,Femelle,Beige
+ANI_000055,Snowball,Lapin,Rex,8,4.32,Femelle,Beige
+ANI_000056,Kiwi,Oiseau,Canari,1,1.05,Femelle,Noir
+ANI_000057,Rio,Oiseau,Perroquet Ara,0,0.08,Mâle,Marron
+ANI_000058,Rainbow,Poisson,Discus,3,0.19,Femelle,Beige
+ANI_000059,Spirit,Cheval,Pur-sang Arabe,15,437.47,Mâle,Tricolore
+ANI_000060,Flash,Cheval,Andalou,21,497.6,Femelle,Beige
+ANI_000061,Splash,Poisson,Carpe Koï,2,0.45,Femelle,Beige
+ANI_000062,Thunder,Cheval,Quarter Horse,20,601.05,Femelle,Noir
+ANI_000063,Bugs,Lapin,Nain,2,3.86,Mâle,Tricolore
+ANI_000064,Maya,Chien,Berger Allemand,11,26.15,Femelle,Gris
+ANI_000065,Finn,Poisson,Discus,2,0.38,Mâle,Blanc
+ANI_000066,Tweety,Oiseau,Inséparable,13,1.45,Femelle,Noir
+ANI_000067,Spirit,Cheval,Appaloosa,19,517.78,Femelle,Marron
+ANI_000068,Sky,Oiseau,Perroquet Ara,15,0.59,Femelle,Marron
+ANI_000069,Luna,Chat,British Shorthair,2,5.85,Femelle,Roux
+ANI_000070,Shadow,Chat,British Shorthair,1,4.27,Mâle,Noir
+ANI_000071,Luna,Chat,Maine Coon,0,7.24,Femelle,Tacheté
+ANI_000072,Nala,Chien,Rottweiler,6,18.21,Mâle,Noir
+ANI_000073,Felix,Chat,Siamois,8,6.06,Femelle,Gris
+ANI_000074,Oreo,Lapin,Bélier,8,4.14,Femelle,Beige
+ANI_000075,Peter,Lapin,Nain,2,2.69,Femelle,Noir
+ANI_000076,Thumper,Lapin,Bélier,6,4.36,Mâle,Tacheté
+ANI_000077,Luna,Cheval,Pur-sang Arabe,21,636.33,Femelle,Tacheté
+ANI_000078,Flash,Poisson,Poisson Rouge,1,0.41,Mâle,Marron
+ANI_000079,Flash,Poisson,Guppy,4,0.27,Mâle,Gris
+ANI_000080,Mango,Oiseau,Cacatoès,11,0.95,Femelle,Beige
+ANI_000081,Cotton,Lapin,Géant des Flandres,2,4.19,Mâle,Tacheté
+ANI_000082,Thumper,Lapin,Géant des Flandres,2,4.98,Femelle,Gris
+ANI_000083,Luna,Cheval,Appaloosa,22,500.34,Mâle,Tricolore
+ANI_000084,Bella,Chat,Européen,6,5.14,Mâle,Tricolore
+ANI_000085,Fluffy,Lapin,Géant des Flandres,0,3.21,Mâle,Tricolore
+ANI_000086,Rainbow,Poisson,Carpe Koï,0,0.33,Mâle,Beige
+ANI_000087,Coco,Oiseau,Perroquet Ara,15,0.85,Femelle,Blanc
+ANI_000088,Blue,Poisson,Discus,2,0.13,Mâle,Blanc
+ANI_000089,Star,Cheval,Mustang,24,536.75,Femelle,Gris
+ANI_000090,Fluffy,Lapin,Géant des Flandres,3,1.88,Mâle,Tricolore
+ANI_000091,Lucy,Chat,Scottish Fold,4,5.37,Femelle,Marron
+ANI_000092,Lola,Chien,Beagle,5,33.58,Femelle,Beige
+ANI_000093,Charlie,Chat,Bengal,9,6.13,Mâle,Blanc
+ANI_000094,Mittens,Chat,Persan,4,6.42,Mâle,Noir
+ANI_000095,Cleo,Chat,Persan,15,6.18,Femelle,Roux
+ANI_000096,Thumper,Lapin,Rex,2,4.22,Mâle,Rayé
+ANI_000097,Zeus,Chien,Golden Retriever,4,33.17,Mâle,Blanc
+ANI_000098,Milo,Chien,Berger Allemand,9,14.3,Mâle,Tricolore
+ANI_000099,Mango,Oiseau,Inséparable,14,0.6,Mâle,Rayé
+ANI_000100,Kiwi,Oiseau,Perruche,2,0.54,Mâle,Marron
+ANI_000101,Leo,Chat,Sphynx,9,6.41,Mâle,Noir
+ANI_000102,Bubbles,Poisson,Betta,0,0.25,Mâle,Gris
+ANI_000103,Felix,Chat,Européen,12,7.68,Mâle,Rayé
+ANI_000104,Bugs,Lapin,Nain,8,3.74,Mâle,Marron
+ANI_000105,Pepper,Oiseau,Perroquet Ara,15,0.89,Femelle,Blanc
+ANI_000106,Blaze,Cheval,Shetland,17,500.01,Mâle,Tacheté
+ANI_000107,Flash,Poisson,Discus,0,0.34,Mâle,Gris
+ANI_000108,Buddy,Chien,Golden Retriever,0,29.04,Mâle,Beige
+ANI_000109,Cottontail,Lapin,Nain,2,2.95,Mâle,Roux
+ANI_000110,Clover,Lapin,Géant des Flandres,2,1.46,Mâle,Blanc
+ANI_000111,Snowball,Lapin,Rex,4,1.46,Femelle,Blanc
+ANI_000112,Cotton,Lapin,Nain,4,4.76,Femelle,Tricolore
+ANI_000113,Duke,Chien,Yorkshire,4,27.25,Mâle,Blanc
+ANI_000114,Splash,Poisson,Betta,2,0.44,Femelle,Rayé
+ANI_000115,Thunder,Cheval,Quarter Horse,14,457.2,Mâle,Rayé
+ANI_000116,Cleo,Chat,Scottish Fold,0,3.51,Mâle,Noir
+ANI_000117,Rainbow,Poisson,Discus,1,0.2,Femelle,Noir
+ANI_000118,Thunder,Cheval,Frison,4,605.33,Femelle,Gris
+ANI_000119,Rainbow,Poisson,Guppy,4,0.19,Femelle,Blanc
+ANI_000120,Oreo,Lapin,Nain,8,3.96,Femelle,Noir
+ANI_000121,Snowball,Lapin,Rex,5,4.53,Femelle,Tricolore
+ANI_000122,Tigrou,Chat,Scottish Fold,6,5.17,Mâle,Marron
+ANI_000123,Kiwi,Oiseau,Inséparable,11,0.88,Mâle,Noir
+ANI_000124,Peter,Lapin,Rex,8,4.72,Mâle,Blanc
+ANI_000125,Maximus,Cheval,Mustang,24,549.95,Femelle,Rayé
+ANI_000126,Max,Chien,Husky,5,24.64,Mâle,Roux
+ANI_000127,Lucy,Chat,Européen,5,7.62,Femelle,Tacheté
+ANI_000128,Cotton,Lapin,Géant des Flandres,2,4.48,Mâle,Beige
+ANI_000129,Oscar,Chien,Labrador,8,14.76,Femelle,Noir
+ANI_000130,Rocky,Chien,Beagle,6,7.05,Femelle,Beige
+ANI_000131,Peter,Lapin,Bélier,5,3.28,Mâle,Tacheté
+ANI_000132,Peter,Lapin,Géant des Flandres,3,3.32,Mâle,Gris
+ANI_000133,Cleo,Chat,Maine Coon,11,4.8,Mâle,Rayé
+ANI_000134,Cottontail,Lapin,Angora,0,2.4,Mâle,Rayé
+ANI_000135,Mango,Oiseau,Cacatoès,15,0.29,Femelle,Tacheté
+ANI_000136,Splash,Poisson,Guppy,5,0.48,Mâle,Blanc
+ANI_000137,Kiwi,Oiseau,Perroquet Ara,9,1.4,Femelle,Beige
+ANI_000138,Shadow,Chat,Européen,7,4.88,Mâle,Beige
+ANI_000139,Oscar,Chien,Labrador,0,21.95,Mâle,Tacheté
+ANI_000140,Whiskers,Chat,Chartreux,10,7.21,Mâle,Beige
+ANI_000141,Kiwi,Oiseau,Perroquet Ara,8,0.65,Mâle,Blanc
+ANI_000142,Nala,Chien,Beagle,6,43.91,Mâle,Rayé
+ANI_000143,Charlie,Chien,Beagle,5,46.09,Femelle,Gris
+ANI_000144,Sunny,Oiseau,Inséparable,9,1.28,Mâle,Tricolore
+ANI_000145,Ruby,Chien,Beagle,8,10.81,Femelle,Rayé
+ANI_000146,Pegasus,Cheval,Mustang,3,491.46,Mâle,Marron
+ANI_000147,Bella,Chien,Caniche,11,17.09,Femelle,Marron
+ANI_000148,Felix,Chat,Scottish Fold,5,6.86,Mâle,Rayé
+ANI_000149,Maximus,Cheval,Frison,0,620.76,Mâle,Blanc
+ANI_000150,Charlie,Oiseau,Calopsitte,8,0.91,Mâle,Tricolore
+ANI_000151,Kiwi,Oiseau,Inséparable,10,0.36,Femelle,Gris
+ANI_000152,Goldie,Poisson,Néon,5,0.31,Femelle,Beige
+ANI_000153,Charlie,Chat,Siamois,1,4.74,Mâle,Marron
+ANI_000154,Rainbow,Poisson,Poisson Rouge,3,0.16,Mâle,Marron
+ANI_000155,Minou,Chat,Siamois,4,6.98,Mâle,Marron
+ANI_000156,Minou,Chat,Sphynx,9,6.84,Femelle,Blanc
+ANI_000157,Thumper,Lapin,Géant des Flandres,5,3.46,Mâle,Rayé
+ANI_000158,Charlie,Oiseau,Calopsitte,10,0.4,Femelle,Tricolore
+ANI_000159,Bella,Cheval,Percheron,22,451.22,Mâle,Rayé
+ANI_000160,Apollo,Cheval,Andalou,3,472.75,Femelle,Marron
+ANI_000161,Rocky,Chien,Golden Retriever,10,35.04,Femelle,Tacheté
+ANI_000162,Tigrou,Chat,Scottish Fold,2,7.11,Femelle,Blanc
+ANI_000163,Leo,Chat,Scottish Fold,5,3.44,Mâle,Gris
+ANI_000164,Buddy,Chien,Beagle,11,14.29,Femelle,Beige
+ANI_000165,Bella,Chat,Persan,9,6.45,Mâle,Roux
+ANI_000166,Oscar,Chien,Boxer,8,35.95,Femelle,Tricolore
+ANI_000167,Blue,Poisson,Guppy,4,0.01,Mâle,Gris
+ANI_000168,Peter,Lapin,Nain,0,3.99,Femelle,Roux
+ANI_000169,Marshmallow,Lapin,Bélier,6,3.66,Femelle,Gris
+ANI_000170,Bella,Chat,Scottish Fold,10,4.26,Mâle,Rayé
+ANI_000171,Flash,Cheval,Percheron,13,699.85,Mâle,Rayé
+ANI_000172,Thumper,Lapin,Géant des Flandres,5,3.66,Femelle,Marron
+ANI_000173,Charlie,Chien,Yorkshire,11,5.9,Femelle,Noir
+ANI_000174,Rex,Chien,Berger Allemand,5,19.74,Mâle,Beige
+ANI_000175,Fluffy,Lapin,Nain,3,3.37,Femelle,Blanc
+ANI_000176,Gizmo,Chat,Siamois,12,5.4,Femelle,Blanc
+ANI_000177,Peter,Lapin,Bélier,7,3.16,Mâle,Marron
+ANI_000178,Bella,Cheval,Frison,4,545.23,Mâle,Rayé
+ANI_000179,Oliver,Chat,Maine Coon,7,5.49,Mâle,Marron
+ANI_000180,Nemo,Poisson,Discus,0,0.01,Femelle,Tacheté
+ANI_000181,Blue,Oiseau,Calopsitte,6,0.76,Femelle,Tricolore
+ANI_000182,Finn,Poisson,Guppy,5,0.4,Femelle,Rayé
+ANI_000183,Rocky,Chien,Yorkshire,2,5.82,Mâle,Noir
+ANI_000184,Pepper,Oiseau,Cacatoès,14,1.35,Femelle,Tacheté
+ANI_000185,Bunny,Lapin,Rex,3,1.03,Mâle,Tacheté
+ANI_000186,Finn,Poisson,Poisson Rouge,5,0.34,Mâle,Rayé
+ANI_000187,Oscar,Chien,Labrador,10,30.72,Femelle,Roux
+ANI_000188,Maximus,Cheval,Mustang,4,474.82,Mâle,Tricolore
+ANI_000189,Bubbles,Poisson,Néon,3,0.26,Femelle,Tricolore
+ANI_000190,Ruby,Chien,Berger Allemand,5,31.16,Mâle,Rayé
+ANI_000191,Blaze,Cheval,Percheron,12,613.04,Mâle,Beige
+ANI_000192,Coco,Chien,Chihuahua,7,11.05,Mâle,Beige
+ANI_000193,Leo,Chat,Maine Coon,7,7.05,Femelle,Noir
+ANI_000194,Buddy,Chien,Beagle,0,10.25,Mâle,Beige
+ANI_000195,Finn,Poisson,Guppy,0,0.43,Femelle,Gris
+ANI_000196,Thumper,Lapin,Rex,4,4.65,Mâle,Gris
+ANI_000197,Maya,Chien,Labrador,2,7.99,Mâle,Blanc
+ANI_000198,Rainbow,Poisson,Néon,4,0.08,Mâle,Gris
+ANI_000199,Ruby,Chien,Beagle,11,12.36,Femelle,Roux
+ANI_000200,Sunny,Oiseau,Inséparable,2,1.01,Femelle,Roux
+ANI_000201,Gizmo,Chat,Bengal,12,5.94,Femelle,Roux
+ANI_000202,Mittens,Chat,Sphynx,6,6.57,Femelle,Gris
+ANI_000203,Star,Cheval,Mustang,0,699.04,Femelle,Noir
+ANI_000204,Simba,Chien,Husky,0,22.62,Mâle,Rayé
+ANI_000205,Mittens,Chat,Européen,7,6.12,Mâle,Marron
+ANI_000206,Star,Cheval,Andalou,2,651.08,Femelle,Blanc
+ANI_000207,Charlie,Chat,Bengal,14,6.1,Femelle,Tricolore
+ANI_000208,Cotton,Lapin,Angora,5,4.76,Femelle,Tacheté
+ANI_000209,Charlie,Oiseau,Inséparable,6,0.26,Femelle,Tricolore
+ANI_000210,Honey,Lapin,Bélier,4,5.38,Mâle,Blanc
+ANI_000211,Daisy,Chien,Chihuahua,12,9.98,Femelle,Tricolore
+ANI_000212,Peter,Lapin,Géant des Flandres,3,2.99,Femelle,Tricolore
+ANI_000213,Rio,Oiseau,Inséparable,11,1.17,Femelle,Tricolore
+ANI_000214,Shadow,Cheval,Percheron,18,626.2,Femelle,Gris
+ANI_000215,Simba,Chat,Européen,10,7.8,Mâle,Marron
+ANI_000216,Rainbow,Poisson,Carpe Koï,1,0.47,Mâle,Beige
+ANI_000217,Peter,Lapin,Bélier,1,4.06,Femelle,Marron
+ANI_000218,Marshmallow,Lapin,Angora,3,5.59,Mâle,Tricolore
+ANI_000219,Pepper,Oiseau,Inséparable,14,0.27,Mâle,Marron
+ANI_000220,Clover,Lapin,Bélier,5,1.39,Femelle,Blanc
+ANI_000221,Finn,Poisson,Poisson Rouge,2,0.23,Femelle,Rayé
+ANI_000222,Splash,Poisson,Discus,1,0.42,Mâle,Beige
+ANI_000223,Nemo,Poisson,Poisson Rouge,5,0.26,Mâle,Rayé
+ANI_000224,Sunny,Oiseau,Perroquet Ara,8,0.35,Mâle,Tacheté
+ANI_000225,Buddy,Chien,Beagle,2,22.92,Mâle,Marron
+ANI_000226,Zeus,Chien,Boxer,5,20.59,Mâle,Rayé
+ANI_000227,Oliver,Chat,Maine Coon,0,5.94,Femelle,Noir
+ANI_000228,Phoenix,Cheval,Appaloosa,18,499.29,Mâle,Noir
+ANI_000229,Stella,Chien,Yorkshire,5,6.52,Mâle,Rayé
+ANI_000230,Zeus,Chien,Berger Allemand,5,14.9,Mâle,Tricolore
+ANI_000231,Minou,Chat,Européen,6,7.88,Mâle,Beige
+ANI_000232,Stella,Chien,Berger Allemand,5,43.73,Mâle,Roux
+ANI_000233,Coco,Oiseau,Perroquet Ara,0,0.5,Mâle,Blanc
+ANI_000234,Bubbles,Poisson,Guppy,2,0.18,Mâle,Tricolore
+ANI_000235,Nemo,Poisson,Discus,4,0.2,Mâle,Beige
+ANI_000236,Spirit,Cheval,Frison,13,685.62,Femelle,Rayé
+ANI_000237,Whiskers,Chat,Maine Coon,11,5.41,Femelle,Tricolore
+ANI_000238,Bubbles,Poisson,Carpe Koï,3,0.1,Mâle,Tricolore
+ANI_000239,Buddy,Oiseau,Perruche,9,1.35,Femelle,Rayé
+ANI_000240,Shadow,Chat,Persan,6,3.78,Femelle,Rayé
+ANI_000241,Leo,Chat,Ragdoll,7,3.14,Femelle,Marron
+ANI_000242,Flash,Cheval,Shetland,7,441.64,Femelle,Marron
+ANI_000243,Sky,Oiseau,Perruche,0,0.86,Femelle,Blanc
+ANI_000244,Lucy,Chat,Siamois,7,6.61,Femelle,Noir
+ANI_000245,Rainbow,Poisson,Guppy,3,0.47,Mâle,Gris
+ANI_000246,Finn,Poisson,Discus,1,0.02,Mâle,Blanc
+ANI_000247,Thor,Chien,Yorkshire,12,44.44,Femelle,Blanc
+ANI_000248,Kiwi,Oiseau,Cacatoès,1,1.37,Mâle,Roux
+ANI_000249,Charlie,Oiseau,Cacatoès,9,1.25,Femelle,Gris
+ANI_000250,Flash,Cheval,Percheron,11,732.26,Mâle,Noir
+ANI_000251,Angel,Oiseau,Calopsitte,1,1.3,Mâle,Tricolore
+ANI_000252,Luna,Cheval,Appaloosa,21,711.9,Mâle,Gris
+ANI_000253,Ruby,Chien,Boxer,6,40.99,Femelle,Roux
+ANI_000254,Thor,Chien,Labrador,0,17.09,Mâle,Tacheté
+ANI_000255,Shadow,Chat,Chartreux,8,3.7,Mâle,Blanc
+ANI_000256,Blaze,Cheval,Andalou,25,610.28,Femelle,Rayé
+ANI_000257,Coco,Oiseau,Canari,4,0.08,Femelle,Blanc
+ANI_000258,Luna,Chat,Européen,3,5.49,Mâle,Roux
+ANI_000259,Nala,Chat,Persan,8,5.49,Femelle,Blanc
+ANI_000260,Honey,Lapin,Géant des Flandres,5,1.68,Mâle,Blanc
+ANI_000261,Milo,Chien,Chihuahua,1,32.02,Mâle,Gris
+ANI_000262,Rex,Chien,Beagle,9,46.15,Femelle,Gris
+ANI_000263,Cleo,Chat,Européen,13,5.59,Femelle,Rayé
+ANI_000264,Oliver,Chat,British Shorthair,0,3.41,Mâle,Beige
+ANI_000265,Honey,Lapin,Angora,4,5.19,Femelle,Rayé
+ANI_000266,Blaze,Cheval,Shetland,16,688.61,Mâle,Tacheté
+ANI_000267,Thunder,Cheval,Andalou,22,665.47,Femelle,Gris
+ANI_000268,Splash,Poisson,Carpe Koï,0,0.14,Femelle,Blanc
+ANI_000269,Snowball,Lapin,Angora,3,1.26,Femelle,Tricolore
+ANI_000270,Splash,Poisson,Guppy,2,0.17,Femelle,Blanc
+ANI_000271,Nala,Chat,Maine Coon,8,3.38,Femelle,Noir
+ANI_000272,Zeus,Chien,Berger Allemand,7,24.57,Mâle,Rayé
+ANI_000273,Thunder,Cheval,Quarter Horse,4,400.94,Mâle,Tricolore
+ANI_000274,Star,Cheval,Andalou,1,441.24,Mâle,Noir
+ANI_000275,Charlie,Oiseau,Cacatoès,10,1.45,Femelle,Tacheté
+ANI_000276,Simba,Chien,Boxer,11,29.39,Mâle,Blanc
+ANI_000277,Storm,Cheval,Shetland,16,663.51,Mâle,Beige
+ANI_000278,Rainbow,Poisson,Carpe Koï,0,0.45,Femelle,Roux
+ANI_000279,Honey,Lapin,Angora,8,5.72,Femelle,Noir
+ANI_000280,Minou,Chat,Ragdoll,6,5.78,Femelle,Blanc
+ANI_000281,Blue,Poisson,Betta,5,0.07,Mâle,Blanc
+ANI_000282,Nala,Chien,Golden Retriever,7,48.7,Mâle,Beige
+ANI_000283,Rio,Oiseau,Canari,6,0.71,Femelle,Noir
+ANI_000284,Flash,Cheval,Frison,16,660.07,Mâle,Gris
+ANI_000285,Maximus,Cheval,Appaloosa,12,430.78,Mâle,Roux
+ANI_000286,Pepper,Oiseau,Perruche,9,1.1,Femelle,Blanc
+ANI_000287,Cotton,Lapin,Nain,5,2.59,Mâle,Blanc
+ANI_000288,Lucy,Chat,Persan,12,6.08,Femelle,Tacheté
+ANI_000289,Blue,Poisson,Betta,2,0.44,Mâle,Tacheté
+ANI_000290,Blue,Poisson,Guppy,4,0.27,Femelle,Beige
+ANI_000291,Flash,Cheval,Quarter Horse,13,540.28,Mâle,Noir
+ANI_000292,Splash,Poisson,Poisson Rouge,5,0.25,Mâle,Marron
+ANI_000293,Maya,Chien,Caniche,8,39.57,Femelle,Tricolore
+ANI_000294,Stella,Chien,Yorkshire,4,37.95,Femelle,Noir
+ANI_000295,Duke,Chien,Golden Retriever,7,17.93,Femelle,Blanc
+ANI_000296,Bugs,Lapin,Bélier,8,2.39,Femelle,Rayé
+ANI_000297,Angel,Oiseau,Calopsitte,14,0.61,Mâle,Tacheté
+ANI_000298,Bunny,Lapin,Rex,4,4.93,Femelle,Tricolore
+ANI_000299,Star,Cheval,Appaloosa,6,751.65,Femelle,Gris
+ANI_000300,Finn,Poisson,Guppy,4,0.49,Femelle,Gris
+ANI_000301,Bunny,Lapin,Rex,7,5.71,Femelle,Tacheté
+ANI_000302,Bubbles,Poisson,Discus,4,0.07,Femelle,Noir
+ANI_000303,Bella,Cheval,Frison,25,414.69,Mâle,Tricolore
+ANI_000304,Mittens,Chat,Siamois,5,7.0,Femelle,Blanc
+ANI_000305,Nemo,Poisson,Poisson Rouge,2,0.3,Femelle,Noir
+ANI_000306,Lola,Chien,Rottweiler,2,39.12,Femelle,Tacheté
+ANI_000307,Rainbow,Poisson,Poisson Rouge,2,0.41,Mâle,Beige
+ANI_000308,Rainbow,Poisson,Discus,4,0.27,Mâle,Marron
+ANI_000309,Ruby,Chien,Bulldog Français,4,9.12,Mâle,Noir
+ANI_000310,Rocky,Chien,Caniche,10,10.83,Femelle,Roux
+ANI_000311,Bella,Chien,Golden Retriever,11,6.59,Femelle,Gris
+ANI_000312,Zeus,Chien,Beagle,10,17.66,Mâle,Roux
+ANI_000313,Bugs,Lapin,Angora,1,1.41,Mâle,Noir
+ANI_000314,Marshmallow,Lapin,Géant des Flandres,4,5.96,Femelle,Noir
+ANI_000315,Leo,Chat,Sphynx,15,5.58,Femelle,Roux
+ANI_000316,Shadow,Cheval,Frison,23,664.84,Femelle,Beige
+ANI_000317,Pegasus,Cheval,Mustang,0,751.45,Mâle,Roux
+ANI_000318,Apollo,Cheval,Shetland,0,462.94,Femelle,Blanc
+ANI_000319,Duke,Chien,Rottweiler,8,46.85,Femelle,Tricolore
+ANI_000320,Cottontail,Lapin,Angora,6,5.41,Mâle,Roux
+ANI_000321,Angel,Oiseau,Canari,2,1.32,Mâle,Roux
+ANI_000322,Lucy,Chat,Scottish Fold,10,4.14,Mâle,Tricolore
+ANI_000323,Felix,Chat,Bengal,13,6.78,Femelle,Marron
+ANI_000324,Bunny,Lapin,Bélier,0,3.8,Mâle,Roux
+ANI_000325,Leo,Chat,Sphynx,2,3.64,Mâle,Roux
+ANI_000326,Flash,Cheval,Andalou,9,572.9,Femelle,Blanc
+ANI_000327,Leo,Chat,Européen,5,7.69,Femelle,Gris
+ANI_000328,Cotton,Lapin,Bélier,0,4.85,Mâle,Blanc
+ANI_000329,Max,Chien,Boxer,5,32.94,Femelle,Roux
+ANI_000330,Thunder,Cheval,Frison,13,789.4,Mâle,Blanc
+ANI_000331,Rio,Oiseau,Cacatoès,10,0.24,Femelle,Tricolore
+ANI_000332,Coco,Oiseau,Cacatoès,12,0.08,Femelle,Beige
+ANI_000333,Bubbles,Poisson,Guppy,1,0.01,Mâle,Rayé
+ANI_000334,Leo,Chat,Maine Coon,3,5.13,Mâle,Tricolore
+ANI_000335,Coco,Oiseau,Perroquet Ara,14,1.2,Mâle,Rayé
+ANI_000336,Rio,Oiseau,Perruche,15,0.17,Femelle,Roux
+ANI_000337,Finn,Poisson,Néon,2,0.14,Mâle,Roux
+ANI_000338,Oscar,Chien,Caniche,4,33.73,Femelle,Beige
+ANI_000339,Nemo,Poisson,Guppy,4,0.49,Femelle,Noir
+ANI_000340,Daisy,Chien,Boxer,1,14.59,Mâle,Rayé
+ANI_000341,Maya,Chien,Husky,1,43.9,Femelle,Blanc
+ANI_000342,Maximus,Cheval,Shetland,13,481.48,Femelle,Beige
+ANI_000343,Pepper,Oiseau,Inséparable,14,0.71,Mâle,Tricolore
+ANI_000344,Shadow,Chat,Bengal,2,6.98,Femelle,Marron
+ANI_000345,Peter,Lapin,Géant des Flandres,2,1.93,Femelle,Blanc
+ANI_000346,Simba,Chien,Yorkshire,11,16.14,Mâle,Roux
+ANI_000347,Nala,Chien,Chihuahua,8,12.24,Mâle,Tricolore
+ANI_000348,Splash,Poisson,Carpe Koï,4,0.3,Femelle,Beige
+ANI_000349,Pegasus,Cheval,Shetland,16,404.65,Femelle,Rayé
+ANI_000350,Bella,Chat,Maine Coon,14,6.0,Femelle,Rayé
+ANI_000351,Bella,Cheval,Mustang,0,781.06,Femelle,Tacheté
+ANI_000352,Zeus,Chien,Caniche,5,38.71,Mâle,Roux
+ANI_000353,Maya,Chien,Berger Allemand,8,30.69,Femelle,Blanc
+ANI_000354,Flash,Poisson,Carpe Koï,3,0.18,Femelle,Roux
+ANI_000355,Felix,Chat,Persan,0,3.44,Femelle,Tacheté
+ANI_000356,Tweety,Oiseau,Calopsitte,12,0.16,Femelle,Tacheté
+ANI_000357,Finn,Poisson,Betta,1,0.35,Mâle,Blanc
+ANI_000358,Luna,Chat,Maine Coon,6,6.35,Femelle,Tacheté
+ANI_000359,Shadow,Cheval,Mustang,5,637.91,Mâle,Beige
+ANI_000360,Buddy,Chien,Yorkshire,1,47.08,Mâle,Tacheté
+ANI_000361,Bella,Chat,Bengal,14,7.07,Mâle,Rayé
+ANI_000362,Blaze,Cheval,Appaloosa,5,726.92,Mâle,Gris
+ANI_000363,Charlie,Chat,Siamois,8,3.82,Mâle,Noir
+ANI_000364,Goldie,Poisson,Guppy,5,0.3,Femelle,Rayé
+ANI_000365,Clover,Lapin,Géant des Flandres,2,2.1,Mâle,Rayé
+ANI_000366,Splash,Poisson,Néon,4,0.4,Mâle,Marron
+ANI_000367,Thunder,Cheval,Appaloosa,5,687.68,Mâle,Marron
+ANI_000368,Rainbow,Poisson,Discus,0,0.25,Femelle,Roux
+ANI_000369,Snowball,Lapin,Bélier,2,2.1,Mâle,Marron
+ANI_000370,Blue,Poisson,Poisson Rouge,3,0.1,Femelle,Roux
+ANI_000371,Pepper,Oiseau,Canari,3,0.96,Mâle,Rayé
+ANI_000372,Cotton,Lapin,Rex,7,3.72,Mâle,Noir
+ANI_000373,Bella,Cheval,Shetland,3,411.76,Femelle,Blanc
+ANI_000374,Felix,Chat,Bengal,14,7.5,Femelle,Blanc
+ANI_000375,Bubbles,Poisson,Betta,2,0.15,Femelle,Gris
+ANI_000376,Sky,Oiseau,Cacatoès,12,0.73,Mâle,Tricolore
+ANI_000377,Sky,Oiseau,Perroquet Ara,9,1.09,Femelle,Blanc
+ANI_000378,Flash,Poisson,Betta,5,0.49,Femelle,Tricolore
+ANI_000379,Blue,Oiseau,Inséparable,12,0.68,Femelle,Tacheté
+ANI_000380,Splash,Poisson,Néon,5,0.26,Femelle,Rayé
+ANI_000381,Bella,Chien,Bulldog Français,6,12.36,Femelle,Noir
+ANI_000382,Bella,Cheval,Pur-sang Arabe,1,743.19,Mâle,Roux
+ANI_000383,Pepper,Oiseau,Perroquet Ara,11,0.24,Femelle,Tricolore
+ANI_000384,Buddy,Oiseau,Perruche,2,0.69,Mâle,Gris
+ANI_000385,Cleo,Chat,Scottish Fold,13,3.73,Femelle,Blanc
+ANI_000386,Pepper,Oiseau,Cacatoès,10,1.43,Femelle,Beige
+ANI_000387,Stella,Chien,Chihuahua,11,6.65,Mâle,Blanc
+ANI_000388,Mango,Oiseau,Inséparable,4,1.18,Mâle,Marron
+ANI_000389,Cottontail,Lapin,Rex,3,2.35,Mâle,Rayé
+ANI_000390,Charlie,Chat,Chartreux,4,7.68,Mâle,Marron
+ANI_000391,Coco,Oiseau,Perroquet Ara,2,0.71,Femelle,Blanc
+ANI_000392,Sunny,Oiseau,Perruche,0,0.79,Mâle,Beige
+ANI_000393,Goldie,Poisson,Néon,3,0.49,Femelle,Marron
+ANI_000394,Tornado,Cheval,Quarter Horse,1,529.25,Femelle,Noir
+ANI_000395,Coco,Oiseau,Perroquet Ara,14,0.42,Femelle,Marron
+ANI_000396,Flash,Cheval,Frison,11,612.9,Mâle,Beige
+ANI_000397,Flash,Poisson,Discus,1,0.11,Mâle,Marron
+ANI_000398,Minou,Chat,Européen,6,6.36,Mâle,Tricolore
+ANI_000399,Blue,Poisson,Discus,5,0.14,Femelle,Tacheté
+ANI_000400,Zeus,Chien,Yorkshire,9,5.79,Mâle,Roux
+ANI_000401,Luna,Chat,Persan,7,7.32,Mâle,Blanc
+ANI_000402,Milo,Chien,Rottweiler,8,36.03,Femelle,Tricolore
+ANI_000403,Thor,Chien,Berger Allemand,4,35.01,Mâle,Roux
+ANI_000404,Bella,Chien,Boxer,1,32.22,Femelle,Tacheté
+ANI_000405,Buddy,Chien,Berger Allemand,8,44.18,Mâle,Tricolore
+ANI_000406,Duke,Chien,Beagle,8,9.91,Mâle,Gris
+ANI_000407,Bella,Chat,British Shorthair,3,6.34,Mâle,Tricolore
+ANI_000408,Goldie,Poisson,Betta,4,0.4,Mâle,Noir
+ANI_000409,Phoenix,Cheval,Mustang,0,448.08,Mâle,Beige
+ANI_000410,Splash,Poisson,Poisson Rouge,0,0.19,Femelle,Blanc
+ANI_000411,Mango,Oiseau,Perruche,12,0.7,Mâle,Rayé
+ANI_000412,Rocky,Chien,Berger Allemand,11,5.66,Mâle,Roux
+ANI_000413,Apollo,Cheval,Quarter Horse,13,657.03,Mâle,Marron
+ANI_000414,Tigrou,Chat,Chartreux,4,7.32,Mâle,Blanc
+ANI_000415,Cleo,Chat,British Shorthair,4,7.07,Mâle,Rayé
+ANI_000416,Bella,Chien,Beagle,4,16.07,Mâle,Tacheté
+ANI_000417,Oreo,Lapin,Angora,5,4.73,Mâle,Tricolore
+ANI_000418,Bunny,Lapin,Angora,4,1.98,Femelle,Rayé
+ANI_000419,Angel,Oiseau,Cacatoès,3,1.39,Femelle,Gris
+ANI_000420,Cottontail,Lapin,Géant des Flandres,2,1.51,Mâle,Blanc
+ANI_000421,Sunny,Oiseau,Cacatoès,3,1.02,Femelle,Blanc
+ANI_000422,Sky,Oiseau,Cacatoès,7,0.5,Mâle,Blanc
+ANI_000423,Thumper,Lapin,Bélier,0,5.88,Femelle,Beige
+ANI_000424,Bella,Chat,Chartreux,10,3.62,Mâle,Tacheté
+ANI_000425,Oreo,Lapin,Bélier,6,2.48,Mâle,Beige
+ANI_000426,Lola,Chien,Boxer,7,48.33,Femelle,Blanc
+ANI_000427,Marshmallow,Lapin,Nain,7,3.63,Mâle,Gris
+ANI_000428,Flash,Cheval,Mustang,21,727.68,Femelle,Marron
+ANI_000429,Nemo,Poisson,Néon,1,0.11,Mâle,Gris
+ANI_000430,Luna,Chat,Sphynx,8,7.2,Mâle,Roux
+ANI_000431,Charlie,Chien,Boxer,3,17.37,Mâle,Tacheté
+ANI_000432,Maximus,Cheval,Appaloosa,6,667.02,Mâle,Tricolore
+ANI_000433,Simba,Chat,Siamois,9,5.26,Femelle,Blanc
+ANI_000434,Charlie,Chat,Européen,0,6.68,Mâle,Rayé
+ANI_000435,Shadow,Chat,Persan,4,3.48,Femelle,Marron
+ANI_000436,Mango,Oiseau,Perruche,6,0.84,Femelle,Tricolore
+ANI_000437,Bella,Chat,Chartreux,12,5.97,Mâle,Gris
+ANI_000438,Goldie,Poisson,Poisson Rouge,2,0.3,Mâle,Marron
+ANI_000439,Luna,Chat,Siamois,5,5.23,Femelle,Beige
+ANI_000440,Zeus,Chien,Berger Allemand,6,20.35,Femelle,Tricolore
+ANI_000441,Flash,Poisson,Guppy,1,0.18,Mâle,Tacheté
+ANI_000442,Rio,Oiseau,Calopsitte,7,0.99,Femelle,Gris
+ANI_000443,Clover,Lapin,Angora,7,2.83,Femelle,Marron
+ANI_000444,Blue,Poisson,Poisson Rouge,3,0.23,Femelle,Gris
+ANI_000445,Marshmallow,Lapin,Bélier,4,1.35,Mâle,Marron
+ANI_000446,Pepper,Oiseau,Calopsitte,1,1.04,Femelle,Marron
+ANI_000447,Honey,Lapin,Géant des Flandres,2,1.95,Femelle,Tricolore
+ANI_000448,Cleo,Chat,Ragdoll,1,4.81,Femelle,Gris
+ANI_000449,Flash,Cheval,Frison,19,424.06,Femelle,Tricolore
+ANI_000450,Cotton,Lapin,Bélier,4,1.88,Mâle,Roux
+ANI_000451,Nala,Chien,Yorkshire,9,9.35,Mâle,Tacheté
+ANI_000452,Nala,Chien,Yorkshire,11,20.64,Femelle,Roux
+ANI_000453,Snowball,Lapin,Rex,6,3.0,Femelle,Noir
+ANI_000454,Flash,Poisson,Discus,3,0.13,Femelle,Blanc
+ANI_000455,Flash,Poisson,Discus,5,0.14,Mâle,Roux
+ANI_000456,Nala,Chien,Beagle,11,40.19,Mâle,Beige
+ANI_000457,Minou,Chat,Bengal,6,4.32,Femelle,Tacheté
+ANI_000458,Nala,Chat,Chartreux,1,7.68,Femelle,Blanc
+ANI_000459,Zeus,Chien,Berger Allemand,2,22.86,Mâle,Tricolore
+ANI_000460,Felix,Chat,Bengal,6,3.81,Femelle,Beige
+ANI_000461,Blue,Poisson,Guppy,5,0.29,Femelle,Blanc
+ANI_000462,Marshmallow,Lapin,Bélier,0,1.58,Mâle,Blanc
+ANI_000463,Bella,Chat,Siamois,7,5.66,Mâle,Marron
+ANI_000464,Bubbles,Poisson,Carpe Koï,3,0.41,Mâle,Noir
+ANI_000465,Kiwi,Oiseau,Perruche,10,1.06,Mâle,Tricolore
+ANI_000466,Felix,Chat,Bengal,15,7.66,Mâle,Gris
+ANI_000467,Leo,Chat,Chartreux,5,4.57,Femelle,Roux
+ANI_000468,Finn,Poisson,Poisson Rouge,5,0.42,Mâle,Tacheté
+ANI_000469,Snowball,Lapin,Angora,8,5.13,Mâle,Noir
+ANI_000470,Kiwi,Oiseau,Inséparable,7,0.74,Mâle,Marron
+ANI_000471,Cotton,Lapin,Nain,3,3.2,Mâle,Marron
+ANI_000472,Bunny,Lapin,Géant des Flandres,1,4.25,Mâle,Blanc
+ANI_000473,Shadow,Cheval,Percheron,4,712.3,Mâle,Rayé
+ANI_000474,Felix,Chat,Chartreux,13,7.97,Femelle,Roux
+ANI_000475,Coco,Oiseau,Perroquet Ara,2,0.3,Mâle,Noir
+ANI_000476,Mango,Oiseau,Perroquet Ara,13,0.43,Femelle,Blanc
+ANI_000477,Cotton,Lapin,Nain,3,5.98,Femelle,Noir
+ANI_000478,Rex,Chien,Beagle,11,18.78,Mâle,Beige
+ANI_000479,Marshmallow,Lapin,Rex,5,3.13,Mâle,Tricolore
+ANI_000480,Sky,Oiseau,Cacatoès,6,0.81,Femelle,Tacheté
+ANI_000481,Blue,Poisson,Carpe Koï,4,0.2,Femelle,Roux
+ANI_000482,Coco,Oiseau,Calopsitte,1,0.24,Femelle,Marron
+ANI_000483,Blue,Oiseau,Calopsitte,14,0.89,Mâle,Rayé
+ANI_000484,Shadow,Chat,Sphynx,4,4.08,Femelle,Gris
+ANI_000485,Kiwi,Oiseau,Canari,12,1.47,Mâle,Tricolore
+ANI_000486,Leo,Chat,Européen,15,5.44,Mâle,Roux
+ANI_000487,Maximus,Cheval,Pur-sang Arabe,10,581.75,Femelle,Beige
+ANI_000488,Honey,Lapin,Géant des Flandres,3,5.32,Mâle,Roux
+ANI_000489,Peter,Lapin,Bélier,2,2.88,Mâle,Tacheté
+ANI_000490,Cottontail,Lapin,Géant des Flandres,4,5.78,Femelle,Tacheté
+ANI_000491,Simba,Chien,Husky,7,19.19,Femelle,Noir
+ANI_000492,Nala,Chien,Labrador,12,17.57,Mâle,Blanc
+ANI_000493,Lucy,Chat,Scottish Fold,11,6.91,Femelle,Tacheté
+ANI_000494,Oreo,Lapin,Angora,1,2.93,Mâle,Rayé
+ANI_000495,Blue,Poisson,Poisson Rouge,0,0.04,Femelle,Gris
+ANI_000496,Sunny,Oiseau,Perruche,15,1.48,Femelle,Beige
+ANI_000497,Pepper,Oiseau,Inséparable,8,1.13,Femelle,Marron
+ANI_000498,Rocky,Chien,Golden Retriever,7,6.6,Femelle,Tacheté
+ANI_000499,Peter,Lapin,Géant des Flandres,3,2.75,Mâle,Marron
+ANI_000500,Shadow,Cheval,Percheron,18,469.64,Femelle,Tacheté
+ANI_000501,Blue,Oiseau,Inséparable,15,0.15,Mâle,Rayé
+ANI_000502,Charlie,Chat,British Shorthair,15,5.57,Mâle,Marron
+ANI_000503,Milo,Chien,Caniche,8,48.92,Femelle,Blanc
+ANI_000504,Minou,Chat,Siamois,3,6.08,Femelle,Beige
+ANI_000505,Nemo,Poisson,Poisson Rouge,0,0.27,Femelle,Gris
+ANI_000506,Goldie,Poisson,Betta,4,0.07,Femelle,Rayé
+ANI_000507,Thunder,Cheval,Shetland,21,594.41,Femelle,Blanc
+ANI_000508,Bunny,Lapin,Bélier,0,5.64,Mâle,Gris
+ANI_000509,Milo,Chien,Husky,10,29.75,Femelle,Blanc
+ANI_000510,Felix,Chat,Chartreux,5,4.37,Mâle,Blanc
+ANI_000511,Marshmallow,Lapin,Géant des Flandres,2,5.43,Mâle,Blanc
+ANI_000512,Buddy,Oiseau,Perruche,15,0.51,Mâle,Noir
+ANI_000513,Oscar,Chien,Husky,1,33.62,Mâle,Gris
+ANI_000514,Finn,Poisson,Discus,5,0.37,Femelle,Blanc
+ANI_000515,Cottontail,Lapin,Angora,5,5.92,Femelle,Tricolore
+ANI_000516,Splash,Poisson,Néon,4,0.09,Mâle,Tricolore
+ANI_000517,Rio,Oiseau,Inséparable,10,1.45,Mâle,Tacheté
+ANI_000518,Apollo,Cheval,Percheron,11,693.12,Femelle,Beige
+ANI_000519,Pegasus,Cheval,Mustang,0,603.34,Mâle,Marron
+ANI_000520,Blue,Poisson,Guppy,4,0.06,Femelle,Tacheté
+ANI_000521,Bugs,Lapin,Nain,7,3.31,Mâle,Noir
+ANI_000522,Rocky,Chien,Beagle,0,17.51,Femelle,Tricolore
+ANI_000523,Luna,Cheval,Shetland,1,481.61,Mâle,Gris
+ANI_000524,Lucy,Chat,Européen,13,6.08,Mâle,Beige
+ANI_000525,Bella,Cheval,Frison,15,713.52,Mâle,Beige
+ANI_000526,Cottontail,Lapin,Rex,5,5.16,Femelle,Marron
+ANI_000527,Nemo,Poisson,Carpe Koï,1,0.38,Femelle,Gris
+ANI_000528,Snowball,Lapin,Angora,6,3.35,Femelle,Marron
+ANI_000529,Luna,Cheval,Mustang,3,554.15,Mâle,Beige
+ANI_000530,Honey,Lapin,Rex,7,2.09,Mâle,Noir
+ANI_000531,Whiskers,Chat,Européen,4,3.01,Mâle,Rayé
+ANI_000532,Blue,Oiseau,Canari,13,0.57,Mâle,Rayé
+ANI_000533,Simba,Chien,Bulldog Français,6,44.34,Mâle,Tricolore
+ANI_000534,Sky,Oiseau,Calopsitte,7,0.2,Mâle,Beige
+ANI_000535,Simba,Chat,Ragdoll,3,3.26,Femelle,Noir
+ANI_000536,Tigrou,Chat,Maine Coon,14,3.11,Femelle,Marron
+ANI_000537,Tornado,Cheval,Pur-sang Arabe,18,423.42,Femelle,Noir
+ANI_000538,Buddy,Oiseau,Cacatoès,5,0.35,Mâle,Roux
+ANI_000539,Cotton,Lapin,Angora,6,4.68,Femelle,Marron
+ANI_000540,Stella,Chien,Labrador,0,31.92,Mâle,Blanc
+ANI_000541,Phoenix,Cheval,Percheron,24,773.25,Mâle,Marron
+ANI_000542,Tweety,Oiseau,Perroquet Ara,5,0.97,Femelle,Tricolore
+ANI_000543,Star,Cheval,Percheron,14,735.92,Mâle,Rayé
+ANI_000544,Bella,Cheval,Percheron,25,635.11,Mâle,Marron
+ANI_000545,Lola,Chien,Bulldog Français,1,12.44,Mâle,Blanc
+ANI_000546,Tornado,Cheval,Pur-sang Arabe,21,509.23,Mâle,Roux
+ANI_000547,Duke,Chien,Rottweiler,2,47.33,Mâle,Noir
+ANI_000548,Bella,Chat,Siamois,9,7.36,Femelle,Gris
+ANI_000549,Rio,Oiseau,Inséparable,0,0.68,Femelle,Rayé
+ANI_000550,Blue,Oiseau,Cacatoès,9,0.17,Mâle,Noir
+ANI_000551,Minou,Chat,Siamois,7,6.65,Mâle,Roux
+ANI_000552,Finn,Poisson,Poisson Rouge,5,0.31,Femelle,Gris
+ANI_000553,Cotton,Lapin,Nain,7,3.36,Femelle,Beige
+ANI_000554,Pepper,Oiseau,Calopsitte,11,0.11,Femelle,Tacheté
+ANI_000555,Blue,Poisson,Néon,2,0.15,Mâle,Tricolore
+ANI_000556,Rainbow,Poisson,Betta,5,0.22,Femelle,Noir
+ANI_000557,Maya,Chien,Chihuahua,8,26.94,Femelle,Gris
+ANI_000558,Thunder,Cheval,Appaloosa,25,624.8,Mâle,Beige
+ANI_000559,Kiwi,Oiseau,Cacatoès,0,1.17,Mâle,Tacheté
+ANI_000560,Rainbow,Poisson,Betta,2,0.48,Femelle,Tacheté
+ANI_000561,Buddy,Oiseau,Canari,11,1.19,Mâle,Rayé
+ANI_000562,Splash,Poisson,Poisson Rouge,1,0.49,Femelle,Rayé
+ANI_000563,Coco,Oiseau,Perruche,9,0.33,Femelle,Rayé
+ANI_000564,Thor,Chien,Golden Retriever,8,47.62,Mâle,Rayé
+ANI_000565,Clover,Lapin,Nain,0,1.76,Mâle,Rayé
+ANI_000566,Clover,Lapin,Bélier,6,4.42,Femelle,Beige
+ANI_000567,Bella,Chien,Berger Allemand,11,37.53,Mâle,Tricolore
+ANI_000568,Simba,Chien,Yorkshire,0,32.58,Mâle,Marron
+ANI_000569,Goldie,Poisson,Carpe Koï,0,0.22,Mâle,Beige
+ANI_000570,Blue,Oiseau,Canari,15,0.36,Mâle,Roux
+ANI_000571,Lucy,Chat,Maine Coon,15,5.3,Mâle,Rayé
+ANI_000572,Rainbow,Poisson,Néon,5,0.41,Mâle,Gris
+ANI_000573,Lucy,Chat,Siamois,2,6.93,Mâle,Gris
+ANI_000574,Buddy,Oiseau,Cacatoès,14,1.15,Femelle,Roux
+ANI_000575,Cottontail,Lapin,Géant des Flandres,3,5.35,Mâle,Beige
+ANI_000576,Bella,Cheval,Mustang,7,794.0,Femelle,Gris
+ANI_000577,Charlie,Chat,Persan,1,3.33,Mâle,Blanc
+ANI_000578,Rainbow,Poisson,Guppy,3,0.27,Femelle,Blanc
+ANI_000579,Cottontail,Lapin,Angora,6,4.28,Mâle,Marron
+ANI_000580,Coco,Chien,Rottweiler,10,39.9,Femelle,Blanc
+ANI_000581,Apollo,Cheval,Quarter Horse,11,609.33,Mâle,Noir
+ANI_000582,Clover,Lapin,Rex,3,2.38,Femelle,Rayé
+ANI_000583,Coco,Chien,Caniche,9,25.14,Mâle,Roux
+ANI_000584,Goldie,Poisson,Néon,2,0.19,Mâle,Noir
+ANI_000585,Phoenix,Cheval,Frison,7,602.82,Femelle,Tricolore
+ANI_000586,Oreo,Lapin,Nain,7,5.47,Femelle,Rayé
+ANI_000587,Bugs,Lapin,Angora,3,4.99,Mâle,Gris
+ANI_000588,Bubbles,Poisson,Carpe Koï,0,0.4,Femelle,Rayé
+ANI_000589,Blue,Poisson,Poisson Rouge,4,0.49,Femelle,Tacheté
+ANI_000590,Kiwi,Oiseau,Calopsitte,3,1.5,Mâle,Tacheté
+ANI_000591,Lucy,Chat,Ragdoll,10,6.43,Femelle,Noir
+ANI_000592,Blaze,Cheval,Pur-sang Arabe,24,729.18,Mâle,Beige
+ANI_000593,Tigrou,Chat,Européen,12,4.68,Femelle,Gris
+ANI_000594,Daisy,Chien,Bulldog Français,1,9.98,Mâle,Blanc
+ANI_000595,Clover,Lapin,Rex,1,5.11,Femelle,Tacheté
+ANI_000596,Bugs,Lapin,Nain,7,3.47,Mâle,Tricolore
+ANI_000597,Maximus,Cheval,Appaloosa,25,497.74,Mâle,Roux
+ANI_000598,Fluffy,Lapin,Bélier,4,3.1,Femelle,Rayé
+ANI_000599,Tigrou,Chat,Chartreux,14,3.96,Femelle,Roux
+ANI_000600,Flash,Cheval,Pur-sang Arabe,15,630.9,Mâle,Tacheté
+ANI_000601,Maya,Chien,Beagle,10,42.97,Mâle,Tacheté
+ANI_000602,Spirit,Cheval,Quarter Horse,19,695.72,Femelle,Tricolore
+ANI_000603,Tigrou,Chat,Maine Coon,7,3.02,Femelle,Marron
+ANI_000604,Flash,Poisson,Poisson Rouge,3,0.5,Femelle,Noir
+ANI_000605,Luna,Cheval,Appaloosa,24,486.21,Femelle,Blanc
+ANI_000606,Angel,Oiseau,Perruche,4,0.64,Femelle,Beige
+ANI_000607,Marshmallow,Lapin,Rex,0,4.83,Femelle,Tricolore
+ANI_000608,Pegasus,Cheval,Appaloosa,14,504.11,Mâle,Marron
+ANI_000609,Bella,Chien,Chihuahua,7,22.08,Femelle,Blanc
+ANI_000610,Splash,Poisson,Néon,5,0.2,Femelle,Noir
+ANI_000611,Bubbles,Poisson,Carpe Koï,3,0.02,Femelle,Blanc
+ANI_000612,Finn,Poisson,Betta,5,0.43,Femelle,Marron
+ANI_000613,Shadow,Cheval,Andalou,2,701.58,Mâle,Tacheté
+ANI_000614,Duke,Chien,Bulldog Français,6,32.96,Mâle,Blanc
+ANI_000615,Thor,Chien,Rottweiler,3,10.07,Mâle,Roux
+ANI_000616,Splash,Poisson,Discus,3,0.06,Mâle,Blanc
+ANI_000617,Rainbow,Poisson,Poisson Rouge,0,0.24,Femelle,Tacheté
+ANI_000618,Rocky,Chien,Rottweiler,8,18.5,Mâle,Rayé
+ANI_000619,Flash,Poisson,Poisson Rouge,2,0.45,Femelle,Rayé
+ANI_000620,Leo,Chat,Chartreux,13,4.7,Femelle,Rayé
+ANI_000621,Tweety,Oiseau,Calopsitte,15,0.1,Mâle,Tricolore
+ANI_000622,Tornado,Cheval,Quarter Horse,17,629.34,Mâle,Noir
+ANI_000623,Rio,Oiseau,Inséparable,4,0.92,Femelle,Noir
+ANI_000624,Buddy,Chien,Beagle,12,6.47,Mâle,Blanc
+ANI_000625,Thunder,Cheval,Pur-sang Arabe,23,782.33,Mâle,Beige
+ANI_000626,Blue,Oiseau,Cacatoès,11,0.72,Femelle,Noir
+ANI_000627,Stella,Chien,Golden Retriever,12,12.68,Femelle,Roux
+ANI_000628,Blue,Oiseau,Perruche,3,1.19,Femelle,Roux
+ANI_000629,Flash,Cheval,Appaloosa,6,452.68,Femelle,Gris
+ANI_000630,Snowball,Lapin,Rex,5,2.31,Femelle,Roux
+ANI_000631,Gizmo,Chat,Ragdoll,0,4.34,Mâle,Noir
+ANI_000632,Finn,Poisson,Carpe Koï,0,0.01,Femelle,Beige
+ANI_000633,Blue,Oiseau,Cacatoès,9,1.37,Femelle,Tacheté
+ANI_000634,Luna,Cheval,Appaloosa,0,580.19,Femelle,Rayé
+ANI_000635,Sky,Oiseau,Perroquet Ara,7,0.73,Mâle,Blanc
+ANI_000636,Pepper,Oiseau,Cacatoès,0,0.8,Femelle,Tacheté
+ANI_000637,Finn,Poisson,Poisson Rouge,0,0.12,Femelle,Beige
+ANI_000638,Maximus,Cheval,Appaloosa,0,535.54,Mâle,Tricolore
+ANI_000639,Tweety,Oiseau,Inséparable,15,0.79,Femelle,Rayé
+ANI_000640,Tornado,Cheval,Andalou,8,558.81,Femelle,Gris
+ANI_000641,Angel,Oiseau,Perroquet Ara,0,0.22,Femelle,Tricolore
+ANI_000642,Flash,Cheval,Quarter Horse,22,749.69,Mâle,Noir
+ANI_000643,Sky,Oiseau,Perruche,10,0.24,Mâle,Beige
+ANI_000644,Nemo,Poisson,Discus,3,0.37,Femelle,Rayé
+ANI_000645,Mango,Oiseau,Inséparable,12,0.5,Femelle,Gris
+ANI_000646,Coco,Oiseau,Canari,11,1.24,Femelle,Blanc
+ANI_000647,Ruby,Chien,Rottweiler,6,37.29,Mâle,Blanc
+ANI_000648,Coco,Chien,Bulldog Français,1,10.15,Mâle,Noir
+ANI_000649,Blue,Poisson,Poisson Rouge,3,0.19,Mâle,Roux
+ANI_000650,Maximus,Cheval,Percheron,7,700.47,Mâle,Beige
+ANI_000651,Thor,Chien,Boxer,8,47.38,Mâle,Gris
+ANI_000652,Buddy,Oiseau,Perroquet Ara,1,1.34,Mâle,Gris
+ANI_000653,Kiwi,Oiseau,Canari,2,1.37,Femelle,Roux
+ANI_000654,Rocky,Chien,Yorkshire,3,33.7,Mâle,Roux
+ANI_000655,Blue,Oiseau,Canari,2,0.82,Femelle,Tricolore
+ANI_000656,Gizmo,Chat,Persan,13,5.66,Mâle,Rayé
+ANI_000657,Flash,Cheval,Pur-sang Arabe,12,559.75,Femelle,Tricolore
+ANI_000658,Tweety,Oiseau,Inséparable,14,0.55,Mâle,Marron
+ANI_000659,Zeus,Chien,Chihuahua,1,23.18,Femelle,Marron
+ANI_000660,Sunny,Oiseau,Perroquet Ara,5,1.19,Femelle,Noir
+ANI_000661,Thumper,Lapin,Rex,2,3.25,Femelle,Beige
+ANI_000662,Oreo,Lapin,Nain,7,5.45,Mâle,Gris
+ANI_000663,Whiskers,Chat,Chartreux,3,4.96,Mâle,Rayé
+ANI_000664,Cleo,Chat,Sphynx,4,6.23,Mâle,Blanc
+ANI_000665,Tweety,Oiseau,Perroquet Ara,14,0.27,Femelle,Blanc
+ANI_000666,Mango,Oiseau,Canari,1,0.97,Femelle,Tacheté
+ANI_000667,Phoenix,Cheval,Percheron,10,524.49,Femelle,Roux
+ANI_000668,Rainbow,Poisson,Discus,1,0.42,Mâle,Noir
+ANI_000669,Cotton,Lapin,Nain,0,1.7,Mâle,Tacheté
+ANI_000670,Pepper,Oiseau,Calopsitte,7,0.78,Femelle,Tacheté
+ANI_000671,Blaze,Cheval,Mustang,25,415.6,Mâle,Beige
+ANI_000672,Rainbow,Poisson,Guppy,2,0.09,Mâle,Gris
+ANI_000673,Oliver,Chat,British Shorthair,12,5.29,Mâle,Rayé
+ANI_000674,Splash,Poisson,Betta,1,0.07,Mâle,Blanc
+ANI_000675,Tigrou,Chat,Européen,6,5.22,Femelle,Blanc
+ANI_000676,Minou,Chat,Chartreux,12,4.44,Mâle,Blanc
+ANI_000677,Nemo,Poisson,Néon,4,0.49,Mâle,Marron
+ANI_000678,Splash,Poisson,Néon,4,0.24,Femelle,Beige
+ANI_000679,Blue,Oiseau,Canari,4,1.26,Femelle,Noir
+ANI_000680,Luna,Cheval,Quarter Horse,1,503.73,Mâle,Blanc
+ANI_000681,Spirit,Cheval,Frison,20,536.98,Mâle,Blanc
+ANI_000682,Marshmallow,Lapin,Géant des Flandres,6,3.72,Mâle,Noir
+ANI_000683,Rocky,Chien,Caniche,12,33.18,Mâle,Marron
+ANI_000684,Shadow,Cheval,Appaloosa,16,693.83,Femelle,Tacheté
+ANI_000685,Whiskers,Chat,Sphynx,8,6.96,Femelle,Noir
+ANI_000686,Flash,Cheval,Mustang,20,459.19,Femelle,Tacheté
+ANI_000687,Sunny,Oiseau,Perroquet Ara,3,1.37,Mâle,Roux
+ANI_000688,Thunder,Cheval,Mustang,10,541.38,Mâle,Tricolore
+ANI_000689,Cottontail,Lapin,Géant des Flandres,6,1.62,Femelle,Blanc
+ANI_000690,Stella,Chien,Caniche,8,44.47,Mâle,Noir
+ANI_000691,Snowball,Lapin,Nain,2,3.56,Femelle,Tricolore
+ANI_000692,Cotton,Lapin,Rex,5,3.94,Femelle,Rayé
+ANI_000693,Whiskers,Chat,Bengal,10,4.02,Femelle,Beige
+ANI_000694,Bella,Cheval,Quarter Horse,18,630.91,Femelle,Roux
+ANI_000695,Tornado,Cheval,Mustang,17,577.38,Femelle,Rayé
+ANI_000696,Snowball,Lapin,Géant des Flandres,8,1.3,Femelle,Rayé
+ANI_000697,Tweety,Oiseau,Perroquet Ara,0,0.48,Femelle,Roux
+ANI_000698,Star,Cheval,Percheron,2,579.33,Mâle,Tacheté
+ANI_000699,Coco,Oiseau,Calopsitte,15,1.16,Femelle,Noir
+ANI_000700,Finn,Poisson,Discus,2,0.44,Femelle,Gris
+ANI_000701,Lucy,Chat,Scottish Fold,13,6.22,Mâle,Blanc
+ANI_000702,Clover,Lapin,Bélier,7,4.67,Femelle,Marron
+ANI_000703,Finn,Poisson,Poisson Rouge,2,0.5,Mâle,Noir
+ANI_000704,Mittens,Chat,Persan,6,3.01,Femelle,Blanc
+ANI_000705,Blaze,Cheval,Pur-sang Arabe,24,653.16,Mâle,Noir
+ANI_000706,Pepper,Oiseau,Inséparable,7,1.16,Mâle,Rayé
+ANI_000707,Luna,Chien,Berger Allemand,2,32.61,Mâle,Gris
+ANI_000708,Ruby,Chien,Labrador,3,23.32,Femelle,Marron
+ANI_000709,Bubbles,Poisson,Guppy,2,0.32,Mâle,Noir
+ANI_000710,Kiwi,Oiseau,Inséparable,12,1.43,Femelle,Blanc
+ANI_000711,Thunder,Cheval,Andalou,7,445.17,Femelle,Marron
+ANI_000712,Cleo,Chat,Scottish Fold,15,5.39,Femelle,Marron
+ANI_000713,Luna,Chat,Maine Coon,12,6.33,Femelle,Beige
+ANI_000714,Oreo,Lapin,Bélier,2,5.02,Femelle,Rayé
+ANI_000715,Blue,Poisson,Carpe Koï,2,0.02,Femelle,Beige
+ANI_000716,Tweety,Oiseau,Perroquet Ara,8,0.37,Femelle,Blanc
+ANI_000717,Sky,Oiseau,Inséparable,4,0.65,Mâle,Blanc
+ANI_000718,Simba,Chien,Chihuahua,6,27.64,Femelle,Tacheté
+ANI_000719,Goldie,Poisson,Betta,3,0.32,Femelle,Noir
+ANI_000720,Thumper,Lapin,Rex,1,4.57,Mâle,Noir
+ANI_000721,Peter,Lapin,Géant des Flandres,5,3.82,Femelle,Tacheté
+ANI_000722,Bunny,Lapin,Géant des Flandres,6,4.6,Mâle,Tricolore
+ANI_000723,Thumper,Lapin,Bélier,7,4.15,Mâle,Roux
+ANI_000724,Maximus,Cheval,Pur-sang Arabe,16,527.03,Femelle,Noir
+ANI_000725,Coco,Chien,Boxer,5,36.81,Femelle,Roux
+ANI_000726,Gizmo,Chat,Sphynx,5,4.23,Mâle,Noir
+ANI_000727,Max,Chien,Rottweiler,10,17.17,Femelle,Tricolore
+ANI_000728,Maximus,Cheval,Frison,3,715.57,Mâle,Gris
+ANI_000729,Shadow,Cheval,Mustang,16,550.93,Mâle,Tricolore
+ANI_000730,Bugs,Lapin,Angora,0,4.44,Femelle,Blanc
+ANI_000731,Cleo,Chat,Persan,10,7.22,Mâle,Tacheté
+ANI_000732,Nala,Chat,Ragdoll,4,7.38,Femelle,Blanc
+ANI_000733,Pepper,Oiseau,Perroquet Ara,11,0.24,Femelle,Gris
+ANI_000734,Clover,Lapin,Nain,4,3.38,Mâle,Beige
+ANI_000735,Storm,Cheval,Appaloosa,9,441.92,Mâle,Blanc
+ANI_000736,Rainbow,Poisson,Néon,0,0.24,Femelle,Blanc
+ANI_000737,Cleo,Chat,Siamois,8,3.26,Femelle,Blanc
+ANI_000738,Charlie,Chien,Labrador,12,23.71,Femelle,Marron
+ANI_000739,Gizmo,Chat,Chartreux,5,5.36,Mâle,Roux
+ANI_000740,Flash,Poisson,Poisson Rouge,4,0.38,Femelle,Tricolore
+ANI_000741,Angel,Oiseau,Canari,7,1.4,Mâle,Beige
+ANI_000742,Snowball,Lapin,Bélier,5,4.22,Mâle,Tricolore
+ANI_000743,Pepper,Oiseau,Cacatoès,5,0.34,Mâle,Roux
+ANI_000744,Marshmallow,Lapin,Géant des Flandres,2,4.33,Femelle,Beige
+ANI_000745,Lola,Chien,Chihuahua,4,17.04,Mâle,Rayé
+ANI_000746,Sunny,Oiseau,Canari,5,0.54,Femelle,Marron
+ANI_000747,Flash,Poisson,Poisson Rouge,5,0.21,Mâle,Blanc
+ANI_000748,Oscar,Chien,Golden Retriever,5,28.89,Femelle,Marron
+ANI_000749,Rainbow,Poisson,Néon,4,0.24,Femelle,Tricolore
+ANI_000750,Marshmallow,Lapin,Bélier,5,4.81,Mâle,Beige
+ANI_000751,Peter,Lapin,Nain,5,1.08,Femelle,Gris
+ANI_000752,Tornado,Cheval,Percheron,8,448.08,Mâle,Marron
+ANI_000753,Nemo,Poisson,Discus,0,0.37,Mâle,Blanc
+ANI_000754,Marshmallow,Lapin,Nain,4,4.23,Mâle,Gris
+ANI_000755,Clover,Lapin,Angora,7,4.92,Mâle,Tricolore
+ANI_000756,Milo,Chien,Caniche,12,22.91,Mâle,Gris
+ANI_000757,Clover,Lapin,Angora,1,4.02,Mâle,Roux
+ANI_000758,Coco,Oiseau,Cacatoès,11,0.13,Mâle,Rayé
+ANI_000759,Gizmo,Chat,Sphynx,6,6.93,Femelle,Blanc
+ANI_000760,Bunny,Lapin,Bélier,5,2.83,Mâle,Marron
+ANI_000761,Maximus,Cheval,Frison,6,456.32,Mâle,Beige
+ANI_000762,Luna,Chat,Chartreux,10,5.89,Femelle,Tacheté
+ANI_000763,Storm,Cheval,Mustang,7,654.38,Femelle,Gris
+ANI_000764,Bunny,Lapin,Angora,0,2.73,Mâle,Noir
+ANI_000765,Clover,Lapin,Rex,8,4.45,Mâle,Tacheté
+ANI_000766,Felix,Chat,Persan,4,5.49,Mâle,Tricolore
+ANI_000767,Max,Chien,Rottweiler,1,18.59,Femelle,Noir
+ANI_000768,Nala,Chat,Scottish Fold,13,3.38,Mâle,Noir
+ANI_000769,Finn,Poisson,Carpe Koï,5,0.24,Femelle,Noir
+ANI_000770,Bella,Chat,Siamois,5,5.23,Mâle,Tacheté
+ANI_000771,Bunny,Lapin,Géant des Flandres,0,1.68,Mâle,Tricolore
+ANI_000772,Thunder,Cheval,Mustang,10,556.74,Femelle,Marron
+ANI_000773,Cotton,Lapin,Nain,2,3.49,Mâle,Rayé
+ANI_000774,Tornado,Cheval,Frison,24,487.65,Mâle,Tricolore
+ANI_000775,Kiwi,Oiseau,Perroquet Ara,2,0.31,Mâle,Marron
+ANI_000776,Goldie,Poisson,Carpe Koï,1,0.02,Femelle,Marron
+ANI_000777,Bunny,Lapin,Angora,1,4.49,Mâle,Noir
+ANI_000778,Thunder,Cheval,Mustang,1,702.92,Mâle,Blanc
+ANI_000779,Pepper,Oiseau,Canari,13,1.09,Femelle,Tacheté
+ANI_000780,Bubbles,Poisson,Poisson Rouge,0,0.09,Femelle,Marron
+ANI_000781,Leo,Chat,British Shorthair,5,6.02,Mâle,Tacheté
+ANI_000782,Rio,Oiseau,Canari,4,0.6,Mâle,Roux
+ANI_000783,Bunny,Lapin,Bélier,4,2.11,Femelle,Rayé
+ANI_000784,Oreo,Lapin,Bélier,7,5.04,Mâle,Roux
+ANI_000785,Bubbles,Poisson,Discus,0,0.21,Mâle,Marron
+ANI_000786,Honey,Lapin,Géant des Flandres,3,2.44,Femelle,Tricolore
+ANI_000787,Shadow,Cheval,Frison,0,417.96,Mâle,Tacheté
+ANI_000788,Sky,Oiseau,Perroquet Ara,3,0.18,Mâle,Roux
+ANI_000789,Bubbles,Poisson,Guppy,0,0.23,Femelle,Tacheté
+ANI_000790,Felix,Chat,Persan,12,4.26,Mâle,Tricolore
+ANI_000791,Bunny,Lapin,Géant des Flandres,1,4.28,Mâle,Roux
+ANI_000792,Luna,Chat,Persan,9,7.59,Mâle,Tacheté
+ANI_000793,Bunny,Lapin,Bélier,8,1.19,Femelle,Tricolore
+ANI_000794,Minou,Chat,Persan,5,7.33,Mâle,Noir
+ANI_000795,Rio,Oiseau,Perroquet Ara,4,1.09,Femelle,Gris
+ANI_000796,Shadow,Cheval,Mustang,11,703.51,Femelle,Noir
+ANI_000797,Maximus,Cheval,Mustang,6,757.64,Mâle,Rayé
+ANI_000798,Nala,Chat,Sphynx,4,6.82,Femelle,Marron
+ANI_000799,Charlie,Chat,Bengal,1,4.02,Mâle,Blanc
+ANI_000800,Sky,Oiseau,Perroquet Ara,15,1.29,Mâle,Gris
+ANI_000801,Bunny,Lapin,Nain,3,2.48,Mâle,Marron
+ANI_000802,Spirit,Cheval,Mustang,2,438.02,Femelle,Roux
+ANI_000803,Pegasus,Cheval,Shetland,3,677.45,Mâle,Rayé
+ANI_000804,Tigrou,Chat,Bengal,1,7.38,Mâle,Rayé
+ANI_000805,Coco,Oiseau,Cacatoès,12,0.1,Mâle,Tacheté
+ANI_000806,Finn,Poisson,Discus,0,0.01,Femelle,Rayé
+ANI_000807,Daisy,Chien,Chihuahua,4,37.54,Femelle,Roux
+ANI_000808,Splash,Poisson,Discus,3,0.12,Mâle,Beige
+ANI_000809,Blaze,Cheval,Andalou,11,489.72,Mâle,Rayé
+ANI_000810,Bugs,Lapin,Nain,6,4.05,Mâle,Noir
+ANI_000811,Splash,Poisson,Carpe Koï,0,0.13,Mâle,Beige
+ANI_000812,Bella,Cheval,Andalou,15,760.78,Femelle,Beige
+ANI_000813,Blue,Poisson,Néon,5,0.2,Femelle,Roux
+ANI_000814,Charlie,Oiseau,Perroquet Ara,6,0.84,Femelle,Gris
+ANI_000815,Charlie,Chat,Maine Coon,13,5.92,Femelle,Noir
+ANI_000816,Luna,Cheval,Shetland,21,506.13,Femelle,Rayé
+ANI_000817,Clover,Lapin,Rex,4,3.8,Femelle,Beige
+ANI_000818,Thor,Chien,Berger Allemand,3,48.76,Femelle,Marron
+ANI_000819,Charlie,Chat,Sphynx,15,3.49,Mâle,Marron
+ANI_000820,Blue,Poisson,Poisson Rouge,1,0.37,Mâle,Beige
+ANI_000821,Nemo,Poisson,Poisson Rouge,1,0.41,Mâle,Tacheté
+ANI_000822,Blue,Oiseau,Perroquet Ara,5,1.01,Mâle,Rayé
+ANI_000823,Tweety,Oiseau,Perruche,14,1.16,Mâle,Roux
+ANI_000824,Tweety,Oiseau,Perroquet Ara,2,0.75,Mâle,Beige
+ANI_000825,Thumper,Lapin,Rex,0,1.13,Femelle,Noir
+ANI_000826,Peter,Lapin,Angora,0,5.85,Mâle,Beige
+ANI_000827,Pepper,Oiseau,Cacatoès,10,0.78,Femelle,Tricolore
+ANI_000828,Nemo,Poisson,Poisson Rouge,0,0.27,Mâle,Gris
+ANI_000829,Sunny,Oiseau,Perroquet Ara,10,0.75,Femelle,Noir
+ANI_000830,Sky,Oiseau,Calopsitte,2,0.63,Femelle,Tricolore
+ANI_000831,Luna,Cheval,Quarter Horse,24,462.91,Mâle,Gris
+ANI_000832,Oreo,Lapin,Rex,1,5.36,Mâle,Blanc
+ANI_000833,Storm,Cheval,Pur-sang Arabe,7,500.19,Mâle,Noir
+ANI_000834,Flash,Cheval,Frison,18,651.2,Mâle,Marron
+ANI_000835,Fluffy,Lapin,Rex,0,1.1,Mâle,Tacheté
+ANI_000836,Sunny,Oiseau,Perruche,10,0.65,Femelle,Blanc
+ANI_000837,Splash,Poisson,Poisson Rouge,0,0.44,Mâle,Tricolore
+ANI_000838,Pepper,Oiseau,Calopsitte,10,0.57,Femelle,Blanc
+ANI_000839,Tigrou,Chat,Chartreux,5,4.66,Femelle,Roux
+ANI_000840,Simba,Chat,Ragdoll,0,6.21,Femelle,Rayé
+ANI_000841,Blue,Poisson,Carpe Koï,2,0.39,Mâle,Rayé
+ANI_000842,Pepper,Oiseau,Cacatoès,1,1.41,Mâle,Marron
+ANI_000843,Milo,Chien,Husky,9,25.26,Mâle,Blanc
+ANI_000844,Felix,Chat,Persan,5,5.74,Mâle,Tricolore
+ANI_000845,Bugs,Lapin,Nain,1,4.52,Mâle,Marron
+ANI_000846,Simba,Chien,Berger Allemand,11,8.33,Mâle,Rayé
+ANI_000847,Thunder,Cheval,Frison,24,696.06,Femelle,Blanc
+ANI_000848,Luna,Chat,Sphynx,5,7.84,Mâle,Marron
+ANI_000849,Flash,Cheval,Percheron,14,780.57,Femelle,Noir
+ANI_000850,Star,Cheval,Pur-sang Arabe,19,639.62,Femelle,Beige
+ANI_000851,Thumper,Lapin,Angora,4,1.08,Mâle,Tacheté
+ANI_000852,Phoenix,Cheval,Andalou,9,580.27,Mâle,Gris
+ANI_000853,Bubbles,Poisson,Poisson Rouge,3,0.13,Mâle,Noir
+ANI_000854,Minou,Chat,Bengal,2,3.53,Mâle,Marron
+ANI_000855,Charlie,Chat,Européen,10,6.68,Mâle,Tricolore
+ANI_000856,Pepper,Oiseau,Perruche,5,0.96,Mâle,Roux
+ANI_000857,Splash,Poisson,Poisson Rouge,3,0.32,Femelle,Beige
+ANI_000858,Coco,Oiseau,Cacatoès,0,0.84,Femelle,Gris
+ANI_000859,Luna,Cheval,Pur-sang Arabe,3,690.29,Femelle,Noir
+ANI_000860,Rainbow,Poisson,Betta,5,0.49,Femelle,Roux
+ANI_000861,Coco,Chien,Boxer,10,24.51,Femelle,Roux
+ANI_000862,Phoenix,Cheval,Appaloosa,20,765.82,Femelle,Roux
+ANI_000863,Bunny,Lapin,Rex,8,3.19,Mâle,Beige
+ANI_000864,Maximus,Cheval,Shetland,16,618.75,Mâle,Blanc
+ANI_000865,Coco,Chien,Boxer,3,14.18,Mâle,Noir
+ANI_000866,Oscar,Chien,Beagle,3,5.62,Femelle,Blanc
+ANI_000867,Ruby,Chien,Husky,4,8.47,Femelle,Beige
+ANI_000868,Oliver,Chat,Sphynx,12,5.12,Femelle,Roux
+ANI_000869,Nemo,Poisson,Betta,2,0.3,Mâle,Roux
+ANI_000870,Goldie,Poisson,Betta,5,0.2,Mâle,Beige
+ANI_000871,Peter,Lapin,Angora,2,4.08,Mâle,Tacheté
+ANI_000872,Ruby,Chien,Yorkshire,7,8.08,Femelle,Tricolore
+ANI_000873,Gizmo,Chat,Persan,12,5.92,Femelle,Tacheté
+ANI_000874,Simba,Chien,Yorkshire,11,21.58,Femelle,Blanc
+ANI_000875,Nemo,Poisson,Discus,1,0.4,Mâle,Beige
+ANI_000876,Buddy,Oiseau,Canari,10,0.98,Femelle,Tricolore
+ANI_000877,Rainbow,Poisson,Betta,3,0.27,Mâle,Tacheté
+ANI_000878,Maximus,Cheval,Mustang,17,729.9,Mâle,Blanc
+ANI_000879,Goldie,Poisson,Guppy,0,0.11,Mâle,Marron
+ANI_000880,Bubbles,Poisson,Discus,5,0.02,Mâle,Rayé
+ANI_000881,Oreo,Lapin,Nain,2,3.05,Mâle,Tricolore
+ANI_000882,Minou,Chat,Chartreux,5,3.8,Mâle,Gris
+ANI_000883,Tweety,Oiseau,Inséparable,9,1.42,Mâle,Tricolore
+ANI_000884,Tigrou,Chat,Ragdoll,12,7.13,Femelle,Blanc
+ANI_000885,Blaze,Cheval,Quarter Horse,4,403.19,Mâle,Roux
+ANI_000886,Bunny,Lapin,Rex,7,3.77,Femelle,Blanc
+ANI_000887,Stella,Chien,Beagle,7,40.52,Mâle,Noir
+ANI_000888,Flash,Poisson,Discus,5,0.18,Mâle,Roux
+ANI_000889,Shadow,Chat,Scottish Fold,15,7.38,Mâle,Blanc
+ANI_000890,Angel,Oiseau,Inséparable,5,0.85,Femelle,Tacheté
+ANI_000891,Star,Cheval,Percheron,8,743.53,Mâle,Rayé
+ANI_000892,Minou,Chat,Ragdoll,11,7.29,Mâle,Blanc
+ANI_000893,Bella,Cheval,Andalou,21,518.38,Femelle,Tacheté
+ANI_000894,Rio,Oiseau,Inséparable,14,0.76,Femelle,Gris
+ANI_000895,Coco,Oiseau,Perroquet Ara,7,1.3,Femelle,Noir
+ANI_000896,Mango,Oiseau,Calopsitte,1,0.48,Femelle,Marron
+ANI_000897,Finn,Poisson,Poisson Rouge,0,0.21,Mâle,Noir
+ANI_000898,Bella,Chat,Siamois,9,4.77,Mâle,Roux
+ANI_000899,Cotton,Lapin,Angora,1,3.6,Femelle,Rayé
+ANI_000900,Oreo,Lapin,Angora,6,2.22,Mâle,Noir
+ANI_000901,Tornado,Cheval,Andalou,23,646.52,Femelle,Tricolore
+ANI_000902,Tweety,Oiseau,Perroquet Ara,13,1.31,Femelle,Marron
+ANI_000903,Apollo,Cheval,Frison,14,701.44,Femelle,Roux
+ANI_000904,Kiwi,Oiseau,Canari,2,0.84,Mâle,Tricolore
+ANI_000905,Nala,Chien,Labrador,12,36.35,Femelle,Roux
+ANI_000906,Coco,Oiseau,Inséparable,15,1.47,Mâle,Tricolore
+ANI_000907,Duke,Chien,Yorkshire,4,39.42,Mâle,Rayé
+ANI_000908,Luna,Cheval,Percheron,16,780.58,Mâle,Tacheté
+ANI_000909,Simba,Chien,Berger Allemand,10,8.11,Femelle,Noir
+ANI_000910,Sunny,Oiseau,Perruche,10,1.05,Mâle,Gris
+ANI_000911,Cottontail,Lapin,Nain,8,3.68,Femelle,Tricolore
+ANI_000912,Nala,Chien,Husky,8,26.83,Mâle,Rayé
+ANI_000913,Bella,Cheval,Andalou,6,580.52,Mâle,Gris
+ANI_000914,Thunder,Cheval,Quarter Horse,8,753.02,Mâle,Noir
+ANI_000915,Storm,Cheval,Quarter Horse,13,555.13,Femelle,Gris
+ANI_000916,Lucy,Chat,Siamois,15,4.04,Femelle,Marron
+ANI_000917,Flash,Poisson,Carpe Koï,0,0.37,Femelle,Beige
+ANI_000918,Clover,Lapin,Rex,0,1.37,Femelle,Roux
+ANI_000919,Charlie,Chat,British Shorthair,3,7.99,Mâle,Roux
+ANI_000920,Pegasus,Cheval,Frison,2,488.04,Mâle,Blanc
+ANI_000921,Rainbow,Poisson,Carpe Koï,2,0.36,Femelle,Marron
+ANI_000922,Marshmallow,Lapin,Angora,3,1.23,Femelle,Beige
+ANI_000923,Phoenix,Cheval,Shetland,10,732.55,Femelle,Blanc
+ANI_000924,Bella,Chien,Husky,12,9.67,Femelle,Gris
+ANI_000925,Milo,Chien,Bulldog Français,8,31.27,Mâle,Blanc
+ANI_000926,Coco,Oiseau,Inséparable,15,0.8,Femelle,Tricolore
+ANI_000927,Charlie,Chien,Golden Retriever,2,32.92,Femelle,Marron
+ANI_000928,Coco,Oiseau,Perruche,11,0.33,Mâle,Beige
+ANI_000929,Honey,Lapin,Géant des Flandres,0,2.29,Femelle,Noir
+ANI_000930,Luna,Cheval,Mustang,3,741.03,Mâle,Marron
+ANI_000931,Buddy,Oiseau,Calopsitte,11,0.74,Femelle,Rayé
+ANI_000932,Blue,Oiseau,Perruche,15,0.34,Mâle,Roux
+ANI_000933,Apollo,Cheval,Pur-sang Arabe,12,485.97,Femelle,Rayé
+ANI_000934,Flash,Poisson,Carpe Koï,1,0.26,Femelle,Blanc
+ANI_000935,Bella,Chien,Boxer,1,22.23,Femelle,Tacheté
+ANI_000936,Felix,Chat,Ragdoll,13,6.98,Femelle,Tricolore
+ANI_000937,Nemo,Poisson,Carpe Koï,2,0.47,Femelle,Tacheté
+ANI_000938,Nemo,Poisson,Discus,5,0.14,Mâle,Marron
+ANI_000939,Honey,Lapin,Géant des Flandres,3,5.12,Femelle,Tacheté
+ANI_000940,Nala,Chat,Ragdoll,14,7.11,Mâle,Rayé
+ANI_000941,Goldie,Poisson,Néon,4,0.38,Mâle,Noir
+ANI_000942,Max,Chien,Caniche,4,16.68,Mâle,Marron
+ANI_000943,Splash,Poisson,Discus,2,0.41,Mâle,Roux
+ANI_000944,Cottontail,Lapin,Bélier,8,5.49,Femelle,Beige
+ANI_000945,Apollo,Cheval,Shetland,6,798.46,Femelle,Marron
+ANI_000946,Goldie,Poisson,Betta,2,0.41,Femelle,Gris
+ANI_000947,Charlie,Oiseau,Calopsitte,3,1.36,Femelle,Roux
+ANI_000948,Buddy,Oiseau,Perruche,2,1.5,Mâle,Marron
+ANI_000949,Pegasus,Cheval,Percheron,12,452.03,Mâle,Gris
+ANI_000950,Bunny,Lapin,Angora,4,4.92,Mâle,Roux
+ANI_000951,Maximus,Cheval,Andalou,15,524.88,Femelle,Blanc
+ANI_000952,Blue,Poisson,Carpe Koï,5,0.46,Femelle,Tricolore
+ANI_000953,Oscar,Chien,Bulldog Français,10,5.24,Femelle,Rayé
+ANI_000954,Storm,Cheval,Shetland,20,560.93,Femelle,Beige
+ANI_000955,Blaze,Cheval,Pur-sang Arabe,18,576.92,Mâle,Marron
+ANI_000956,Simba,Chat,Chartreux,15,5.98,Femelle,Blanc
+ANI_000957,Thunder,Cheval,Andalou,22,647.41,Femelle,Tacheté
+ANI_000958,Shadow,Cheval,Mustang,20,792.45,Mâle,Rayé
+ANI_000959,Honey,Lapin,Nain,3,5.7,Mâle,Noir
+ANI_000960,Rainbow,Poisson,Guppy,2,0.42,Femelle,Beige
+ANI_000961,Star,Cheval,Percheron,17,444.03,Femelle,Tacheté
+ANI_000962,Maximus,Cheval,Mustang,4,421.76,Mâle,Tricolore
+ANI_000963,Bella,Cheval,Percheron,8,427.92,Femelle,Marron
+ANI_000964,Nemo,Poisson,Guppy,3,0.21,Mâle,Blanc
+ANI_000965,Fluffy,Lapin,Bélier,1,1.1,Mâle,Roux
+ANI_000966,Zeus,Chien,Yorkshire,11,25.47,Femelle,Noir
+ANI_000967,Marshmallow,Lapin,Angora,7,5.77,Mâle,Beige
+ANI_000968,Kiwi,Oiseau,Inséparable,4,1.26,Femelle,Tricolore
+ANI_000969,Whiskers,Chat,Bengal,9,6.7,Femelle,Tricolore
+ANI_000970,Cottontail,Lapin,Angora,3,1.16,Femelle,Tacheté
+ANI_000971,Lucy,Chat,Persan,3,7.4,Femelle,Tacheté
+ANI_000972,Bubbles,Poisson,Carpe Koï,4,0.49,Mâle,Rayé
+ANI_000973,Flash,Cheval,Mustang,23,753.83,Femelle,Blanc
+ANI_000974,Thor,Chien,Golden Retriever,3,14.73,Femelle,Beige
+ANI_000975,Milo,Chien,Yorkshire,4,7.81,Mâle,Roux
+ANI_000976,Oreo,Lapin,Rex,4,5.88,Femelle,Roux
+ANI_000977,Lola,Chien,Berger Allemand,12,8.83,Femelle,Marron
+ANI_000978,Thunder,Cheval,Frison,6,484.32,Femelle,Marron
+ANI_000979,Felix,Chat,Bengal,5,7.71,Femelle,Beige
+ANI_000980,Cotton,Lapin,Géant des Flandres,2,5.93,Mâle,Tacheté
+ANI_000981,Milo,Chien,Caniche,7,5.39,Mâle,Noir
+ANI_000982,Apollo,Cheval,Andalou,23,451.87,Femelle,Marron
+ANI_000983,Cotton,Lapin,Nain,3,2.05,Mâle,Noir
+ANI_000984,Blue,Poisson,Néon,1,0.18,Mâle,Marron
+ANI_000985,Blue,Poisson,Betta,2,0.29,Mâle,Roux
+ANI_000986,Rainbow,Poisson,Discus,5,0.39,Mâle,Tricolore
+ANI_000987,Flash,Poisson,Guppy,3,0.25,Femelle,Marron
+ANI_000988,Lola,Chien,Berger Allemand,8,37.18,Mâle,Tricolore
+ANI_000989,Angel,Oiseau,Canari,5,1.1,Femelle,Noir
+ANI_000990,Cleo,Chat,Siamois,7,6.32,Femelle,Beige
+ANI_000991,Shadow,Chat,Ragdoll,12,7.95,Mâle,Tricolore
+ANI_000992,Stella,Chien,Caniche,9,13.78,Femelle,Roux
+ANI_000993,Charlie,Chat,Chartreux,11,5.42,Mâle,Blanc
+ANI_000994,Flash,Cheval,Appaloosa,24,743.92,Femelle,Roux
+ANI_000995,Shadow,Chat,Ragdoll,3,5.08,Femelle,Noir
+ANI_000996,Splash,Poisson,Discus,0,0.41,Mâle,Tricolore
+ANI_000997,Splash,Poisson,Guppy,0,0.26,Femelle,Tricolore
+ANI_000998,Flash,Poisson,Carpe Koï,3,0.28,Mâle,Beige
+ANI_000999,Daisy,Chien,Rottweiler,5,43.46,Femelle,Tricolore
+ANI_001000,Sky,Oiseau,Calopsitte,11,0.76,Femelle,Marron
+ANI_001001,Rainbow,Poisson,Betta,5,0.31,Mâle,Gris
+ANI_001002,Nemo,Poisson,Carpe Koï,5,0.19,Mâle,Beige
+ANI_001003,Shadow,Cheval,Frison,11,622.71,Mâle,Gris
+ANI_001004,Rio,Oiseau,Inséparable,8,0.09,Femelle,Noir
+ANI_001005,Goldie,Poisson,Discus,3,0.13,Mâle,Tacheté
+ANI_001006,Splash,Poisson,Néon,4,0.44,Mâle,Roux
+ANI_001007,Simba,Chat,Persan,3,6.75,Mâle,Rayé
+ANI_001008,Nemo,Poisson,Néon,0,0.18,Mâle,Tricolore
+ANI_001009,Milo,Chien,Caniche,1,47.68,Femelle,Roux
+ANI_001010,Goldie,Poisson,Guppy,2,0.3,Femelle,Rayé
+ANI_001011,Mango,Oiseau,Perroquet Ara,8,1.07,Femelle,Noir
+ANI_001012,Felix,Chat,British Shorthair,14,5.98,Femelle,Noir
+ANI_001013,Kiwi,Oiseau,Canari,12,1.03,Femelle,Tacheté
+ANI_001014,Rainbow,Poisson,Discus,0,0.26,Femelle,Beige
+ANI_001015,Cotton,Lapin,Nain,4,1.25,Mâle,Roux
+ANI_001016,Clover,Lapin,Nain,3,5.64,Femelle,Roux
+ANI_001017,Zeus,Chien,Golden Retriever,1,14.7,Mâle,Tricolore
+ANI_001018,Clover,Lapin,Nain,8,1.95,Mâle,Noir
+ANI_001019,Maximus,Cheval,Andalou,0,644.31,Mâle,Rayé
+ANI_001020,Oliver,Chat,Siamois,6,3.63,Mâle,Blanc
+ANI_001021,Milo,Chien,Berger Allemand,6,46.73,Femelle,Tacheté
+ANI_001022,Finn,Poisson,Betta,4,0.38,Femelle,Beige
+ANI_001023,Apollo,Cheval,Andalou,8,513.12,Femelle,Blanc
+ANI_001024,Apollo,Cheval,Quarter Horse,16,532.88,Mâle,Marron
+ANI_001025,Tigrou,Chat,Sphynx,6,4.33,Femelle,Gris
+ANI_001026,Thor,Chien,Chihuahua,7,19.29,Femelle,Tacheté
+ANI_001027,Shadow,Chat,British Shorthair,4,7.42,Femelle,Rayé
+ANI_001028,Fluffy,Lapin,Bélier,3,5.82,Femelle,Blanc
+ANI_001029,Fluffy,Lapin,Bélier,8,2.73,Femelle,Rayé
+ANI_001030,Honey,Lapin,Angora,2,1.71,Femelle,Tricolore
+ANI_001031,Spirit,Cheval,Appaloosa,9,537.35,Mâle,Tacheté
+ANI_001032,Nala,Chien,Caniche,1,46.79,Mâle,Noir
+ANI_001033,Clover,Lapin,Angora,7,3.98,Femelle,Beige
+ANI_001034,Nemo,Poisson,Discus,1,0.1,Mâle,Rayé
+ANI_001035,Goldie,Poisson,Carpe Koï,0,0.38,Mâle,Roux
+ANI_001036,Tigrou,Chat,Siamois,7,7.09,Femelle,Blanc
+ANI_001037,Charlie,Chat,Persan,2,4.06,Mâle,Roux
+ANI_001038,Buddy,Oiseau,Cacatoès,14,0.63,Femelle,Rayé
+ANI_001039,Cleo,Chat,Bengal,6,4.48,Mâle,Blanc
+ANI_001040,Bella,Chien,Chihuahua,2,20.39,Femelle,Noir
+ANI_001041,Simba,Chien,Bulldog Français,3,10.4,Mâle,Gris
+ANI_001042,Nemo,Poisson,Discus,3,0.15,Mâle,Gris
+ANI_001043,Bella,Chat,Scottish Fold,3,6.67,Mâle,Tricolore
+ANI_001044,Charlie,Chien,Beagle,5,45.61,Mâle,Marron
+ANI_001045,Bunny,Lapin,Rex,1,1.53,Femelle,Gris
+ANI_001046,Apollo,Cheval,Andalou,22,679.88,Mâle,Marron
+ANI_001047,Gizmo,Chat,Scottish Fold,3,3.05,Femelle,Blanc
+ANI_001048,Storm,Cheval,Mustang,25,630.74,Femelle,Gris
+ANI_001049,Blue,Oiseau,Perruche,12,0.38,Mâle,Rayé
+ANI_001050,Thunder,Cheval,Shetland,0,679.88,Mâle,Noir
+ANI_001051,Phoenix,Cheval,Andalou,11,441.31,Femelle,Rayé
+ANI_001052,Charlie,Chat,Sphynx,15,7.69,Mâle,Rayé
+ANI_001053,Goldie,Poisson,Néon,5,0.14,Femelle,Marron
+ANI_001054,Mittens,Chat,Européen,14,3.72,Mâle,Beige
+ANI_001055,Marshmallow,Lapin,Nain,0,3.29,Femelle,Gris
+ANI_001056,Tweety,Oiseau,Perroquet Ara,8,0.89,Mâle,Noir
+ANI_001057,Splash,Poisson,Betta,0,0.05,Mâle,Noir
+ANI_001058,Apollo,Cheval,Mustang,14,420.71,Femelle,Roux
+ANI_001059,Splash,Poisson,Betta,0,0.42,Femelle,Rayé
+ANI_001060,Finn,Poisson,Discus,2,0.12,Femelle,Noir
+ANI_001061,Charlie,Oiseau,Calopsitte,12,0.72,Mâle,Blanc
+ANI_001062,Mango,Oiseau,Perruche,5,1.03,Mâle,Tacheté
+ANI_001063,Shadow,Chat,Persan,8,6.01,Mâle,Rayé
+ANI_001064,Rio,Oiseau,Canari,5,0.28,Mâle,Marron
+ANI_001065,Simba,Chat,Maine Coon,0,7.64,Femelle,Rayé
+ANI_001066,Blue,Poisson,Discus,3,0.07,Femelle,Noir
+ANI_001067,Phoenix,Cheval,Percheron,14,664.71,Mâle,Tricolore
+ANI_001068,Thor,Chien,Golden Retriever,3,29.78,Mâle,Blanc
+ANI_001069,Mittens,Chat,Sphynx,12,5.19,Mâle,Blanc
+ANI_001070,Spirit,Cheval,Frison,2,541.96,Femelle,Gris
+ANI_001071,Buddy,Oiseau,Calopsitte,15,1.0,Femelle,Marron
+ANI_001072,Rainbow,Poisson,Néon,2,0.02,Mâle,Gris
+ANI_001073,Splash,Poisson,Néon,1,0.09,Femelle,Beige
+ANI_001074,Sky,Oiseau,Canari,5,0.51,Mâle,Tacheté
+ANI_001075,Bella,Cheval,Percheron,6,488.18,Mâle,Roux
+ANI_001076,Oreo,Lapin,Angora,8,2.43,Femelle,Blanc
+ANI_001077,Finn,Poisson,Betta,1,0.03,Femelle,Marron
+ANI_001078,Coco,Oiseau,Inséparable,11,0.69,Femelle,Marron
+ANI_001079,Blue,Poisson,Discus,4,0.01,Femelle,Roux
+ANI_001080,Leo,Chat,Bengal,6,5.5,Mâle,Roux
+ANI_001081,Charlie,Chat,Maine Coon,7,5.74,Femelle,Gris
+ANI_001082,Lola,Chien,Beagle,3,14.68,Femelle,Rayé
+ANI_001083,Shadow,Cheval,Percheron,9,402.55,Femelle,Beige
+ANI_001084,Luna,Chien,Bulldog Français,0,37.78,Femelle,Beige
+ANI_001085,Pepper,Oiseau,Calopsitte,5,0.69,Mâle,Noir
+ANI_001086,Nala,Chien,Bulldog Français,6,16.97,Mâle,Beige
+ANI_001087,Shadow,Cheval,Frison,8,641.41,Femelle,Marron
+ANI_001088,Goldie,Poisson,Poisson Rouge,0,0.16,Femelle,Beige
+ANI_001089,Lola,Chien,Yorkshire,2,44.92,Mâle,Beige
+ANI_001090,Coco,Oiseau,Cacatoès,13,1.18,Mâle,Blanc
+ANI_001091,Lucy,Chat,Sphynx,14,6.79,Femelle,Noir
+ANI_001092,Nemo,Poisson,Betta,5,0.2,Mâle,Marron
+ANI_001093,Ruby,Chien,Husky,2,32.11,Mâle,Roux
+ANI_001094,Tigrou,Chat,Scottish Fold,10,3.12,Mâle,Gris
+ANI_001095,Coco,Oiseau,Calopsitte,6,0.43,Mâle,Tacheté
+ANI_001096,Flash,Poisson,Betta,0,0.22,Femelle,Gris
+ANI_001097,Bubbles,Poisson,Guppy,0,0.01,Mâle,Rayé
+ANI_001098,Phoenix,Cheval,Mustang,25,778.7,Mâle,Tacheté
+ANI_001099,Oscar,Chien,Rottweiler,9,31.48,Femelle,Tricolore
+ANI_001100,Coco,Oiseau,Cacatoès,5,0.84,Femelle,Noir
+ANI_001101,Phoenix,Cheval,Quarter Horse,14,508.6,Femelle,Roux
+ANI_001102,Flash,Poisson,Néon,4,0.42,Mâle,Gris
+ANI_001103,Luna,Chien,Berger Allemand,4,8.94,Femelle,Beige
+ANI_001104,Cleo,Chat,Bengal,5,4.69,Mâle,Noir
+ANI_001105,Oreo,Lapin,Géant des Flandres,6,1.26,Femelle,Beige
+ANI_001106,Bugs,Lapin,Géant des Flandres,2,3.42,Mâle,Noir
+ANI_001107,Bubbles,Poisson,Néon,4,0.29,Femelle,Noir
+ANI_001108,Coco,Oiseau,Perruche,3,0.84,Femelle,Rayé
+ANI_001109,Luna,Chien,Chihuahua,1,23.38,Mâle,Blanc
+ANI_001110,Whiskers,Chat,Européen,3,5.92,Femelle,Beige
+ANI_001111,Thunder,Cheval,Percheron,12,498.61,Femelle,Beige
+ANI_001112,Flash,Poisson,Discus,5,0.18,Femelle,Beige
+ANI_001113,Oreo,Lapin,Nain,2,3.06,Femelle,Rayé
+ANI_001114,Blue,Poisson,Néon,0,0.08,Femelle,Gris
+ANI_001115,Thumper,Lapin,Bélier,4,1.78,Mâle,Marron
+ANI_001116,Splash,Poisson,Guppy,5,0.34,Mâle,Beige
+ANI_001117,Kiwi,Oiseau,Cacatoès,12,1.49,Femelle,Gris
+ANI_001118,Simba,Chat,Ragdoll,2,3.85,Femelle,Blanc
+ANI_001119,Storm,Cheval,Pur-sang Arabe,18,794.07,Mâle,Beige
+ANI_001120,Luna,Chat,Bengal,1,6.09,Mâle,Roux
+ANI_001121,Zeus,Chien,Yorkshire,7,42.05,Femelle,Tricolore
+ANI_001122,Coco,Oiseau,Cacatoès,9,0.81,Mâle,Beige
+ANI_001123,Fluffy,Lapin,Nain,0,4.26,Femelle,Marron
+ANI_001124,Coco,Oiseau,Canari,1,0.92,Femelle,Roux
+ANI_001125,Snowball,Lapin,Rex,7,1.47,Femelle,Rayé
+ANI_001126,Shadow,Cheval,Mustang,11,460.71,Femelle,Tricolore
+ANI_001127,Star,Cheval,Pur-sang Arabe,1,706.33,Mâle,Rayé
+ANI_001128,Bella,Chat,British Shorthair,3,4.38,Mâle,Marron
+ANI_001129,Lola,Chien,Boxer,7,19.57,Mâle,Tricolore
+ANI_001130,Lola,Chien,Chihuahua,4,34.27,Femelle,Marron
+ANI_001131,Angel,Oiseau,Calopsitte,3,1.07,Mâle,Rayé
+ANI_001132,Thunder,Cheval,Pur-sang Arabe,25,637.66,Femelle,Tricolore
+ANI_001133,Marshmallow,Lapin,Nain,8,4.11,Femelle,Tacheté
+ANI_001134,Nala,Chien,Labrador,3,26.72,Mâle,Gris
+ANI_001135,Tigrou,Chat,Persan,11,6.62,Femelle,Tricolore
+ANI_001136,Goldie,Poisson,Guppy,0,0.48,Femelle,Marron
+ANI_001137,Sunny,Oiseau,Cacatoès,11,0.29,Femelle,Marron
+ANI_001138,Sunny,Oiseau,Canari,1,0.23,Mâle,Blanc
+ANI_001139,Cleo,Chat,Scottish Fold,5,3.72,Femelle,Marron
+ANI_001140,Cotton,Lapin,Géant des Flandres,5,3.63,Mâle,Noir
+ANI_001141,Pepper,Oiseau,Cacatoès,8,0.5,Femelle,Gris
+ANI_001142,Rio,Oiseau,Cacatoès,1,0.89,Mâle,Rayé
+ANI_001143,Charlie,Oiseau,Perruche,4,1.01,Femelle,Roux
+ANI_001144,Flash,Cheval,Andalou,13,691.51,Mâle,Blanc
+ANI_001145,Ruby,Chien,Yorkshire,12,20.42,Mâle,Marron
+ANI_001146,Clover,Lapin,Nain,5,5.59,Femelle,Noir
+ANI_001147,Leo,Chat,Européen,10,5.01,Femelle,Blanc
+ANI_001148,Phoenix,Cheval,Andalou,0,405.45,Femelle,Noir
+ANI_001149,Maximus,Cheval,Pur-sang Arabe,18,459.29,Femelle,Blanc
+ANI_001150,Bubbles,Poisson,Discus,3,0.29,Mâle,Marron
+ANI_001151,Bella,Chien,Chihuahua,12,49.5,Femelle,Noir
+ANI_001152,Apollo,Cheval,Pur-sang Arabe,22,592.02,Mâle,Tricolore
+ANI_001153,Oreo,Lapin,Angora,5,3.22,Femelle,Roux
+ANI_001154,Buddy,Oiseau,Calopsitte,15,1.49,Mâle,Rayé
+ANI_001155,Nemo,Poisson,Guppy,1,0.24,Mâle,Roux
+ANI_001156,Bella,Chien,Berger Allemand,12,43.68,Mâle,Rayé
+ANI_001157,Tweety,Oiseau,Perruche,2,1.12,Femelle,Tacheté
+ANI_001158,Mango,Oiseau,Perruche,11,0.88,Femelle,Gris
+ANI_001159,Oreo,Lapin,Nain,3,3.13,Mâle,Tacheté
+ANI_001160,Phoenix,Cheval,Andalou,12,712.14,Mâle,Beige
+ANI_001161,Angel,Oiseau,Cacatoès,5,0.5,Mâle,Marron
+ANI_001162,Blue,Oiseau,Inséparable,10,0.33,Mâle,Tricolore
+ANI_001163,Honey,Lapin,Bélier,2,3.39,Mâle,Tricolore
+ANI_001164,Maximus,Cheval,Mustang,8,434.41,Femelle,Roux
+ANI_001165,Flash,Cheval,Shetland,18,634.24,Mâle,Rayé
+ANI_001166,Goldie,Poisson,Guppy,1,0.41,Femelle,Tacheté
+ANI_001167,Bubbles,Poisson,Betta,2,0.35,Femelle,Tricolore
+ANI_001168,Finn,Poisson,Néon,0,0.31,Femelle,Tacheté
+ANI_001169,Milo,Chien,Golden Retriever,7,31.24,Mâle,Gris
+ANI_001170,Blue,Poisson,Guppy,4,0.5,Mâle,Gris
+ANI_001171,Cottontail,Lapin,Bélier,2,5.56,Mâle,Rayé
+ANI_001172,Rainbow,Poisson,Discus,0,0.49,Mâle,Beige
+ANI_001173,Blue,Oiseau,Calopsitte,8,1.45,Femelle,Tricolore
+ANI_001174,Fluffy,Lapin,Angora,6,3.27,Femelle,Tacheté
+ANI_001175,Star,Cheval,Appaloosa,8,500.35,Femelle,Tacheté
+ANI_001176,Luna,Chat,Chartreux,8,3.31,Mâle,Gris
+ANI_001177,Blaze,Cheval,Pur-sang Arabe,13,464.77,Mâle,Marron
+ANI_001178,Nemo,Poisson,Néon,2,0.23,Mâle,Rayé
+ANI_001179,Splash,Poisson,Néon,4,0.07,Mâle,Tacheté
+ANI_001180,Daisy,Chien,Golden Retriever,9,32.63,Mâle,Gris
+ANI_001181,Rio,Oiseau,Calopsitte,9,0.14,Mâle,Gris
+ANI_001182,Rex,Chien,Boxer,5,11.09,Femelle,Noir
+ANI_001183,Lola,Chien,Husky,9,16.81,Femelle,Tacheté
+ANI_001184,Blue,Oiseau,Canari,10,0.54,Mâle,Noir
+ANI_001185,Bella,Chien,Beagle,3,38.05,Femelle,Gris
+ANI_001186,Luna,Cheval,Andalou,3,620.95,Femelle,Marron
+ANI_001187,Nemo,Poisson,Betta,4,0.29,Femelle,Marron
+ANI_001188,Rio,Oiseau,Perruche,1,0.82,Femelle,Noir
+ANI_001189,Tornado,Cheval,Quarter Horse,24,558.53,Mâle,Gris
+ANI_001190,Snowball,Lapin,Géant des Flandres,3,4.07,Femelle,Noir
+ANI_001191,Rainbow,Poisson,Betta,0,0.42,Mâle,Rayé
+ANI_001192,Bubbles,Poisson,Carpe Koï,1,0.32,Mâle,Noir
+ANI_001193,Goldie,Poisson,Néon,1,0.15,Femelle,Beige
+ANI_001194,Buddy,Oiseau,Perroquet Ara,9,1.46,Mâle,Tacheté
+ANI_001195,Blue,Oiseau,Calopsitte,11,0.11,Femelle,Blanc
+ANI_001196,Splash,Poisson,Guppy,1,0.29,Mâle,Gris
+ANI_001197,Angel,Oiseau,Calopsitte,9,0.75,Mâle,Marron
+ANI_001198,Blue,Oiseau,Cacatoès,13,0.08,Femelle,Tricolore
+ANI_001199,Maya,Chien,Chihuahua,6,15.2,Femelle,Tacheté
+ANI_001200,Storm,Cheval,Andalou,14,644.15,Mâle,Blanc
+ANI_001201,Blue,Oiseau,Cacatoès,1,0.92,Femelle,Beige
+ANI_001202,Maximus,Cheval,Frison,5,486.53,Mâle,Tricolore
+ANI_001203,Zeus,Chien,Rottweiler,3,13.97,Femelle,Marron
+ANI_001204,Thumper,Lapin,Nain,7,3.77,Mâle,Beige
+ANI_001205,Clover,Lapin,Bélier,6,3.99,Mâle,Marron
+ANI_001206,Tornado,Cheval,Shetland,6,642.04,Mâle,Marron
+ANI_001207,Oreo,Lapin,Angora,0,3.86,Mâle,Gris
+ANI_001208,Sunny,Oiseau,Calopsitte,6,1.19,Mâle,Tricolore
+ANI_001209,Buddy,Oiseau,Perruche,10,1.02,Femelle,Rayé
+ANI_001210,Sky,Oiseau,Perruche,2,1.13,Mâle,Noir
+ANI_001211,Blue,Oiseau,Perruche,11,0.63,Femelle,Noir
+ANI_001212,Sky,Oiseau,Inséparable,2,0.61,Femelle,Tacheté
+ANI_001213,Charlie,Chat,Bengal,3,3.04,Mâle,Marron
+ANI_001214,Apollo,Cheval,Mustang,22,608.18,Mâle,Tacheté
+ANI_001215,Bella,Cheval,Shetland,13,783.92,Femelle,Tricolore
+ANI_001216,Oscar,Chien,Yorkshire,6,6.98,Mâle,Marron
+ANI_001217,Simba,Chien,Chihuahua,4,25.3,Mâle,Marron
+ANI_001218,Mittens,Chat,Sphynx,0,3.39,Femelle,Blanc
+ANI_001219,Fluffy,Lapin,Nain,8,1.83,Femelle,Noir
+ANI_001220,Storm,Cheval,Andalou,10,418.79,Femelle,Tricolore
+ANI_001221,Bubbles,Poisson,Discus,5,0.15,Femelle,Beige
+ANI_001222,Bella,Cheval,Appaloosa,18,532.46,Femelle,Beige
+ANI_001223,Stella,Chien,Caniche,11,20.09,Femelle,Rayé
+ANI_001224,Goldie,Poisson,Poisson Rouge,2,0.48,Mâle,Roux
+ANI_001225,Splash,Poisson,Carpe Koï,4,0.09,Femelle,Tricolore
+ANI_001226,Thumper,Lapin,Bélier,1,3.94,Femelle,Roux
+ANI_001227,Mango,Oiseau,Canari,14,0.68,Mâle,Blanc
+ANI_001228,Zeus,Chien,Yorkshire,2,49.66,Mâle,Beige
+ANI_001229,Blue,Oiseau,Canari,12,0.38,Mâle,Tricolore
+ANI_001230,Thor,Chien,Berger Allemand,10,49.02,Mâle,Marron
+ANI_001231,Goldie,Poisson,Guppy,3,0.37,Mâle,Gris
+ANI_001232,Bunny,Lapin,Rex,0,5.16,Mâle,Rayé
+ANI_001233,Pegasus,Cheval,Appaloosa,16,782.88,Femelle,Beige
+ANI_001234,Shadow,Cheval,Frison,7,619.44,Mâle,Tacheté
+ANI_001235,Coco,Oiseau,Calopsitte,11,1.49,Mâle,Tacheté
+ANI_001236,Marshmallow,Lapin,Angora,7,1.79,Mâle,Gris
+ANI_001237,Goldie,Poisson,Discus,4,0.5,Mâle,Beige
+ANI_001238,Thor,Chien,Chihuahua,6,26.77,Femelle,Tricolore
+ANI_001239,Bubbles,Poisson,Discus,1,0.29,Mâle,Marron
+ANI_001240,Rex,Chien,Beagle,6,19.18,Mâle,Rayé
+ANI_001241,Peter,Lapin,Bélier,2,5.14,Femelle,Tacheté
+ANI_001242,Flash,Cheval,Frison,17,417.33,Femelle,Gris
+ANI_001243,Phoenix,Cheval,Andalou,8,697.89,Femelle,Marron
+ANI_001244,Milo,Chien,Beagle,12,26.97,Mâle,Tacheté
+ANI_001245,Cottontail,Lapin,Géant des Flandres,4,1.3,Femelle,Tricolore
+ANI_001246,Thumper,Lapin,Nain,8,2.6,Femelle,Marron
+ANI_001247,Zeus,Chien,Chihuahua,8,15.92,Femelle,Tricolore
+ANI_001248,Bubbles,Poisson,Discus,5,0.06,Mâle,Rayé
+ANI_001249,Storm,Cheval,Percheron,2,424.36,Mâle,Marron
+ANI_001250,Spirit,Cheval,Frison,19,562.95,Femelle,Rayé
+ANI_001251,Tweety,Oiseau,Perruche,3,0.45,Mâle,Gris
+ANI_001252,Bella,Chien,Rottweiler,8,19.22,Mâle,Beige
+ANI_001253,Coco,Oiseau,Perruche,2,0.94,Mâle,Blanc
+ANI_001254,Nemo,Poisson,Guppy,0,0.17,Mâle,Rayé
+ANI_001255,Nala,Chien,Labrador,11,40.58,Mâle,Tricolore
+ANI_001256,Gizmo,Chat,Maine Coon,12,5.97,Femelle,Tacheté
+ANI_001257,Blue,Oiseau,Canari,15,1.26,Femelle,Rayé
+ANI_001258,Luna,Cheval,Percheron,9,607.23,Femelle,Tacheté
+ANI_001259,Marshmallow,Lapin,Bélier,7,3.0,Femelle,Gris
+ANI_001260,Milo,Chien,Bulldog Français,8,18.9,Mâle,Noir
+ANI_001261,Minou,Chat,Bengal,15,4.66,Femelle,Marron
+ANI_001262,Charlie,Chien,Bulldog Français,6,34.82,Femelle,Tacheté
+ANI_001263,Leo,Chat,Maine Coon,12,3.09,Mâle,Tacheté
+ANI_001264,Angel,Oiseau,Canari,7,0.98,Mâle,Marron
+ANI_001265,Finn,Poisson,Poisson Rouge,4,0.01,Mâle,Noir
+ANI_001266,Buddy,Oiseau,Inséparable,12,0.35,Mâle,Tricolore
+ANI_001267,Sunny,Oiseau,Cacatoès,9,1.37,Femelle,Beige
+ANI_001268,Rex,Chien,Bulldog Français,1,35.62,Mâle,Tacheté
+ANI_001269,Oreo,Lapin,Géant des Flandres,2,5.43,Mâle,Noir
+ANI_001270,Stella,Chien,Labrador,11,7.45,Mâle,Noir
+ANI_001271,Angel,Oiseau,Canari,12,0.67,Mâle,Gris
+ANI_001272,Oreo,Lapin,Bélier,5,2.83,Mâle,Tacheté
+ANI_001273,Phoenix,Cheval,Frison,21,525.31,Mâle,Rayé
+ANI_001274,Blue,Oiseau,Perruche,10,0.06,Femelle,Tricolore
+ANI_001275,Rainbow,Poisson,Carpe Koï,0,0.19,Femelle,Noir
+ANI_001276,Rocky,Chien,Yorkshire,6,11.44,Femelle,Gris
+ANI_001277,Blaze,Cheval,Andalou,6,410.23,Mâle,Gris
+ANI_001278,Nala,Chien,Husky,5,9.91,Mâle,Marron
+ANI_001279,Tigrou,Chat,Bengal,9,5.73,Femelle,Tacheté
+ANI_001280,Coco,Oiseau,Inséparable,10,1.19,Femelle,Noir
+ANI_001281,Cottontail,Lapin,Nain,7,1.49,Femelle,Tricolore
+ANI_001282,Finn,Poisson,Discus,0,0.04,Femelle,Rayé
+ANI_001283,Goldie,Poisson,Guppy,2,0.16,Mâle,Blanc
+ANI_001284,Bunny,Lapin,Angora,5,1.03,Femelle,Blanc
+ANI_001285,Storm,Cheval,Frison,21,664.93,Mâle,Rayé
+ANI_001286,Rainbow,Poisson,Guppy,2,0.47,Mâle,Noir
+ANI_001287,Blue,Poisson,Guppy,0,0.49,Mâle,Tacheté
+ANI_001288,Rio,Oiseau,Calopsitte,2,1.32,Femelle,Tricolore
+ANI_001289,Rainbow,Poisson,Discus,2,0.48,Femelle,Marron
+ANI_001290,Blue,Poisson,Néon,0,0.41,Femelle,Tacheté
+ANI_001291,Minou,Chat,Européen,1,5.01,Mâle,Beige
+ANI_001292,Charlie,Oiseau,Perroquet Ara,14,0.74,Mâle,Tacheté
+ANI_001293,Rio,Oiseau,Perruche,14,0.2,Femelle,Tacheté
+ANI_001294,Fluffy,Lapin,Géant des Flandres,7,1.7,Mâle,Noir
+ANI_001295,Whiskers,Chat,Maine Coon,13,4.63,Femelle,Marron
+ANI_001296,Blue,Poisson,Guppy,1,0.32,Mâle,Noir
+ANI_001297,Pegasus,Cheval,Andalou,8,452.92,Mâle,Roux
+ANI_001298,Rio,Oiseau,Calopsitte,0,0.37,Mâle,Marron
+ANI_001299,Leo,Chat,Chartreux,1,3.84,Mâle,Noir
+ANI_001300,Angel,Oiseau,Inséparable,5,0.14,Mâle,Blanc
+ANI_001301,Thunder,Cheval,Andalou,16,580.51,Mâle,Roux
+ANI_001302,Stella,Chien,Caniche,4,23.48,Mâle,Marron
+ANI_001303,Splash,Poisson,Guppy,1,0.33,Femelle,Beige
+ANI_001304,Simba,Chien,Rottweiler,9,7.07,Mâle,Tricolore
+ANI_001305,Oreo,Lapin,Géant des Flandres,1,4.73,Mâle,Beige
+ANI_001306,Charlie,Chien,Yorkshire,4,46.43,Femelle,Blanc
+ANI_001307,Storm,Cheval,Pur-sang Arabe,7,591.48,Femelle,Blanc
+ANI_001308,Felix,Chat,Chartreux,8,5.77,Femelle,Rayé
+ANI_001309,Finn,Poisson,Carpe Koï,1,0.09,Femelle,Rayé
+ANI_001310,Finn,Poisson,Guppy,0,0.36,Mâle,Beige
+ANI_001311,Max,Chien,Berger Allemand,7,18.85,Mâle,Tacheté
+ANI_001312,Charlie,Oiseau,Canari,10,1.13,Femelle,Noir
+ANI_001313,Buddy,Chien,Boxer,6,6.6,Mâle,Tricolore
+ANI_001314,Rainbow,Poisson,Carpe Koï,1,0.04,Femelle,Roux
+ANI_001315,Mittens,Chat,Sphynx,0,4.96,Mâle,Tricolore
+ANI_001316,Leo,Chat,British Shorthair,0,5.22,Mâle,Blanc
+ANI_001317,Tweety,Oiseau,Canari,14,1.17,Mâle,Rayé
+ANI_001318,Finn,Poisson,Guppy,1,0.27,Mâle,Tacheté
+ANI_001319,Oreo,Lapin,Angora,7,2.6,Mâle,Gris
+ANI_001320,Goldie,Poisson,Carpe Koï,0,0.44,Femelle,Marron
+ANI_001321,Coco,Chien,Bulldog Français,10,17.02,Mâle,Gris
+ANI_001322,Oliver,Chat,Chartreux,14,5.02,Mâle,Gris
+ANI_001323,Shadow,Cheval,Shetland,5,534.93,Mâle,Rayé
+ANI_001324,Apollo,Cheval,Andalou,0,780.56,Mâle,Gris
+ANI_001325,Oscar,Chien,Caniche,6,13.42,Mâle,Roux
+ANI_001326,Rocky,Chien,Yorkshire,12,44.42,Femelle,Blanc
+ANI_001327,Snowball,Lapin,Géant des Flandres,8,3.69,Mâle,Gris
+ANI_001328,Simba,Chien,Labrador,5,19.42,Femelle,Tacheté
+ANI_001329,Rocky,Chien,Caniche,7,17.76,Mâle,Marron
+ANI_001330,Rocky,Chien,Labrador,1,13.56,Mâle,Noir
+ANI_001331,Cottontail,Lapin,Géant des Flandres,4,1.86,Femelle,Rayé
+ANI_001332,Nala,Chien,Rottweiler,11,24.8,Mâle,Rayé
+ANI_001333,Rainbow,Poisson,Betta,3,0.39,Mâle,Beige
+ANI_001334,Gizmo,Chat,Persan,10,7.44,Femelle,Tacheté
+ANI_001335,Oreo,Lapin,Géant des Flandres,1,2.89,Mâle,Blanc
+ANI_001336,Thumper,Lapin,Angora,1,2.55,Femelle,Roux
+ANI_001337,Blue,Oiseau,Cacatoès,5,1.12,Femelle,Tacheté
+ANI_001338,Cottontail,Lapin,Nain,4,3.01,Femelle,Tricolore
+ANI_001339,Star,Cheval,Frison,12,474.38,Mâle,Noir
+ANI_001340,Charlie,Chat,Ragdoll,11,7.85,Mâle,Marron
+ANI_001341,Duke,Chien,Bulldog Français,6,22.65,Femelle,Beige
+ANI_001342,Bella,Chien,Beagle,6,42.31,Mâle,Tacheté
+ANI_001343,Splash,Poisson,Carpe Koï,1,0.39,Femelle,Beige
+ANI_001344,Pegasus,Cheval,Percheron,1,580.11,Mâle,Noir
+ANI_001345,Rex,Chien,Yorkshire,2,42.17,Femelle,Gris
+ANI_001346,Gizmo,Chat,Ragdoll,0,5.81,Mâle,Beige
+ANI_001347,Oreo,Lapin,Bélier,1,4.44,Femelle,Rayé
+ANI_001348,Mango,Oiseau,Calopsitte,0,0.67,Mâle,Gris
+ANI_001349,Luna,Cheval,Percheron,18,657.12,Femelle,Tacheté
+ANI_001350,Simba,Chien,Rottweiler,10,41.04,Mâle,Marron
+ANI_001351,Felix,Chat,Bengal,6,5.07,Femelle,Rayé
+ANI_001352,Max,Chien,Yorkshire,10,7.51,Mâle,Noir
+ANI_001353,Sunny,Oiseau,Perruche,5,0.34,Mâle,Gris
+ANI_001354,Nemo,Poisson,Poisson Rouge,4,0.43,Femelle,Rayé
+ANI_001355,Buddy,Chien,Caniche,3,46.67,Mâle,Gris
+ANI_001356,Pepper,Oiseau,Canari,9,1.13,Mâle,Blanc
+ANI_001357,Coco,Oiseau,Canari,12,0.85,Mâle,Blanc
+ANI_001358,Kiwi,Oiseau,Perroquet Ara,9,0.29,Mâle,Gris
+ANI_001359,Kiwi,Oiseau,Inséparable,0,0.59,Femelle,Gris
+ANI_001360,Coco,Chien,Bulldog Français,10,38.21,Mâle,Blanc
+ANI_001361,Bella,Cheval,Appaloosa,12,502.83,Mâle,Tacheté
+ANI_001362,Oreo,Lapin,Géant des Flandres,2,1.44,Femelle,Beige
+ANI_001363,Luna,Chat,Chartreux,9,4.31,Mâle,Marron
+ANI_001364,Rocky,Chien,Labrador,1,46.27,Femelle,Rayé
+ANI_001365,Maximus,Cheval,Pur-sang Arabe,0,572.34,Mâle,Rayé
+ANI_001366,Spirit,Cheval,Quarter Horse,22,733.17,Femelle,Noir
+ANI_001367,Bugs,Lapin,Rex,5,4.12,Mâle,Marron
+ANI_001368,Rainbow,Poisson,Néon,4,0.37,Femelle,Roux
+ANI_001369,Lola,Chien,Berger Allemand,5,35.32,Femelle,Blanc
+ANI_001370,Leo,Chat,Sphynx,6,4.78,Femelle,Roux
+ANI_001371,Bunny,Lapin,Nain,6,3.42,Mâle,Marron
+ANI_001372,Rocky,Chien,Bulldog Français,3,28.91,Femelle,Tricolore
+ANI_001373,Bella,Chat,Maine Coon,11,5.38,Mâle,Noir
+ANI_001374,Marshmallow,Lapin,Bélier,0,4.54,Femelle,Gris
+ANI_001375,Flash,Poisson,Betta,1,0.26,Femelle,Beige
+ANI_001376,Honey,Lapin,Bélier,8,2.79,Femelle,Tricolore
+ANI_001377,Mango,Oiseau,Perroquet Ara,1,0.27,Mâle,Marron
+ANI_001378,Shadow,Cheval,Andalou,22,692.5,Mâle,Marron
+ANI_001379,Bella,Chat,Bengal,15,4.55,Femelle,Roux
+ANI_001380,Cottontail,Lapin,Géant des Flandres,3,1.6,Femelle,Tacheté
+ANI_001381,Bunny,Lapin,Rex,5,3.99,Femelle,Roux
+ANI_001382,Flash,Cheval,Shetland,15,633.57,Femelle,Rayé
+ANI_001383,Bugs,Lapin,Angora,4,4.88,Femelle,Roux
+ANI_001384,Phoenix,Cheval,Mustang,14,572.14,Femelle,Tacheté
+ANI_001385,Shadow,Chat,Européen,4,5.68,Femelle,Beige
+ANI_001386,Star,Cheval,Mustang,16,607.23,Femelle,Blanc
+ANI_001387,Charlie,Oiseau,Perroquet Ara,5,1.29,Mâle,Marron
+ANI_001388,Coco,Oiseau,Perruche,13,0.43,Femelle,Gris
+ANI_001389,Cleo,Chat,British Shorthair,6,4.29,Mâle,Roux
+ANI_001390,Simba,Chien,Boxer,0,40.64,Femelle,Tricolore
+ANI_001391,Maximus,Cheval,Pur-sang Arabe,6,640.23,Mâle,Beige
+ANI_001392,Buddy,Oiseau,Canari,4,0.94,Mâle,Noir
+ANI_001393,Bugs,Lapin,Bélier,2,5.61,Femelle,Marron
+ANI_001394,Bella,Chien,Boxer,5,13.64,Mâle,Tacheté
+ANI_001395,Bella,Cheval,Quarter Horse,11,595.91,Mâle,Rayé
+ANI_001396,Simba,Chat,Européen,9,7.07,Femelle,Tacheté
+ANI_001397,Honey,Lapin,Géant des Flandres,5,4.75,Femelle,Roux
+ANI_001398,Flash,Poisson,Discus,1,0.04,Femelle,Rayé
+ANI_001399,Fluffy,Lapin,Nain,5,5.18,Mâle,Tricolore
+ANI_001400,Blue,Oiseau,Cacatoès,11,1.29,Femelle,Tacheté
+ANI_001401,Finn,Poisson,Betta,0,0.32,Mâle,Tricolore
+ANI_001402,Goldie,Poisson,Guppy,4,0.26,Femelle,Noir
+ANI_001403,Coco,Oiseau,Perroquet Ara,7,0.74,Femelle,Tricolore
+ANI_001404,Cleo,Chat,Sphynx,8,5.28,Mâle,Marron
+ANI_001405,Bunny,Lapin,Bélier,8,4.84,Mâle,Beige
+ANI_001406,Gizmo,Chat,Scottish Fold,10,6.96,Mâle,Rayé
+ANI_001407,Milo,Chien,Bulldog Français,6,10.31,Femelle,Marron
+ANI_001408,Bella,Chien,Beagle,1,9.53,Femelle,Gris
+ANI_001409,Rio,Oiseau,Canari,2,1.3,Femelle,Tacheté
+ANI_001410,Kiwi,Oiseau,Calopsitte,13,0.56,Mâle,Tacheté
+ANI_001411,Mango,Oiseau,Calopsitte,4,0.19,Mâle,Gris
+ANI_001412,Bunny,Lapin,Nain,1,5.85,Mâle,Tricolore
+ANI_001413,Peter,Lapin,Nain,8,2.43,Mâle,Marron
+ANI_001414,Storm,Cheval,Frison,18,480.59,Femelle,Rayé
+ANI_001415,Spirit,Cheval,Andalou,11,769.86,Mâle,Rayé
+ANI_001416,Pepper,Oiseau,Perroquet Ara,1,1.37,Mâle,Gris
+ANI_001417,Blue,Oiseau,Canari,12,0.51,Femelle,Tacheté
+ANI_001418,Apollo,Cheval,Frison,25,605.9,Femelle,Gris
+ANI_001419,Bunny,Lapin,Bélier,1,2.88,Mâle,Noir
+ANI_001420,Goldie,Poisson,Néon,4,0.2,Mâle,Noir
+ANI_001421,Cleo,Chat,Sphynx,15,3.18,Mâle,Noir
+ANI_001422,Nemo,Poisson,Néon,4,0.27,Mâle,Blanc
+ANI_001423,Blaze,Cheval,Frison,12,508.62,Mâle,Beige
+ANI_001424,Blue,Poisson,Betta,1,0.24,Mâle,Roux
+ANI_001425,Cotton,Lapin,Angora,4,2.86,Femelle,Blanc
+ANI_001426,Marshmallow,Lapin,Angora,4,5.98,Femelle,Rayé
+ANI_001427,Tweety,Oiseau,Inséparable,10,1.28,Femelle,Tricolore
+ANI_001428,Rio,Oiseau,Perruche,7,0.87,Femelle,Tacheté
+ANI_001429,Angel,Oiseau,Canari,11,0.7,Mâle,Tricolore
+ANI_001430,Mango,Oiseau,Perroquet Ara,8,0.83,Mâle,Gris
+ANI_001431,Finn,Poisson,Néon,3,0.42,Mâle,Tacheté
+ANI_001432,Kiwi,Oiseau,Canari,12,0.7,Mâle,Roux
+ANI_001433,Charlie,Oiseau,Canari,9,0.67,Femelle,Roux
+ANI_001434,Coco,Oiseau,Perroquet Ara,7,0.96,Mâle,Marron
+ANI_001435,Buddy,Oiseau,Perruche,10,1.21,Mâle,Tricolore
+ANI_001436,Splash,Poisson,Discus,2,0.13,Mâle,Roux
+ANI_001437,Simba,Chat,British Shorthair,14,6.21,Mâle,Beige
+ANI_001438,Oreo,Lapin,Nain,1,5.01,Femelle,Marron
+ANI_001439,Pegasus,Cheval,Pur-sang Arabe,20,472.26,Mâle,Tacheté
+ANI_001440,Bella,Cheval,Andalou,22,509.6,Femelle,Tricolore
+ANI_001441,Splash,Poisson,Néon,0,0.08,Mâle,Tricolore
+ANI_001442,Lucy,Chat,Scottish Fold,11,4.15,Mâle,Roux
+ANI_001443,Minou,Chat,Scottish Fold,6,6.32,Mâle,Tacheté
+ANI_001444,Rocky,Chien,Rottweiler,9,35.33,Femelle,Marron
+ANI_001445,Bella,Chat,Persan,5,6.98,Mâle,Beige
+ANI_001446,Bunny,Lapin,Nain,8,3.93,Mâle,Rayé
+ANI_001447,Mittens,Chat,Persan,7,6.31,Mâle,Rayé
+ANI_001448,Thunder,Cheval,Quarter Horse,22,763.97,Femelle,Blanc
+ANI_001449,Clover,Lapin,Bélier,3,5.69,Femelle,Beige
+ANI_001450,Finn,Poisson,Néon,3,0.38,Mâle,Tacheté
+ANI_001451,Coco,Chien,Chihuahua,8,49.86,Femelle,Tacheté
+ANI_001452,Marshmallow,Lapin,Nain,6,1.15,Mâle,Marron
+ANI_001453,Honey,Lapin,Rex,6,1.79,Mâle,Tricolore
+ANI_001454,Bugs,Lapin,Rex,4,2.45,Femelle,Blanc
+ANI_001455,Leo,Chat,Européen,2,4.52,Mâle,Marron
+ANI_001456,Simba,Chat,Bengal,3,6.9,Mâle,Blanc
+ANI_001457,Coco,Oiseau,Cacatoès,8,0.29,Femelle,Tricolore
+ANI_001458,Thumper,Lapin,Angora,1,2.72,Femelle,Gris
+ANI_001459,Gizmo,Chat,Scottish Fold,12,3.26,Femelle,Blanc
+ANI_001460,Luna,Chat,Scottish Fold,5,4.76,Femelle,Marron
+ANI_001461,Apollo,Cheval,Mustang,0,688.18,Mâle,Gris
+ANI_001462,Finn,Poisson,Discus,4,0.05,Mâle,Beige
+ANI_001463,Stella,Chien,Beagle,12,47.11,Mâle,Roux
+ANI_001464,Shadow,Cheval,Percheron,3,624.77,Mâle,Marron
+ANI_001465,Pepper,Oiseau,Calopsitte,0,0.87,Mâle,Rayé
+ANI_001466,Blaze,Cheval,Pur-sang Arabe,25,500.35,Mâle,Rayé
+ANI_001467,Nemo,Poisson,Poisson Rouge,1,0.25,Mâle,Tacheté
+ANI_001468,Cotton,Lapin,Rex,5,2.39,Mâle,Marron
+ANI_001469,Peter,Lapin,Géant des Flandres,4,3.9,Femelle,Noir
+ANI_001470,Splash,Poisson,Poisson Rouge,2,0.21,Mâle,Roux
+ANI_001471,Lola,Chien,Golden Retriever,4,22.65,Mâle,Noir
+ANI_001472,Pegasus,Cheval,Pur-sang Arabe,5,425.56,Mâle,Beige
+ANI_001473,Marshmallow,Lapin,Rex,1,2.52,Mâle,Tacheté
+ANI_001474,Splash,Poisson,Guppy,4,0.18,Mâle,Roux
+ANI_001475,Bella,Chien,Berger Allemand,2,47.68,Femelle,Gris
+ANI_001476,Goldie,Poisson,Betta,2,0.27,Femelle,Blanc
+ANI_001477,Oscar,Chien,Rottweiler,1,25.25,Femelle,Roux
+ANI_001478,Fluffy,Lapin,Angora,4,5.98,Mâle,Tricolore
+ANI_001479,Charlie,Oiseau,Calopsitte,6,0.82,Mâle,Gris
+ANI_001480,Cotton,Lapin,Géant des Flandres,5,1.65,Mâle,Blanc
+ANI_001481,Flash,Poisson,Néon,4,0.12,Mâle,Beige
+ANI_001482,Tornado,Cheval,Shetland,4,606.07,Femelle,Rayé
+ANI_001483,Maya,Chien,Golden Retriever,1,21.69,Femelle,Blanc
+ANI_001484,Flash,Cheval,Quarter Horse,16,758.29,Mâle,Tricolore
+ANI_001485,Marshmallow,Lapin,Nain,7,2.68,Mâle,Tacheté
+ANI_001486,Phoenix,Cheval,Andalou,18,535.19,Femelle,Blanc
+ANI_001487,Bugs,Lapin,Nain,0,4.75,Femelle,Roux
+ANI_001488,Cleo,Chat,Ragdoll,5,5.23,Femelle,Roux
+ANI_001489,Flash,Poisson,Guppy,1,0.33,Femelle,Tacheté
+ANI_001490,Maya,Chien,Labrador,7,31.24,Femelle,Roux
+ANI_001491,Blue,Poisson,Betta,3,0.06,Femelle,Beige
+ANI_001492,Blue,Poisson,Guppy,0,0.43,Femelle,Tricolore
+ANI_001493,Bubbles,Poisson,Guppy,1,0.13,Mâle,Marron
+ANI_001494,Oreo,Lapin,Rex,3,2.61,Mâle,Marron
+ANI_001495,Thumper,Lapin,Rex,5,2.33,Femelle,Rayé
+ANI_001496,Cottontail,Lapin,Géant des Flandres,6,1.25,Mâle,Beige
+ANI_001497,Rex,Chien,Berger Allemand,8,7.16,Femelle,Marron
+ANI_001498,Cleo,Chat,Européen,1,3.03,Mâle,Blanc
+ANI_001499,Oreo,Lapin,Rex,1,4.9,Femelle,Blanc
+ANI_001500,Goldie,Poisson,Néon,0,0.13,Mâle,Blanc
+ANI_001501,Blue,Poisson,Poisson Rouge,2,0.31,Femelle,Roux
+ANI_001502,Felix,Chat,British Shorthair,5,7.93,Mâle,Roux
+ANI_001503,Thunder,Cheval,Andalou,11,674.88,Mâle,Noir
+ANI_001504,Splash,Poisson,Betta,1,0.16,Femelle,Blanc
+ANI_001505,Star,Cheval,Andalou,9,447.61,Femelle,Blanc
+ANI_001506,Tweety,Oiseau,Cacatoès,6,0.42,Femelle,Gris
+ANI_001507,Luna,Chat,Bengal,6,6.58,Mâle,Tacheté
+ANI_001508,Bugs,Lapin,Angora,8,2.09,Mâle,Marron
+ANI_001509,Apollo,Cheval,Mustang,5,790.58,Mâle,Roux
+ANI_001510,Shadow,Cheval,Quarter Horse,3,496.66,Mâle,Tricolore
+ANI_001511,Blue,Poisson,Guppy,3,0.22,Femelle,Roux
+ANI_001512,Charlie,Oiseau,Cacatoès,5,1.05,Femelle,Tricolore
+ANI_001513,Simba,Chien,Golden Retriever,8,49.68,Mâle,Noir
+ANI_001514,Kiwi,Oiseau,Cacatoès,3,0.31,Femelle,Tricolore
+ANI_001515,Star,Cheval,Frison,14,454.82,Femelle,Roux
+ANI_001516,Maximus,Cheval,Quarter Horse,25,793.56,Femelle,Rayé
+ANI_001517,Coco,Oiseau,Cacatoès,6,0.13,Femelle,Roux
+ANI_001518,Duke,Chien,Beagle,11,28.92,Mâle,Beige
+ANI_001519,Gizmo,Chat,Persan,7,5.16,Femelle,Rayé
+ANI_001520,Sky,Oiseau,Perruche,7,0.53,Femelle,Blanc
+ANI_001521,Flash,Cheval,Andalou,20,627.72,Femelle,Marron
+ANI_001522,Felix,Chat,Bengal,2,3.26,Mâle,Tricolore
+ANI_001523,Flash,Cheval,Mustang,12,524.09,Femelle,Roux
+ANI_001524,Bella,Chien,Bulldog Français,1,25.08,Mâle,Roux
+ANI_001525,Bunny,Lapin,Nain,5,4.54,Mâle,Tricolore
+ANI_001526,Star,Cheval,Andalou,5,723.18,Femelle,Marron
+ANI_001527,Nemo,Poisson,Néon,3,0.03,Femelle,Gris
+ANI_001528,Rio,Oiseau,Perroquet Ara,0,0.71,Mâle,Tacheté
+ANI_001529,Blue,Oiseau,Canari,5,0.17,Mâle,Blanc
+ANI_001530,Blue,Poisson,Guppy,1,0.14,Mâle,Rayé
+ANI_001531,Maximus,Cheval,Shetland,17,488.13,Mâle,Roux
+ANI_001532,Bubbles,Poisson,Carpe Koï,1,0.44,Femelle,Noir
+ANI_001533,Nemo,Poisson,Discus,2,0.46,Mâle,Marron
+ANI_001534,Oreo,Lapin,Géant des Flandres,3,4.13,Femelle,Tricolore
+ANI_001535,Luna,Cheval,Andalou,12,419.72,Femelle,Roux
+ANI_001536,Oliver,Chat,Européen,5,4.93,Mâle,Rayé
+ANI_001537,Bugs,Lapin,Bélier,2,4.68,Femelle,Noir
+ANI_001538,Buddy,Oiseau,Calopsitte,2,0.68,Mâle,Tacheté
+ANI_001539,Rainbow,Poisson,Guppy,4,0.47,Mâle,Tacheté
+ANI_001540,Zeus,Chien,Chihuahua,10,15.04,Mâle,Rayé
+ANI_001541,Goldie,Poisson,Carpe Koï,2,0.05,Femelle,Marron
+ANI_001542,Charlie,Chat,Persan,2,5.7,Femelle,Noir
+ANI_001543,Clover,Lapin,Nain,5,3.94,Mâle,Tricolore
+ANI_001544,Thunder,Cheval,Frison,11,637.08,Femelle,Noir
+ANI_001545,Gizmo,Chat,Européen,1,5.32,Femelle,Beige
+ANI_001546,Blue,Poisson,Discus,1,0.14,Femelle,Tricolore
+ANI_001547,Fluffy,Lapin,Géant des Flandres,5,5.57,Femelle,Blanc
+ANI_001548,Storm,Cheval,Frison,13,726.76,Femelle,Gris
+ANI_001549,Buddy,Oiseau,Inséparable,5,0.5,Mâle,Blanc
+ANI_001550,Nala,Chat,Sphynx,13,6.33,Femelle,Gris
+ANI_001551,Rocky,Chien,Beagle,3,37.21,Femelle,Blanc
+ANI_001552,Sunny,Oiseau,Perruche,1,1.02,Mâle,Noir
+ANI_001553,Goldie,Poisson,Betta,5,0.22,Femelle,Marron
+ANI_001554,Bubbles,Poisson,Poisson Rouge,0,0.28,Femelle,Rayé
+ANI_001555,Rainbow,Poisson,Discus,2,0.32,Femelle,Roux
+ANI_001556,Pepper,Oiseau,Cacatoès,9,0.93,Mâle,Gris
+ANI_001557,Leo,Chat,Chartreux,15,5.91,Femelle,Roux
+ANI_001558,Goldie,Poisson,Betta,4,0.37,Femelle,Beige
+ANI_001559,Cottontail,Lapin,Rex,4,1.29,Mâle,Beige
+ANI_001560,Nala,Chien,Caniche,5,7.21,Mâle,Roux
+ANI_001561,Splash,Poisson,Carpe Koï,0,0.28,Femelle,Beige
+ANI_001562,Duke,Chien,Rottweiler,9,24.83,Mâle,Tricolore
+ANI_001563,Milo,Chien,Rottweiler,6,35.91,Mâle,Roux
+ANI_001564,Luna,Chat,Ragdoll,3,4.42,Mâle,Beige
+ANI_001565,Gizmo,Chat,Maine Coon,8,7.29,Femelle,Gris
+ANI_001566,Lola,Chien,Yorkshire,9,13.28,Femelle,Marron
+ANI_001567,Bubbles,Poisson,Discus,5,0.29,Mâle,Beige
+ANI_001568,Goldie,Poisson,Discus,1,0.35,Mâle,Roux
+ANI_001569,Nala,Chat,British Shorthair,3,7.25,Mâle,Gris
+ANI_001570,Fluffy,Lapin,Nain,0,3.16,Mâle,Roux
+ANI_001571,Angel,Oiseau,Cacatoès,14,1.19,Femelle,Tacheté
+ANI_001572,Star,Cheval,Shetland,11,419.23,Mâle,Noir
+ANI_001573,Pepper,Oiseau,Perroquet Ara,14,1.39,Femelle,Noir
+ANI_001574,Peter,Lapin,Rex,0,2.27,Mâle,Noir
+ANI_001575,Zeus,Chien,Labrador,0,38.97,Femelle,Blanc
+ANI_001576,Phoenix,Cheval,Appaloosa,4,562.19,Femelle,Tricolore
+ANI_001577,Felix,Chat,Maine Coon,6,7.53,Mâle,Roux
+ANI_001578,Shadow,Chat,Ragdoll,10,5.29,Femelle,Tricolore
+ANI_001579,Honey,Lapin,Nain,0,1.52,Femelle,Roux
+ANI_001580,Charlie,Chat,Chartreux,6,4.12,Femelle,Tacheté
+ANI_001581,Bugs,Lapin,Bélier,3,1.95,Mâle,Beige
+ANI_001582,Mango,Oiseau,Perroquet Ara,7,0.15,Femelle,Blanc
+ANI_001583,Flash,Poisson,Carpe Koï,0,0.29,Femelle,Marron
+ANI_001584,Minou,Chat,Siamois,4,3.71,Mâle,Roux
+ANI_001585,Splash,Poisson,Guppy,3,0.42,Mâle,Gris
+ANI_001586,Cotton,Lapin,Rex,3,2.18,Femelle,Beige
+ANI_001587,Lucy,Chat,Maine Coon,8,4.83,Femelle,Rayé
+ANI_001588,Simba,Chat,Européen,15,3.27,Mâle,Rayé
+ANI_001589,Buddy,Oiseau,Calopsitte,4,0.67,Mâle,Marron
+ANI_001590,Clover,Lapin,Angora,0,1.82,Femelle,Gris
+ANI_001591,Fluffy,Lapin,Angora,2,2.13,Femelle,Noir
+ANI_001592,Simba,Chat,Siamois,1,3.54,Mâle,Blanc
+ANI_001593,Storm,Cheval,Quarter Horse,17,553.13,Mâle,Tricolore
+ANI_001594,Oreo,Lapin,Géant des Flandres,6,1.39,Femelle,Blanc
+ANI_001595,Buddy,Oiseau,Perroquet Ara,9,0.7,Femelle,Beige
+ANI_001596,Storm,Cheval,Pur-sang Arabe,12,495.73,Mâle,Tacheté
+ANI_001597,Luna,Chien,Berger Allemand,3,44.41,Femelle,Beige
+ANI_001598,Splash,Poisson,Poisson Rouge,4,0.09,Femelle,Rayé
+ANI_001599,Lola,Chien,Chihuahua,12,35.63,Femelle,Tricolore
+ANI_001600,Thumper,Lapin,Bélier,8,1.48,Femelle,Rayé
+ANI_001601,Shadow,Cheval,Andalou,18,747.42,Mâle,Roux
+ANI_001602,Leo,Chat,British Shorthair,9,7.55,Mâle,Rayé
+ANI_001603,Clover,Lapin,Bélier,8,2.06,Femelle,Tricolore
+ANI_001604,Marshmallow,Lapin,Nain,3,5.58,Femelle,Rayé
+ANI_001605,Marshmallow,Lapin,Bélier,4,1.68,Femelle,Blanc
+ANI_001606,Buddy,Oiseau,Perroquet Ara,15,1.11,Femelle,Blanc
+ANI_001607,Thunder,Cheval,Andalou,11,712.69,Mâle,Marron
+ANI_001608,Leo,Chat,Chartreux,13,3.46,Femelle,Tacheté
+ANI_001609,Bella,Chat,Siamois,3,5.08,Femelle,Tricolore
+ANI_001610,Sky,Oiseau,Cacatoès,6,0.13,Mâle,Rayé
+ANI_001611,Gizmo,Chat,British Shorthair,11,3.6,Mâle,Tricolore
+ANI_001612,Thumper,Lapin,Bélier,4,3.23,Femelle,Beige
+ANI_001613,Peter,Lapin,Bélier,8,4.76,Mâle,Noir
+ANI_001614,Finn,Poisson,Carpe Koï,2,0.5,Mâle,Gris
+ANI_001615,Bella,Chat,Chartreux,7,5.16,Femelle,Beige
+ANI_001616,Luna,Cheval,Appaloosa,16,754.64,Femelle,Beige
+ANI_001617,Bella,Chien,Bulldog Français,10,33.35,Mâle,Rayé
+ANI_001618,Nala,Chat,Maine Coon,3,3.47,Femelle,Noir
+ANI_001619,Finn,Poisson,Néon,4,0.13,Mâle,Blanc
+ANI_001620,Felix,Chat,Sphynx,8,7.8,Mâle,Blanc
+ANI_001621,Apollo,Cheval,Appaloosa,24,665.74,Mâle,Beige
+ANI_001622,Apollo,Cheval,Percheron,18,403.45,Femelle,Tacheté
+ANI_001623,Lucy,Chat,Siamois,1,3.04,Femelle,Blanc
+ANI_001624,Fluffy,Lapin,Nain,2,5.39,Mâle,Roux
+ANI_001625,Rex,Chien,Yorkshire,9,13.0,Mâle,Beige
+ANI_001626,Mango,Oiseau,Canari,4,1.25,Femelle,Gris
+ANI_001627,Whiskers,Chat,Européen,14,7.34,Mâle,Noir
+ANI_001628,Max,Chien,Rottweiler,10,36.55,Mâle,Marron
+ANI_001629,Buddy,Oiseau,Calopsitte,15,1.07,Femelle,Tricolore
+ANI_001630,Nala,Chien,Boxer,0,10.88,Femelle,Beige
+ANI_001631,Whiskers,Chat,Persan,13,7.52,Femelle,Blanc
+ANI_001632,Felix,Chat,Sphynx,10,6.6,Femelle,Tricolore
+ANI_001633,Fluffy,Lapin,Bélier,6,2.09,Mâle,Gris
+ANI_001634,Bella,Chat,British Shorthair,5,5.32,Femelle,Rayé
+ANI_001635,Cleo,Chat,Ragdoll,2,6.19,Femelle,Tacheté
+ANI_001636,Flash,Cheval,Percheron,7,439.66,Mâle,Marron
+ANI_001637,Angel,Oiseau,Inséparable,9,1.18,Mâle,Rayé
+ANI_001638,Blaze,Cheval,Pur-sang Arabe,1,741.25,Mâle,Gris
+ANI_001639,Luna,Chat,Siamois,1,3.63,Femelle,Blanc
+ANI_001640,Luna,Cheval,Percheron,23,742.07,Mâle,Roux
+ANI_001641,Rocky,Chien,Golden Retriever,1,48.46,Femelle,Noir
+ANI_001642,Bugs,Lapin,Rex,2,2.23,Mâle,Rayé
+ANI_001643,Splash,Poisson,Néon,0,0.34,Femelle,Rayé
+ANI_001644,Mango,Oiseau,Canari,12,0.79,Mâle,Marron
+ANI_001645,Pepper,Oiseau,Inséparable,2,0.82,Femelle,Noir
+ANI_001646,Luna,Cheval,Percheron,13,738.26,Femelle,Gris
+ANI_001647,Blue,Poisson,Néon,1,0.46,Mâle,Tricolore
+ANI_001648,Lucy,Chat,Persan,15,4.71,Mâle,Tricolore
+ANI_001649,Shadow,Chat,Sphynx,1,6.4,Femelle,Noir
+ANI_001650,Luna,Cheval,Shetland,2,660.05,Mâle,Tacheté
+ANI_001651,Rocky,Chien,Berger Allemand,5,18.9,Femelle,Beige
+ANI_001652,Max,Chien,Chihuahua,4,42.99,Femelle,Tacheté
+ANI_001653,Flash,Cheval,Andalou,11,593.55,Femelle,Tacheté
+ANI_001654,Charlie,Oiseau,Perroquet Ara,7,0.55,Mâle,Rayé
+ANI_001655,Flash,Cheval,Appaloosa,11,486.84,Femelle,Rayé
+ANI_001656,Blue,Poisson,Carpe Koï,5,0.08,Femelle,Blanc
+ANI_001657,Sunny,Oiseau,Perruche,2,0.87,Femelle,Gris
+ANI_001658,Charlie,Chat,Sphynx,0,4.37,Femelle,Gris
+ANI_001659,Bubbles,Poisson,Discus,3,0.27,Mâle,Rayé
+ANI_001660,Bella,Cheval,Percheron,1,680.55,Mâle,Marron
+ANI_001661,Thunder,Cheval,Quarter Horse,6,639.74,Femelle,Marron
+ANI_001662,Simba,Chat,Européen,12,7.52,Mâle,Blanc
+ANI_001663,Cottontail,Lapin,Géant des Flandres,3,4.42,Mâle,Noir
+ANI_001664,Lucy,Chat,Chartreux,9,5.43,Femelle,Rayé
+ANI_001665,Max,Chien,Golden Retriever,0,12.76,Mâle,Tricolore
+ANI_001666,Mango,Oiseau,Perruche,15,0.28,Mâle,Tricolore
+ANI_001667,Maximus,Cheval,Quarter Horse,4,633.97,Mâle,Rayé
+ANI_001668,Blue,Oiseau,Perroquet Ara,2,0.95,Mâle,Roux
+ANI_001669,Peter,Lapin,Géant des Flandres,7,4.77,Mâle,Noir
+ANI_001670,Cleo,Chat,Bengal,15,3.45,Mâle,Tricolore
+ANI_001671,Honey,Lapin,Géant des Flandres,6,5.82,Femelle,Beige
+ANI_001672,Nemo,Poisson,Néon,1,0.02,Mâle,Tacheté
+ANI_001673,Charlie,Chat,Maine Coon,3,3.48,Femelle,Rayé
+ANI_001674,Angel,Oiseau,Calopsitte,9,1.32,Femelle,Roux
+ANI_001675,Rex,Chien,Labrador,3,31.71,Femelle,Beige
+ANI_001676,Honey,Lapin,Angora,1,3.27,Mâle,Tacheté
+ANI_001677,Tweety,Oiseau,Calopsitte,0,1.23,Mâle,Tacheté
+ANI_001678,Zeus,Chien,Yorkshire,0,21.14,Femelle,Blanc
+ANI_001679,Sky,Oiseau,Cacatoès,4,0.76,Femelle,Noir
+ANI_001680,Coco,Oiseau,Canari,13,1.28,Femelle,Rayé
+ANI_001681,Minou,Chat,Chartreux,15,5.46,Mâle,Roux
+ANI_001682,Daisy,Chien,Golden Retriever,2,32.21,Mâle,Blanc
+ANI_001683,Gizmo,Chat,Bengal,3,7.89,Mâle,Marron
+ANI_001684,Charlie,Oiseau,Perruche,15,0.29,Femelle,Beige
+ANI_001685,Tweety,Oiseau,Calopsitte,15,1.05,Mâle,Beige
+ANI_001686,Apollo,Cheval,Frison,11,519.4,Mâle,Rayé
+ANI_001687,Charlie,Oiseau,Canari,3,0.45,Femelle,Roux
+ANI_001688,Stella,Chien,Chihuahua,8,14.27,Mâle,Roux
+ANI_001689,Cottontail,Lapin,Géant des Flandres,2,3.45,Femelle,Tacheté
+ANI_001690,Max,Chien,Yorkshire,4,14.22,Mâle,Roux
+ANI_001691,Gizmo,Chat,Scottish Fold,13,6.42,Femelle,Tricolore
+ANI_001692,Blue,Poisson,Betta,2,0.45,Mâle,Beige
+ANI_001693,Bella,Chat,Persan,7,4.17,Femelle,Tacheté
+ANI_001694,Leo,Chat,Sphynx,14,7.88,Mâle,Rayé
+ANI_001695,Stella,Chien,Rottweiler,1,10.73,Femelle,Roux
+ANI_001696,Angel,Oiseau,Canari,11,0.71,Femelle,Gris
+ANI_001697,Cottontail,Lapin,Bélier,2,2.01,Mâle,Rayé
+ANI_001698,Bunny,Lapin,Angora,0,4.93,Mâle,Tricolore
+ANI_001699,Marshmallow,Lapin,Angora,4,2.0,Femelle,Noir
+ANI_001700,Charlie,Oiseau,Canari,9,0.5,Mâle,Marron
+ANI_001701,Cotton,Lapin,Rex,5,5.67,Femelle,Gris
+ANI_001702,Shadow,Cheval,Frison,10,588.53,Femelle,Tacheté
+ANI_001703,Leo,Chat,Sphynx,10,6.92,Mâle,Beige
+ANI_001704,Finn,Poisson,Betta,5,0.21,Mâle,Noir
+ANI_001705,Zeus,Chien,Golden Retriever,11,29.31,Mâle,Gris
+ANI_001706,Pepper,Oiseau,Calopsitte,11,1.04,Femelle,Beige
+ANI_001707,Lola,Chien,Beagle,10,49.8,Femelle,Marron
+ANI_001708,Flash,Poisson,Discus,3,0.16,Mâle,Blanc
+ANI_001709,Leo,Chat,Ragdoll,4,4.27,Femelle,Blanc
+ANI_001710,Nemo,Poisson,Poisson Rouge,2,0.29,Femelle,Gris
+ANI_001711,Kiwi,Oiseau,Canari,0,0.72,Mâle,Noir
+ANI_001712,Zeus,Chien,Berger Allemand,1,44.85,Femelle,Blanc
+ANI_001713,Flash,Poisson,Guppy,3,0.29,Femelle,Blanc
+ANI_001714,Charlie,Chat,Maine Coon,6,5.54,Femelle,Gris
+ANI_001715,Finn,Poisson,Néon,3,0.13,Mâle,Gris
+ANI_001716,Bubbles,Poisson,Carpe Koï,5,0.14,Mâle,Noir
+ANI_001717,Kiwi,Oiseau,Calopsitte,7,1.41,Femelle,Tacheté
+ANI_001718,Star,Cheval,Andalou,23,497.38,Mâle,Tacheté
+ANI_001719,Clover,Lapin,Rex,7,4.52,Femelle,Noir
+ANI_001720,Charlie,Oiseau,Canari,5,0.43,Mâle,Rayé
+ANI_001721,Honey,Lapin,Géant des Flandres,1,2.58,Femelle,Tacheté
+ANI_001722,Cottontail,Lapin,Bélier,4,3.0,Femelle,Tacheté
+ANI_001723,Storm,Cheval,Appaloosa,0,721.27,Femelle,Beige
+ANI_001724,Nemo,Poisson,Betta,4,0.4,Femelle,Gris
+ANI_001725,Bugs,Lapin,Rex,1,5.78,Mâle,Rayé
+ANI_001726,Cleo,Chat,Maine Coon,15,5.52,Femelle,Blanc
+ANI_001727,Splash,Poisson,Néon,2,0.26,Femelle,Tacheté
+ANI_001728,Simba,Chat,Scottish Fold,2,6.22,Mâle,Marron
+ANI_001729,Shadow,Cheval,Shetland,22,757.59,Mâle,Marron
+ANI_001730,Kiwi,Oiseau,Calopsitte,9,1.11,Femelle,Tacheté
+ANI_001731,Coco,Chien,Golden Retriever,8,12.51,Femelle,Marron
+ANI_001732,Simba,Chat,Chartreux,13,3.43,Mâle,Roux
+ANI_001733,Flash,Cheval,Percheron,14,534.99,Femelle,Rayé
+ANI_001734,Tigrou,Chat,Bengal,2,6.1,Femelle,Gris
+ANI_001735,Tweety,Oiseau,Perruche,15,0.22,Femelle,Tacheté
+ANI_001736,Bubbles,Poisson,Carpe Koï,4,0.49,Femelle,Tacheté
+ANI_001737,Thunder,Cheval,Shetland,11,792.57,Femelle,Blanc
+ANI_001738,Apollo,Cheval,Quarter Horse,11,655.29,Femelle,Rayé
+ANI_001739,Nemo,Poisson,Betta,1,0.23,Femelle,Tricolore
+ANI_001740,Cleo,Chat,Maine Coon,6,6.88,Femelle,Beige
+ANI_001741,Nemo,Poisson,Néon,5,0.11,Femelle,Roux
+ANI_001742,Charlie,Oiseau,Perruche,0,1.08,Mâle,Noir
+ANI_001743,Charlie,Chien,Caniche,0,24.45,Mâle,Noir
+ANI_001744,Bella,Chien,Boxer,8,11.43,Mâle,Tricolore
+ANI_001745,Flash,Cheval,Frison,14,527.89,Femelle,Gris
+ANI_001746,Clover,Lapin,Bélier,2,2.75,Femelle,Noir
+ANI_001747,Finn,Poisson,Betta,5,0.39,Femelle,Marron
+ANI_001748,Spirit,Cheval,Quarter Horse,13,552.95,Mâle,Beige
+ANI_001749,Bubbles,Poisson,Discus,3,0.19,Mâle,Rayé
+ANI_001750,Fluffy,Lapin,Nain,3,4.64,Femelle,Blanc
+ANI_001751,Tweety,Oiseau,Perroquet Ara,11,0.33,Mâle,Rayé
+ANI_001752,Buddy,Oiseau,Inséparable,4,0.17,Mâle,Noir
+ANI_001753,Nemo,Poisson,Guppy,4,0.28,Femelle,Blanc
+ANI_001754,Lola,Chien,Caniche,8,47.78,Femelle,Rayé
+ANI_001755,Maximus,Cheval,Quarter Horse,9,421.08,Mâle,Tacheté
+ANI_001756,Zeus,Chien,Husky,5,17.03,Femelle,Roux
+ANI_001757,Coco,Oiseau,Canari,7,0.29,Mâle,Blanc
+ANI_001758,Splash,Poisson,Néon,5,0.34,Mâle,Tricolore
+ANI_001759,Blaze,Cheval,Mustang,5,729.81,Mâle,Roux
+ANI_001760,Oreo,Lapin,Rex,5,3.07,Femelle,Rayé
+ANI_001761,Rex,Chien,Boxer,11,5.46,Mâle,Gris
+ANI_001762,Flash,Cheval,Percheron,9,578.71,Mâle,Tricolore
+ANI_001763,Gizmo,Chat,Sphynx,8,7.6,Femelle,Tacheté
+ANI_001764,Angel,Oiseau,Cacatoès,7,1.36,Femelle,Blanc
+ANI_001765,Cleo,Chat,Maine Coon,11,4.78,Mâle,Marron
+ANI_001766,Lola,Chien,Bulldog Français,11,32.7,Femelle,Blanc
+ANI_001767,Nemo,Poisson,Guppy,4,0.36,Femelle,Roux
+ANI_001768,Buddy,Oiseau,Inséparable,10,0.2,Mâle,Blanc
+ANI_001769,Charlie,Oiseau,Cacatoès,8,0.99,Femelle,Roux
+ANI_001770,Finn,Poisson,Guppy,4,0.14,Mâle,Tricolore
+ANI_001771,Bella,Chat,British Shorthair,7,5.07,Femelle,Blanc
+ANI_001772,Tornado,Cheval,Pur-sang Arabe,16,796.26,Femelle,Tricolore
+ANI_001773,Bubbles,Poisson,Carpe Koï,3,0.43,Mâle,Tacheté
+ANI_001774,Coco,Chien,Rottweiler,3,48.21,Mâle,Tacheté
+ANI_001775,Apollo,Cheval,Shetland,7,525.84,Femelle,Roux
+ANI_001776,Angel,Oiseau,Inséparable,3,0.12,Femelle,Rayé
+ANI_001777,Marshmallow,Lapin,Rex,6,2.98,Femelle,Tacheté
+ANI_001778,Lola,Chien,Yorkshire,11,39.87,Mâle,Beige
+ANI_001779,Luna,Chat,British Shorthair,11,5.33,Femelle,Blanc
+ANI_001780,Star,Cheval,Frison,23,574.43,Mâle,Beige
+ANI_001781,Goldie,Poisson,Discus,0,0.14,Femelle,Blanc
+ANI_001782,Whiskers,Chat,Bengal,14,7.71,Femelle,Noir
+ANI_001783,Daisy,Chien,Beagle,10,34.96,Femelle,Tricolore
+ANI_001784,Nala,Chien,Boxer,5,17.1,Femelle,Roux
+ANI_001785,Shadow,Cheval,Appaloosa,13,638.11,Femelle,Gris
+ANI_001786,Oliver,Chat,Maine Coon,5,5.42,Mâle,Rayé
+ANI_001787,Maximus,Cheval,Andalou,1,419.84,Mâle,Roux
+ANI_001788,Whiskers,Chat,Persan,13,5.5,Mâle,Tacheté
+ANI_001789,Splash,Poisson,Poisson Rouge,2,0.12,Femelle,Marron
+ANI_001790,Fluffy,Lapin,Bélier,0,5.74,Mâle,Rayé
+ANI_001791,Thunder,Cheval,Appaloosa,12,615.25,Mâle,Rayé
+ANI_001792,Phoenix,Cheval,Andalou,16,706.54,Femelle,Marron
+ANI_001793,Whiskers,Chat,British Shorthair,10,5.74,Femelle,Tricolore
+ANI_001794,Nala,Chat,Bengal,0,3.59,Mâle,Rayé
+ANI_001795,Splash,Poisson,Néon,2,0.32,Mâle,Noir
+ANI_001796,Sky,Oiseau,Perruche,14,0.33,Mâle,Rayé
+ANI_001797,Lucy,Chat,Bengal,10,5.12,Mâle,Gris
+ANI_001798,Maya,Chien,Berger Allemand,12,18.45,Mâle,Beige
+ANI_001799,Nemo,Poisson,Poisson Rouge,3,0.23,Mâle,Tricolore
+ANI_001800,Oreo,Lapin,Nain,0,5.81,Mâle,Roux
+ANI_001801,Zeus,Chien,Yorkshire,8,8.81,Femelle,Tacheté
+ANI_001802,Marshmallow,Lapin,Rex,8,2.4,Mâle,Noir
+ANI_001803,Storm,Cheval,Frison,6,482.66,Femelle,Tricolore
+ANI_001804,Rex,Chien,Labrador,10,27.88,Femelle,Beige
+ANI_001805,Blue,Poisson,Discus,1,0.11,Femelle,Gris
+ANI_001806,Bella,Chien,Rottweiler,6,33.23,Mâle,Beige
+ANI_001807,Coco,Oiseau,Canari,12,1.37,Mâle,Roux
+ANI_001808,Mango,Oiseau,Cacatoès,2,0.17,Femelle,Marron
+ANI_001809,Kiwi,Oiseau,Inséparable,8,1.36,Mâle,Tacheté
+ANI_001810,Goldie,Poisson,Discus,0,0.13,Mâle,Marron
+ANI_001811,Splash,Poisson,Guppy,2,0.24,Femelle,Blanc
+ANI_001812,Luna,Cheval,Appaloosa,5,721.99,Mâle,Gris
+ANI_001813,Mango,Oiseau,Inséparable,13,0.77,Femelle,Tacheté
+ANI_001814,Max,Chien,Berger Allemand,2,15.83,Femelle,Roux
+ANI_001815,Minou,Chat,Persan,12,5.42,Femelle,Tricolore
+ANI_001816,Rocky,Chien,Bulldog Français,1,6.17,Femelle,Tacheté
+ANI_001817,Flash,Cheval,Pur-sang Arabe,13,701.97,Mâle,Tricolore
+ANI_001818,Sunny,Oiseau,Canari,0,0.52,Femelle,Tricolore
+ANI_001819,Charlie,Chien,Labrador,3,21.03,Mâle,Blanc
+ANI_001820,Cottontail,Lapin,Géant des Flandres,4,2.71,Mâle,Noir
+ANI_001821,Shadow,Chat,Ragdoll,3,5.26,Mâle,Gris
+ANI_001822,Bugs,Lapin,Nain,7,2.35,Mâle,Gris
+ANI_001823,Clover,Lapin,Angora,2,5.71,Femelle,Blanc
+ANI_001824,Goldie,Poisson,Néon,1,0.22,Femelle,Marron
+ANI_001825,Duke,Chien,Rottweiler,0,17.91,Femelle,Marron
+ANI_001826,Angel,Oiseau,Perruche,15,0.31,Femelle,Roux
+ANI_001827,Shadow,Cheval,Percheron,16,699.6,Femelle,Noir
+ANI_001828,Flash,Poisson,Néon,3,0.46,Mâle,Tricolore
+ANI_001829,Simba,Chien,Caniche,4,31.84,Femelle,Rayé
+ANI_001830,Clover,Lapin,Angora,8,3.37,Mâle,Rayé
+ANI_001831,Simba,Chat,British Shorthair,7,6.91,Mâle,Marron
+ANI_001832,Bella,Cheval,Frison,12,422.84,Femelle,Blanc
+ANI_001833,Coco,Chien,Chihuahua,5,34.83,Mâle,Noir
+ANI_001834,Milo,Chien,Boxer,2,18.76,Mâle,Beige
+ANI_001835,Finn,Poisson,Discus,5,0.39,Femelle,Noir
+ANI_001836,Maya,Chien,Bulldog Français,5,36.18,Femelle,Roux
+ANI_001837,Shadow,Chat,Maine Coon,6,5.06,Femelle,Tricolore
+ANI_001838,Thumper,Lapin,Nain,8,4.2,Mâle,Tricolore
+ANI_001839,Buddy,Chien,Yorkshire,9,25.24,Femelle,Gris
+ANI_001840,Bubbles,Poisson,Guppy,5,0.45,Femelle,Tacheté
+ANI_001841,Pegasus,Cheval,Percheron,19,689.75,Mâle,Tacheté
+ANI_001842,Goldie,Poisson,Poisson Rouge,1,0.05,Femelle,Gris
+ANI_001843,Simba,Chat,Maine Coon,8,3.89,Mâle,Roux
+ANI_001844,Bunny,Lapin,Bélier,6,2.6,Mâle,Tricolore
+ANI_001845,Oliver,Chat,Européen,0,5.86,Femelle,Tacheté
+ANI_001846,Bella,Chien,Golden Retriever,4,38.59,Mâle,Tacheté
+ANI_001847,Mango,Oiseau,Cacatoès,5,0.62,Mâle,Tacheté
+ANI_001848,Ruby,Chien,Berger Allemand,3,16.09,Femelle,Tricolore
+ANI_001849,Peter,Lapin,Géant des Flandres,7,5.37,Femelle,Roux
+ANI_001850,Bella,Chat,British Shorthair,0,4.17,Femelle,Beige
+ANI_001851,Phoenix,Cheval,Quarter Horse,4,611.83,Mâle,Marron
+ANI_001852,Flash,Poisson,Betta,4,0.28,Mâle,Noir
+ANI_001853,Bunny,Lapin,Bélier,2,2.79,Femelle,Blanc
+ANI_001854,Buddy,Oiseau,Canari,1,0.49,Femelle,Rayé
+ANI_001855,Clover,Lapin,Angora,5,3.3,Femelle,Noir
+ANI_001856,Buddy,Chien,Berger Allemand,3,29.53,Mâle,Tacheté
+ANI_001857,Peter,Lapin,Rex,3,3.49,Femelle,Roux
+ANI_001858,Flash,Poisson,Betta,1,0.43,Mâle,Beige
+ANI_001859,Thor,Chien,Chihuahua,6,26.09,Femelle,Rayé
+ANI_001860,Charlie,Chien,Golden Retriever,6,42.24,Mâle,Gris
+ANI_001861,Tweety,Oiseau,Inséparable,15,0.18,Mâle,Beige
+ANI_001862,Splash,Poisson,Discus,0,0.43,Femelle,Marron
+ANI_001863,Thumper,Lapin,Rex,8,3.08,Mâle,Tacheté
+ANI_001864,Cotton,Lapin,Géant des Flandres,8,1.89,Mâle,Blanc
+ANI_001865,Pepper,Oiseau,Perruche,1,0.26,Femelle,Rayé
+ANI_001866,Gizmo,Chat,Siamois,11,6.2,Femelle,Tacheté
+ANI_001867,Tweety,Oiseau,Canari,9,1.03,Mâle,Rayé
+ANI_001868,Clover,Lapin,Angora,4,2.44,Mâle,Blanc
+ANI_001869,Blue,Poisson,Poisson Rouge,3,0.23,Mâle,Marron
+ANI_001870,Bella,Chien,Chihuahua,8,17.91,Femelle,Gris
+ANI_001871,Thor,Chien,Berger Allemand,11,12.38,Mâle,Tricolore
+ANI_001872,Bella,Chat,Chartreux,12,5.8,Mâle,Roux
+ANI_001873,Bugs,Lapin,Rex,7,2.64,Femelle,Beige
+ANI_001874,Rio,Oiseau,Cacatoès,13,0.12,Femelle,Noir
+ANI_001875,Peter,Lapin,Angora,5,4.68,Femelle,Gris
+ANI_001876,Buddy,Oiseau,Canari,9,0.25,Femelle,Gris
+ANI_001877,Max,Chien,Yorkshire,3,17.35,Femelle,Rayé
+ANI_001878,Oreo,Lapin,Bélier,8,5.71,Mâle,Rayé
+ANI_001879,Goldie,Poisson,Poisson Rouge,4,0.17,Mâle,Beige
+ANI_001880,Fluffy,Lapin,Nain,4,3.34,Mâle,Rayé
+ANI_001881,Nala,Chien,Yorkshire,12,9.41,Femelle,Tricolore
+ANI_001882,Duke,Chien,Labrador,10,33.25,Femelle,Roux
+ANI_001883,Phoenix,Cheval,Mustang,16,695.79,Femelle,Noir
+ANI_001884,Nala,Chat,Sphynx,12,4.58,Mâle,Noir
+ANI_001885,Tweety,Oiseau,Calopsitte,10,1.2,Femelle,Blanc
+ANI_001886,Charlie,Chien,Labrador,0,15.6,Femelle,Blanc
+ANI_001887,Nemo,Poisson,Betta,2,0.36,Femelle,Roux
+ANI_001888,Thumper,Lapin,Bélier,5,2.08,Mâle,Tacheté
+ANI_001889,Lucy,Chat,Maine Coon,9,3.62,Femelle,Tacheté
+ANI_001890,Milo,Chien,Beagle,1,9.01,Femelle,Gris
+ANI_001891,Pepper,Oiseau,Cacatoès,9,1.36,Mâle,Gris
+ANI_001892,Charlie,Chat,Siamois,5,6.1,Femelle,Marron
+ANI_001893,Rio,Oiseau,Perruche,3,1.38,Femelle,Blanc
+ANI_001894,Lola,Chien,Labrador,1,8.84,Femelle,Marron
+ANI_001895,Lola,Chien,Golden Retriever,6,25.2,Mâle,Rayé
+ANI_001896,Rio,Oiseau,Calopsitte,9,0.68,Femelle,Noir
+ANI_001897,Thor,Chien,Golden Retriever,0,9.83,Femelle,Gris
+ANI_001898,Angel,Oiseau,Perruche,7,0.96,Mâle,Tacheté
+ANI_001899,Whiskers,Chat,Sphynx,8,7.79,Mâle,Roux
+ANI_001900,Gizmo,Chat,Scottish Fold,3,4.52,Femelle,Blanc
+ANI_001901,Kiwi,Oiseau,Perroquet Ara,1,0.89,Mâle,Noir
+ANI_001902,Snowball,Lapin,Géant des Flandres,8,1.41,Femelle,Beige
+ANI_001903,Kiwi,Oiseau,Calopsitte,7,0.46,Mâle,Roux
+ANI_001904,Lucy,Chat,British Shorthair,5,6.84,Femelle,Marron
+ANI_001905,Clover,Lapin,Géant des Flandres,0,2.03,Femelle,Tricolore
+ANI_001906,Honey,Lapin,Angora,5,1.53,Femelle,Marron
+ANI_001907,Bella,Chien,Golden Retriever,10,25.73,Mâle,Blanc
+ANI_001908,Thunder,Cheval,Mustang,19,553.43,Mâle,Roux
+ANI_001909,Whiskers,Chat,Persan,14,7.03,Femelle,Tricolore
+ANI_001910,Lucy,Chat,Scottish Fold,1,5.11,Femelle,Rayé
+ANI_001911,Pepper,Oiseau,Perruche,11,0.96,Femelle,Beige
+ANI_001912,Maximus,Cheval,Quarter Horse,21,492.39,Femelle,Marron
+ANI_001913,Buddy,Chien,Golden Retriever,4,8.14,Mâle,Beige
+ANI_001914,Shadow,Cheval,Appaloosa,20,516.75,Mâle,Roux
+ANI_001915,Apollo,Cheval,Appaloosa,3,764.33,Femelle,Noir
+ANI_001916,Flash,Poisson,Carpe Koï,2,0.11,Mâle,Roux
+ANI_001917,Cotton,Lapin,Rex,8,2.91,Mâle,Tacheté
+ANI_001918,Daisy,Chien,Boxer,9,9.21,Mâle,Tricolore
+ANI_001919,Snowball,Lapin,Bélier,7,5.74,Femelle,Noir
+ANI_001920,Buddy,Oiseau,Inséparable,11,1.16,Femelle,Marron
+ANI_001921,Leo,Chat,British Shorthair,9,5.96,Mâle,Rayé
+ANI_001922,Rainbow,Poisson,Discus,3,0.05,Mâle,Beige
+ANI_001923,Duke,Chien,Berger Allemand,10,48.8,Femelle,Roux
+ANI_001924,Lucy,Chat,Persan,10,5.23,Femelle,Blanc
+ANI_001925,Maximus,Cheval,Mustang,19,543.93,Femelle,Marron
+ANI_001926,Spirit,Cheval,Mustang,10,603.58,Mâle,Blanc
+ANI_001927,Finn,Poisson,Poisson Rouge,2,0.47,Mâle,Noir
+ANI_001928,Bella,Chat,Ragdoll,13,4.81,Mâle,Tacheté
+ANI_001929,Goldie,Poisson,Néon,5,0.29,Femelle,Marron
+ANI_001930,Finn,Poisson,Poisson Rouge,3,0.22,Femelle,Tacheté
+ANI_001931,Flash,Poisson,Poisson Rouge,5,0.07,Femelle,Tacheté
+ANI_001932,Star,Cheval,Frison,19,688.45,Femelle,Rayé
+ANI_001933,Bella,Chien,Husky,8,18.64,Femelle,Noir
+ANI_001934,Pepper,Oiseau,Perroquet Ara,15,0.59,Mâle,Roux
+ANI_001935,Tweety,Oiseau,Cacatoès,5,1.06,Mâle,Tricolore
+ANI_001936,Flash,Poisson,Carpe Koï,1,0.21,Mâle,Tacheté
+ANI_001937,Luna,Chat,Siamois,0,7.1,Femelle,Noir
+ANI_001938,Zeus,Chien,Rottweiler,0,21.59,Mâle,Rayé
+ANI_001939,Apollo,Cheval,Pur-sang Arabe,14,613.42,Femelle,Marron
+ANI_001940,Rio,Oiseau,Cacatoès,4,0.41,Mâle,Gris
+ANI_001941,Shadow,Chat,Chartreux,9,3.96,Mâle,Gris
+ANI_001942,Bella,Cheval,Mustang,12,431.41,Femelle,Rayé
+ANI_001943,Blaze,Cheval,Shetland,16,620.28,Mâle,Noir
+ANI_001944,Thor,Chien,Labrador,8,36.52,Mâle,Rayé
+ANI_001945,Mango,Oiseau,Perruche,13,0.94,Mâle,Tricolore
+ANI_001946,Clover,Lapin,Angora,3,3.93,Mâle,Tricolore
+ANI_001947,Maya,Chien,Rottweiler,1,49.86,Mâle,Roux
+ANI_001948,Angel,Oiseau,Cacatoès,11,0.91,Mâle,Gris
+ANI_001949,Bella,Cheval,Shetland,17,773.06,Mâle,Gris
+ANI_001950,Stella,Chien,Golden Retriever,0,40.79,Femelle,Tricolore
+ANI_001951,Milo,Chien,Husky,4,28.73,Mâle,Rayé
+ANI_001952,Flash,Cheval,Quarter Horse,8,596.18,Femelle,Tacheté
+ANI_001953,Felix,Chat,Persan,13,5.78,Mâle,Marron
+ANI_001954,Gizmo,Chat,Scottish Fold,15,3.08,Femelle,Gris
+ANI_001955,Peter,Lapin,Géant des Flandres,6,2.69,Femelle,Tricolore
+ANI_001956,Oliver,Chat,Maine Coon,9,3.91,Mâle,Rayé
+ANI_001957,Luna,Chien,Caniche,4,27.67,Femelle,Noir
+ANI_001958,Max,Chien,Bulldog Français,0,30.7,Femelle,Marron
+ANI_001959,Marshmallow,Lapin,Géant des Flandres,1,4.24,Mâle,Blanc
+ANI_001960,Charlie,Oiseau,Perruche,5,0.5,Femelle,Blanc
+ANI_001961,Buddy,Chien,Rottweiler,3,39.02,Mâle,Rayé
+ANI_001962,Maya,Chien,Berger Allemand,9,31.66,Femelle,Beige
+ANI_001963,Goldie,Poisson,Discus,5,0.14,Femelle,Beige
+ANI_001964,Splash,Poisson,Néon,5,0.48,Femelle,Gris
+ANI_001965,Simba,Chat,British Shorthair,14,3.33,Femelle,Noir
+ANI_001966,Luna,Chat,Chartreux,9,7.41,Mâle,Tacheté
+ANI_001967,Oreo,Lapin,Géant des Flandres,2,3.04,Mâle,Rayé
+ANI_001968,Sunny,Oiseau,Cacatoès,7,0.5,Mâle,Blanc
+ANI_001969,Lola,Chien,Yorkshire,12,30.74,Mâle,Blanc
+ANI_001970,Pepper,Oiseau,Inséparable,11,1.19,Mâle,Noir
+ANI_001971,Luna,Cheval,Frison,0,428.18,Femelle,Gris
+ANI_001972,Coco,Chien,Husky,10,38.86,Mâle,Beige
+ANI_001973,Mittens,Chat,Scottish Fold,5,5.64,Femelle,Roux
+ANI_001974,Bubbles,Poisson,Betta,0,0.11,Mâle,Gris
+ANI_001975,Rocky,Chien,Boxer,2,10.97,Mâle,Gris
+ANI_001976,Clover,Lapin,Bélier,2,4.13,Mâle,Tacheté
+ANI_001977,Splash,Poisson,Carpe Koï,4,0.31,Mâle,Tacheté
+ANI_001978,Fluffy,Lapin,Angora,4,5.45,Femelle,Blanc
+ANI_001979,Bubbles,Poisson,Guppy,5,0.24,Mâle,Tacheté
+ANI_001980,Bugs,Lapin,Nain,3,4.65,Femelle,Blanc
+ANI_001981,Cleo,Chat,Maine Coon,12,6.5,Femelle,Gris
+ANI_001982,Daisy,Chien,Rottweiler,11,17.42,Mâle,Noir
+ANI_001983,Charlie,Oiseau,Inséparable,11,0.55,Femelle,Roux
+ANI_001984,Buddy,Oiseau,Perruche,2,0.2,Femelle,Noir
+ANI_001985,Pepper,Oiseau,Cacatoès,1,0.36,Mâle,Gris
+ANI_001986,Simba,Chat,Persan,11,3.67,Femelle,Tricolore
+ANI_001987,Blaze,Cheval,Mustang,9,591.2,Mâle,Rayé
+ANI_001988,Thunder,Cheval,Percheron,24,457.97,Mâle,Beige
+ANI_001989,Rainbow,Poisson,Betta,2,0.07,Femelle,Rayé
+ANI_001990,Minou,Chat,British Shorthair,12,7.05,Femelle,Roux
+ANI_001991,Blaze,Cheval,Percheron,8,489.82,Femelle,Tacheté
+ANI_001992,Bubbles,Poisson,Betta,1,0.44,Femelle,Rayé
+ANI_001993,Nemo,Poisson,Carpe Koï,0,0.15,Femelle,Tacheté
+ANI_001994,Rio,Oiseau,Perruche,9,1.42,Femelle,Gris
+ANI_001995,Shadow,Chat,Chartreux,15,3.36,Femelle,Roux
+ANI_001996,Nemo,Poisson,Carpe Koï,3,0.06,Mâle,Beige
+ANI_001997,Tweety,Oiseau,Perroquet Ara,3,0.07,Mâle,Beige
+ANI_001998,Duke,Chien,Rottweiler,9,45.28,Mâle,Tricolore
+ANI_001999,Buddy,Oiseau,Perroquet Ara,3,0.88,Femelle,Blanc
+ANI_002000,Leo,Chat,Persan,6,3.23,Femelle,Beige
